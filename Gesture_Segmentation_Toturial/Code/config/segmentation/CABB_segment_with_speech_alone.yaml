@@ -1,0 +1,51 @@
+# General  
+train_2d: True
+has_3d: False
+no_eval: True
+finetune: False
+partial_train: null
+
+# Traning 
+epochs: 100
+checkpoint_frequency: 30
+batch_size: 128
+dropout: 0.1
+learning_rate: 0.00003 # NOTE: this was 0.0005 in the original config
+weight_decay: 0.01
+lr_decay: 0.99
+pretrain_3d_curriculum: 30
+
+# Model
+maxlen: 120
+dim_feat: 128
+mlp_ratio: 2
+depth: 4
+dim_rep: 256
+hidden_dim: 256
+num_heads: 8
+att_fuse: True
+
+# model for embeddings
+pretrained: ''
+model_args:
+  modalities: ['speech']
+  fusion: 'unimodal'
+  feat_dim: 128
+  w2v2_type: 'multilingual' # 'multilingual' or 'dutch_finetuned'
+  skeleton_backbone: 'jointsformer'
+  hidden_dim: 256
+  attentive_pooling: True
+  bertje_dim: 768
+  freeze_bertje: False
+  cross_modal: False
+  one_branch_cross_modal: True
+  multimodal_embeddings_dim: 1024
+  apply_cnn: True
+  maxlen: 120
+
+
+
+
+
+modalities: ['speech'] # 'speech', 'skeleton', 'semantic', 'image'
+

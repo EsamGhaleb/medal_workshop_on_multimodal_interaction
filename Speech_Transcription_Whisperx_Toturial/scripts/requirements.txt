@@ -1,0 +1,12 @@
+pandas
+ffmpeg
+ffmpeg-python
+sox
+soundfile
+datetime
+whisperx
+moviepy
+jupyter
+deepl
+tgt
+tqdm
