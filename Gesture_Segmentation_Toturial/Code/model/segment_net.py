@@ -75,8 +75,11 @@ class SegmentNet(LightningModule):
             processed_batch['speech']['orig'] = None
         else:
             processed_batch['speech']['orig'] = processed_batch['speech']['orig'].float()
-        if 'view1' not in processed_batch['skeleton']:
-            processed_batch['skeleton']['view1'] = processed_batch['skeleton']['orig']
+        if phase == 'train' and 'skeleton' in processed_batch and self.args.apply_skeleton_augmentations:
+            if 'view1' in processed_batch['skeleton']:
+                processed_batch['skeleton']['orig'] = processed_batch['skeleton']['view1'].float()
+        elif phase in ['val', 'test'] and 'skeleton' in processed_batch:
+            processed_batch['skeleton']['orig'] = processed_batch['skeleton']['orig'].float()
             
         predictions = self(processed_batch)
         loss = self.criterion(predictions, processed_batch["label"])

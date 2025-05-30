@@ -3,7 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import sys
 sys.path.extend(['../'])
-from model.wav2vec2_wrapper import Wav2Vec2CNN
 dependencies = ['torch', 'numpy', 'resampy', 'soundfile']
 
 from model.decouple_gcn_attn_sequential import Model as STGCN

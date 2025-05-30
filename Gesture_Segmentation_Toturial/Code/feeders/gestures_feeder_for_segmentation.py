@@ -11,7 +11,8 @@ from torchaudio import functional as F
 import librosa
 import glob
 import os
-# from utils.augmentation_utils import compose_random_augmentations
+from utils.mediapipe_augmentations import Compose, CenterNormalize3D, Jitter3D, RandomRotate3D, RandomScale3D, RandomTranslate3D, RandomShear3D, RandomFlip3D
+
 from transformers import AutoFeatureExtractor
 
 # from utils.utils_data import crop_scale
@@ -20,71 +21,6 @@ from tqdm import tqdm
 mediapipe_flip_index = np.concatenate(([0,2,1,4,3,6,5], [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48], [7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26, 27], ), axis=0) 
 
 mmpose_flip_index = np.concatenate(([0,2,1,4,3,6,5],[17,18,19,20,21,22,23,24,25,26],[7,8,9,10,11,12,13,14,15,16]), axis=0) 
-content_words_pos = ['ADJ', 'ADV', 'NOUN', 'PROPN', 'VERB', 'NUM']  # removed 'INTJ'
-effect = ",".join(
-    [
-        "lowpass=frequency=300:poles=1",  # apply single-pole lowpass filter
-        "atempo=0.8",  # reduce the speed
-        "aecho=in_gain=0.8:out_gain=0.9:delays=200:decays=0.3|delays=400:decays=0.3"
-        # Applying echo gives some dramatic feeling
-    ],
-)
-
-# effect = [
-#     ["lowpass", "-f", "300", "-p", "1"],  # apply single-pole lowpass filter
-#     ["atempo", "0.8"],                   # reduce the speed
-#     ["aecho", "0.8", "0.9", "200", "0.3", "400", "0.3"] # echo effect
-# ]
-
-# Define effects
-effects = [
-    ["lowpass", "-1", "300"],  # apply single-pole lowpass filter
-   #  ["speed", "0.8"],  # reduce the speed
-    # This only changes sample rate, so it is necessary to
-    # add `rate` effect with original sample rate after this.
-   #  ["rate", f"{sample_rate1}"],
-    ["reverb", "-w"],  # Reverbration gives some dramatic feeling
-]
-
-configs = [
-    {"format": "wav", "encoding": "ULAW", "bits_per_sample": 8},
-    {"format": "gsm"},
-   #  {"format": "vorbis", "compression": -1},
-]
-def load_audio_dict(pairs_speakers, audio_path, audio_sample_rate):
-    audio_dict = {}
-    print('Loading audio files...')
-    for speaker in tqdm(pairs_speakers):
-        pair = speaker.split('_')[0]
-        speaker = speaker.split('_')[1]
-        pair_speaker = f"{pair}_{speaker}"
-        try:
-            audio_path = audio_path.format(pair, speaker)
-            input_audio, sample_rate = librosa.load(audio_path, sr=audio_sample_rate)
-        except FileNotFoundError:
-            audio_path = audio_path.format(pair, pair, speaker)
-            input_audio, sample_rate = librosa.load(audio_path, sr=audio_sample_rate)
-        audio_dict[pair_speaker] = {'audio': input_audio, 'sample_rate': sample_rate}
-    return audio_dict
-                
-def custom_collate_fn(item):
-    max_length = max([seq['skeleton']['orig'].shape[0] for seq in item])
-    batch = [seq['skeleton']['orig'] for seq in item]
-    padded_sequences = []
-    masks = []
-    for seq in batch:
-        pad_size = max_length - seq.shape[0]
-        padded_seq = torch.nn.functional.pad(seq, (0, 0, 0, 0, 0, pad_size), mode='constant', value=0)
-        padded_sequences.append(padded_seq) 
-        # Create a mask where 1 indicates actual data and 0 indicates padding
-        mask = torch.cat((torch.ones(seq.shape[0]), torch.zeros(pad_size)))
-        masks.append(mask)
-    batch_masks = torch.stack(masks, dim=0)
-    # replace the original sequences with the padded sequences in the item
-    for i, seq in enumerate(batch):
-        item[i]['skeleton']['orig'] = padded_sequences[i]
-        item[i]['mask'] = batch_masks[i]
-    return item 
 
 
 def miror_poses(data_numpy):
@@ -106,21 +42,20 @@ def process_poses(poses):
 def load_keypoints_dict(all_pair_speakers):
    # read all poses in f'data/final_poses/poses_{pair}_synced_pp{speaker}.npy'
    processed_keypoints_dict = {}
-   mirrored_keypoints_dict = {}
-   for file in tqdm(glob.glob('./data/selected_poses/*.npy'), desc='Loading keypoints...', total=len(glob.glob('./data/selected_poses/*.npy'))):
-      # file format = data/selected_poses/poses_pair04_synced_ppA.npy 
-      pair = file.split('/')[-1].split('_')[1]
+   for file in tqdm(glob.glob('./data/mediapipe_outputs/*.npy'), desc='Loading keypoints...', total=len(glob.glob('./data/mediapipe_outputs/*.npy'))):
+      # file format = data/mediapipe_outputs/poses_pair04_synced_ppA.npy 
+      pair = file.split('/')[-1].split('_')[0]
       speaker = file.split('/')[-1].split('_')[-1].split('.')[0][-1]
       pair_speaker = f"{pair}_{speaker}"
       if pair_speaker not in all_pair_speakers:
             continue
       try:
-         processed_keypoints_dict[pair_speaker], mirrored_keypoints_dict[pair_speaker] = process_poses(np.load(file)) #np.load(keypoints_path)
+         processed_keypoints_dict[pair_speaker] = np.load(file)
       except Exception as e:
          print(e)
          print('Error in loading the keypoints for the pair:', pair, speaker)
          continue
-   return processed_keypoints_dict, mirrored_keypoints_dict
+   return processed_keypoints_dict
 
 
 class CABBFeeder(Dataset):
@@ -153,8 +88,8 @@ class CABBFeeder(Dataset):
             apply_speech_augmentations=False,
             global_normalization=False,
             phase='train',
-            task='pre-training',
-            use_only_small_dataset=False,
+            task='segmentation',
+            use_only_small_dataset=True,
             filter_text=True,
             crop_scale=False,
             skeleton_backbone='jointsformer',
@@ -191,7 +126,9 @@ class CABBFeeder(Dataset):
         self.skeleton_backbone = skeleton_backbone
         self.eval_on_small_dataset = eval_on_small_dataset
         self.train_data = train_data
+        self.fps = fps
         self.kwargs = kwargs
+
         if 'semantic' in self.modalities:
             self.transcriptions = pd.read_pickle('./dialog_utils/data/aligned_transcripts.pkl')
 
@@ -223,8 +160,9 @@ class CABBFeeder(Dataset):
         self.mirrored_poses = None
         self.pairs_speakers = None
         self.poses = None
-        self.load_data()
         self.is_vector = is_vector
+        self.load_data()
+
         if 'speech' not in self.modalities:
             self.audio_dict = None
        
@@ -252,11 +190,11 @@ class CABBFeeder(Dataset):
         for pair_speaker in tqdm(self.pairs_speakers, desc='Preparing segmentation sequences...', total=len(self.pairs_speakers)):
             # select the rows of the pair_speaker
            
-            total_frames = self.poses[pair_speaker].shape[1]
+            total_frames = self.poses[pair_speaker].shape[0]
             frame_gesture_list = [0] * total_frames
           
             start_frame = 0
-            end_frame = self.poses[pair_speaker].shape[1] - max_sequnce_length
+            end_frame = self.poses[pair_speaker].shape[0] - max_sequnce_length
             
             for f in range(start_frame, end_frame, frame_offset):
                 labels = frame_gesture_list[f:f + max_sequnce_length]
@@ -301,7 +239,7 @@ class CABBFeeder(Dataset):
             data = self.data[self.data['pair_speaker'] == pair_speaker]
             # reset the index of the data
             data.reset_index(drop=True, inplace=True)
-            total_frames = self.poses[pair_speaker].shape[1]
+            total_frames = self.poses[pair_speaker].shape[0]
             frame_gesture_list = [0] * total_frames
             # Set the frames with gestures to 1
             start_frames = data['start_frames'].values
@@ -313,7 +251,7 @@ class CABBFeeder(Dataset):
 
             # TODO check how to incorporate the frame offset
             start_frame = 0
-            end_frame = self.poses[pair_speaker].shape[1] - max_sequnce_length
+            end_frame = self.poses[pair_speaker].shape[0] - max_sequnce_length
             if 'semantic' in self.modalities:
                 self.transcriptions['pair_speaker'] = self.transcriptions['pair'] + '_' + self.transcriptions['speaker']
             for f in range(start_frame, end_frame, frame_offset):
@@ -339,22 +277,6 @@ class CABBFeeder(Dataset):
                     'referent': 'None',
                     'window_size': max_sequnce_length,
                 }  
-                if 'semantic' in self.modalities:
-                    # raise error not implemented correctly
-                    raise NotImplementedError('Semantic modality is not implemented yet')
-                    speech_start_frame = max(0, f - self.speech_buffer)
-                    speech_end_frame = min(f + max_sequnce_length + self.speech_buffer, total_frames)
-                    speech_start_frame = speech_start_frame/self.fps
-                    speech_end_frame = speech_end_frame/self.fps
-                    speech_info = self.transcriptions[(self.transcriptions['pair_speaker'] == pair_speaker) & (self.transcriptions['from_ts'] >= speech_start_frame) & (self.transcriptions['to_ts'] <= speech_end_frame)]
-                    if len(speech_info) > 0:
-                        text = ' '.join(speech_info['text'].values)
-                        gesture_instance['words'] = text
-                        gesture_instance['contain_text'] = True
-                    else:
-                        text = 'Nee'
-                        gesture_instance['words'] = text
-                        gesture_instance['contain_text'] = False
                     
                 gesture_sequences_data.append(gesture_instance)
         self.data = pd.DataFrame(gesture_sequences_data) 
@@ -364,9 +286,8 @@ class CABBFeeder(Dataset):
 
     def load_skeletal_data(self):
         if self.phase == 'test':
-            poses_path = '/Users/esagha/Projects/SimilarityAnalysis/data/keypoints/*/'
+            poses_path = '../SimilarityAnalysis/data/keypoints/*/'
             self.poses = {}
-            self.mirrored_poses = {}
             
             self.pairs_speakers = []
             for file in tqdm(glob.glob(os.path.join(poses_path, '*.npy')), desc='Loading keypoints...', total=len(glob.glob(os.path.join(poses_path, '*.npy')))):
@@ -374,15 +295,15 @@ class CABBFeeder(Dataset):
                 type = file.split('/')[-2]
                 if not 'participant' in file:
                     continue
-                data, mirored_data = process_poses(np.load(file))
+                data = np.load(file)
                 if data.shape[0] == 0:
                     print('Empty file: {}'.format(file))
                     continue
+                data, mirored_data = process_poses(np.load(file))
                 participant_ID = participant_ID.replace('S', '')
                 day = participant_ID[-1]
                 participant_ID = participant_ID[:-1]
                 self.poses[participant_ID+'_' + day] = data
-                self.mirrored_poses[participant_ID+'_' + day] = mirored_data
                 self.pairs_speakers.append(participant_ID+'_' + day)
 
             self.prepared_unlabeled_segmentation_sequences()
@@ -413,9 +334,6 @@ class CABBFeeder(Dataset):
                 self.data['pos_count'] = self.data['pos'].apply(lambda x: len(str(x).split()))
                 self.data = self.data[self.data['word_count'] == self.data['pos_count']]
                 # Filter rows where at least one POS tag is in content_words_pos
-                self.data['has_content'] = self.data['pos'].apply(
-                    lambda x: any(pos in content_words_pos for pos in str(x).split())
-                )
                 self.data = self.data[self.data['has_content']]
 
                 # Keep only content words in the 'words' column
@@ -442,11 +360,11 @@ class CABBFeeder(Dataset):
                 pairs = pairs[:4]
                 self.data = self.data[self.data['pair_speaker'].isin(pairs)]
             self.pairs_speakers = self.data['pair_speaker'].unique()
+            print('Number of pairs:', len(self.pairs_speakers))
             self.poses = {}
-            self.poses, self.mirrored_poses = load_keypoints_dict(self.pairs_speakers)
+            self.poses = load_keypoints_dict(self.pairs_speakers)
             # select only poses of the pairs in the data
             self.poses = {pair_speaker: self.poses[pair_speaker] for pair_speaker in self.pairs_speakers}
-            self.mirrored_poses = {pair_speaker: self.mirrored_poses[pair_speaker] for pair_speaker in self.pairs_speakers}
             if self.task == 'segmentation':
                 # # check if the there is data saved
                 # if './data/all_gesture_sequences.csv' in glob.glob('./data/all_gesture_sequences.csv'):
@@ -455,18 +373,24 @@ class CABBFeeder(Dataset):
                 self.prepared_segmentation_sequences()
       
 
-    def load_speech_data(self):
-        if not self.debug_audio:
-            self.audio_dict = load_audio_dict(self.pairs_speakers, self.audio_path, self.audio_sample_rate)
-
     def load_data(self):
         self.load_skeletal_data()
-        if "speech" in self.modalities:
-            self.load_speech_data()
 
     # TODO: define augmentations from HAR project. Should the strength of augmentations be the same?
-    def augment_skeleton(self, data_numpy, config_dict):
-        augmentations = transforms.Compose(compose_random_augmentations("skeleton", config_dict))
+    def augment_skeleton(self, data_numpy):
+        augmentations = Compose([
+                CenterNormalize3D(root_index=0),  # Assuming root joint is at index 0
+                Jitter3D(sigma=0.02),
+                RandomRotate3D(max_angle=20),
+                RandomScale3D(0.9,1.1),
+                RandomTranslate3D(0.05), 
+                RandomShear3D(0.05),
+                RandomFlip3D(),
+                # RandomCropTemporal(target_length=100),
+                # TemporalResample(target_frames=120),
+                # TimeReverse()
+        ])
+        
         return augmentations(data_numpy)
 
     def apply_codec(self, waveform, orig_sample_rate, **kwargs):
@@ -480,44 +404,7 @@ class CABBFeeder(Dataset):
         augmented = F.resample(augmented, sample_rate, orig_sample_rate)
         return augmented
 
-    def augment_audio(self, audio, augemntation_apply=True):
-        if not augemntation_apply:
-            return audio
-        # apply effects
-        lengths = audio.shape[0]
-        audio = torch.from_numpy(audio).float().unsqueeze(0)
-        # apply effects with 50% probability
-        coin_toss = random.random()
-        if coin_toss < 0.33:
-            audio, _ = torchaudio.sox_effects.apply_effects_tensor(audio, self.audio_sample_rate, effects)
-            # choose randomly one augmented speech from the two augmented speech
-            idx = random.randint(0, audio.shape[0] - 1)
-            audio = audio[idx].unsqueeze(0)
-            augemntation_apply = False
-        elif coin_toss < 0.66:
-            if self.noise.shape[1] < audio.shape[1]:
-                noise = self.noise.repeat(1, 2)[:,:audio.shape[1]]
-            else:
-                noise = self.noise[:, : audio.shape[1]]
-            snr_dbs = torch.tensor([20, 10, 3])
-            audio = F.add_noise(audio, noise, snr_dbs)
-            # choose randomly one noisy speech
-            idx = random.randint(0, audio.shape[0] - 1)
-            audio = audio[idx].unsqueeze(0)
-            augemntation_apply = False
-        else:
-            waveforms = []
-            for param in configs:
-                augmented = self.apply_codec(audio, self.audio_sample_rate, **param)
-                waveforms.append(augmented)
-            # choose randomly one codec
-            idx = random.randint(0, len(waveforms) - 1)
-            audio = waveforms[idx]
-            augemntation_apply = False
-            if audio.shape[1] > lengths: # TODO: check the validity of this operation: if the augmented speech is longer than the original speech, truncate it
-                audio = audio[:, :lengths]
-        audio = audio.squeeze(0).numpy()
-        return audio
+    
 
     def get_mean_map(self):
         data = self.get_all_poses()
@@ -546,6 +433,8 @@ class CABBFeeder(Dataset):
         return self
 
     def __getitem__(self, index):
+        img_width = 1920
+        img_height = 1080
         if 'labels' in self.data.columns and self.task == 'segmentation':
             item = {
                 "label": np.array(self.data.iloc[index]['labels'])
@@ -555,20 +444,7 @@ class CABBFeeder(Dataset):
                 "label": 0
             }
         row = self.data.iloc[index]
-        # check if embeddings are present
-        # try:
-        if 'semantic' in self.modalities:
-            # check if row['words'] is a string and not None
-            if self.filter_text or self.task == 'segmentation':
-                item['utterance'] = row['words']
-            elif row['words'] and isinstance(row['words'], str) and self.task != 'segmentation':
-                speech = row['words'].split()
-                pos_seq = row['pos'].split()
-                assert len(speech) == len(pos_seq)
-                content_words = ' '.join([speech[i] for i in range(len(speech)) if pos_seq[i] in content_words_pos])
-                item['utterance'] = content_words
-            else:
-                item['utterance'] = 'geen speech'
+        
        
         start_frame = int(row['start_frames'])
         end_frame = int(row['end_frames'])
@@ -594,96 +470,31 @@ class CABBFeeder(Dataset):
         # add frame_ID to the item
         frame_IDs = np.arange(start_frame, end_frame)
         item['frame_IDs'] = frame_IDs
+        item['start_frames'] = start_frame
+        item['end_frames'] = end_frame
         if "skeleton" in self.modalities:
-            # select either the original or the mirrored poses
-            if self.random_mirror and random.random() > self.random_mirror_p:
-                skeleton_data = self.mirrored_poses[pair_speaker][:, start_frame:end_frame, :, :]  
-            else:
-                skeleton_data = self.poses[pair_speaker][:, start_frame:end_frame, :, :]          
+           
+            skeleton_data = self.poses[pair_speaker][start_frame:end_frame, :, :]          
             item["skeleton"] = {}
             # skeleton_data = self.data[index]
             skeleton_data_numpy = np.array(skeleton_data)
-            if self.crop_scale:
-                # print(skeleton_data_numpy.shape)
-                skeleton_data_numpy = np.transpose(skeleton_data_numpy, (3, 1, 2, 0))
-                # skeleton_data_numpy = crop_scale(skeleton_data_numpy)
-                skeleton_data_numpy = np.transpose(skeleton_data_numpy, (3, 1, 2, 0))
-            elif self.normalization:
-                assert skeleton_data_numpy.shape[0] == 3
-                if self.global_normalization:
-                    skeleton_data_numpy = (skeleton_data_numpy - self.mean_map) / self.std_map
-                elif self.is_vector:
-                    skeleton_data_numpy[0, :, 0, :] = skeleton_data_numpy[0, :, 0, :] \
-                        - skeleton_data_numpy[0, :, 0, 0].mean(axis=0)
-                    skeleton_data_numpy[1, :, 0, :] = skeleton_data_numpy[1, :, 0, :] \
-                        - skeleton_data_numpy[1, :, 0, 0].mean(axis=0)
-                else:
-                    skeleton_data_numpy[0, :, :, :] = skeleton_data_numpy[0, :, :, :] \
-                        - skeleton_data_numpy[0, :, 0, 0].mean(axis=0)
-                    skeleton_data_numpy[1, :, :, :] = skeleton_data_numpy[1, :, :, :] \
-                        - skeleton_data_numpy[1, :, 0, 0].mean(axis=0)
-            item["skeleton"]["orig"] = skeleton_data_numpy
-
+            # divide x and y by the image width and height
+            # F, J, C = x.shape
+            item["skeleton"]["orig"] = torch.tensor(skeleton_data_numpy, dtype=torch.float32)
             # skeleton data augmentation and view2 generation
             if self.apply_skeleton_augmentations:
-                skeleton_data_numpy_1 = np.array(self.augment_skeleton(
-                    torch.tensor(skeleton_data_numpy).float(), 
-                    self.skeleton_augmentations))
+                skeleton_data_numpy_1 = self.augment_skeleton(
+                    skeleton_data_numpy)
+                # convert to torch tensor
+                skeleton_data_numpy_1 = torch.tensor(skeleton_data_numpy_1, dtype=torch.float32)
+                # 
                 item["skeleton"]["view1"] = skeleton_data_numpy_1
-                if self.skeleton_backbone != 'stgcn':
-                    item["skeleton"]["view1"] = torch.FloatTensor(item["skeleton"]["view1"].squeeze().transpose(1, 2, 0))
-                if self.n_views == 2:
-                    # skeleton_data_numpy_2 = self.augment_skeleton_simple(
-                    # skeleton_data_numpy, augemntation_apply=self.apply_augmentations
-                    # )
-                    skeleton_data_numpy_2 = np.array(self.augment_skeleton(
-                        torch.tensor(skeleton_data_numpy).float(),
-                        self.skeleton_augmentations))
-                    item["skeleton"]["view2"] = skeleton_data_numpy_2
-                    if self.skeleton_backbone != 'stgcn':
-                        item["skeleton"]["view2"] = torch.FloatTensor(
-                        item["skeleton"]["view2"]
-                        .squeeze()
-                        .transpose(1, 2, 0)
-                        )
-        if "speech" in self.modalities:
-            item["speech"] = {}
-            seconds = self.data.iloc[0]['to_ts'] - self.data.iloc[0]['from_ts']
-
-            if self.debug_audio:
-                number_speech_frames = int(seconds * self.audio_sample_rate)
-
-                waveform_segment = np.zeros(number_speech_frames)
-            else:
-                audio = self.audio_dict[pair_speaker]['audio']
-                SAMPLE_RATE = self.audio_dict[pair_speaker]['sample_rate']
-                MAX_DURATION = audio.shape[0] / SAMPLE_RATE
-                assert SAMPLE_RATE == self.audio_sample_rate
-
-                t1 = max(row['from_ts'] - self.speech_buffer, 0)
-                t2 = min(row['to_ts'] + self.speech_buffer, MAX_DURATION)
-
-                f1 = int(t1 * SAMPLE_RATE)
-                f2 = int(t2 * SAMPLE_RATE)
-                #   print(idx)
-                waveform_segment = audio[f1:f2]
-                number_speech_frames = int(seconds * SAMPLE_RATE)
-            
-            
-            if waveform_segment.shape[0] >= number_speech_frames:
-                waveform_segment = waveform_segment[:number_speech_frames]
-            elif waveform_segment.shape[0] < number_speech_frames:
-                waveform_segment = np.concatenate((waveform_segment, np.zeros(number_speech_frames - waveform_segment.shape[0])))
-             
-            item["speech"]["orig"] = waveform_segment
-            
-
-        if self.skeleton_backbone != 'stgcn' and "skeleton" in self.modalities:
-            item["skeleton"]["orig"] = torch.FloatTensor(
-                item["skeleton"]["orig"]
-                .squeeze()
-                .transpose(1, 2, 0)
-            )
+                
+        for key in item['skeleton']:
+            if item['skeleton'][key].shape[2] == 3:
+                # divide x and y by the image width and height
+                item['skeleton'][key][:, :, 0] = item['skeleton'][key][:, :, 0] / img_width
+                item['skeleton'][key][:, :, 1] = item['skeleton'][key][:, :, 1] / img_height
         return item
 
 

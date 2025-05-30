@@ -57,19 +57,31 @@ class RandomTranslate3D:
         data[:, :, :3] += offsets.reshape(1,1,3)
         return data
 
+class CenterNormalize3D:
+    """
+    Center skeleton so that a reference joint (e.g., root or hip) is at the origin.
+    data: ndarray of shape (J, F, 4) where last dim = (x, y, z, visibility)
+    """
+    def __init__(self, root_index=0):
+        self.root_index = root_index
 
+    def __call__(self, data):
+        # data[root_index] has shape (F, 4)
+        root_coords = data[self.root_index, :, :3]               # (F, 3)
+        data[:, :, :3] = data[:, :, :3] - root_coords[None, :, :]
+        return data
 class RandomFlip3D:
       """Randomly flip 3D skeleton along a random axis."""
       def __init__(self):
          pass
       def __call__(self, data):
-         axis = np.random.choice(['x', 'y', 'z'])
+         axis = np.random.choice(['x', 'y'])
          if axis == 'x':
                data[:, :, 0] *= -1
          elif axis == 'y':
                data[:, :, 1] *= -1
-         else:  # z
-               data[:, :, 2] *= -1
+        #  else:  # z
+        #        data[:, :, 2] *= -1
          return data
       
 class RandomShear3D:
@@ -128,18 +140,30 @@ class Compose:
             data = t(data)
         return data
 
-# Example pipeline
-joint_pairs = [(11,12), (13,14)]  # example left/right joint indices
-pipeline = Compose([
-    Jitter3D(sigma=0.02),
-    RandomRotate3D(max_angle=20),
-    RandomScale3D(0.9,1.1),
-    RandomTranslate3D(0.05),
-    RandomShear3D(0.05),
-    RandomFlip3D(joint_pairs),
-    RandomCropTemporal(target_length=100),
-    TemporalResample(target_frames=120),
-    TimeReverse()
-])
+if __name__ == "__main__":
+    # Example usage
+    import numpy as np
 
-augmented = pipeline(skeleton_data)  # skeleton_data shape (J, F, 4)
+    # Example pipeline
+    mediapipe_flip_index = np.concatenate(( [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+                                            [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], [43, 44, 45]))
+    pipeline = Compose([
+        CenterNormalize3D(root_index=0),  # Assuming root joint is at index 0
+        Jitter3D(sigma=0.02),
+        RandomRotate3D(max_angle=20),
+        RandomScale3D(0.9,1.1),
+        RandomTranslate3D(0.05),
+        RandomShear3D(0.05),
+        RandomFlip3D(),
+        # RandomCropTemporal(target_length=100),
+        # TemporalResample(target_frames=120),
+        # TimeReverse()
+        ])
+    skeleton_data = np.load('/Users/esagha/Projects/medal_workshop_on_multimodal_interaction/Gesture_Segmentation_Toturial/Code/data/mediapipe_outputs/pair04_synced_ppA.npy')
+    augmented = pipeline(skeleton_data)  # skeleton_data shape (J, F, 4)
+
+
+    # Apply the pipeline to the skeleton data
+    augmented_data = pipeline(skeleton_data)
+    print("Original shape:", skeleton_data.shape)
+    print("Augmented shape:", augmented_data.shape)

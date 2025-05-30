@@ -4,8 +4,6 @@ import torch.nn as nn
 from transformers import AutoTokenizer, AutoModel
 from transformers import RobertaTokenizer, RobertaForSequenceClassification
 
-from model.attentive_pooler import AttentivePooler
-
 
 class BertjePoolingModule(LightningModule):
     def __init__(self, freeze_bertje=True, use_attentive_pooling=True, use_robbert=False, dont_pool=False):

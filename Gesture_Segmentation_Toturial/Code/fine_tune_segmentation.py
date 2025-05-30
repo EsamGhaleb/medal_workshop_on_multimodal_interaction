@@ -32,7 +32,7 @@ from model.skeleton_speech_models_segmentation import GSSModel
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config", type=str, default="config/segmentation/CABB_segment_basic_test.yaml", help="Path to the config file.")
+    parser.add_argument("--config", type=str, default="config/segmentation/CABB_segment_basic.yaml", help="Path to the config file.")
     parser.add_argument('-c', '--checkpoint', default='CABB_Segmentation', type=str, metavar='PATH', help='checkpoint directory')
     parser.add_argument('-p', '--pretrained', default=None, type=str, metavar='PATH', help='pretrained checkpoint directory')
     parser.add_argument('-r', '--resume', default='', type=str, metavar='FILENAME', help='checkpoint to resume (file name)')
@@ -42,6 +42,7 @@ def parse_args():
     parser.add_argument('-ld', '--limited_data_segmentation', default=None, type=float, help='limited data segmentation')
     parser.add_argument('--devices', nargs="+", default=[-1], help="device ids to use")
     parser.add_argument('--phase', default='eval', type=str, help='eval or test')
+    parser.add_argument('--apply_skeleton_augmentations', default=True, type=bool, help='apply skeleton augmentations')
     # add skeleton_augmentations_path
     parser.add_argument(
         '--skeleton_augmentations_path',
@@ -123,6 +124,7 @@ def train_with_config(args, opts):
         modalities=args.model_args['modalities'],
         filter_text=False,
         w2v2_type=args.model_args['w2v2_type'],
+        apply_skeleton_augmentations=args.apply_skeleton_augmentations,
     )
     
     speaker_ID = cabb_feeder.data['pair_speaker']
@@ -155,8 +157,12 @@ def train_with_config(args, opts):
         train_dataset = torch.utils.data.Subset(cabb_feeder, train_index)
         test_dataset = torch.utils.data.Subset(cabb_feeder, test_index)
 
-        cabb_loader_2d = DataLoader(train_dataset, **trainloader_params)
-        cabb_loader_2d_val = DataLoader(test_dataset, **testloader_params)
+        if args.phase != 'test':
+            cabb_loader_2d = DataLoader(train_dataset, **trainloader_params)
+            cabb_loader_2d_val = DataLoader(test_dataset, **testloader_params)
+        else:
+            cabb_loader_2d = DataLoader(cabb_feeder, **trainloader_params)
+            cabb_loader_2d_val = DataLoader(cabb_feeder, **testloader_params)
 
         # Load model backbone
         model_backbone = GSSModel(**args.model_args)
@@ -175,10 +181,10 @@ def train_with_config(args, opts):
             args=args,
             lr=args.learning_rate,
         )
-        if model_weights is not None:
-            state_dict = torch.load(model_weights, map_location=torch.device('cpu'))["state_dict"]
-            # load the state dict into the model
-            segmentation_model.load_state_dict(state_dict, strict=True)
+        # if model_weights is not None:
+        #     state_dict = torch.load(model_weights, map_location=torch.device('cpu'))["state_dict"]
+        #     # load the state dict into the model
+        #     segmentation_model.load_state_dict(state_dict, strict=True)
 
 
         # Experiment ID and logging
@@ -195,10 +201,9 @@ def train_with_config(args, opts):
             save_dir=fold_dir,
             group=experiment_group
         )
-
         tb_logger = TensorBoardLogger(fold_dir, name=experiment_id, version=experiment_id)
 
-        loggers_list = [tb_logger]
+        loggers_list = [tb_logger, wandb_logger]
 
         callbacks = [
             # setup_early_stopping_callback("val/segmentation_loss"),
@@ -245,8 +250,11 @@ def train_with_config(args, opts):
             trainer.fit(segmentation_model, cabb_loader_2d, cabb_loader_2d_val)
         else:
             # Evaluate the model
-            checkpoint_path = model_weights
+            checkpoint_path = "CABB_Segmentation/fold_{}/checkpoints/latest/last.ckpt".format(fold + 1)
             trainer.test(segmentation_model, dataloaders=cabb_loader_2d_val, ckpt_path=checkpoint_path)
+            # Save results for the fold
+       
+        wandb.finish()
 
         results[fold]['labels'] = segmentation_model.models_results['test']['labels']
         results[fold]['preds'] = segmentation_model.models_results['test']['preds']
@@ -263,13 +271,7 @@ def train_with_config(args, opts):
     print(f"Saving results to {results_path}")
     with open(results_path, 'wb') as f:
         pickle.dump(results, f)
-        # Save results for the fold
-        results_path = os.path.join(fold_dir, "results.json")
-        with open(results_path, "w") as results_file:
-            results = segmentation_model.models_results
-            results_file.write(json.dumps(results))
-        print(f"Completed Fold {fold + 1}")
-        wandb.finish()
+        
 
 if __name__ == "__main__":
     opts = parse_args()

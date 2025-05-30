@@ -352,7 +352,7 @@ class ShiftPoses:
     Applies a random shift to each joint in the poses.
     Expects as input tensors of shape CxFxVxM (C = channels, F = frames, V = joints, M = instances).
     """
-    def __init__(self, max_shift=30.0, min_shift=-30.0, num_joints=27):
+    def __init__(self, max_shift=30.0, min_shift=-30.0, num_joints=46):
         self.max_shift = max_shift
         self.min_shift = min_shift
         self.num_joints = num_joints

@@ -4,6 +4,8 @@ has_3d: False
 no_eval: True
 finetune: False
 partial_train: null
+phase: 'train'
+apply_skeleton_augmentations: True
 
 # Traning 
 epochs: 100

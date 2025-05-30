@@ -11,7 +11,7 @@ shift_poses:
   parameters:
     max_shift: 30.0
     min_shift: -30.0
-    num_joints: 27
+    num_joints: 46
   probability: 0.75
 
 scale_poses:
