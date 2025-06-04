@@ -29,7 +29,7 @@ print("\n The following video(s) will be processed for masking: ")
 
 # This will return a list of all .mp4 paths matching the pattern
 vfiles = glob.glob(
-    "/Users/esamghaleb/Documents/ResearchData/CABB Small Dataset/processed_audio_video/*/*.mp4"
+    "/Users/esagha/Documents/ResearchData/CABB Small Dataset/processed_audio_video/*/*.mp4"
 )
 # remove files that end with "overview.mp4"
 vfiles = [f for f in vfiles if not f.endswith("overview.mp4")]
@@ -297,7 +297,7 @@ for vidf in vfiles:
     print(f"Video {vfiles.index(vidf)+1} of {len(vfiles)}")
     
     videoname = vidf
-    videoloc = inputfol + videoname
+    videoloc = videoname
     capture = cv2.VideoCapture(videoloc)
     # get the number of frames in the video
     frameWidth = capture.get(cv2.CAP_PROP_FRAME_WIDTH)
@@ -336,13 +336,13 @@ for vidf in vfiles:
                     arm_connection_thickness=2
                 )
             all_kpts.append(kpts)
-            # if False:
-            #     if cv2.waitKey(1) == 27:
-            #         break
-            #     cv2.imshow("merged_landmarks", image)
-            #     cv2.waitKey(1)
-            #     capture.release()
-            #     cv2.destroyAllWindows()
+            if True:
+                if cv2.waitKey(1) == 27:
+                    break
+                cv2.imshow("merged_landmarks", image)
+                cv2.waitKey(1)
+                capture.release()
+                cv2.destroyAllWindows()
     all_kpts = np.array(all_kpts)
     # Save the keypoints as npy array
     video_name = vidf.split('/')[-1].split('.')[0]
