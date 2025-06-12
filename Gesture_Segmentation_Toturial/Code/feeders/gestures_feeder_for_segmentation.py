@@ -169,17 +169,7 @@ class CABBFeeder(Dataset):
         if self.global_normalization:
             self.get_mean_map()
         self.audio_sample_per_frame = self.audio_sample_rate/self.fps
-        # self.data = self.data[-640:]
-
-        # SAMPLE_RIR = download_asset("tutorial-assets/Lab41-SRI-VOiCES-rm1-impulse-mc01-stu-clo-8000hz.wav")
-        # SAMPLE_NOISE = download_asset("tutorial-assets/Lab41-SRI-VOiCES-rm1-babb-mc01-stu-clo-8000hz.wav")
-        # rir_raw, rir_sample_rate = torchaudio.load(SAMPLE_RIR)
-        # self.rir_sample_rate = rir_sample_rate
-        # self.noise, noise_sample_rate = torchaudio.load(SAMPLE_NOISE)
-        # # target sample rate is 16000
-        # self.noise = F.resample(self.noise, orig_freq=noise_sample_rate, new_freq=sample_rate1)
-        # rir = rir_raw[:, int(rir_sample_rate * 1.01) : int(rir_sample_rate * 1.3)]
-        # self.rir = rir / torch.linalg.vector_norm(rir, ord=2)
+        
     def prepared_unlabeled_segmentation_sequences(self):
         max_sequnce_length = self.window_size
         frame_offset = self.window_size
@@ -378,31 +368,18 @@ class CABBFeeder(Dataset):
 
     # TODO: define augmentations from HAR project. Should the strength of augmentations be the same?
     def augment_skeleton(self, data_numpy):
-        augmentations = Compose([
-                CenterNormalize3D(root_index=0),  # Assuming root joint is at index 0
-                Jitter3D(sigma=0.02),
-                RandomRotate3D(max_angle=20),
-                RandomScale3D(0.9,1.1),
-                RandomTranslate3D(0.05), 
-                RandomShear3D(0.05),
-                RandomFlip3D(),
-                # RandomCropTemporal(target_length=100),
-                # TemporalResample(target_frames=120),
-                # TimeReverse()
-        ])
+        possible_augmentations = [
+            Jitter3D(sigma=0.02),
+            RandomRotate3D(max_angle=20),
+            RandomScale3D(0.9, 1.1),
+            RandomTranslate3D(0.05),
+            RandomShear3D(0.05),
+            RandomFlip3D(),
+        ]
+        choosen_augmentations = random.sample(possible_augmentations, k=random.randint(1, len(possible_augmentations)))
+        augmentations = Compose(choosen_augmentations)
         
         return augmentations(data_numpy)
-
-    def apply_codec(self, waveform, orig_sample_rate, **kwargs):
-        if orig_sample_rate != 8000:
-            waveform = F.resample(waveform, orig_sample_rate, 8000)
-            sample_rate = 8000
-        augmented = F.apply_codec(waveform, sample_rate, **kwargs)
-        # effector = torchaudio.io.AudioEffector(effect=effect)
-        # augmented_effector = effector.apply(waveform, sample_rate)
-        # resample to original sample rate
-        augmented = F.resample(augmented, sample_rate, orig_sample_rate)
-        return augmented
 
     
 

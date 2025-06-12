@@ -248,29 +248,39 @@ def train_with_config(args, opts):
         if args.phase == 'train':
         # Train the model
             trainer.fit(segmentation_model, cabb_loader_2d, cabb_loader_2d_val)
-        else:
-            # Evaluate the model
-            checkpoint_path = "CABB_Segmentation/fold_{}/checkpoints/latest/last.ckpt".format(fold + 1)
-            trainer.test(segmentation_model, dataloaders=cabb_loader_2d_val, ckpt_path=checkpoint_path)
-            # Save results for the fold
-       
+        #     results[fold]['labels'] = segmentation_model.models_results['val']['labels']
+        #     results[fold]['preds'] = segmentation_model.models_results['val']['preds']
+        #     results[fold]['loss'] = segmentation_model.models_results['val']['loss']
+        #     results[fold]['start_frames'] = segmentation_model.models_results['val']['start_frames']
+        #     results[fold]['end_frames'] = segmentation_model.models_results['val']['end_frames']
+        #     results[fold]['speaker_ID'] = segmentation_model.models_results['val']['speaker_ID']
+        #     results[fold]['pair_ID'] = segmentation_model.models_results['val']['pair_ID']
+        # else:
+        #     # Evaluate the model
+        #     checkpoint_path = "CABB_Segmentation/fold_{}/checkpoints/latest/last.ckpt".format(fold + 1)
+        #     trainer.test(segmentation_model, dataloaders=cabb_loader_2d_val, ckpt_path=checkpoint_path)
+        #     # Save results for the fold
+        #     results[fold]['labels'] = segmentation_model.models_results['test']['labels']
+        #     results[fold]['preds'] = segmentation_model.models_results['test']['preds']
+        #     results[fold]['loss'] = segmentation_model.models_results['test']['loss']
+        #     results[fold]['start_frames'] = segmentation_model.models_results['test']['start_frames']
+        #     results[fold]['end_frames'] = segmentation_model.models_results['test']['end_frames']
+        #     results[fold]['speaker_ID'] = segmentation_model.models_results['test']['speaker_ID']
+        #     results[fold]['pair_ID'] = segmentation_model.models_results['test']['pair_ID']
+
         wandb.finish()
 
-        results[fold]['labels'] = segmentation_model.models_results['test']['labels']
-        results[fold]['preds'] = segmentation_model.models_results['test']['preds']
-        results[fold]['loss'] = segmentation_model.models_results['test']['loss']
-        results[fold]['start_frames'] = segmentation_model.models_results['test']['start_frames']
-        results[fold]['end_frames'] = segmentation_model.models_results['test']['end_frames']
-        results[fold]['speaker_ID'] = segmentation_model.models_results['test']['speaker_ID']
-        results[fold]['pair_ID'] = segmentation_model.models_results['test']['pair_ID']
-    # save the results
-    if args.phase == 'train':
-        results_path = fold_dir+"/results.pkl"  
-    elif args.phase == 'test':
-        results_path = fold_dir+"/dilay_test_results.pkl"
-    print(f"Saving results to {results_path}")
-    with open(results_path, 'wb') as f:
-        pickle.dump(results, f)
+        
+    # # save the results
+    # if args.phase == 'train':
+    #     results_path = fold_dir+"/results.pkl"  
+    # elif args.phase == 'eval':
+    #     results_path = fold_dir+"/eval_results.pkl"
+    # elif args.phase == 'test':
+    #     results_path = fold_dir+"/test_results.pkl"
+    # print(f"Saving results to {results_path}")
+    # with open(results_path, 'wb') as f:
+    #     pickle.dump(results, f)
         
 
 if __name__ == "__main__":
