@@ -1,19 +1,15 @@
 import numpy as np
 import pandas as pd
 import torch
-from torchvision import transforms
 from torch.utils.data import Dataset
 import sys
 import random
 sys.path.extend(['../'])
-import torchaudio
 from torchaudio import functional as F
-import librosa
 import glob
 import os
 from utils.mediapipe_augmentations import Compose, CenterNormalize3D, Jitter3D, RandomRotate3D, RandomScale3D, RandomTranslate3D, RandomShear3D, RandomFlip3D
 
-from transformers import AutoFeatureExtractor
 
 # from utils.utils_data import crop_scale
 
@@ -276,20 +272,18 @@ class CABBFeeder(Dataset):
 
     def load_skeletal_data(self):
         if self.phase == 'test':
-            poses_path = '../SimilarityAnalysis/data/keypoints/*/'
+            poses_path = '/Users/esagha/Projects/medal_workshop_on_multimodal_interaction/Gesture_Segmentation_Toturial/Code/data/test_keypoints/'
             self.poses = {}
             
             self.pairs_speakers = []
             for file in tqdm(glob.glob(os.path.join(poses_path, '*.npy')), desc='Loading keypoints...', total=len(glob.glob(os.path.join(poses_path, '*.npy')))):
-                participant_ID = file.split('/')[-1].replace('_selected_keypoints.npy', '').replace('results_', '').split('_')[0]
+                participant_ID = file.split('/')[-1].replace('_all_kpts_17', '').split('.')[0]
                 type = file.split('/')[-2]
-                if not 'participant' in file:
-                    continue
                 data = np.load(file)
                 if data.shape[0] == 0:
                     print('Empty file: {}'.format(file))
                     continue
-                data, mirored_data = process_poses(np.load(file))
+                data = np.load(file)[:, :, :-1]  # remove the last dimension
                 participant_ID = participant_ID.replace('S', '')
                 day = participant_ID[-1]
                 participant_ID = participant_ID[:-1]
@@ -470,8 +464,8 @@ class CABBFeeder(Dataset):
         for key in item['skeleton']:
             if item['skeleton'][key].shape[2] == 3:
                 # divide x and y by the image width and height
-                item['skeleton'][key][:, :, 0] = item['skeleton'][key][:, :, 0] / img_width
-                item['skeleton'][key][:, :, 1] = item['skeleton'][key][:, :, 1] / img_height
+                item['skeleton'][key][:, :, 0] = item['skeleton'][key][:, :, 0] #/ img_width
+                item['skeleton'][key][:, :, 1] = item['skeleton'][key][:, :, 1] #/ img_height
         return item
 
 

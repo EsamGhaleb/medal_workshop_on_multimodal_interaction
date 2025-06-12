@@ -55,7 +55,7 @@ class SegmentNet(LightningModule):
         self.modalities = ['audio', 'skeleton', 'fused']
         self.models_results = defaultdict(dict)
         phases = ['train', 'val', 'test']
-        keys = ['labels', 'preds', 'loss', 'frame_IDs', 'speaker_ID', 'pair_ID']
+        keys = ['labels', 'preds', 'loss', 'frame_IDs', 'speaker_ID', 'pair_ID', 'end_frames', 'start_frames']
         for phase in phases:
             for key in keys:
                 self.models_results[phase][key] = torch.Tensor()
@@ -91,6 +91,8 @@ class SegmentNet(LightningModule):
         self.models_results[phase]['frame_IDs'] = torch.cat([self.models_results[phase]['frame_IDs'].cpu(), processed_batch['frame_IDs'].detach().cpu()])
         self.models_results[phase]['speaker_ID'] = torch.cat([self.models_results[phase]['speaker_ID'].cpu(), processed_batch['speaker_ID'].cpu()])
         self.models_results[phase]['pair_ID'] = torch.cat([self.models_results[phase]['pair_ID'].cpu(), processed_batch['pair_ID'].cpu()])
+        self.models_results[phase]['start_frames'] = torch.cat([self.models_results[phase]['start_frames'].cpu(), processed_batch['start_frames'].detach().cpu()])
+        self.models_results[phase]['end_frames'] = torch.cat([self.models_results[phase]['end_frames'].cpu(), processed_batch['end_frames'].detach().cpu()])
         
         return loss, predictions, labels
     
@@ -102,12 +104,12 @@ class SegmentNet(LightningModule):
         verbose (bool): Whether to provide verbose output.
         """
         # Gather results from all processes
-        for key in ['labels', 'preds', 'loss', 'frame_IDs', 'speaker_ID', 'pair_ID']:
+        for key in ['labels', 'preds', 'loss', 'frame_IDs', 'speaker_ID', 'pair_ID', 'end_frames', 'start_frames']:
             self.models_results[phase][key] = self.all_gather(self.models_results[phase][key])
 
         # Report metrics and reset the results for the next epoch
         self.report_metrics(phase, '')
-        for key in ['labels', 'preds', 'loss', 'frame_IDs', 'speaker_ID', 'pair_ID']:
+        for key in ['labels', 'preds', 'loss', 'frame_IDs', 'speaker_ID', 'pair_ID', 'end_frames', 'start_frames']:
             if test_phase:
                 # convert the list to numpy array
                 self.models_results[phase][key] = self.models_results[phase][key].detach().cpu().numpy()

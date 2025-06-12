@@ -18,8 +18,9 @@ We will use the following tools; no installation required beforehand—we’ll s
 ### Tuesday, 24 June 2024
 | Time          | Topic                                                                 |
 |---------------|-----------------------------------------------------------------------|
-| 14:00-14:05 | Introduction to multimodal interaction and kinematic analysis        |
+| 14:00 - 14:05 | Introduction        |
 | 14:05 - 14:30 |Setup of the environment and tools (Visual Studio Code, Miniconda, MediaPipe, whisperX) |
+|
 | 14:30 - 15:30 | Hands-on: Extracting body key points using MediaPipe                  |
 | 15:30 - 15:45 | Break                                                                 |
 | 15:45 - 17:00 | Hands-on: Speech transcription and time alignment with whisperX from dialogue recordings                |

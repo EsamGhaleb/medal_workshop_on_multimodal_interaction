@@ -16,29 +16,24 @@ from itertools import combinations
 from collections import defaultdict
 from elan_data import ELAN_Data
 from scipy.signal import find_peaks
+from scipy.ndimage import median_filter
 
 
 from tqdm import tqdm
 
 # upload labels
 buffer = 0.5
-fps = 29.97
-labels_path = "data/mm_data_vggish/27_labels_buffer_{}.pkl".format(buffer)
-
-videos_path = "/home/eghaleb/data/{}_synced_pp{}.mp4"
+fps = 25
 SAMPLE_RATE = 16000
 
 
 
 pairs_mappings = {}
-for i in range(1, 150, 2):
-   j = i + 1
-   key = int(f"{i}{j}")
-   value = f"{i:03}{j:03}"
+for i in range(1, 100):
+   key = int(f"{i}")
+   value = f"{i:03}"
    key = int(value)
    pairs_mappings[key] = value
-   if i == 149 and j == 150:
-      break
 sample_pairs_mappings = {k: pairs_mappings[k] for k in list(pairs_mappings)}
 sample_pairs_mappings
 
@@ -49,16 +44,18 @@ def upload_models_result(results_path, pairs_mapping=pairs_mappings):
       results = pickle.load(f)
    all_results_details = pd.DataFrame() 
    results_dict = {}
-   speakers_mapping = {0: 'A', 1: 'B'}
+   speakers_mapping = {0: 'B', 1: 'C'}
    for fold in tqdm(range(5)):
-      if fold == 2:
-         continue
-      n_gpus, n_samples, num_seq = results[fold]['labels'].shape
-      labels = results[fold]['labels'].reshape(n_gpus * n_samples* num_seq)
-      preds = results[fold]['preds'].reshape(n_gpus * n_samples * num_seq, results[fold]['preds'].shape[-1])
-      speaker_ID = results[fold]['speaker_ID'].reshape(n_gpus * n_samples * num_seq)
-      pair_ID = results[fold]['pair_ID'].reshape(n_gpus * n_samples * num_seq)
-      pair_speaker = [f"{pairs_mapping[int(pair)]}_{speakers_mapping[int(speaker)]}" for pair, speaker in zip(pair_ID, speaker_ID)]
+      n_samples, num_seq = results[fold]['labels'].shape
+      labels = results[fold]['labels'].reshape(n_samples* num_seq)
+      preds = results[fold]['preds'].reshape(n_samples * num_seq, results[fold]['preds'].shape[-1])
+      results[fold]['speaker_ID'] = np.array([num_seq * [pair_speaker_ID] for pair_speaker_ID in results[fold]['speaker_ID']])
+      results[fold]['pair_ID'] = np.array([num_seq * [pair_ID] for pair_ID in results[fold]['pair_ID']])
+      results[fold]['start_frames'] = np.array([num_seq * [start_frame] for start_frame in results[fold]['start_frames']])
+      results[fold]['end_frames'] = np.array([num_seq * [end_frame] for end_frame in results[fold]['end_frames']])
+      speaker_ID = results[fold]['speaker_ID'].reshape(n_samples * num_seq)
+      pair_ID = results[fold]['pair_ID'].reshape(n_samples * num_seq)
+      pair_speaker = [f"{int(pair)}_{speakers_mapping[int(speaker)]}" for pair, speaker in zip(pair_ID, speaker_ID)]
       # repeat pair_speaker for each frame, 40 times
       start_frames = results[fold]['start_frames'].reshape(-1)
       end_frames = results[fold]['end_frames'].reshape(-1)
@@ -109,8 +106,20 @@ def divide_segment(gesture_predictions, start_frame, end_frame):
 
 
 
-def save_elan_files(pair_speaker, binar_gesture_predictions, gesture_predictions, min_gesture_predictions, fps, model='skeleton'):
-   new_eaf = ELAN_Data.create_eaf("final_eaf_files/{}.gesture_{}_final.eaf".format(pair_speaker, model), audio="{}_synced_pp{}.mp4".format(pair, speaker),
+def save_elan_files(pair_speaker, binar_gesture_predictions, gesture_predictions, fps, model='skeleton'):
+   pair = pair_speaker.split("_")[0]
+   speaker = pair_speaker.split("_")[1]
+   if speaker == 'B':
+      day = '1stDay'
+   else:
+      day = '2ndDay'
+   # existing_elan_file = ELAN_Data.from_file('elan_files/{}_SignAcc_{}_CP.eaf'.format(pair, day))
+   existing_elan_file_path = 'elan_files/{}_SignAcc_{}_CP_annotated.eaf'.format(pair, day)
+   # check if the folder exists, if not create it
+   import os
+   if os.path.exists('eaf_files') is False:
+      os.makedirs('eaf_files')
+   new_eaf = ELAN_Data.create_eaf("eaf_files/{}.gesture_{}_final.eaf".format(pair_speaker, model), audio="{}_{}.mp4".format(pair, speaker),
                                     tiers=["{} model".format(model)],
                                     remove_default=True)
 
@@ -128,20 +137,24 @@ def save_elan_files(pair_speaker, binar_gesture_predictions, gesture_predictions
                if not binar_gesture_predictions[end_frame]:
                   # print('end_frame=', end_frame)
                   # print('Duration:', end_frame - start_frame)
-                  i = end_frame+1
-                  average_gesture_predictions = gesture_predictions[start_frame:end_frame]
-                  phases = divide_segment(average_gesture_predictions, 0, len(average_gesture_predictions))
-                  phases['start_frame'] = np.array(phases['start_frame'])+start_frame
-                  phases['end_frame'] = np.array(phases['end_frame'])+start_frame
-                  num_phases = len(phases['start_frame'])   
-                  for phase_id in range(num_phases):
-                     #  print('Phase start frame:', phases['start_frame'][phase_id])
-                      phase_start_frame = phases['start_frame'][phase_id]
-                      phase_end_frame = phases['end_frame'][phase_id]
-                      start_ts = phase_start_frame / fps * 1000
-                      end_ts = phase_end_frame / fps * 1000
-                      mean_preds = gesture_predictions[phase_start_frame:phase_end_frame].mean()
-                      new_eaf.add_segment("{} model".format(model), start=start_ts, stop=end_ts, annotation="prob-{:.2f}".format(mean_preds))
+                  i = end_frame
+                  # average_gesture_predictions = gesture_predictions[start_frame:end_frame]
+                  # phases = divide_segment(average_gesture_predictions, 0, len(average_gesture_predictions))
+                  # phases['start_frame'] = np.array(phases['start_frame'])+start_frame
+                  # phases['end_frame'] = np.array(phases['end_frame'])+start_frame
+                  # num_phases = len(phases['start_frame'])   
+                  # for phase_id in range(num_phases):
+                  #    #  print('Phase start frame:', phases['start_frame'][phase_id])
+                  #     phase_start_frame = phases['start_frame'][phase_id]
+                  #     phase_end_frame = phases['end_frame'][phase_id]
+                  start_ts = start_frame / fps * 1000
+                  end_ts = end_frame / fps * 1000
+                  if end_frame - start_frame <= 2:
+                     break
+                     # print('Duration:', end_frame - start_frame)
+                  mean_preds = gesture_predictions[start_frame:end_frame].mean()
+                  new_eaf.add_segment("{} model".format(model), start=start_ts, stop=end_ts, annotation="prob-{:.2f}".format(mean_preds))
+                  # existing_elan_file.add_segment("Sign".format(model), start=start_ts, stop=end_ts, annotation="prob-{:.2f}".format(mean_preds))
                   break 
                else:
                   i += 1
@@ -149,6 +162,7 @@ def save_elan_files(pair_speaker, binar_gesture_predictions, gesture_predictions
          i += 1
    # ed.write()
    new_eaf.save_ELAN(raise_error_if_unmodified=False)
+   # existing_elan_file.save_ELAN(raise_error_if_unmodified=False, rename=existing_elan_file_path)
 
 
 def get_predictions (results_details):
@@ -174,8 +188,9 @@ def get_class_predictions(results_details):
 # best speech results
 
 all_results_path = {
-   # 'skeleton': 'tb_logs/Appr_Skeleton_fold_4_lr_5e-05_subject_joint_False_gesture_unit_True_ft_speech_False_vggish_False_speech_buffer_0.0_offset_2_schedular_plateau_audio_encoder_False_skeleton_encoder_True_crf_False_bs_40_sc_True_final/test_results.pkl',
-   'skeleton&speech': 'tb_logs/Appr_EarlyFusion_fold_4_lr_0.0001_subject_joint_False_gesture_unit_True_ft_speech_False_vggish_False_speech_buffer_0.0_offset_2_schedular_plateau_audio_encoder_False_skeleton_encoder_False_crf_False_bs_24_sc_False_/test_results.pkl'}
+   'skeleton': 'CABB_Segmentation/fold_5/test_results.pkl',
+   # 'skeleton&speech': 'tb_logs/Appr_EarlyFusion_fold_4_lr_0.0001_subject_joint_False_gesture_unit_True_ft_speech_False_vggish_False_speech_buffer_0.0_offset_2_schedular_plateau_audio_encoder_False_skeleton_encoder_False_crf_False_bs_24_sc_False_/test_results.pkl'
+   }
 
 
 for key in all_results_path:
@@ -183,30 +198,41 @@ for key in all_results_path:
    model = key
    all_results = upload_models_result(results_path)
    all_results, all_preds = get_class_predictions(all_results)
-   videos_path = "/home/eghaleb/data/{}_synced_pp{}.mp4"
    SAMPLE_RATE = 16000
 
 
    all_results['speaker'] = all_results['pair_speaker'].apply(lambda x: x.split("_")[1])
 
-   pair_speaker = "119120_B"
    all_pairs_speakers = all_results['pair_speaker'].unique()
    for pair_speaker in tqdm(all_pairs_speakers, total=len(all_pairs_speakers)):
    #   pair_speaker = '035036_A'
       pair = pair_speaker.split("_")[0]
       speaker = pair_speaker.split("_")[1]
-      poses = np.load("data/selected_poses/poses_{}_synced_pp{}.npy".format(pair, speaker), allow_pickle=True)
+      print('Pair:', pair)
+      print('Speaker:', speaker)
+      if speaker == 'B':
+         fps = 25
+      else:
+         fps = 50
+      poses_path = "data/test_keypoints/S{}{}_all_kpts_17.npy".format(pair, speaker)
+      poses = np.load(poses_path, allow_pickle=True)
       pair_speaker_results = all_results[all_results['pair_speaker'] == pair_speaker]
-      gesture_predictions = np.zeros(len(poses))
-      min_gesture_predictions = np.zeros(len(poses))
-      for frame, pose in tqdm(enumerate(poses), total=len(poses)):
-            # get the rows where the frame is between start and end frames
-            row = pair_speaker_results[(pair_speaker_results['start_frames'] <= frame) & (pair_speaker_results['end_frames'] >= frame)]
-            # take the average of the gesture predictions
-            gesture_predictions[frame] = row['gesture_preds'].mean()
-            min_gesture_predictions[frame] = row['gesture_preds'].min()
-      binar_gesture_predictions = gesture_predictions > 0.5
-      save_elan_files(pair_speaker, binar_gesture_predictions, gesture_predictions,min_gesture_predictions, fps, model=model)
+      gesture_predictions = pair_speaker_results['preds'].to_numpy()
+      gesture_predictions = get_predictions(pair_speaker_results)[:, 1]
+      # min_gesture_predictions = np.zeros(len(poses))
+      # for frame, pose in tqdm(enumerate(poses), total=len(poses)):
+      #       # get the rows where the frame is between start and end frames
+      #       row = pair_speaker_results[(pair_speaker_results['start_frames'] <= frame) & (pair_speaker_results['end_frames'] >= frame)]
+      #       # take the average of the gesture predictions
+      #       gesture_predictions[frame] = row['gesture_preds'].mean()
+      #       min_gesture_predictions[frame] = row['gesture_preds'].min()
+      binar_gesture_predictions = gesture_predictions >= 0.5 #NOTE: 0.40 is the threshold which we can change and see what is the best threshold
+      smoothing_factor = int(0.2 * fps)
+      smoothed = median_filter(binar_gesture_predictions, size=smoothing_factor)
+      binar_gesture_predictions = smoothed
+      # assign -1 to the frames where the gesture predictions are less than 0.5
+      gesture_predictions[binar_gesture_predictions == 0] = -1
+      save_elan_files(pair_speaker, binar_gesture_predictions, gesture_predictions, fps, model=model)
    #   break
 
 

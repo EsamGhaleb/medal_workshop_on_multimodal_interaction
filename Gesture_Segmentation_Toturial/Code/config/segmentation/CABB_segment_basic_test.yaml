@@ -5,8 +5,10 @@ no_eval: True
 finetune: False
 partial_train: null
 phase: 'test'
+apply_skeleton_augmentations: True
+
 # Traning 
-epochs: 100
+epochs: 200
 checkpoint_frequency: 30
 batch_size: 96
 dropout: 0.1
@@ -26,7 +28,7 @@ num_heads: 8
 att_fuse: True
 
 # model for embeddings
-pretrained: 'temp_models/epoch=44.ckpt'
+pretrained: ''
 model_args:
   modalities: ['skeleton']
   fusion: 'unimodal'
