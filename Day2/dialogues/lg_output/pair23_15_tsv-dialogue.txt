@@ -1,0 +1,135 @@
+B|0| B: _het_ voelen _een beetje_ als _een_ ballerina 
+B|1| B: _in het midden_ zijn _een_ soort _van_ vierkant 
+A|2| A: _en_ er zitten _twee_ stok _aan de_ _achterkant_ 
+B|3| B: ah 
+B|4| B: _het_ hebben ook _zo'n_ [achterkant] , soort _van_ lang neus [aan de] voorkant [en] [aan de] linkerkant 
+A|5| A: omhoog 
+A|6| A: [en] nog één 
+A|7| A: _ja_ 
+A|8| A: _twee_ 
+A|9| A: [een] _tafel_ [een beetje] of [een] plateau _door_ [de] _door het kop heen_ [in het midden] met [de] slurf eruit _en twee_ _dinge_ omhoog 
+B|10| B: [ja] 
+B|11| B: [ja] [twee] precies _klein dinge_ 
+A|12| A: [ja] 
+B|13| B: J 
+B|14| B: soort _van_ vierkant dwars [door het kop heen] 
+B|15| B: [een] groot neus naar voren staand 
+B|16| B: [aan de] linkerkant blokachtig figuur [en twee] precies heel _klein dinge_ bovenop 
+A|17| A: [ja] 
+A|18| A: veertien 
+A|19| A: [een] _tafel_ [door [het] midden] [van] [de] [van] [het kop heen] 
+B|20| B: [ja] 
+A|21| A: voorin [een] slurf 
+A|22| A: bovenin _twee klein dinge_ , links [zo'n] vierkan 
+B|23| B: [ja] 
+B|24| B: G 
+B|25| B: [tafel] eromheen 
+B|26| B: neus naar voren , [twee klein dinge] erop 
+A|27| A: [ja] 
+A|28| A: tien 
+A|29| A: [tafel] halverwege 
+A|30| A: bovenin [twee klein dinge] 
+B|31| B: [ja] 
+B|32| B: M 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het voelen een beetje als een ballerina
+	Free: Pattern=een beetje, Pattern=een, Pattern=het
+	Constrained: Pattern=een
+Turn ID=1| B | B : in het midden zijn een soort van vierkant
+	Free: Pattern=in het midden, Pattern=een, Pattern=van
+	Constrained: Pattern=het midden, Pattern=het
+Turn ID=2| A | A : en er zitten twee stok aan de achterkant
+	Free: Pattern=aan de, Pattern=twee, Pattern=achterkant, Pattern=en
+	Constrained: Pattern=de
+Turn ID=3| B | B : ah
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : het hebben ook zo'n achterkant , soort van lang neus aan de voorkant en aan de linkerkant
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=het, Pattern=achterkant, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=5| A | A : omhoog
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en nog één
+	Free: Pattern=en
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=9| A | A : een tafel een beetje of een plateau door de door het kop heen in het midden met de slurf eruit en twee dinge omhoog
+	Free: Pattern=door, Pattern=een, Pattern=een beetje, Pattern=in het midden, Pattern=en twee, Pattern=de, Pattern=door het kop heen, Pattern=tafel, Pattern=dinge
+	Constrained: Pattern=het midden, Pattern=twee, Pattern=door, Pattern=een, Pattern=het, Pattern=en, Pattern=door het, Pattern=het kop heen
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja twee precies klein dinge
+	Free: Pattern=klein dinge, Pattern=twee, Pattern=ja
+	Constrained: Pattern=dinge
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : soort van vierkant dwars door het kop heen
+	Free: Pattern=door het kop heen, Pattern=van
+	Constrained: Pattern=door, Pattern=door het, Pattern=het, Pattern=het kop heen
+Turn ID=15| B | B : een groot neus naar voren staand
+	Free: Pattern=een
+	Constrained: 
+Turn ID=16| B | B : aan de linkerkant blokachtig figuur en twee precies heel klein dinge bovenop
+	Free: Pattern=aan de, Pattern=en twee, Pattern=klein dinge
+	Constrained: Pattern=de, Pattern=twee, Pattern=dinge, Pattern=en
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : een tafel door het midden van de van het kop heen
+	Free: Pattern=het midden, Pattern=de, Pattern=een, Pattern=tafel, Pattern=van, Pattern=door het, Pattern=het kop heen
+	Constrained: Pattern=door, Pattern=het
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : voorin een slurf
+	Free: Pattern=een
+	Constrained: 
+Turn ID=22| A | A : bovenin twee klein dinge , links zo'n vierkan
+	Free: Pattern=twee klein dinge, Pattern=zo'n
+	Constrained: Pattern=klein dinge, Pattern=twee, Pattern=dinge
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : tafel eromheen
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=26| B | B : neus naar voren , twee klein dinge erop
+	Free: Pattern=twee klein dinge
+	Constrained: Pattern=klein dinge, Pattern=twee, Pattern=dinge
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : tafel halverwege
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=30| A | A : bovenin twee klein dinge
+	Free: Pattern=twee klein dinge
+	Constrained: Pattern=klein dinge, Pattern=twee, Pattern=dinge
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : M
+	Free: 
+	Constrained: 

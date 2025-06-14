@@ -1,0 +1,67 @@
+B|0| B: die mij zien er soort van uit als een _wijnglas_ 
+B|1| B: met erop of erin 
+B|2| B: gespiraalde stang eronder 
+B|3| B: _het_ _zijn_ een driehoek met een spiraal en dan daarboven _de_ emmer 
+A|4| A: ja zeven 
+A|5| A: _dit zijn het wijnglas_ 
+B|6| B: d 
+B|7| B: [dit zijn het wijnglas] 
+A|8| A: okee 
+A|9| A: tien 
+A|10| A: [het wijnglas] 
+B|11| B: a 
+B|12| B: [dit zijn het wijnglas] 
+A|13| A: twee 
+A|14| A: [de] [het wijnglas] 
+B|15| B: g 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : die mij zien er soort van uit als een wijnglas
+	Free: Pattern=wijnglas
+	Constrained: 
+Turn ID=1| B | B : met erop of erin
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : gespiraalde stang eronder
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : het zijn een driehoek met een spiraal en dan daarboven de emmer
+	Free: Pattern=het, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : ja zeven
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dit zijn het wijnglas
+	Free: Pattern=dit zijn het wijnglas
+	Constrained: Pattern=wijnglas, Pattern=zijn, Pattern=het, Pattern=het wijnglas
+Turn ID=6| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : dit zijn het wijnglas
+	Free: Pattern=dit zijn het wijnglas
+	Constrained: Pattern=wijnglas, Pattern=zijn, Pattern=het, Pattern=het wijnglas
+Turn ID=8| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : het wijnglas
+	Free: Pattern=het wijnglas
+	Constrained: Pattern=het, Pattern=wijnglas
+Turn ID=11| B | B : a
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dit zijn het wijnglas
+	Free: Pattern=dit zijn het wijnglas
+	Constrained: Pattern=wijnglas, Pattern=zijn, Pattern=het, Pattern=het wijnglas
+Turn ID=13| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : de het wijnglas
+	Free: Pattern=het wijnglas, Pattern=de
+	Constrained: Pattern=het, Pattern=wijnglas
+Turn ID=15| B | B : g
+	Free: 
+	Constrained: 

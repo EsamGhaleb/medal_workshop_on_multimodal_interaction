@@ -1,0 +1,99 @@
+A|0| A: die van mij _zijn_ een soort van aan _de_ linkerkant lopen die eigenlijk een beetje bol maar die _hebben_ een soort _inkeping_ zo 
+B|1| B: _ja_ 
+A|2| A: _en het_ _zijn_ eigenlijk een rond _en_ je zien dan twee schaduw daarbovenop opsteken er iets uit _dat zijn_ een soort [ja] [ja] soort schoorsteenachtig weten je wel die smal aflooppen _en_ dan rechts een _plateau_ _dat_ rond _zijn_ 
+B|3| B: spijker 
+B|4| B: [ja] _okee_ 
+B|5| B: [ja] [dat zijn] d 
+A|6| A: [okee] 
+A|7| A: nu gaan gaan _het_ als een trein 
+B|8| B: _dit zijn_ _diegene _met_ dat_ gehoekte handvat _en de_ spijker _schoorsteen_ in [dat] handvat 
+A|9| A: [ja] [ja] [met dat] _plateau_ [met dat] rond 
+B|10| B: yes yes 
+A|11| A: zestien 
+A|12| A: ik _hebben_ nu [diegene met] die [schoorsteen] die aflooppen [met dat] _plateau_ [met dat] rond [en] [dat] die vorm [met] die _inkeping_ 
+B|13| B: yes [dat zijn] p 
+B|14| B: deze [hebben] [dat] handvat _met _de_ inkeping en _de_ schoorsteen_ 
+A|15| A: [de] 
+B|16| B: [en het] [het] cirkelplateau 
+A|17| A: [ja] 
+A|18| A: nummer zes 
+A|19| A: [dit zijn] [met] [het] _schoorsteen [en_ [de] inkeping en de] [en het] rond _plateau_ rechts 
+B|20| B: [dat zijn] p 
+B|21| B: [dit zijn] [de] ingekeept handvat _de [schoorsteen_ [en] het] [plateau] 
+A|22| A: [met [de] schoorsteen] 
+A|23| A: acht 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : die van mij zijn een soort van aan de linkerkant lopen die eigenlijk een beetje bol maar die hebben een soort inkeping zo
+	Free: Pattern=inkeping, Pattern=zijn, Pattern=de, Pattern=hebben
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en het zijn eigenlijk een rond en je zien dan twee schaduw daarbovenop opsteken er iets uit dat zijn een soort ja ja soort schoorsteenachtig weten je wel die smal aflooppen en dan rechts een plateau dat rond zijn
+	Free: Pattern=ja, Pattern=en het, Pattern=plateau, Pattern=en, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=en, Pattern=het, Pattern=zijn, Pattern=dat
+Turn ID=3| B | B : spijker
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ja okee
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja dat zijn d
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=7| A | A : nu gaan gaan het als een trein
+	Free: Pattern=het
+	Constrained: 
+Turn ID=8| B | B : dit zijn diegene met dat gehoekte handvat en de spijker schoorsteen in dat handvat
+	Free: Pattern=dat, Pattern=en de, Pattern=schoorsteen, Pattern=met dat, Pattern=diegene met, Pattern=dit zijn
+	Constrained: Pattern=dat, Pattern=de, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=9| A | A : ja ja met dat plateau met dat rond
+	Free: Pattern=met dat, Pattern=plateau, Pattern=ja
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=10| B | B : yes yes
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ik hebben nu diegene met die schoorsteen die aflooppen met dat plateau met dat rond en dat die vorm met die inkeping
+	Free: Pattern=dat, Pattern=hebben, Pattern=schoorsteen, Pattern=plateau, Pattern=met dat, Pattern=met, Pattern=inkeping, Pattern=en, Pattern=diegene met
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=13| B | B : yes dat zijn p
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : deze hebben dat handvat met de inkeping en de schoorsteen
+	Free: Pattern=de inkeping en de, Pattern=dat, Pattern=met de, Pattern=hebben, Pattern=de schoorsteen
+	Constrained: Pattern=de, Pattern=en de, Pattern=schoorsteen, Pattern=met, Pattern=inkeping, Pattern=en
+Turn ID=15| A | A : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| B | B : en het het cirkelplateau
+	Free: Pattern=en het, Pattern=het
+	Constrained: Pattern=en, Pattern=het
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn met het schoorsteen en de inkeping en de en het rond plateau rechts
+	Free: Pattern=de inkeping en de, Pattern=en het, Pattern=en de, Pattern=het, Pattern=plateau, Pattern=met, Pattern=schoorsteen en, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=en de, Pattern=het, Pattern=schoorsteen, Pattern=inkeping, Pattern=en, Pattern=zijn
+Turn ID=20| B | B : dat zijn p
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| B | B : dit zijn de ingekeept handvat de schoorsteen en het plateau
+	Free: Pattern=de, Pattern=en het, Pattern=plateau, Pattern=schoorsteen en, Pattern=de schoorsteen, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=het, Pattern=schoorsteen, Pattern=en, Pattern=zijn
+Turn ID=22| A | A : met de schoorsteen
+	Free: Pattern=met de, Pattern=de schoorsteen
+	Constrained: Pattern=met, Pattern=schoorsteen, Pattern=de
+Turn ID=23| A | A : acht
+	Free: 
+	Constrained: 

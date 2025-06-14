@@ -1,0 +1,155 @@
+B|0| B: deze hebben _een_ heel lang uitsteeksel _aan _de_ onderkant_ _een_ beetje zo'n gedraaide _balk_ 
+B|1| B: _en dan_ _zitten_ _er_ _twee kubus_ _op_ _en_ _nog_ _een_ _balk_ _dat_ _aan de_ _een_ kant _een_ recht kant hebben _en_ _aan de_ ander kant _een_ schuin kant 
+A|2| A: [en] [een] driehoek _eronder_ 
+B|3| B: _ja_ _ook_ _nog_ _ja_ 
+A|4| A: _oké_ 
+A|5| A: vier _zijn_ [dat] 
+B|6| B: deze staat _weer_ _op de_ rechterschermhelft 
+B|7| B: _bovenin_ 
+B|8| B: _en ook_ _aan de rechterkant van_ _die_ rechterschermhelft 
+A|9| A: bij mij _links_ dus _dat zijn_ niet dezelfde plek denken ik 
+B|10| B: [oké] 
+A|11| A: _dit zijn_ [weer] _met_ [die] _draaien_ [balk] ik vinden _het_ _een trofee_ _en die_ _en die_ [twee kubus] [en dan] opsteken [er] link [nog] _iets_ klein uit [en] _onder_ [zitten] [een] driehoek 
+B|12| B: _ja dat zijn_ A 
+A|13| A: _en die_ _staan_ bij mij [aan de] linkerkant _van het_ scherm 
+A|14| A: _net_ _iets_ _onder_ [de] _horizontaal_ lijn _maar_ _verticaal_ [op] zich wel [weer] _in het midden_ 
+B|15| B: [dat zijn] ergens ander 
+B|16| B: [dit zijn] wat jij [een trofee] noemen [met] [dat] [draaien] dinge [eronder] 
+A|17| A: [ja dat zijn] tien 
+B|18| B: [en] _op de_ linkerschermhelft [staan] [die] [in het midden] 
+B|19| B: [en] [aan _de] onderkant_ 
+A|20| A: [ja] 
+A|21| A: _dit zijn de trofee_ 
+B|22| B: [dat zijn] L 
+A|23| A: _en die zitten_ helemaal rechts [en ook] flink [bovenin] 
+B|24| B: [ja] 
+B|25| B: [dit zijn de trofee] 
+A|26| A: [die] [staan] [ja] vier 
+B|27| B: _en die zitten net_ [links] [van [het] midden] 
+B|28| B: [van het] [verticaal] [midden] 
+B|29| B: [en] [ja] [horizontaal] bijna [in het midden] [maar] omdat [die] zo lang [zijn] [iets] veel _naar onder_ 
+A|30| A: [ja] dus hij [zitten] echt [net] [op de] [aan de] linkerkant 
+A|31| A: [en dan] [net] [naar onder] 
+B|32| B: [ja] 
+A|33| A: [dit zijn de trofee] 
+B|34| B: [ja dat zijn] F 
+A|35| A: [en die zitten net] niet [in het midden] [net] [aan de rechterkant van] [de] 
+A|36| A: [verticaal] lijn [en] [horizontaal] raken [die] [met] [de onderkant] [het midden] zeggen [maar] 
+B|37| B: nee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een heel lang uitsteeksel aan de onderkant een beetje zo'n gedraaide balk
+	Free: Pattern=de onderkant, Pattern=aan de, Pattern=een, Pattern=balk
+	Constrained: Pattern=de
+Turn ID=1| B | B : en dan zitten er twee kubus op en nog een balk dat aan de een kant een recht kant hebben en aan de ander kant een schuin kant
+	Free: Pattern=nog, Pattern=en dan, Pattern=een, Pattern=balk, Pattern=zitten, Pattern=er, Pattern=en, Pattern=dat, Pattern=twee kubus, Pattern=op, Pattern=aan de
+	Constrained: Pattern=de, Pattern=en
+Turn ID=2| A | A : en een driehoek eronder
+	Free: Pattern=een, Pattern=eronder, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja ook nog ja
+	Free: Pattern=ja, Pattern=ook, Pattern=nog
+	Constrained: 
+Turn ID=4| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : vier zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : deze staat weer op de rechterschermhelft
+	Free: Pattern=op de, Pattern=weer
+	Constrained: Pattern=de, Pattern=op
+Turn ID=7| B | B : bovenin
+	Free: Pattern=bovenin
+	Constrained: 
+Turn ID=8| B | B : en ook aan de rechterkant van die rechterschermhelft
+	Free: Pattern=aan de rechterkant van, Pattern=en ook, Pattern=die
+	Constrained: Pattern=de, Pattern=en, Pattern=ook, Pattern=aan de
+Turn ID=9| A | A : bij mij links dus dat zijn niet dezelfde plek denken ik
+	Free: Pattern=dat zijn, Pattern=links
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : dit zijn weer met die draaien balk ik vinden het een trofee en die en die twee kubus en dan opsteken er link nog iets klein uit en onder zitten een driehoek
+	Free: Pattern=en die, Pattern=twee kubus, Pattern=nog, Pattern=iets, Pattern=en dan, Pattern=draaien, Pattern=een, Pattern=het, Pattern=onder, Pattern=balk, Pattern=met, Pattern=er, Pattern=weer, Pattern=dit zijn, Pattern=die, Pattern=zitten, Pattern=een trofee, Pattern=en
+	Constrained: Pattern=zijn, Pattern=en, Pattern=een, Pattern=die
+Turn ID=12| B | B : ja dat zijn A
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=13| A | A : en die staan bij mij aan de linkerkant van het scherm
+	Free: Pattern=en die, Pattern=aan de, Pattern=van het, Pattern=staan
+	Constrained: Pattern=de, Pattern=die, Pattern=en, Pattern=het
+Turn ID=14| A | A : net iets onder de horizontaal lijn maar verticaal op zich wel weer in het midden
+	Free: Pattern=net, Pattern=op, Pattern=onder, Pattern=maar, Pattern=weer, Pattern=de, Pattern=verticaal, Pattern=iets, Pattern=in het midden, Pattern=horizontaal
+	Constrained: Pattern=het midden, Pattern=midden, Pattern=het
+Turn ID=15| B | B : dat zijn ergens ander
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn wat jij een trofee noemen met dat draaien dinge eronder
+	Free: Pattern=dat, Pattern=draaien, Pattern=met, Pattern=dit zijn, Pattern=een trofee, Pattern=eronder
+	Constrained: Pattern=zijn, Pattern=een
+Turn ID=17| A | A : ja dat zijn tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=18| B | B : en op de linkerschermhelft staan die in het midden
+	Free: Pattern=staan, Pattern=die, Pattern=en, Pattern=in het midden, Pattern=op de
+	Constrained: Pattern=het midden, Pattern=de, Pattern=op, Pattern=het, Pattern=midden
+Turn ID=19| B | B : en aan de onderkant
+	Free: Pattern=de onderkant, Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dit zijn de trofee
+	Free: Pattern=dit zijn de trofee
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=zijn
+Turn ID=22| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : en die zitten helemaal rechts en ook flink bovenin
+	Free: Pattern=en die zitten, Pattern=en ook, Pattern=bovenin
+	Constrained: Pattern=en die, Pattern=ook, Pattern=en, Pattern=die, Pattern=zitten
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dit zijn de trofee
+	Free: Pattern=dit zijn de trofee
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=zijn
+Turn ID=26| A | A : die staan ja vier
+	Free: Pattern=staan, Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=27| B | B : en die zitten net links van het midden
+	Free: Pattern=en die zitten net, Pattern=het midden, Pattern=van het, Pattern=links
+	Constrained: Pattern=en die, Pattern=net, Pattern=het, Pattern=en, Pattern=midden, Pattern=en die zitten, Pattern=die, Pattern=zitten
+Turn ID=28| B | B : van het verticaal midden
+	Free: Pattern=van het, Pattern=midden, Pattern=verticaal
+	Constrained: Pattern=het
+Turn ID=29| B | B : en ja horizontaal bijna in het midden maar omdat die zo lang zijn iets veel naar onder
+	Free: Pattern=die, Pattern=en, Pattern=naar onder, Pattern=iets, Pattern=ja, Pattern=zijn, Pattern=maar, Pattern=in het midden, Pattern=horizontaal
+	Constrained: Pattern=het midden, Pattern=midden, Pattern=het, Pattern=onder
+Turn ID=30| A | A : ja dus hij zitten echt net op de aan de linkerkant
+	Free: Pattern=net, Pattern=ja, Pattern=aan de, Pattern=zitten, Pattern=op de
+	Constrained: Pattern=de, Pattern=op
+Turn ID=31| A | A : en dan net naar onder
+	Free: Pattern=en dan, Pattern=naar onder, Pattern=net
+	Constrained: Pattern=en, Pattern=onder
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dit zijn de trofee
+	Free: Pattern=dit zijn de trofee
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=zijn
+Turn ID=34| B | B : ja dat zijn F
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=35| A | A : en die zitten net niet in het midden net aan de rechterkant van de
+	Free: Pattern=aan de rechterkant van, Pattern=net, Pattern=in het midden, Pattern=de, Pattern=en die zitten net
+	Constrained: Pattern=en die, Pattern=het midden, Pattern=net, Pattern=de, Pattern=aan de, Pattern=het, Pattern=en, Pattern=midden, Pattern=en die zitten, Pattern=die, Pattern=zitten
+Turn ID=36| A | A : verticaal lijn en horizontaal raken die met de onderkant het midden zeggen maar
+	Free: Pattern=het midden, Pattern=verticaal, Pattern=met, Pattern=en, Pattern=maar, Pattern=horizontaal, Pattern=die, Pattern=de onderkant
+	Constrained: Pattern=de, Pattern=midden, Pattern=het
+Turn ID=37| B | B : nee
+	Free: 
+	Constrained: 

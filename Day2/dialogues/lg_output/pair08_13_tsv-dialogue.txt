@@ -1,0 +1,119 @@
+B|0| B: _deze_ _hebben_ _een vierkant_ plateau _aan de onderkant_ 
+A|1| A: _ja_ duidelijk 
+B|2| B: [ja] 
+A|3| A: _met_ [een] rond 
+B|4| B: [ja] van _die_ antenne _aan de_ zijkant [ja] 
+A|5| A: [ja] 
+A|6| A: [ja] 
+A|7| A: en [een] rond voorop 
+B|8| B: [ja] 
+A|9| A: tien 
+A|10| A: [ja] [deze] _zijn_ [aan de onderkant] [hebben] hij [een vierkant] , hij hij staan op [een vierkant] hij leunen echt op [een vierkant] 
+B|11| B: [ja] 
+B|12| B: dat [zijn] [ja] [een] _cirkel aan de voorkant_ 
+A|13| A: [ja] 
+B|14| B: [ja] E 
+B|15| B: dit [zijn] [de] enig [met] _die_ plateau [aan de onderkant] 
+A|16| A: [ja] en [die] cirkelvormig [aan de] achterkant 
+B|17| B: [ja] 
+A|18| A: nummer acht 
+A|19| A: [deze] [zijn] [met] het het [vierkant] als basis 
+B|20| B: onderop 
+B|21| B: [ja] [ja] 
+B|22| B: dat [zijn] P 
+B|23| B: dit [zijn] [die] [vierkant] eronder plateau 
+A|24| A: [ja] 
+A|25| A: nummer acht 
+A|26| A: [cirkel aan de voorkant] , [vierkant] onder als basis 
+B|27| B: [ja] 
+B|28| B: O 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een vierkant plateau aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=een vierkant, Pattern=deze, Pattern=hebben
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=1| A | A : ja duidelijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : met een rond
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=4| B | B : ja van die antenne aan de zijkant ja
+	Free: Pattern=aan de, Pattern=ja, Pattern=die
+	Constrained: Pattern=de
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en een rond voorop
+	Free: Pattern=een
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja deze zijn aan de onderkant hebben hij een vierkant , hij hij staan op een vierkant hij leunen echt op een vierkant
+	Free: Pattern=ja, Pattern=hebben, Pattern=aan de onderkant, Pattern=zijn, Pattern=deze, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn ja een cirkel aan de voorkant
+	Free: Pattern=cirkel aan de voorkant, Pattern=ja, Pattern=zijn, Pattern=een
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dit zijn de enig met die plateau aan de onderkant
+	Free: Pattern=de, Pattern=aan de onderkant, Pattern=met, Pattern=die, Pattern=zijn
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| A | A : ja en die cirkelvormig aan de achterkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=die
+	Constrained: Pattern=de
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : deze zijn met het het vierkant als basis
+	Free: Pattern=zijn, Pattern=deze, Pattern=vierkant, Pattern=met
+	Constrained: 
+Turn ID=20| B | B : onderop
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn P
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : dit zijn die vierkant eronder plateau
+	Free: Pattern=zijn, Pattern=die, Pattern=vierkant
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : cirkel aan de voorkant , vierkant onder als basis
+	Free: Pattern=cirkel aan de voorkant, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : O
+	Free: 
+	Constrained: 

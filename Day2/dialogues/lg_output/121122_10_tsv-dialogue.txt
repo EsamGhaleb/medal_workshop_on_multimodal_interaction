@@ -1,0 +1,175 @@
+A|0| A: het _zijn_ _een_ _beetje_ _die_ je _hebben dat_ gewoon _die_ beker _en dan_ _hebben_ je zo'n _soort_ stang horizontaal doorheen _met_ _twee_ bollet _aan de_ uiteinde 
+A|1| A: gewoon _die_ _ja die_ _die_ _ja_ 
+B|2| B: _ja _en_ een_ [soort] van _zonnepaneel_ [aan de] acht erachter 
+A|3| A: _ja die_ [ja] 
+B|4| B: _ja dat zijn nummer_ K 
+A|5| A: [en] _die_ _staan bij mij_ _links_ 
+A|6| A: vrij ver _naar_ _links_ [en] bijna _bovenaan_ 
+B|7| B: [ja] [bij mij] _ook_ 
+B|8| B: [dat] kop _met _die_ twee_ uitstulpsels _en dat_ [soort] van _zonnepaneel_ [aan de] achterkant 
+A|9| A: [ja] 
+A|10| A: [nummer] negen 
+B|11| B: [en] hij [staan bij mij] echt vijfenzeventig procent _naar rechts_ 
+B|12| B: [en dan] net niet [bovenaan] _maar_ 
+A|13| A: _ongeveer op_ zestig zeventig [bovenaan] 
+B|14| B: [ja] 
+A|15| A: [ja] 
+A|16| A: [die] emmer [met die] [met] [dat] paaltje erdoorheen [en] [die twee] bollet [aan de] zijkant 
+A|17| A: _en dat zonnepaneel_ 
+B|18| B: [ja] 
+B|19| B: _dat zijn_ [bij mij] waar _staan die_ 
+B|20| B: F 
+A|21| A: [en dan] [staan die] centrum centrum [en dan] _iets_ veel [naar] _links_ [en] [ook] _iets_ veel _naar onder_ 
+A|22| A: [maar] wel [ook] wel 
+B|23| B: nee [bij mij] [naar] boven 
+A|24| A: oké 
+B|25| B: [ja] 
+B|26| B: _ik_ [hebben] [dan] [met [die] twee] uittulpsel [en] [de] [zonnepaneel] 
+A|27| A: [ja dat zijn] Jezus 
+A|28| A: [nummer] drie 
+B|29| B: [staan bij mij] helemaal onderaan 
+B|30| B: [en dan] vanaf [ongeveer op] vijfentwintig procent van [links] 
+A|31| A: [ja] 
+A|32| A: [die] [die] emmer [met die] staaf erdoorheen [met die] bollet [aan de] zijkant _en dat zonnepaneel_ 
+B|33| B: [ja die] 
+B|34| B: L 
+A|35| A: [die] [staan] _midden midden [en_ een] heel _klein beetje_ _naar onder_ heel _klein beetje_ [naar rechts] denken [ik] 
+B|36| B: [ik] [hebben dat] [met die] ding eruit [en dat zonnepaneel] 
+A|37| A: [ja dat zijn nummer] vijf 
+B|38| B: [ja] 
+B|39| B: [midden midden [en] dan] [ongeveer] vijfentwintig twintig procent [naar onder] 
+A|40| A: [en] [ja en] _iets_ [naar] [links] misschien 
+B|41| B: [ja] nog [iets] [klein beetje] 
+A|42| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het zijn een beetje die je hebben dat gewoon die beker en dan hebben je zo'n soort stang horizontaal doorheen met twee bollet aan de uiteinde
+	Free: Pattern=soort, Pattern=twee, Pattern=en dan, Pattern=aan de, Pattern=beetje, Pattern=een, Pattern=hebben, Pattern=met, Pattern=die, Pattern=hebben dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=de, Pattern=dan, Pattern=hebben, Pattern=en
+Turn ID=1| A | A : gewoon die ja die die ja
+	Free: Pattern=ja die, Pattern=die, Pattern=ja
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=2| B | B : ja en een soort van zonnepaneel aan de acht erachter
+	Free: Pattern=soort, Pattern=aan de, Pattern=en een, Pattern=zonnepaneel, Pattern=ja en
+	Constrained: Pattern=en, Pattern=de, Pattern=ja, Pattern=een
+Turn ID=3| A | A : ja die ja
+	Free: Pattern=ja die, Pattern=ja
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=4| B | B : ja dat zijn nummer K
+	Free: Pattern=ja dat zijn nummer
+	Constrained: Pattern=nummer, Pattern=ja, Pattern=ja dat zijn, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=5| A | A : en die staan bij mij links
+	Free: Pattern=staan bij mij, Pattern=die, Pattern=en, Pattern=links
+	Constrained: Pattern=bij mij, Pattern=staan
+Turn ID=6| A | A : vrij ver naar links en bijna bovenaan
+	Free: Pattern=en, Pattern=naar, Pattern=bovenaan, Pattern=links
+	Constrained: 
+Turn ID=7| B | B : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dat kop met die twee uitstulpsels en dat soort van zonnepaneel aan de achterkant
+	Free: Pattern=soort, Pattern=aan de, Pattern=die twee, Pattern=zonnepaneel, Pattern=en dat, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dat, Pattern=twee, Pattern=de, Pattern=met, Pattern=die, Pattern=en
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nummer negen
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=11| B | B : en hij staan bij mij echt vijfenzeventig procent naar rechts
+	Free: Pattern=staan bij mij, Pattern=naar rechts, Pattern=en
+	Constrained: Pattern=naar, Pattern=staan, Pattern=bij mij
+Turn ID=12| B | B : en dan net niet bovenaan maar
+	Free: Pattern=en dan, Pattern=bovenaan, Pattern=maar
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=13| A | A : ongeveer op zestig zeventig bovenaan
+	Free: Pattern=ongeveer op, Pattern=bovenaan
+	Constrained: Pattern=ongeveer
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : die emmer met die met dat paaltje erdoorheen en die twee bollet aan de zijkant
+	Free: Pattern=aan de, Pattern=die twee, Pattern=met, Pattern=die, Pattern=en, Pattern=dat, Pattern=met die
+	Constrained: Pattern=die, Pattern=de, Pattern=met, Pattern=twee
+Turn ID=17| A | A : en dat zonnepaneel
+	Free: Pattern=en dat zonnepaneel
+	Constrained: Pattern=zonnepaneel, Pattern=dat, Pattern=en dat, Pattern=en
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn bij mij waar staan die
+	Free: Pattern=dat zijn, Pattern=staan die, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=die, Pattern=staan
+Turn ID=20| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : en dan staan die centrum centrum en dan iets veel naar links en ook iets veel naar onder
+	Free: Pattern=iets, Pattern=en dan, Pattern=ook, Pattern=staan die, Pattern=links, Pattern=en, Pattern=naar onder, Pattern=naar
+	Constrained: Pattern=dan, Pattern=staan, Pattern=die, Pattern=en, Pattern=naar
+Turn ID=22| A | A : maar wel ook wel
+	Free: Pattern=ook, Pattern=maar
+	Constrained: 
+Turn ID=23| B | B : nee bij mij naar boven
+	Free: Pattern=bij mij, Pattern=naar
+	Constrained: 
+Turn ID=24| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ik hebben dan met die twee uittulpsel en de zonnepaneel
+	Free: Pattern=met die, Pattern=de, Pattern=dan, Pattern=die twee, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=zonnepaneel
+	Constrained: Pattern=die, Pattern=met, Pattern=twee
+Turn ID=27| A | A : ja dat zijn Jezus
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=28| A | A : nummer drie
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=29| B | B : staan bij mij helemaal onderaan
+	Free: Pattern=staan bij mij
+	Constrained: Pattern=bij mij, Pattern=staan
+Turn ID=30| B | B : en dan vanaf ongeveer op vijfentwintig procent van links
+	Free: Pattern=en dan, Pattern=ongeveer op, Pattern=links
+	Constrained: Pattern=ongeveer, Pattern=en, Pattern=dan
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : die die emmer met die staaf erdoorheen met die bollet aan de zijkant en dat zonnepaneel
+	Free: Pattern=en dat zonnepaneel, Pattern=aan de, Pattern=met die, Pattern=die
+	Constrained: Pattern=dat, Pattern=de, Pattern=met, Pattern=die, Pattern=en, Pattern=zonnepaneel, Pattern=en dat
+Turn ID=33| B | B : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=34| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : die staan midden midden en een heel klein beetje naar onder heel klein beetje naar rechts denken ik
+	Free: Pattern=naar rechts, Pattern=staan, Pattern=die, Pattern=ik, Pattern=naar onder, Pattern=klein beetje, Pattern=midden midden en, Pattern=en een
+	Constrained: Pattern=een, Pattern=naar, Pattern=en, Pattern=beetje
+Turn ID=36| B | B : ik hebben dat met die ding eruit en dat zonnepaneel
+	Free: Pattern=en dat zonnepaneel, Pattern=hebben dat, Pattern=met die, Pattern=ik
+	Constrained: Pattern=dat, Pattern=hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=zonnepaneel, Pattern=en dat
+Turn ID=37| A | A : ja dat zijn nummer vijf
+	Free: Pattern=ja dat zijn nummer
+	Constrained: Pattern=nummer, Pattern=ja, Pattern=ja dat zijn, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : midden midden en dan ongeveer vijfentwintig twintig procent naar onder
+	Free: Pattern=midden midden en, Pattern=naar onder, Pattern=en dan, Pattern=ongeveer
+	Constrained: Pattern=dan, Pattern=naar, Pattern=en
+Turn ID=40| A | A : en ja en iets naar links misschien
+	Free: Pattern=iets, Pattern=links, Pattern=en, Pattern=naar, Pattern=ja en
+	Constrained: Pattern=en, Pattern=ja
+Turn ID=41| B | B : ja nog iets klein beetje
+	Free: Pattern=klein beetje, Pattern=iets, Pattern=ja
+	Constrained: Pattern=beetje
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

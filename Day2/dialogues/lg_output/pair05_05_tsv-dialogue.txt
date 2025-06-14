@@ -1,0 +1,131 @@
+B|0| B: _deze hebben_ _twee_ _oor_ die aan _de_ onderkant bre worden _en_ _een_ soort _hanekam_ op _zijn_ _hoofd_ 
+B|1| B: _een_ klein 
+B|2| B: _en_ ook nog _een_ _neus_ 
+B|3| B: _een_ _neus_ die uit _twee_ vlak bestaan 
+A|4| A: maar wat zeggen wat zeggen je in het begin 
+B|5| B: _een_ soort _oor_ die aan _de_ onderkant bre worden 
+B|6| B: dus die uitstaan 
+A|7| A: ah 
+A|8| A: _ja_ [en] dan [een] [de] [neus] [zijn] [een] _staaf_ 
+A|9| A: wat zitten er bovenop het [hoofd] 
+B|10| B: [een] soort _hanekam_ [een] klein 
+A|11| A: maar _dat zijn_ [een] [een] [een] [een] langhoek [een] 
+B|12| B: [een] één 
+B|13| B: [een] _plat staaf_ [zijn] [dat] 
+A|14| A: [plat staaf] 
+A|15| A: _ja_ okee dan [zijn] het even zeker _weten_ vijf 
+A|16| A: [deze hebben] [een] [hanekam] 
+B|17| B: [ja] ik denken [dat] ik hem al [weten] 
+A|18| A: [ja] ? okee 
+B|19| B: l 
+B|20| B: [deze hebben] [de] lopen _oor_ [en] [de] [hanekam] 
+A|21| A: [ja] 
+A|22| A: _dat zijn_ [twee] 
+A|23| A: [deze hebben] [een] [hanekam] 
+B|24| B: [ja] 
+A|25| A: [en] uitlopen [oor] 
+B|26| B: waar [zijn] die blijven 
+B|27| B: daar [dat zijn] g 
+B|28| B: [hanekam] 
+A|29| A: even zoeken [een] 
+A|30| A: [hanekam] 
+B|31| B: [dat zijn] b 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben twee oor die aan de onderkant bre worden en een soort hanekam op zijn hoofd
+	Free: Pattern=twee, Pattern=een, Pattern=deze hebben, Pattern=hanekam, Pattern=en, Pattern=zijn, Pattern=hoofd, Pattern=de, Pattern=oor
+	Constrained: 
+Turn ID=1| B | B : een klein
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| B | B : en ook nog een neus
+	Free: Pattern=een, Pattern=en, Pattern=neus
+	Constrained: 
+Turn ID=3| B | B : een neus die uit twee vlak bestaan
+	Free: Pattern=een, Pattern=neus, Pattern=twee
+	Constrained: 
+Turn ID=4| A | A : maar wat zeggen wat zeggen je in het begin
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : een soort oor die aan de onderkant bre worden
+	Free: Pattern=een, Pattern=oor, Pattern=de
+	Constrained: 
+Turn ID=6| B | B : dus die uitstaan
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja en dan een de neus zijn een staaf
+	Free: Pattern=staaf, Pattern=een, Pattern=neus, Pattern=en, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : wat zitten er bovenop het hoofd
+	Free: Pattern=hoofd
+	Constrained: 
+Turn ID=10| B | B : een soort hanekam een klein
+	Free: Pattern=een, Pattern=hanekam
+	Constrained: 
+Turn ID=11| A | A : maar dat zijn een een een een langhoek een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : een één
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| B | B : een plat staaf zijn dat
+	Free: Pattern=plat staaf, Pattern=een, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=staaf
+Turn ID=14| A | A : plat staaf
+	Free: Pattern=plat staaf
+	Constrained: Pattern=staaf
+Turn ID=15| A | A : ja okee dan zijn het even zeker weten vijf
+	Free: Pattern=ja, Pattern=weten, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : deze hebben een hanekam
+	Free: Pattern=deze hebben, Pattern=een, Pattern=hanekam
+	Constrained: 
+Turn ID=17| B | B : ja ik denken dat ik hem al weten
+	Free: Pattern=ja, Pattern=weten, Pattern=dat
+	Constrained: 
+Turn ID=18| A | A : ja ? okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : deze hebben de lopen oor en de hanekam
+	Free: Pattern=deze hebben, Pattern=hanekam, Pattern=en, Pattern=de, Pattern=oor
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| A | A : deze hebben een hanekam
+	Free: Pattern=deze hebben, Pattern=een, Pattern=hanekam
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : en uitlopen oor
+	Free: Pattern=oor, Pattern=en
+	Constrained: 
+Turn ID=26| B | B : waar zijn die blijven
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : daar dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=28| B | B : hanekam
+	Free: Pattern=hanekam
+	Constrained: 
+Turn ID=29| A | A : even zoeken een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=30| A | A : hanekam
+	Free: Pattern=hanekam
+	Constrained: 
+Turn ID=31| B | B : dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

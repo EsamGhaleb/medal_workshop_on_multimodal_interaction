@@ -1,0 +1,131 @@
+A|0| A: _oké_ nu _hebben_ _ik_ er één 
+A|1| A: dit _zijn_ _een_ bak _met een_ soort _propeller_ _aan_ _de_ voorkant _en_ hij _wijken_ veel uit _naar rechts_ _en de_ rechterkant _zijn_ _een_ _een_ stok eigenlijk van _de_ uit _de propeller_ _die_ _een_ rond eraan vast , bij _de_ rechterkant _zitten_ hij 
+B|2| B: waar [zitten] [de propeller] 
+A|3| A: hij [zitten] op [de] voorkant _zijn_ _een_ _een_ bobbel [de] voorkant van [de] bak _zijn_ _een_ bobbel _die_ doorboren _zijn_ _met een_ staaf 
+B|4| B: _ja_ 
+A|5| A: _en_ _dan_ _wijken_ hij uit _naar rechts_ 
+B|6| B: [en [de] propeller] [wijken] _ook_ af [naar rechts] 
+A|7| A: _het_ _zijn_ eigenlijk _het_ _zijn_ _een_ , je mogen [ook] _met_ [de] hand communiceren , _het_ _zijn_ één [de] bak _met een_ bol _aan_ [de] voorkant 
+B|8| B: _ja_ 
+B|9| B: _ja_ 
+A|10| A: _en daar_ [zitten] _een_ staaf doorheen 
+B|11| B: _ja_ 
+A|12| A: _aan_ [de] rechterkant [zitten] nog _een_ rond 
+B|13| B: _ja_ [oké] [dan] weten [ik] [het] 
+A|14| A: [oké] 
+B|15| B: [dan] _zijn het_ M 
+B|16| B: [een] kop [met een] lepeltje zo zien [ik] [het] [en] [een] _ei [met_ een] _zuignap_ 
+B|17| B: _ja_ _dat_ _ei_ [hebben] [een] _pilaar_ [en daar] _zuignap_ _ja_ 
+A|18| A: [oké] 
+A|19| A: [ja] 
+A|20| A: _dat zijn_ nummer zeven 
+A|21| A: nu [zijn het] wel degeen [met] [de] [zuignap] 
+B|22| B: [oké] makkelijk [dat zijn] [dan] K 
+B|23| B: koffiekopje [met een] [zuignap] [en] [een] _ei_ 
+B|24| B: waar [die] [aan] vastgemaaktten [zijn] 
+A|25| A: nummer tien 
+A|26| A: [het] [ei met] [de] [pilaar] [met] [de] balk er doorheen , [met] [de] [zuignap] 
+B|27| B: [ja] 
+B|28| B: [ei] 
+B|29| B: I 
+B|30| B: [een] kop [met een] lepel erin [en] [een] [zuignap] [die] door [de] [ei] spiesen [zijn] 
+A|31| A: [ja] zeven 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nu hebben ik er één
+	Free: Pattern=oké, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : dit zijn een bak met een soort propeller aan de voorkant en hij wijken veel uit naar rechts en de rechterkant zijn een een stok eigenlijk van de uit de propeller die een rond eraan vast , bij de rechterkant zitten hij
+	Free: Pattern=naar rechts, Pattern=een, Pattern=en de, Pattern=wijken, Pattern=de propeller, Pattern=met een, Pattern=en, Pattern=propeller, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=een, Pattern=met, Pattern=en, Pattern=propeller
+Turn ID=2| B | B : waar zitten de propeller
+	Free: Pattern=de propeller, Pattern=zitten
+	Constrained: Pattern=de, Pattern=propeller
+Turn ID=3| A | A : hij zitten op de voorkant zijn een een bobbel de voorkant van de bak zijn een bobbel die doorboren zijn met een staaf
+	Free: Pattern=de, Pattern=een, Pattern=met een, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=een, Pattern=met
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en dan wijken hij uit naar rechts
+	Free: Pattern=naar rechts, Pattern=en, Pattern=wijken, Pattern=dan
+	Constrained: 
+Turn ID=6| B | B : en de propeller wijken ook af naar rechts
+	Free: Pattern=naar rechts, Pattern=ook, Pattern=en de, Pattern=wijken, Pattern=de propeller
+	Constrained: Pattern=en, Pattern=de, Pattern=propeller
+Turn ID=7| A | A : het zijn eigenlijk het zijn een , je mogen ook met de hand communiceren , het zijn één de bak met een bol aan de voorkant
+	Free: Pattern=ook, Pattern=een, Pattern=het, Pattern=met, Pattern=met een, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=een, Pattern=met
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en daar zitten een staaf doorheen
+	Free: Pattern=en daar, Pattern=een, Pattern=zitten
+	Constrained: Pattern=en
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : aan de rechterkant zitten nog een rond
+	Free: Pattern=de, Pattern=aan, Pattern=een, Pattern=zitten
+	Constrained: 
+Turn ID=13| B | B : ja oké dan weten ik het
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : dan zijn het M
+	Free: Pattern=zijn het, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=16| B | B : een kop met een lepeltje zo zien ik het en een ei met een zuignap
+	Free: Pattern=een, Pattern=het, Pattern=ei met, Pattern=met een, Pattern=ik, Pattern=en, Pattern=zuignap
+	Constrained: Pattern=ei, Pattern=een, Pattern=met
+Turn ID=17| B | B : ja dat ei hebben een pilaar en daar zuignap ja
+	Free: Pattern=ei, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=zuignap, Pattern=pilaar, Pattern=dat, Pattern=en daar
+	Constrained: Pattern=en
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=21| A | A : nu zijn het wel degeen met de zuignap
+	Free: Pattern=zijn het, Pattern=de, Pattern=zuignap, Pattern=met
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=22| B | B : oké makkelijk dat zijn dan K
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| B | B : koffiekopje met een zuignap en een ei
+	Free: Pattern=ei, Pattern=een, Pattern=met een, Pattern=en, Pattern=zuignap
+	Constrained: Pattern=een, Pattern=met
+Turn ID=24| B | B : waar die aan vastgemaaktten zijn
+	Free: Pattern=aan, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=25| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : het ei met de pilaar met de balk er doorheen , met de zuignap
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=ei met, Pattern=zuignap, Pattern=pilaar
+	Constrained: Pattern=ei, Pattern=met
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ei
+	Free: Pattern=ei
+	Constrained: 
+Turn ID=29| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : een kop met een lepel erin en een zuignap die door de ei spiesen zijn
+	Free: Pattern=ei, Pattern=de, Pattern=een, Pattern=die, Pattern=met een, Pattern=en, Pattern=zijn, Pattern=zuignap
+	Constrained: Pattern=een, Pattern=met
+Turn ID=31| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,163 @@
+B|0| B: _ja_ _deze_ _zijn_ _een beetje_ compact 
+B|1| B: _aan de_ _bovenkant_ _hebben_ hij _een_ gewoon rechthoekig _staaf_ horizontaal 
+A|2| A: [ja] 
+B|3| B: _en_ links _ja een_ figuur die _ik_ _beetje_ [ja] _zijn_ _een beetje_ _rond_ maar 
+A|4| A: [ja] 
+B|5| B: geen bal _en_ _rechts_ zitten _ook_ iets maar _dat zijn ook een soort goo_ 
+A|6| A: nee 
+A|7| A: [ja] 
+A|8| A: precies [dat zijn ook een soort goo] 
+A|9| A: [en] in [dat] gootje lijken nog _zo'n_ [rond] 
+B|10| B: [ja] 
+B|11| B: rechtop 
+A|12| A: [ja] 
+B|13| B: [ja] 
+A|14| A: cilindertje 
+A|15| A: acht 
+A|16| A: [deze] [hebben] [een soort] gootje [aan de] voorkant 
+A|17| A: [een beetje] naar [de] [rechts] keren , of [een beetje] naar [rechts] draaien 
+A|18| A: [en] op [dat] gootje _staan_ één [ja een] 
+B|19| B: _stok_ 
+A|20| A: [een] houten [stok] [ja] 
+B|21| B: [en] [een] _staaf_ bovenop horizontaal 
+A|22| A: [ja] 
+A|23| A: [en] [aan de] linkerkant [een soort] rondvormig vleugelachtig [ik] weten niet 
+B|24| B: [ja] 
+B|25| B: [dat zijn] G 
+B|26| B: _dit zijn_ weer [een beetje] die compact , [dat] er [rechts] [een] [goo] [zijn] , [en] link [zo'n] uh , [ja] , [rond] iets achtig , bovenop [een] horizontaal _staaf_ 
+A|27| A: [ja] nummer dertien 
+A|28| A: [dit zijn] met [dat] gootje [aan de] rechter voorkant met het [staaf] in het [goo] 
+B|29| B: [ja] 
+B|30| B: [staaf] bovenop 
+A|31| A: [ja] 
+B|32| B: [ja] 
+B|33| B: E 
+B|34| B: [dit zijn] die compact [staaf] , horizontaal bovenop , [goo] [rechts] waar [een] pijp bovenop [staan] 
+A|35| A: [ja] 
+A|36| A: [ja] [ja] [ja] [ja] 
+A|37| A: nummer dertien 
+A|38| A: [deze] [hebben] [een] gootje met het met het rechtstaand [staaf] [en] [bovenkant] [dat] langwerpig vierkantje 
+B|39| B: [ja] M 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze zijn een beetje compact
+	Free: Pattern=een beetje, Pattern=ja, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=een, Pattern=beetje
+Turn ID=1| B | B : aan de bovenkant hebben hij een gewoon rechthoekig staaf horizontaal
+	Free: Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=bovenkant
+	Constrained: Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en links ja een figuur die ik beetje ja zijn een beetje rond maar
+	Free: Pattern=ja, Pattern=beetje, Pattern=ja een, Pattern=ik, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=ja, Pattern=een, Pattern=beetje
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : geen bal en rechts zitten ook iets maar dat zijn ook een soort goo
+	Free: Pattern=dat zijn ook een soort goo, Pattern=en, Pattern=rechts, Pattern=ook
+	Constrained: Pattern=ook, Pattern=goo, Pattern=een, Pattern=een soort, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=6| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : precies dat zijn ook een soort goo
+	Free: Pattern=dat zijn ook een soort goo
+	Constrained: Pattern=ook, Pattern=goo, Pattern=een, Pattern=een soort, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=9| A | A : en in dat gootje lijken nog zo'n rond
+	Free: Pattern=dat, Pattern=zo'n, Pattern=en, Pattern=rond
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : rechtop
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : cilindertje
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : deze hebben een soort gootje aan de voorkant
+	Free: Pattern=aan de, Pattern=een soort, Pattern=hebben, Pattern=deze
+	Constrained: Pattern=een, Pattern=de
+Turn ID=17| A | A : een beetje naar de rechts keren , of een beetje naar rechts draaien
+	Free: Pattern=een beetje, Pattern=rechts, Pattern=de
+	Constrained: Pattern=een, Pattern=beetje
+Turn ID=18| A | A : en op dat gootje staan één ja een
+	Free: Pattern=ja een, Pattern=dat, Pattern=en, Pattern=staan
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=19| B | B : stok
+	Free: Pattern=stok
+	Constrained: 
+Turn ID=20| A | A : een houten stok ja
+	Free: Pattern=ja, Pattern=een, Pattern=stok
+	Constrained: 
+Turn ID=21| B | B : en een staaf bovenop horizontaal
+	Free: Pattern=en, Pattern=een, Pattern=staaf
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en aan de linkerkant een soort rondvormig vleugelachtig ik weten niet
+	Free: Pattern=aan de, Pattern=een soort, Pattern=en, Pattern=ik
+	Constrained: Pattern=een, Pattern=de
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : dit zijn weer een beetje die compact , dat er rechts een goo zijn , en link zo'n uh , ja , rond iets achtig , bovenop een horizontaal staaf
+	Free: Pattern=dat, Pattern=zo'n, Pattern=staaf, Pattern=goo, Pattern=een, Pattern=en, Pattern=rond, Pattern=zijn, Pattern=een beetje, Pattern=dit zijn, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=een, Pattern=beetje
+Turn ID=27| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dit zijn met dat gootje aan de rechter voorkant met het staaf in het goo
+	Free: Pattern=dat, Pattern=staaf, Pattern=aan de, Pattern=goo, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : staaf bovenop
+	Free: Pattern=staaf
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : dit zijn die compact staaf , horizontaal bovenop , goo rechts waar een pijp bovenop staan
+	Free: Pattern=rechts, Pattern=staaf, Pattern=goo, Pattern=dit zijn, Pattern=een, Pattern=staan
+	Constrained: Pattern=zijn
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : deze hebben een gootje met het met het rechtstaand staaf en bovenkant dat langwerpig vierkantje
+	Free: Pattern=dat, Pattern=staaf, Pattern=een, Pattern=en, Pattern=deze, Pattern=hebben, Pattern=bovenkant
+	Constrained: 
+Turn ID=39| B | B : ja M
+	Free: Pattern=ja
+	Constrained: 

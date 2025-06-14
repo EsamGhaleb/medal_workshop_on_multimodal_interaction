@@ -1,0 +1,75 @@
+B|0| B: deze hebben _twee_ voelsprieten _bovenop_ 
+A|1| A: ja dat zijn 
+B|2| B: _en_ _een vierkant _vlak_ erdoorheen_ 
+A|3| A: dat zijn veertien 
+A|4| A: elf 
+A|5| A: _het_ [vierkant vlak] zitten er dwars doorheen 
+B|6| B: met de _spriet bovenop_ 
+A|7| A: ja _twee spriet bovenop_ 
+B|8| B: p 
+B|9| B: p 
+B|10| B: [het] [spriet bovenop] _en_ [het] rechtervlak door [het] midden 
+A|11| A: ja drie 
+A|12| A: [twee] klein voelsprietjes [een] [vlak erdoorheen] 
+B|13| B: g 
+B|14| B: [vlak] door [het] midden _en twee spriet bovenop_ 
+A|15| A: zeven 
+A|16| A: [een vierkant vlak] er recht doorheen [en twee spriet bovenop] 
+B|17| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben twee voelsprieten bovenop
+	Free: Pattern=bovenop, Pattern=twee
+	Constrained: 
+Turn ID=1| A | A : ja dat zijn
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : en een vierkant vlak erdoorheen
+	Free: Pattern=een vierkant vlak, Pattern=vlak erdoorheen, Pattern=en
+	Constrained: Pattern=vierkant vlak, Pattern=een, Pattern=vlak
+Turn ID=3| A | A : dat zijn veertien
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : het vierkant vlak zitten er dwars doorheen
+	Free: Pattern=vierkant vlak, Pattern=het
+	Constrained: Pattern=vlak
+Turn ID=6| B | B : met de spriet bovenop
+	Free: Pattern=spriet bovenop
+	Constrained: Pattern=bovenop
+Turn ID=7| A | A : ja twee spriet bovenop
+	Free: Pattern=twee spriet bovenop
+	Constrained: Pattern=spriet bovenop, Pattern=bovenop, Pattern=twee
+Turn ID=8| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : het spriet bovenop en het rechtervlak door het midden
+	Free: Pattern=spriet bovenop, Pattern=en, Pattern=het
+	Constrained: Pattern=bovenop
+Turn ID=11| A | A : ja drie
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : twee klein voelsprietjes een vlak erdoorheen
+	Free: Pattern=vlak erdoorheen, Pattern=een, Pattern=twee
+	Constrained: Pattern=vlak
+Turn ID=13| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : vlak door het midden en twee spriet bovenop
+	Free: Pattern=en twee spriet bovenop, Pattern=het, Pattern=vlak
+	Constrained: Pattern=bovenop, Pattern=twee, Pattern=spriet bovenop, Pattern=twee spriet bovenop, Pattern=en
+Turn ID=15| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : een vierkant vlak er recht doorheen en twee spriet bovenop
+	Free: Pattern=en twee spriet bovenop, Pattern=een vierkant vlak
+	Constrained: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=spriet bovenop, Pattern=twee spriet bovenop, Pattern=vierkant vlak, Pattern=vlak, Pattern=en
+Turn ID=17| B | B : d
+	Free: 
+	Constrained: 

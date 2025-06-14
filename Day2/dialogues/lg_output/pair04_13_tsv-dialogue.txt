@@ -1,0 +1,143 @@
+B|0| B: _okee_ _de hoofdvorm_ _staan_ _op een_ vierkant _plateau_ 
+B|1| B: _met_ _aan_ _de_ bovenkant _steken_ _er_ soort _van_ _ja_ vierkant laten maar zeggen _aan_ _twee_ _kant_ _uit_ 
+B|2| B: dus _aan_ _de_ _een_ _kant_ _en_ dan _aan_ _de_ voorkant _zitten een cirkel_ 
+A|3| A: [ja] 
+A|4| A: [ja] [okee] 
+A|5| A: _dat_ _zijn_ nummer [een] 
+A|6| A: hier _hebben_ we [de hoofdvorm] [op een] platform [staan] 
+A|7| A: [op] [de hoofdvorm] [zitten een cirkel] 
+A|8| A: [en] [aan] beide [kant] [steken] [een] [ja] [een] [een] één [ja] 
+B|9| B: [ja] 
+B|10| B: l 
+A|11| A: versiersel [uit] 
+B|12| B: e 
+B|13| B: _dit zijn de hoofdvorm_ [dat] _er_ eigenlijk als _het_ [zijn] allemaal _van die_ klein vierkan rechts [en] links uitsteken 
+B|14| B: _en het_ [staan] [op een] vierkant _plateau_ 
+B|15| B: _met een_ soort _van_ kraan _die_ _er_ linksachter uitsteken [en] [een] cirkelplateau [hebben] erbovenop 
+A|16| A: [ja] 
+A|17| A: nummer drie 
+A|18| A: [dit zijn de hoofdvorm] [die] [op] [de] [op] [het] [plateau] [staan] [met een] rond [cirkel] [er] [aan] vastgeplakken [en het] versiersel 
+B|19| B: yes 
+B|20| B: n 
+B|21| B: [dit zijn de hoofdvorm] waarbij [een] plat [cirkel] voorop [zijn] 
+B|22| B: _twee_ _van die_ gek uitsteeksel bovenop links [en] rechts [en] hij [staan] [op een] vierkant [plateau] 
+B|23| B: [en] als [het] [zijn] _twee_ kraant ernaast soort _van_ _twee_ 
+B|24| B: [en] dan [dat] cirkelplatform [zijn] dus echt tegen [de hoofdvorm] [aan] 
+A|25| A: even kijken hoor 
+B|26| B: dus je [hebben] [de hoofdvorm] cirkelplateau [er] vast tegenaan daar bovenop [zijn] rechts [en] link _van die_ [ja] gek 
+A|27| A: [ja] 
+A|28| A: [van die] versiersel 
+B|29| B: [ja] [van die] [ja] 
+A|30| A: [ja] 
+A|31| A: nummer [twee] 
+A|32| A: [dit zijn de] versiersel [de hoofdvorm] [met] [de] versiersel 
+B|33| B: [de] c 
+B|34| B: [de] c 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee de hoofdvorm staan op een vierkant plateau
+	Free: Pattern=de hoofdvorm, Pattern=okee, Pattern=staan, Pattern=plateau, Pattern=op een
+	Constrained: Pattern=een, Pattern=de, Pattern=op
+Turn ID=1| B | B : met aan de bovenkant steken er soort van ja vierkant laten maar zeggen aan twee kant uit
+	Free: Pattern=kant, Pattern=twee, Pattern=uit, Pattern=met, Pattern=er, Pattern=van, Pattern=steken, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : dus aan de een kant en dan aan de voorkant zitten een cirkel
+	Free: Pattern=kant, Pattern=een, Pattern=zitten een cirkel, Pattern=en, Pattern=de, Pattern=aan
+	Constrained: Pattern=een, Pattern=cirkel
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja okee
+	Free: Pattern=ja, Pattern=okee
+	Constrained: 
+Turn ID=5| A | A : dat zijn nummer een
+	Free: Pattern=dat, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : hier hebben we de hoofdvorm op een platform staan
+	Free: Pattern=op een, Pattern=de hoofdvorm, Pattern=hebben, Pattern=staan
+	Constrained: Pattern=een, Pattern=de, Pattern=op
+Turn ID=7| A | A : op de hoofdvorm zitten een cirkel
+	Free: Pattern=zitten een cirkel, Pattern=de hoofdvorm, Pattern=op
+	Constrained: Pattern=een, Pattern=de, Pattern=cirkel
+Turn ID=8| A | A : en aan beide kant steken een ja een een één ja
+	Free: Pattern=kant, Pattern=een, Pattern=en, Pattern=steken, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : versiersel uit
+	Free: Pattern=uit
+	Constrained: 
+Turn ID=12| B | B : e
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dit zijn de hoofdvorm dat er eigenlijk als het zijn allemaal van die klein vierkan rechts en links uitsteken
+	Free: Pattern=dat, Pattern=het, Pattern=er, Pattern=zijn, Pattern=dit zijn de hoofdvorm, Pattern=van die, Pattern=en
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=die, Pattern=van, Pattern=zijn, Pattern=dit zijn de
+Turn ID=14| B | B : en het staan op een vierkant plateau
+	Free: Pattern=op een, Pattern=en het, Pattern=plateau, Pattern=staan
+	Constrained: Pattern=en, Pattern=een, Pattern=op, Pattern=het
+Turn ID=15| B | B : met een soort van kraan die er linksachter uitsteken en een cirkelplateau hebben erbovenop
+	Free: Pattern=een, Pattern=hebben, Pattern=die, Pattern=met een, Pattern=er, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=met
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn de hoofdvorm die op de op het plateau staan met een rond cirkel er aan vastgeplakken en het versiersel
+	Free: Pattern=cirkel, Pattern=staan, Pattern=het, Pattern=plateau, Pattern=die, Pattern=met een, Pattern=er, Pattern=dit zijn de hoofdvorm, Pattern=de, Pattern=aan, Pattern=op, Pattern=en het
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn, Pattern=dit zijn de
+Turn ID=19| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : dit zijn de hoofdvorm waarbij een plat cirkel voorop zijn
+	Free: Pattern=dit zijn de hoofdvorm, Pattern=een, Pattern=cirkel, Pattern=zijn
+	Constrained: Pattern=dit zijn de, Pattern=de, Pattern=zijn, Pattern=de hoofdvorm
+Turn ID=22| B | B : twee van die gek uitsteeksel bovenop links en rechts en hij staan op een vierkant plateau
+	Free: Pattern=twee, Pattern=staan, Pattern=plateau, Pattern=op een, Pattern=van die, Pattern=en
+	Constrained: Pattern=van, Pattern=een, Pattern=op, Pattern=die
+Turn ID=23| B | B : en als het zijn twee kraant ernaast soort van twee
+	Free: Pattern=twee, Pattern=het, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : en dan dat cirkelplatform zijn dus echt tegen de hoofdvorm aan
+	Free: Pattern=de hoofdvorm, Pattern=dat, Pattern=aan, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=25| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : dus je hebben de hoofdvorm cirkelplateau er vast tegenaan daar bovenop zijn rechts en link van die ja gek
+	Free: Pattern=de hoofdvorm, Pattern=ja, Pattern=hebben, Pattern=er, Pattern=zijn, Pattern=van die, Pattern=en
+	Constrained: Pattern=van, Pattern=de, Pattern=die
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : van die versiersel
+	Free: Pattern=van die
+	Constrained: Pattern=van, Pattern=die
+Turn ID=29| B | B : ja van die ja
+	Free: Pattern=van die, Pattern=ja
+	Constrained: Pattern=van, Pattern=die
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=32| A | A : dit zijn de versiersel de hoofdvorm met de versiersel
+	Free: Pattern=dit zijn de, Pattern=de hoofdvorm, Pattern=de, Pattern=met
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=33| B | B : de c
+	Free: Pattern=de
+	Constrained: 
+Turn ID=34| B | B : de c
+	Free: Pattern=de
+	Constrained: 

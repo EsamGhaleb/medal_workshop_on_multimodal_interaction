@@ -1,0 +1,175 @@
+B|0| B: _deze_ _hebben _een_ ei_ als _neus_ 
+B|1| B: link _een_ _arm_ 
+B|2| B: _klein_ 
+B|3| B: _en_ Linksboven _een_ gek figuur _een_ traan _met_ _nog een_ _rond_ eraan 
+A|4| A: [en] [een] vierkant 
+B|5| B: [en] vierkantje boven 
+A|6| A: _ja_ heel rechthoekig 
+B|7| B: [ja] _rechthoek_ 
+B|8| B: [ja] 
+A|9| A: _ja dat zijn_ nummer vijf bij mij 
+A|10| A: [ja] sorry 
+B|11| B: maken niet uit 
+A|12| A: _dit zijn_ [hebben] _zo'n_ [neus] [en] dan hij _het_ _zijn_ [een] soort soort vorm van _een kegel_ maar dan veel alsof _het_ [een] _wespenlichaam_ _zijn_ _weten_ _je_ _in_ twee deel 
+A|13| A: [en] _aan de rechterkant_ [hebben] hij _een een_ hoek _dat_ zo uitsteken 
+A|14| A: [en] dan [hebben] hij [nog een] miniarmpje _aan de_ linkerkant 
+B|15| B: okee wachten even kunnen [je] _die_ [nog een] keer doen ? _die_ [weten] ik even niet 
+A|16| A: _dat zijn_ [een] 
+A|17| A: [ja] [een] [neus] [een] beetje _aan de rechterkant_ 
+A|18| A: [rond] 
+A|19| A: _zo'n_ [ei] 
+A|20| A: dan [hebben] hij [een] miniarmpje 
+A|21| A: [en] dan [hebben] hij _aan_ [deze] kant [hebben] hij _zo'n_ soort kegelvormig _iets_ maar dan veel _in_ wespenvorm 
+B|22| B: _ja en_ [in] [het] midden [nog [een] _een] rechthoek_ 
+A|23| A: [ja en] dan [nog [een] rechthoek] 
+B|24| B: okee [dat zijn] l 
+B|25| B: [deze] _hebben _een_ ei_ als [neus] [aan de rechterkant] 
+B|26| B: Linksboven [je] noemen [het] geen [kegel] [je] noemen [het] [iets] wat op [een kegel] lijken 
+A|27| A: [een] _wespenlichaam_ 
+B|28| B: [ja] [wespenlichaam] 
+A|29| A: [en] dan _zo'n_ _zo'n_ [rechthoek] [en] [een] [klein] armp 
+B|30| B: [ja] [zo'n] ding recht omhoog 
+B|31| B: [ja] 
+A|32| A: [dat zijn] acht 
+A|33| A: [deze] [die] [hebben een] -lichaam [en] [een] balk [en] [een] [neus] hier [en] [een] raar [arm] 
+B|34| B: [ja dat zijn] c 
+B|35| B: [dit zijn] _met_ [de] wesp [en] [de] [het] [ei] als [neus] rechts 
+A|36| A: [ja en] [een] [klein] raar armp [en] [een] balk toch 
+B|37| B: [ja] 
+B|38| B: [ja] 
+A|39| A: twaalf 
+A|40| A: [dit zijn] [die] [een] [met] [het] [wespenlichaam] [een] [neus] of [ja] [een ei] [en] hier [zo'n] balk 
+B|41| B: [ja dat zijn] b 
+A|42| A: [en] [nog een] armp 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een ei als neus
+	Free: Pattern=een ei, Pattern=hebben een, Pattern=neus, Pattern=deze
+	Constrained: Pattern=ei, Pattern=hebben, Pattern=een
+Turn ID=1| B | B : link een arm
+	Free: Pattern=arm, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : klein
+	Free: Pattern=klein
+	Constrained: 
+Turn ID=3| B | B : en Linksboven een gek figuur een traan met nog een rond eraan
+	Free: Pattern=nog een, Pattern=een, Pattern=met, Pattern=en, Pattern=rond
+	Constrained: Pattern=een
+Turn ID=4| A | A : en een vierkant
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=5| B | B : en vierkantje boven
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja heel rechthoekig
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja rechthoek
+	Free: Pattern=ja, Pattern=rechthoek
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja dat zijn nummer vijf bij mij
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=10| A | A : ja sorry
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : maken niet uit
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn hebben zo'n neus en dan hij het zijn een soort soort vorm van een kegel maar dan veel alsof het een wespenlichaam zijn weten je in twee deel
+	Free: Pattern=zo'n, Pattern=een, Pattern=weten, Pattern=het, Pattern=in, Pattern=neus, Pattern=wespenlichaam, Pattern=en, Pattern=zijn, Pattern=je, Pattern=dit zijn, Pattern=hebben, Pattern=een kegel
+	Constrained: Pattern=zijn, Pattern=kegel, Pattern=een
+Turn ID=13| A | A : en aan de rechterkant hebben hij een een hoek dat zo uitsteken
+	Free: Pattern=dat, Pattern=hebben, Pattern=een een, Pattern=aan de rechterkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=14| A | A : en dan hebben hij nog een miniarmpje aan de linkerkant
+	Free: Pattern=aan de, Pattern=nog een, Pattern=hebben, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=een
+Turn ID=15| B | B : okee wachten even kunnen je die nog een keer doen ? die weten ik even niet
+	Free: Pattern=nog een, Pattern=die, Pattern=weten, Pattern=je
+	Constrained: Pattern=een
+Turn ID=16| A | A : dat zijn een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : ja een neus een beetje aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=neus, Pattern=ja, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=18| A | A : rond
+	Free: Pattern=rond
+	Constrained: 
+Turn ID=19| A | A : zo'n ei
+	Free: Pattern=ei, Pattern=zo'n
+	Constrained: 
+Turn ID=20| A | A : dan hebben hij een miniarmpje
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=21| A | A : en dan hebben hij aan deze kant hebben hij zo'n soort kegelvormig iets maar dan veel in wespenvorm
+	Free: Pattern=zo'n, Pattern=hebben, Pattern=in, Pattern=en, Pattern=deze, Pattern=aan, Pattern=iets
+	Constrained: 
+Turn ID=22| B | B : ja en in het midden nog een een rechthoek
+	Free: Pattern=een rechthoek, Pattern=nog een, Pattern=het, Pattern=in, Pattern=een een, Pattern=ja en
+	Constrained: Pattern=ja, Pattern=rechthoek, Pattern=en, Pattern=een
+Turn ID=23| A | A : ja en dan nog een rechthoek
+	Free: Pattern=een rechthoek, Pattern=ja en, Pattern=nog een
+	Constrained: Pattern=ja, Pattern=rechthoek, Pattern=en, Pattern=een
+Turn ID=24| B | B : okee dat zijn l
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| B | B : deze hebben een ei als neus aan de rechterkant
+	Free: Pattern=hebben een, Pattern=een ei, Pattern=neus, Pattern=aan de rechterkant, Pattern=deze
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=de, Pattern=aan
+Turn ID=26| B | B : Linksboven je noemen het geen kegel je noemen het iets wat op een kegel lijken
+	Free: Pattern=kegel, Pattern=iets, Pattern=het, Pattern=een kegel, Pattern=je
+	Constrained: Pattern=kegel, Pattern=een
+Turn ID=27| A | A : een wespenlichaam
+	Free: Pattern=wespenlichaam, Pattern=een
+	Constrained: 
+Turn ID=28| B | B : ja wespenlichaam
+	Free: Pattern=ja, Pattern=wespenlichaam
+	Constrained: 
+Turn ID=29| A | A : en dan zo'n zo'n rechthoek en een klein armp
+	Free: Pattern=een, Pattern=klein, Pattern=en, Pattern=rechthoek, Pattern=zo'n
+	Constrained: 
+Turn ID=30| B | B : ja zo'n ding recht omhoog
+	Free: Pattern=zo'n, Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=33| A | A : deze die hebben een -lichaam en een balk en een neus hier en een raar arm
+	Free: Pattern=hebben een, Pattern=een, Pattern=neus, Pattern=die, Pattern=deze, Pattern=arm, Pattern=en
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=34| B | B : ja dat zijn c
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=35| B | B : dit zijn met de wesp en de het ei als neus rechts
+	Free: Pattern=ei, Pattern=de, Pattern=het, Pattern=neus, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=36| A | A : ja en een klein raar armp en een balk toch
+	Free: Pattern=ja en, Pattern=en, Pattern=klein, Pattern=een
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : dit zijn die een met het wespenlichaam een neus of ja een ei en hier zo'n balk
+	Free: Pattern=zo'n, Pattern=ja, Pattern=een, Pattern=het, Pattern=een ei, Pattern=neus, Pattern=met, Pattern=die, Pattern=wespenlichaam, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=ei, Pattern=zijn, Pattern=een
+Turn ID=41| B | B : ja dat zijn b
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=42| A | A : en nog een armp
+	Free: Pattern=nog een, Pattern=en
+	Constrained: Pattern=een

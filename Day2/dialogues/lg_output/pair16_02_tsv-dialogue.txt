@@ -1,0 +1,191 @@
+A|0| A: ah 
+A|1| A: okee nou nu tekortkomen _we_ bij _de_ tipitent 
+A|2| A: zitten _een_ driehoek _bovenop_ _en_ _dat zijn_ _de_ tipitent 
+B|3| B: _ja_ 
+A|4| A: _en_ dan _hebben_ je linksonder _een _een_ rond_ 
+B|5| B: _ja_ 
+A|6| A: _en_ links _hebben_ je één [ja] _een soort_ van oog 
+A|7| A: _dat_ eruit _komen_ 
+A|8| A: het beginnen heel smal 
+B|9| B: [soort] _verrekijker_ 
+A|10| A: [ja] _zijn_ precies 
+B|11| B: [ja] 
+A|12| A: _en_ die worden dan steeds bred 
+A|13| A: eindigen wel in cilindervorm dan 
+B|14| B: [ja] 
+A|15| A: _en_ dan beetje rechtsvoor uitstekend _een_ beetje _een een_ gek blok _dat_ _ik_ _niet_ echt kunnen plaatsen het [ja] het 
+B|16| B: meerder vorm 
+B|17| B: [ik] [hebben] _hem_ denken [ik] _al_ 
+A|18| A: [ja] 
+B|19| B: [ja] 
+A|20| A: okee 
+B|21| B: [ik] _gaan_ _voor_ b 
+B|22| B: deze [hebben] [een [een] een] pyramidevorm [bovenop] 
+B|23| B: [en] [een soort] _verrekijker_ aan [de] linkerkant 
+B|24| B: [een rond] schijf onderaan 
+B|25| B: [en] [een een] object waar [we] allebei nog [niet] uit [zijn] [komen] aan [de] ander kant 
+A|26| A: wat het nou [zijn] 
+A|27| A: [ja] nou dan [gaan] [ik] [voor] nummer [een] 
+B|28| B: [ja] 
+A|29| A: dit [zijn] [de] tipitent [bovenop] 
+B|30| B: [ja] 
+A|31| A: _dat_ raar figuur rechtsvoor waarvan [we] [niet] weten wat het [zijn] 
+B|32| B: uhu 
+A|33| A: linksonder [een rond] [en] link verrekijkerachtig ding 
+B|34| B: [ja] [dat zijn] [voor] mij j 
+B|35| B: pyramide op [de] bovenkant 
+B|36| B: klein [rond] schijf aan [de] onderkant 
+B|37| B: ondefinieerbaar object aan rechterkant 
+A|38| A: [ja] [ik] zien [hem] [al] 
+A|39| A: nummer twee 
+A|40| A: tipitent 
+A|41| A: link [verrekijker] 
+A|42| A: [dat] raar blok 
+B|43| B: [ja] [dat zijn] p 
+A|44| A: vooraan 
+B|45| B: ondefinieerbaar object [en] pyramidevorm [bovenop] 
+A|46| A: nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : okee nou nu tekortkomen we bij de tipitent
+	Free: Pattern=we, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : zitten een driehoek bovenop en dat zijn de tipitent
+	Free: Pattern=de, Pattern=een, Pattern=en, Pattern=dat zijn, Pattern=bovenop
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en dan hebben je linksonder een een rond
+	Free: Pattern=een rond, Pattern=een een, Pattern=en, Pattern=hebben
+	Constrained: Pattern=een, Pattern=rond
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en links hebben je één ja een soort van oog
+	Free: Pattern=een soort, Pattern=en, Pattern=hebben, Pattern=ja
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=7| A | A : dat eruit komen
+	Free: Pattern=komen, Pattern=dat
+	Constrained: 
+Turn ID=8| A | A : het beginnen heel smal
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : soort verrekijker
+	Free: Pattern=soort, Pattern=verrekijker
+	Constrained: 
+Turn ID=10| A | A : ja zijn precies
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : en die worden dan steeds bred
+	Free: Pattern=en
+	Constrained: 
+Turn ID=13| A | A : eindigen wel in cilindervorm dan
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : en dan beetje rechtsvoor uitstekend een beetje een een gek blok dat ik niet echt kunnen plaatsen het ja het
+	Free: Pattern=dat, Pattern=ja, Pattern=niet, Pattern=een, Pattern=een een, Pattern=ik, Pattern=en
+	Constrained: Pattern=een
+Turn ID=16| B | B : meerder vorm
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ik hebben hem denken ik al
+	Free: Pattern=hebben, Pattern=ik, Pattern=al, Pattern=hem
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ik gaan voor b
+	Free: Pattern=gaan, Pattern=ik, Pattern=voor
+	Constrained: 
+Turn ID=22| B | B : deze hebben een een een pyramidevorm bovenop
+	Free: Pattern=een een, Pattern=bovenop, Pattern=hebben
+	Constrained: Pattern=een
+Turn ID=23| B | B : en een soort verrekijker aan de linkerkant
+	Free: Pattern=een soort, Pattern=en, Pattern=de, Pattern=verrekijker
+	Constrained: Pattern=een, Pattern=soort
+Turn ID=24| B | B : een rond schijf onderaan
+	Free: Pattern=een rond
+	Constrained: Pattern=een, Pattern=rond
+Turn ID=25| B | B : en een een object waar we allebei nog niet uit zijn komen aan de ander kant
+	Free: Pattern=de, Pattern=niet, Pattern=komen, Pattern=een een, Pattern=we, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=26| A | A : wat het nou zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=27| A | A : ja nou dan gaan ik voor nummer een
+	Free: Pattern=ja, Pattern=een, Pattern=voor, Pattern=ik, Pattern=gaan
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : dit zijn de tipitent bovenop
+	Free: Pattern=zijn, Pattern=bovenop, Pattern=de
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dat raar figuur rechtsvoor waarvan we niet weten wat het zijn
+	Free: Pattern=zijn, Pattern=we, Pattern=niet, Pattern=dat
+	Constrained: 
+Turn ID=32| B | B : uhu
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : linksonder een rond en link verrekijkerachtig ding
+	Free: Pattern=een rond, Pattern=en
+	Constrained: Pattern=een, Pattern=rond
+Turn ID=34| B | B : ja dat zijn voor mij j
+	Free: Pattern=dat zijn, Pattern=voor, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=35| B | B : pyramide op de bovenkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=36| B | B : klein rond schijf aan de onderkant
+	Free: Pattern=rond, Pattern=de
+	Constrained: 
+Turn ID=37| B | B : ondefinieerbaar object aan rechterkant
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : ja ik zien hem al
+	Free: Pattern=ik, Pattern=al, Pattern=hem, Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : tipitent
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : link verrekijker
+	Free: Pattern=verrekijker
+	Constrained: 
+Turn ID=42| A | A : dat raar blok
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=43| B | B : ja dat zijn p
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=44| A | A : vooraan
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : ondefinieerbaar object en pyramidevorm bovenop
+	Free: Pattern=en, Pattern=bovenop
+	Constrained: 
+Turn ID=46| A | A : nummer dertien
+	Free: 
+	Constrained: 

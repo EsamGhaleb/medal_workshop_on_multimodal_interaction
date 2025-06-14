@@ -1,0 +1,87 @@
+B|0| B: _bak met_ _een_ schermpje op _zijn_ zij 
+B|1| B: _en met_ _twee_ armp zo voor zich uit _en_ _een_ antenne op _zijn_ kop 
+A|2| A: _ja_ 
+A|3| A: _dat zijn_ nummer [een] 
+A|4| A: _de_ [bak met] _aan de_ voorkant _een vierkant_ _aan de linkerkant_ [zijn] _die_ [twee] torent [en] bovenop [zijn] [een] [een] soort van _spijker_ _die_ [zijn] erop timmeren 
+B|5| B: [ja] 
+B|6| B: [dat zijn] J 
+B|7| B: [bak] 
+B|8| B: [ja] [een] flatscreen tv'tje hebben hij [met] zich mee , of [een vierkant] 
+B|9| B: [en] [die] zo op hem plakken [zijn] 
+B|10| B: [en] [twee] armp [aan] [die] kant , [en] [een] antenne op [zijn] hoofd 
+A|11| A: [ja] 
+A|12| A: zeven [zijn] [dat] 
+A|13| A: [bak met] _aan de_ voorkant _de_ _plaat_ , het [vierkant] _aan de linkerkant_ , _de_ [twee] uitsteeksel , oort 
+A|14| A: [en met] _de_ _spijker_ bovenop 
+B|15| B: [zijn] I 
+B|16| B: [een] [plaat] op [zijn] zijkant , [spijker] op [zijn] kop , of [een] antenne , _en aan de linkerkant_ [twee] toren 
+A|17| A: [ja] zeven 
+A|18| A: [de] [bak met] [aan de] voorkant [de] pilaar [en aan de linkerkant] [de] [twee] uitstulping [met] [de] [spijker] er bovenin 
+B|19| B: [met] zo'n rond plateau 
+B|20| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : bak met een schermpje op zijn zij
+	Free: Pattern=bak met, Pattern=een, Pattern=zijn
+	Constrained: Pattern=bak, Pattern=met
+Turn ID=1| B | B : en met twee armp zo voor zich uit en een antenne op zijn kop
+	Free: Pattern=twee, Pattern=een, Pattern=en met, Pattern=en, Pattern=zijn
+	Constrained: Pattern=en, Pattern=met
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=4| A | A : de bak met aan de voorkant een vierkant aan de linkerkant zijn die twee torent en bovenop zijn een een soort van spijker die zijn erop timmeren
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn, Pattern=een vierkant, Pattern=aan de, Pattern=bak met, Pattern=spijker, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=bak, Pattern=met, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : bak
+	Free: Pattern=bak
+	Constrained: 
+Turn ID=8| B | B : ja een flatscreen tv'tje hebben hij met zich mee , of een vierkant
+	Free: Pattern=een vierkant, Pattern=ja, Pattern=een, Pattern=met
+	Constrained: Pattern=vierkant, Pattern=een
+Turn ID=9| B | B : en die zo op hem plakken zijn
+	Free: Pattern=en, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=10| B | B : en twee armp aan die kant , en een antenne op zijn hoofd
+	Free: Pattern=twee, Pattern=aan, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : zeven zijn dat
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=13| A | A : bak met aan de voorkant de plaat , het vierkant aan de linkerkant , de twee uitsteeksel , oort
+	Free: Pattern=twee, Pattern=de, Pattern=vierkant, Pattern=aan de linkerkant, Pattern=plaat, Pattern=aan de, Pattern=bak met
+	Constrained: Pattern=aan de, Pattern=bak, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=14| A | A : en met de spijker bovenop
+	Free: Pattern=en met, Pattern=spijker, Pattern=de
+	Constrained: Pattern=en, Pattern=met
+Turn ID=15| B | B : zijn I
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : een plaat op zijn zijkant , spijker op zijn kop , of een antenne , en aan de linkerkant twee toren
+	Free: Pattern=twee, Pattern=een, Pattern=en aan de linkerkant, Pattern=zijn, Pattern=spijker, Pattern=plaat
+	Constrained: Pattern=aan de, Pattern=en, Pattern=aan de linkerkant, Pattern=de, Pattern=aan
+Turn ID=17| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : de bak met aan de voorkant de pilaar en aan de linkerkant de twee uitstulping met de spijker er bovenin
+	Free: Pattern=twee, Pattern=de, Pattern=spijker, Pattern=aan de, Pattern=bak met, Pattern=en aan de linkerkant, Pattern=met
+	Constrained: Pattern=aan de, Pattern=bak, Pattern=met, Pattern=en, Pattern=aan de linkerkant, Pattern=de, Pattern=aan
+Turn ID=19| B | B : met zo'n rond plateau
+	Free: Pattern=met
+	Constrained: 
+Turn ID=20| B | B : J
+	Free: 
+	Constrained: 

@@ -1,0 +1,103 @@
+A|0| A: hij _hebben_ _een_ _groot_ lang ovaal druppel _boven en link_ 
+A|1| A: _en een_ _kubus_ aan _de_ rechterkant 
+A|2| A: net als _een_ trapezius _dat_ hij zo _een_ beetje ingekrempen _zijn_ _die kubus_ 
+A|3| A: dus _kubus rechts en_ zo'n lang druppel _boven en link_ 
+B|4| B: ik kunnen hem niet vinden 
+A|5| A: dus _één_ zo'n ovaal dinge zo 
+A|6| A: daarboven _en dan_ ook _links_ 
+A|7| A: _en dan_ _rechts_ _een_ _kubus_ 
+A|8| A: _en_ _boven_ _die_ linker _zijn_ nog _een_ _klein_ heel _klein uitsteeksel_ 
+B|9| B: okee [dat] [zijn] e denken ik 
+B|10| B: deze [hebben] [dat] [groot] vlak waar je af tegen _ja_ [die kubus] weer [rechts] 
+B|11| B: [en een] handvat [boven [en] dan] [één] [link] 
+B|12| B: met [dat] [klein uitsteeksel] [boven] [link] 
+A|13| A: [ja] 
+A|14| A: negen 
+A|15| A: _de_ ovaal antenne [boven en] _links_ _en _de_ kubus rechts_ 
+B|16| B: j 
+B|17| B: _de kubus rechts en de_ twee handvat [boven en link] met [een] [uitsteeksel] 
+A|18| A: [ja] vijfteen 
+A|19| A: [de kubus rechts en de] voelspriet Erboven [en link] 
+B|20| B: waar vinden ik deze 
+B|21| B: ik kunnen hem niet vinden 
+B|22| B: g 
+B|23| B: [kubus rechts] handvat [boven en] handvat [links] 
+A|24| A: [een] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hij hebben een groot lang ovaal druppel boven en link
+	Free: Pattern=boven en link, Pattern=groot, Pattern=hebben, Pattern=een
+	Constrained: Pattern=boven, Pattern=en link, Pattern=en, Pattern=boven en, Pattern=link
+Turn ID=1| A | A : en een kubus aan de rechterkant
+	Free: Pattern=en een, Pattern=de, Pattern=kubus
+	Constrained: Pattern=een, Pattern=en
+Turn ID=2| A | A : net als een trapezius dat hij zo een beetje ingekrempen zijn die kubus
+	Free: Pattern=die kubus, Pattern=een, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=die, Pattern=kubus
+Turn ID=3| A | A : dus kubus rechts en zo'n lang druppel boven en link
+	Free: Pattern=boven en link, Pattern=kubus rechts en
+	Constrained: Pattern=rechts, Pattern=boven, Pattern=en link, Pattern=en, Pattern=kubus, Pattern=boven en, Pattern=link, Pattern=kubus rechts
+Turn ID=4| B | B : ik kunnen hem niet vinden
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dus één zo'n ovaal dinge zo
+	Free: Pattern=één
+	Constrained: 
+Turn ID=6| A | A : daarboven en dan ook links
+	Free: Pattern=en dan, Pattern=links
+	Constrained: Pattern=en
+Turn ID=7| A | A : en dan rechts een kubus
+	Free: Pattern=en dan, Pattern=rechts, Pattern=een, Pattern=kubus
+	Constrained: Pattern=en
+Turn ID=8| A | A : en boven die linker zijn nog een klein heel klein uitsteeksel
+	Free: Pattern=boven, Pattern=klein uitsteeksel, Pattern=een, Pattern=die, Pattern=klein, Pattern=en, Pattern=zijn
+	Constrained: Pattern=uitsteeksel, Pattern=klein
+Turn ID=9| B | B : okee dat zijn e denken ik
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : deze hebben dat groot vlak waar je af tegen ja die kubus weer rechts
+	Free: Pattern=dat, Pattern=die kubus, Pattern=rechts, Pattern=ja, Pattern=groot, Pattern=hebben
+	Constrained: Pattern=die, Pattern=kubus
+Turn ID=11| B | B : en een handvat boven en dan één link
+	Free: Pattern=en dan, Pattern=en een, Pattern=één, Pattern=boven en, Pattern=link
+	Constrained: Pattern=een, Pattern=en, Pattern=boven
+Turn ID=12| B | B : met dat klein uitsteeksel boven link
+	Free: Pattern=klein uitsteeksel, Pattern=dat, Pattern=link, Pattern=boven
+	Constrained: Pattern=uitsteeksel, Pattern=klein
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : de ovaal antenne boven en links en de kubus rechts
+	Free: Pattern=de, Pattern=de kubus rechts, Pattern=boven en, Pattern=links, Pattern=en de
+	Constrained: Pattern=boven, Pattern=kubus rechts, Pattern=en, Pattern=kubus, Pattern=de, Pattern=rechts
+Turn ID=16| B | B : j
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : de kubus rechts en de twee handvat boven en link met een uitsteeksel
+	Free: Pattern=de kubus rechts en de, Pattern=boven en link, Pattern=uitsteeksel, Pattern=een
+	Constrained: Pattern=kubus rechts en, Pattern=boven, Pattern=en de, Pattern=de kubus rechts, Pattern=en link, Pattern=en, Pattern=kubus, Pattern=de, Pattern=rechts, Pattern=boven en, Pattern=link, Pattern=kubus rechts
+Turn ID=18| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : de kubus rechts en de voelspriet Erboven en link
+	Free: Pattern=de kubus rechts en de, Pattern=en link
+	Constrained: Pattern=kubus rechts en, Pattern=en de, Pattern=de kubus rechts, Pattern=en, Pattern=kubus, Pattern=de, Pattern=rechts, Pattern=link, Pattern=kubus rechts
+Turn ID=20| B | B : waar vinden ik deze
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ik kunnen hem niet vinden
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : kubus rechts handvat boven en handvat links
+	Free: Pattern=boven en, Pattern=kubus rechts, Pattern=links
+	Constrained: Pattern=rechts, Pattern=en, Pattern=boven, Pattern=kubus
+Turn ID=24| A | A : een
+	Free: Pattern=een
+	Constrained: 

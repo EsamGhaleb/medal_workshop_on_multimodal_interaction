@@ -1,0 +1,187 @@
+B|0| B: even kijken deze _hebben_ _een_ _een_ soort _wokkel aan de onderkant en_ daaraan _een driehoek_ 
+B|1| B: _heel_ kenmerken 
+A|2| A: _ja_ _dat_ _kunnen er_ _maar één zijn_ 
+B|3| B: [ja] [kunnen er] _echt_ [maar één zijn] 
+A|4| A: _dat zijn_ vier _voor mij_ 
+B|5| B: _en _hij_ staan_ _bij mij_ als je _het kruis_ weer trekken _rechtsboven_ _echt_ _helemaal_ rechts bovenin 
+A|6| A: _nee_ _die_ _van_ [mij] [staan] [rechtsboven] [en] dan _in_ [het] midden _van_ _dat_ vak dus _dat_ worden [een] ander 
+B|7| B: [kunnen] 
+B|8| B: oké 
+A|9| A: _dit zijn_ degeen _met de_ spiraal [aan de onderkant en] dan [een driehoek] 
+B|10| B: [ja] 
+A|11| A: [ja] 
+B|12| B: [dat zijn] [voor mij] A 
+A|13| A: _die_ _zitten_ [voor mij] _hij zitten_ _links_ [en _hij] zitten_ [een] beetje _door_ _de middellijn_ heen 
+B|14| B: _bij mij_ _zitten die_ erboven _boven [de_ middellijn] 
+B|15| B: [in] ieder geval _ver naar_ [ja] 
+A|16| A: _nee_ doen [bij mij] [zijn] [het] [echt] [een] twijfelgeval of [die] onder of [boven de] _lijn_ vallen 
+B|17| B: _dit zijn die met_ [het] _wokkel_ [en] [het] [driehoek] eronder 
+A|18| A: [ja] 
+A|19| A: [dat zijn] tien [voor mij] 
+B|20| B: _en die_ 
+A|21| A: [die] [zitten] [voor] jou _ook_ _naast_ [de] _naast het_ eend toch ? [met] [die] trapezium 
+B|22| B: [ja] 
+A|23| A: [ja] 
+B|24| B: [ja] 
+A|25| A: [die] [zitten] linksonder [en] dan [zitten die] ernaast 
+B|26| B: [ja] 
+A|27| A: volgens [mij] _weten_ ik [het] nog 
+B|28| B: [ja] 
+B|29| B: oké 
+A|30| A: [dit zijn die _met] de [wokkel_ aan de onderkant en] dan [de] [driehoek] 
+B|31| B: [dat zijn] L [voor mij] 
+A|32| A: _en die staan_ [voor mij] [helemaal] [rechtsboven] 
+B|33| B: [ja] [voor mij] [ook] 
+B|34| B: [dit zijn die] weer [met de wokkel] [en] [het] [driehoek] [aan de onderkant] 
+A|35| A: [ja] [dat zijn] vier [voor mij] 
+B|36| B: [en die staan] [links] 
+B|37| B: [van] [de middellijn] [en] [de] verticaal [lijn] [die] scheiden _hem_ [door] twee snijden _hem_ doormidden 
+A|38| A: [zitten die] [in] [het] buurt [van] [het kruis] of [zitten die] veel [ver naar] [links] 
+B|39| B: [nee] [hij zitten] [echt] _wel_ direct [links] [naast [het] kruis] 
+A|40| A: [ja] daar [hebben] ik [hem] [ook] 
+A|41| A: [dit zijn] [de] [met de wokkel] onderaan 
+B|42| B: [ja] 
+B|43| B: F 
+A|44| A: [hij staan] [voor mij] ik denken net [in] [het] rechterbovenvak [maar] [wel] [heel] erg tegen [het kruis] [aan] 
+B|45| B: [nee] [hij staan] [bij mij] zeker [weten] [links] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken deze hebben een een soort wokkel aan de onderkant en daaraan een driehoek
+	Free: Pattern=wokkel aan de onderkant en, Pattern=een driehoek, Pattern=hebben, Pattern=een
+	Constrained: Pattern=driehoek, Pattern=wokkel, Pattern=een, Pattern=aan de onderkant, Pattern=aan de onderkant en, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=1| B | B : heel kenmerken
+	Free: Pattern=heel
+	Constrained: 
+Turn ID=2| A | A : ja dat kunnen er maar één zijn
+	Free: Pattern=maar één zijn, Pattern=kunnen er, Pattern=dat, Pattern=ja
+	Constrained: Pattern=kunnen, Pattern=zijn, Pattern=maar
+Turn ID=3| B | B : ja kunnen er echt maar één zijn
+	Free: Pattern=maar één zijn, Pattern=kunnen er, Pattern=echt, Pattern=ja
+	Constrained: Pattern=kunnen, Pattern=zijn, Pattern=maar
+Turn ID=4| A | A : dat zijn vier voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij, Pattern=voor
+Turn ID=5| B | B : en hij staan bij mij als je het kruis weer trekken rechtsboven echt helemaal rechts bovenin
+	Free: Pattern=het kruis, Pattern=rechtsboven, Pattern=helemaal, Pattern=hij staan, Pattern=bij mij, Pattern=echt, Pattern=en hij
+	Constrained: Pattern=mij, Pattern=staan, Pattern=en, Pattern=het
+Turn ID=6| A | A : nee die van mij staan rechtsboven en dan in het midden van dat vak dus dat worden een ander
+	Free: Pattern=dat, Pattern=rechtsboven, Pattern=nee, Pattern=het, Pattern=in, Pattern=die, Pattern=mij, Pattern=een, Pattern=staan, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : kunnen
+	Free: Pattern=kunnen
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dit zijn degeen met de spiraal aan de onderkant en dan een driehoek
+	Free: Pattern=aan de onderkant en, Pattern=met de, Pattern=een driehoek, Pattern=dit zijn
+	Constrained: Pattern=driehoek, Pattern=een, Pattern=aan de onderkant, Pattern=met, Pattern=en, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn voor mij A
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij, Pattern=voor
+Turn ID=13| A | A : die zitten voor mij hij zitten links en hij zitten een beetje door de middellijn heen
+	Free: Pattern=hij zitten, Pattern=door, Pattern=een, Pattern=links, Pattern=voor mij, Pattern=en hij, Pattern=de middellijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=voor, Pattern=zitten, Pattern=mij, Pattern=en
+Turn ID=14| B | B : bij mij zitten die erboven boven de middellijn
+	Free: Pattern=zitten die, Pattern=bij mij, Pattern=boven de, Pattern=de middellijn
+	Constrained: Pattern=mij, Pattern=de, Pattern=die, Pattern=zitten
+Turn ID=15| B | B : in ieder geval ver naar ja
+	Free: Pattern=ver naar, Pattern=ja, Pattern=in
+	Constrained: 
+Turn ID=16| A | A : nee doen bij mij zijn het echt een twijfelgeval of die onder of boven de lijn vallen
+	Free: Pattern=een, Pattern=nee, Pattern=die, Pattern=zijn, Pattern=bij mij, Pattern=boven de, Pattern=het, Pattern=echt, Pattern=lijn
+	Constrained: Pattern=mij, Pattern=de
+Turn ID=17| B | B : dit zijn die met het wokkel en het driehoek eronder
+	Free: Pattern=driehoek, Pattern=wokkel, Pattern=het, Pattern=dit zijn die met, Pattern=en
+	Constrained: Pattern=dit zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn tien voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij, Pattern=voor
+Turn ID=20| B | B : en die
+	Free: Pattern=en die
+	Constrained: Pattern=die, Pattern=en
+Turn ID=21| A | A : die zitten voor jou ook naast de naast het eend toch ? met die trapezium
+	Free: Pattern=de, Pattern=ook, Pattern=voor, Pattern=naast, Pattern=met, Pattern=naast het, Pattern=die, Pattern=zitten
+	Constrained: Pattern=naast, Pattern=het
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : die zitten linksonder en dan zitten die ernaast
+	Free: Pattern=zitten die, Pattern=die, Pattern=zitten, Pattern=en
+	Constrained: Pattern=die, Pattern=zitten
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : volgens mij weten ik het nog
+	Free: Pattern=weten, Pattern=het, Pattern=mij
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=30| A | A : dit zijn die met de wokkel aan de onderkant en dan de driehoek
+	Free: Pattern=driehoek, Pattern=de, Pattern=dit zijn die met, Pattern=wokkel aan de onderkant en, Pattern=met de wokkel
+	Constrained: Pattern=dit zijn die, Pattern=wokkel, Pattern=aan de onderkant, Pattern=aan de onderkant en, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=met de, Pattern=aan
+Turn ID=31| B | B : dat zijn L voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij, Pattern=voor
+Turn ID=32| A | A : en die staan voor mij helemaal rechtsboven
+	Free: Pattern=en die staan, Pattern=voor mij, Pattern=rechtsboven, Pattern=helemaal
+	Constrained: Pattern=en die, Pattern=staan, Pattern=voor, Pattern=die, Pattern=mij, Pattern=en
+Turn ID=33| B | B : ja voor mij ook
+	Free: Pattern=voor mij, Pattern=ook, Pattern=ja
+	Constrained: Pattern=mij, Pattern=voor
+Turn ID=34| B | B : dit zijn die weer met de wokkel en het driehoek aan de onderkant
+	Free: Pattern=driehoek, Pattern=dit zijn die, Pattern=het, Pattern=aan de onderkant, Pattern=met de wokkel, Pattern=en
+	Constrained: Pattern=wokkel, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=met de, Pattern=aan
+Turn ID=35| A | A : ja dat zijn vier voor mij
+	Free: Pattern=voor mij, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij, Pattern=voor
+Turn ID=36| B | B : en die staan links
+	Free: Pattern=en die staan, Pattern=links
+	Constrained: Pattern=die, Pattern=en, Pattern=staan, Pattern=en die
+Turn ID=37| B | B : van de middellijn en de verticaal lijn die scheiden hem door twee snijden hem doormidden
+	Free: Pattern=de, Pattern=door, Pattern=die, Pattern=lijn, Pattern=hem, Pattern=de middellijn, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=38| A | A : zitten die in het buurt van het kruis of zitten die veel ver naar links
+	Free: Pattern=het kruis, Pattern=links, Pattern=het, Pattern=in, Pattern=ver naar, Pattern=van, Pattern=zitten die
+	Constrained: Pattern=die, Pattern=zitten, Pattern=het
+Turn ID=39| B | B : nee hij zitten echt wel direct links naast het kruis
+	Free: Pattern=het kruis, Pattern=hij zitten, Pattern=wel, Pattern=echt, Pattern=naast het, Pattern=links, Pattern=nee
+	Constrained: Pattern=naast, Pattern=zitten, Pattern=het
+Turn ID=40| A | A : ja daar hebben ik hem ook
+	Free: Pattern=ook, Pattern=hebben, Pattern=hem, Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : dit zijn de met de wokkel onderaan
+	Free: Pattern=met de wokkel, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=wokkel, Pattern=met, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : hij staan voor mij ik denken net in het rechterbovenvak maar wel heel erg tegen het kruis aan
+	Free: Pattern=het kruis, Pattern=heel, Pattern=aan, Pattern=hij staan, Pattern=wel, Pattern=het, Pattern=in, Pattern=voor mij, Pattern=maar
+	Constrained: Pattern=voor, Pattern=mij, Pattern=het, Pattern=staan
+Turn ID=45| B | B : nee hij staan bij mij zeker weten links
+	Free: Pattern=hij staan, Pattern=bij mij, Pattern=weten, Pattern=links, Pattern=nee
+	Constrained: Pattern=staan, Pattern=mij

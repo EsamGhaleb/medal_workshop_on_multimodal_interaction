@@ -1,0 +1,123 @@
+A|0| A: _ja_ deze hebben _een_ soort van cirkele plaat _aan de_ rechterkant 
+A|1| A: _en_ _aan de linkerkant_ _een_ soort pin _met_ _ja_ wat _zijn_ _het een_ _een_ soort _schoorsteen_ die van smal naar dikk gaan die omhoog wijzen 
+B|2| B: [ja] [ja] 
+B|3| B: [ja] [ja] _ja dat_ [het] [het] [aan de linkerkant] lijken [het een] beetje op [een] hondenkluif 
+A|4| A: [ja] 
+B|5| B: juist 
+A|6| A: _en_ [aan de] rechterkant _zijn_ zo'n plaat die over horizontaal echt 
+B|7| B: [ja] 
+B|8| B: okee _ja dat zijn_ g 
+B|9| B: [ja] _dit zijn_ jou [schoorsteen] [en] hondenkluif [en] plateau 
+A|10| A: [ja] 
+A|11| A: nummer zeven 
+B|12| B: [ja] [het] lijken wel alsof hij [een] pijp roken 
+A|13| A: [ja] 
+B|14| B: [ja] 
+A|15| A: [dit zijn] weer _de schoorsteen_ 
+B|16| B: [de schoorsteen] 
+B|17| B: juist juist 
+B|18| B: [met] [met] [het] hondenkluif 
+A|19| A: [ja] 
+B|20| B: _dat zijn_ p 
+B|21| B: [schoorsteen] [en] hondenkluif 
+A|22| A: nummer twee 
+A|23| A: [de] hoe heten [dat] nou [schoorsteen] 
+A|24| A: [met] [de] plaat [de] die rond plaat rechts 
+B|25| B: [ja] [de schoorsteen] [ja] [ja] [ja] 
+B|26| B: ik zoeken hem ik zoeken hem 
+B|27| B: [ja] hier _dat zijn_ j 
+B|28| B: [schoorsteen] 
+A|29| A: [ja dat zijn] twee 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja deze hebben een soort van cirkele plaat aan de rechterkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=een
+	Constrained: Pattern=de
+Turn ID=1| A | A : en aan de linkerkant een soort pin met ja wat zijn het een een soort schoorsteen die van smal naar dikk gaan die omhoog wijzen
+	Free: Pattern=het een, Pattern=ja, Pattern=een, Pattern=schoorsteen, Pattern=met, Pattern=en, Pattern=zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=het, Pattern=aan de, Pattern=een
+Turn ID=2| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja ja ja dat het het aan de linkerkant lijken het een beetje op een hondenkluif
+	Free: Pattern=het een, Pattern=ja, Pattern=een, Pattern=het, Pattern=ja dat, Pattern=aan de linkerkant
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=het, Pattern=de, Pattern=ja
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : juist
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en aan de rechterkant zijn zo'n plaat die over horizontaal echt
+	Free: Pattern=aan de, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : okee ja dat zijn g
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=9| B | B : ja dit zijn jou schoorsteen en hondenkluif en plateau
+	Free: Pattern=dit zijn, Pattern=en, Pattern=schoorsteen, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : nummer zeven
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ja het lijken wel alsof hij een pijp roken
+	Free: Pattern=het, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dit zijn weer de schoorsteen
+	Free: Pattern=dit zijn, Pattern=de schoorsteen
+	Constrained: Pattern=zijn, Pattern=schoorsteen, Pattern=de
+Turn ID=16| B | B : de schoorsteen
+	Free: Pattern=de schoorsteen
+	Constrained: Pattern=schoorsteen, Pattern=de
+Turn ID=17| B | B : juist juist
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : met met het hondenkluif
+	Free: Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn p
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| B | B : schoorsteen en hondenkluif
+	Free: Pattern=en, Pattern=schoorsteen
+	Constrained: 
+Turn ID=22| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : de hoe heten dat nou schoorsteen
+	Free: Pattern=schoorsteen, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=24| A | A : met de plaat de die rond plaat rechts
+	Free: Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=25| B | B : ja de schoorsteen ja ja ja
+	Free: Pattern=de schoorsteen, Pattern=ja
+	Constrained: Pattern=schoorsteen, Pattern=de
+Turn ID=26| B | B : ik zoeken hem ik zoeken hem
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : ja hier dat zijn j
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=28| B | B : schoorsteen
+	Free: Pattern=schoorsteen
+	Constrained: 
+Turn ID=29| A | A : ja dat zijn twee
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn

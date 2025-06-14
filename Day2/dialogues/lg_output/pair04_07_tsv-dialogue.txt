@@ -1,0 +1,111 @@
+B|0| B: _je_ _hebben_ _dus_ _weer de hoofdvorm_ 
+B|1| B: _en_ eigenllijk _staan_ _het_ _zitten_ _er_ nu ook _weer_ _een_ vierkant _plateau_ _omheen_ maar dan aan _de_ bovenkant 
+B|2| B: _met twee_ soort _van_ _poot_ 
+B|3| B: aan _de_ rechterkant 
+B|4| B: _en_ daarop _staan_ ook _weer_ zo'n soort _van_ _yoghurtbak_ 
+A|5| A: _ja_ 
+A|6| A: _dat_ _zijn_ nummer zestien 
+A|7| A: hier [hebben] [je] [weer de hoofdvorm] _met een_ [plateau] [een] beetje _boven_ [het] midden [van] [de hoofdvorm] [met twee] [poot] eronder _en een yoghurtbak_ erop 
+B|8| B: [ja] 
+B|9| B: m 
+B|10| B: dit [zijn] [de hoofdvorm] [dat] [het] vierkant [plateau] waar [de hoofdvorm] _in_ staat [boven] _zitten_ [met een] soort [van] [yoghurtbak] bovenop [en] [twee] tafelpoot [zijn] daaraan vast 
+A|11| A: [ja] nummer dertien 
+A|12| A: deze [hoofdvorm] [hebben] bovenaan [boven] [het] midden [een] [plateau] [in] zich _en een yoghurtbak_ [er] op [en] [je] zien linksachter nog [een] heel klein uitsteeksel 
+B|13| B: yes 
+B|14| B: f 
+B|15| B: dit [zijn] [de hoofdvorm] [dat] [het] vierkant [plateau] [met een] soort [van] poo helemaal bovenop [ja] [het] [hoofdvorm] _staan_ laten we maar zeggen [in] [dat] vierkant [plateau] [en] [er] _staan_ [van] _die_ tafelpoot _zitten_ eraan vast [en een yoghurtbak] bovenop 
+A|16| A: [ja] 
+A|17| A: even zoeken hoor 
+A|18| A: _ik_ kunnen hem niet vinden 
+B|19| B: weten [je] wel welk [ik] bedoelen 
+A|20| A: [ja] 
+B|21| B: okee 
+A|22| A: [ja] [ja] nummer drie 
+A|23| A: deze [hoofdvorm] [hebben] bovenin [een] [plateau] [die] [er] [omheen] [dus] [zitten] 
+A|24| A: [en] op [dat] [plateau] [staan] [een yoghurtbak] [met twee] tafelpoo 
+B|25| B: yes 
+B|26| B: a 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je hebben dus weer de hoofdvorm
+	Free: Pattern=weer de hoofdvorm, Pattern=hebben, Pattern=dus, Pattern=je
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=weer, Pattern=hoofdvorm
+Turn ID=1| B | B : en eigenllijk staan het zitten er nu ook weer een vierkant plateau omheen maar dan aan de bovenkant
+	Free: Pattern=de, Pattern=het, Pattern=plateau, Pattern=zitten, Pattern=er, Pattern=en, Pattern=weer, Pattern=omheen, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=2| B | B : met twee soort van poot
+	Free: Pattern=met twee, Pattern=van, Pattern=poot
+	Constrained: Pattern=twee
+Turn ID=3| B | B : aan de rechterkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=4| B | B : en daarop staan ook weer zo'n soort van yoghurtbak
+	Free: Pattern=yoghurtbak, Pattern=staan, Pattern=weer, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer zestien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=7| A | A : hier hebben je weer de hoofdvorm met een plateau een beetje boven het midden van de hoofdvorm met twee poot eronder en een yoghurtbak erop
+	Free: Pattern=de hoofdvorm, Pattern=het, Pattern=hebben, Pattern=plateau, Pattern=met twee, Pattern=met een, Pattern=je, Pattern=poot, Pattern=boven, Pattern=een, Pattern=weer de hoofdvorm, Pattern=en een yoghurtbak, Pattern=van
+	Constrained: Pattern=de hoofdvorm, Pattern=twee, Pattern=de, Pattern=yoghurtbak, Pattern=een, Pattern=en, Pattern=weer, Pattern=hoofdvorm, Pattern=een yoghurtbak
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dit zijn de hoofdvorm dat het vierkant plateau waar de hoofdvorm in staat boven zitten met een soort van yoghurtbak bovenop en twee tafelpoot zijn daaraan vast
+	Free: Pattern=de hoofdvorm, Pattern=dat, Pattern=twee, Pattern=yoghurtbak, Pattern=boven, Pattern=het, Pattern=plateau, Pattern=in, Pattern=zitten, Pattern=met een, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=hoofdvorm
+Turn ID=11| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : deze hoofdvorm hebben bovenaan boven het midden een plateau in zich en een yoghurtbak er op en je zien linksachter nog een heel klein uitsteeksel
+	Free: Pattern=boven, Pattern=een, Pattern=het, Pattern=hebben, Pattern=plateau, Pattern=in, Pattern=hoofdvorm, Pattern=er, Pattern=je, Pattern=en een yoghurtbak, Pattern=en
+	Constrained: Pattern=een yoghurtbak, Pattern=een, Pattern=yoghurtbak, Pattern=en
+Turn ID=13| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : dit zijn de hoofdvorm dat het vierkant plateau met een soort van poo helemaal bovenop ja het hoofdvorm staan laten we maar zeggen in dat vierkant plateau en er staan van die tafelpoot zitten eraan vast en een yoghurtbak bovenop
+	Free: Pattern=de hoofdvorm, Pattern=dat, Pattern=ja, Pattern=staan, Pattern=het, Pattern=plateau, Pattern=in, Pattern=hoofdvorm, Pattern=met een, Pattern=er, Pattern=zijn, Pattern=die, Pattern=zitten, Pattern=en een yoghurtbak, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=yoghurtbak, Pattern=een, Pattern=en, Pattern=hoofdvorm, Pattern=een yoghurtbak
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : even zoeken hoor
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : ik kunnen hem niet vinden
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=19| B | B : weten je wel welk ik bedoelen
+	Free: Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja ja nummer drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : deze hoofdvorm hebben bovenin een plateau die er omheen dus zitten
+	Free: Pattern=dus, Pattern=een, Pattern=hebben, Pattern=plateau, Pattern=hoofdvorm, Pattern=er, Pattern=omheen, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=24| A | A : en op dat plateau staan een yoghurtbak met twee tafelpoo
+	Free: Pattern=dat, Pattern=staan, Pattern=plateau, Pattern=met twee, Pattern=een yoghurtbak, Pattern=en
+	Constrained: Pattern=een, Pattern=yoghurtbak, Pattern=twee
+Turn ID=25| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : a
+	Free: 
+	Constrained: 

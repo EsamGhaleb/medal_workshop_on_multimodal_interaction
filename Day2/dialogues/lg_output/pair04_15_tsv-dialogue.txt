@@ -1,0 +1,131 @@
+B|0| B: _ik_ _hebben_ dus _ja_ je _hebben_ dus telkens _dat_ hoofdplateauen 
+B|1| B: platform 
+B|2| B: aan _de_ zijkant _het_ wacht laten _ik_ zo beginnen _het_ zitten door _een vierkant plateau_ heen 
+B|3| B: _dat_ _vierkant_ _zijn_ _ja_ dun 
+B|4| B: _en_ _dat_ zitten er laten maar zeggen doorheen 
+B|5| B: _en_ _dat_ _vierkant_ zitten niet op _in_ _het midden_ _van_ _het_ hoofdplateau -form maar _een_ _beetje_ aan _de_ onderkant 
+B|6| B: want daarboven opsteken aan _de_ linkerkant _een_ rechthoek _met een_ punt daar _bovenop_ _uit_ 
+B|7| B: _en_ aan _de_ voorkant steken _ook_ weer zo'n cirkelvorm _uit_ _en_ daar _bovenop_ op _het_ hoofdplateau _twee_ _klein_ staafjes 
+A|8| A: [ja] [twee] _okee_ dan weten [ik] [het] 
+A|9| A: [dat] [zijn] nummer zeven 
+B|10| B: [okee] 
+A|11| A: hier [hebben] _de hoofdvorm_ [twee] [van] die [klein] uitsteeksel [bovenop] 
+A|12| A: hij [hebben] [een] [plateau] waar die [in] vastzit [beetje] onder [het midden] 
+B|13| B: [ja] 
+A|14| A: [okee] 
+B|15| B: dit [zijn] [de hoofdvorm] waarbij waarbij [het] _vierkant plateau_ onderaan zitten maar [de hoofdvorm] zitten er wel [in] 
+B|16| B: waarbij [twee] [klein] staafjes bovenuit steken 
+A|17| A: [ja] 
+A|18| A: nummer acht 
+B|19| B: [okee] 
+A|20| A: deze [hebben] deze [hoofdvorm] [hebben] [twee] [van] die uitsteeksel bovenaan [hebben] [een vierkant plateau] om zich [en] [een] schuin buis lopen voor [de hoofdvorm] [uit] 
+B|21| B: link 
+B|22| B: [ja] 
+A|23| A: [ja] links [hebben] hij [ook] nog één [met een] hoek erin 
+B|24| B: p 
+B|25| B: dit [zijn] [de hoofdvorm] waarbij [het] [vierkant plateau] onderaan door [de hoofdvorm] heen zitten of [de hoofdvorm] zitten door [het] [vierkant plateau] heen [met] [twee] [klein] staafjes erbovenop 
+A|26| A: [ja] 
+A|27| A: [ja] nummer tien 
+A|28| A: deze [hoofdvorm] [hebben] die [zijn] inbouwen [in] [dat] [in] [een vierkant plateau] [hebben] [twee] uitsteekselt [bovenop] 
+A|29| A: [en] links [hebben] hij nog één [ja] [een] 
+B|30| B: [ja] 
+B|31| B: n 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben dus ja je hebben dus telkens dat hoofdplateauen
+	Free: Pattern=dat, Pattern=hebben, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : platform
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : aan de zijkant het wacht laten ik zo beginnen het zitten door een vierkant plateau heen
+	Free: Pattern=een vierkant plateau, Pattern=de, Pattern=ik, Pattern=het
+	Constrained: Pattern=vierkant plateau, Pattern=vierkant, Pattern=plateau, Pattern=een
+Turn ID=3| B | B : dat vierkant zijn ja dun
+	Free: Pattern=dat, Pattern=zijn, Pattern=vierkant, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en dat zitten er laten maar zeggen doorheen
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=5| B | B : en dat vierkant zitten niet op in het midden van het hoofdplateau -form maar een beetje aan de onderkant
+	Free: Pattern=dat, Pattern=het midden, Pattern=de, Pattern=beetje, Pattern=een, Pattern=het, Pattern=in, Pattern=vierkant, Pattern=van, Pattern=en
+	Constrained: Pattern=het
+Turn ID=6| B | B : want daarboven opsteken aan de linkerkant een rechthoek met een punt daar bovenop uit
+	Free: Pattern=bovenop, Pattern=de, Pattern=uit, Pattern=een, Pattern=met een
+	Constrained: Pattern=een, Pattern=met
+Turn ID=7| B | B : en aan de voorkant steken ook weer zo'n cirkelvorm uit en daar bovenop op het hoofdplateau twee klein staafjes
+	Free: Pattern=bovenop, Pattern=twee, Pattern=de, Pattern=het, Pattern=klein, Pattern=en, Pattern=uit, Pattern=ook
+	Constrained: 
+Turn ID=8| A | A : ja twee okee dan weten ik het
+	Free: Pattern=twee, Pattern=het, Pattern=ik, Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dat zijn nummer zeven
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=11| A | A : hier hebben de hoofdvorm twee van die klein uitsteeksel bovenop
+	Free: Pattern=de hoofdvorm, Pattern=bovenop, Pattern=twee, Pattern=hebben, Pattern=klein, Pattern=van
+	Constrained: Pattern=hoofdvorm, Pattern=de
+Turn ID=12| A | A : hij hebben een plateau waar die in vastzit beetje onder het midden
+	Free: Pattern=het midden, Pattern=beetje, Pattern=een, Pattern=hebben, Pattern=plateau, Pattern=in
+	Constrained: Pattern=het
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=15| B | B : dit zijn de hoofdvorm waarbij waarbij het vierkant plateau onderaan zitten maar de hoofdvorm zitten er wel in
+	Free: Pattern=de hoofdvorm, Pattern=het, Pattern=in, Pattern=vierkant plateau, Pattern=zijn
+	Constrained: Pattern=hoofdvorm, Pattern=vierkant, Pattern=de, Pattern=plateau
+Turn ID=16| B | B : waarbij twee klein staafjes bovenuit steken
+	Free: Pattern=klein, Pattern=twee
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=20| A | A : deze hebben deze hoofdvorm hebben twee van die uitsteeksel bovenaan hebben een vierkant plateau om zich en een schuin buis lopen voor de hoofdvorm uit
+	Free: Pattern=de hoofdvorm, Pattern=twee, Pattern=uit, Pattern=een, Pattern=hebben, Pattern=hoofdvorm, Pattern=een vierkant plateau, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=een, Pattern=plateau, Pattern=hoofdvorm, Pattern=vierkant plateau, Pattern=vierkant
+Turn ID=21| B | B : link
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja links hebben hij ook nog één met een hoek erin
+	Free: Pattern=met een, Pattern=ook, Pattern=hebben, Pattern=ja
+	Constrained: Pattern=een, Pattern=met
+Turn ID=24| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : dit zijn de hoofdvorm waarbij het vierkant plateau onderaan door de hoofdvorm heen zitten of de hoofdvorm zitten door het vierkant plateau heen met twee klein staafjes erbovenop
+	Free: Pattern=de hoofdvorm, Pattern=twee, Pattern=het, Pattern=met, Pattern=klein, Pattern=vierkant plateau, Pattern=zijn
+	Constrained: Pattern=hoofdvorm, Pattern=vierkant, Pattern=de, Pattern=plateau
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : deze hoofdvorm hebben die zijn inbouwen in dat in een vierkant plateau hebben twee uitsteekselt bovenop
+	Free: Pattern=twee, Pattern=hebben, Pattern=in, Pattern=hoofdvorm, Pattern=zijn, Pattern=een vierkant plateau, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=vierkant plateau, Pattern=vierkant, Pattern=plateau, Pattern=een
+Turn ID=29| A | A : en links hebben hij nog één ja een
+	Free: Pattern=en, Pattern=hebben, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : n
+	Free: 
+	Constrained: 

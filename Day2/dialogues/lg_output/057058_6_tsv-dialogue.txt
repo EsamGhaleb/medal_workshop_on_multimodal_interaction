@@ -1,0 +1,299 @@
+B|0| B: _oké_ 
+A|1| A: [oké] nou nu _hebben ik_ een rood vierkant _en_ _ik hebben_ _er_ één _ik_ vinden _hem_ zelf een beetje _op_ een _ik_ moeten doen me _denken_ _aan_ een _kannibaal met_ een _neus_ _en_ _dan_ zo'n groot spie erdoor 
+B|2| B: _ja ik_ weten welk _ja ik_ weten welk _je_ bedoelen 
+B|3| B: _dat_ _zijn_ _bij mij_ _zijn_ _dat_ F 
+B|4| B: [ik] noemen [hem] _ook_ _de_ heel tijd _de inboorling_ 
+A|5| A: _oké top_ nou _dan_ [zijn] we _er_ al snel uit 
+B|6| B: _oké dus_ F 
+B|7| B: _ja_ precies 
+A|8| A: _helemaal_ goed 
+B|9| B: [oké] 
+A|10| A: _bij mij staan die_ als [je] zeggen _maar_ _zo_ kijken _staan die_ halverwege het scherm _maar_ _dan wel_ een beetje _rechts_ 
+B|11| B: _ja_ 
+B|12| B: [oké] [helemaal] [rechts] 
+A|13| A: _nee_ _er_ _zitten_ _er_ _nog_ naast _aan de_ rechterkant als [je] een beetje _midden_ _midden_ _van de_ twee _helft_ zeggen _maar_ 
+B|14| B: [oké] 
+A|15| A: twee _van de_ [rechts] _helft_ 
+B|16| B: [oké] [ik hebben] [hem] [wel] inderdaad [op] [zo] [midden] 
+A|17| A: [ja] 
+B|18| B: [maar] [bij mij] _zijn die_ [wel] [er] [staan] niks veel [rechts] [van] 
+A|19| A: [oké] _dan_ [zijn] het [wel] een _ander plek_ 
+B|20| B: _dus [dan_ wel] [ander plek] [denken] [ik] 
+A|21| A: [oké [dus] dan] moeten jij _op de_ rood drukken 
+B|22| B: [oké] 
+A|23| A: _top_ 
+B|24| B: [oké] [ik hebben] _weer_ [die] _inboorling_ 
+A|25| A: _met_ [dat] _ding door zijn neus_ 
+B|26| B: [dus] _de kannibaal met de_ [ding door zijn neus] 
+A|27| A: [maar] waar [zijn die] ? waar [zijn die] ? daar [zijn die] 
+A|28| A: _nummer_ vijf 
+B|29| B: [en] _hij_ [zitten] [ja] _ongeveer_ _op de helft van de helft_ [aan de] linkerkant 
+A|30| A: [ja] 
+B|31| B: [en] [ja] [wel] redelijk _iets_ _boven_ _de helft_ 
+B|32| B: of [ja] 
+A|33| A: [oké] 
+B|34| B: _ongeveer _de helft van de_ helft_ _weer_ 
+A|35| A: [ongeveer de helft van de] [ja ik] [denken] [dat] [die] [bij mij] niet [helemaal] in het [midden] [zitten] 
+A|36| A: [van [de helft] van de helft] 
+A|37| A: [en] [ook] [wel] vrij ver _naar_ [boven] [dus] het zullen [wel] een [ander plek] [zijn] [dan] 
+B|38| B: [oké] [oké] 
+A|39| A: nou _weer [de_ kannibaal met de] 
+B|40| B: [oké] [kannibaal] yes [dat] [zijn] [nummer] A of [dat] [zijn] A [bij mij] 
+A|41| A: _met de piercing_ 
+B|42| B: [ja] 
+A|43| A: even kijken [op de helft van de _helft] rechts_ [en] [dan] [ook] [wel] bijna [op de helft van de helft] onder 
+B|44| B: [oké] [nee] [bij mij staan die] wat hoog [dus] [ander plek] 
+A|45| A: [oké] 
+B|46| B: [oké] [weer _de] inboorling_ 
+B|47| B: [de kannibaal] 
+A|48| A: _top_ 
+A|49| A: _met de piercing_ 
+B|50| B: [met de piercing] 
+A|51| A: [nummer] vijf 
+B|52| B: [en] _hij staan net iets_ [boven] [de helft] [zo] 
+B|53| B: _en ongeveer_ [op de helft] [helft rechts] 
+A|54| A: [ja] 
+B|55| B: misschien [nog] _net iets_ [naar] links daarvan [maar] [ja] 
+A|56| A: [ja] [bij mij] [ook] [wel] [ja] 
+B|57| B: [oké top] 
+A|58| A: nou dit [zijn] [weer de] [de] [de inboorling] [met de] 
+B|59| B: [inboorling] 
+A|60| A: [ja] 
+B|61| B: [de] H [zijn] [dat] [bij mij] 
+B|62| B: nice 
+A|63| A: [top] 
+A|64| A: [hij staan net iets] [rechts] uit het [midden] [en ongeveer] half half [naar] beneden 
+B|65| B: [ja] [hebben ik] [ook] zelfde [plek] 
+A|66| A: [oké] 
+B|67| B: [de inboorling] [weer] 
+A|68| A: Chill vijftien 
+B|69| B: [de kannibaal] 
+B|70| B: [hij] [zitten] [ongeveer de helft] [helft] [boven] 
+B|71| B: [en ongeveer] [helft] [helft rechts] 
+A|72| A: [dan] [zitten] [de] mijne [wel] [op] een [ander plek] [ja] 
+B|73| B: [oké] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : oké nou nu hebben ik een rood vierkant en ik hebben er één ik vinden hem zelf een beetje op een ik moeten doen me denken aan een kannibaal met een neus en dan zo'n groot spie erdoor
+	Free: Pattern=denken, Pattern=aan, Pattern=dan, Pattern=neus, Pattern=oké, Pattern=er, Pattern=ik, Pattern=en, Pattern=hem, Pattern=kannibaal met, Pattern=ik hebben, Pattern=op, Pattern=hebben ik
+	Constrained: Pattern=met, Pattern=kannibaal, Pattern=ik
+Turn ID=2| B | B : ja ik weten welk ja ik weten welk je bedoelen
+	Free: Pattern=ja ik, Pattern=je
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=3| B | B : dat zijn bij mij zijn dat F
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=4| B | B : ik noemen hem ook de heel tijd de inboorling
+	Free: Pattern=de, Pattern=ook, Pattern=de inboorling, Pattern=ik, Pattern=hem
+	Constrained: Pattern=de, Pattern=inboorling
+Turn ID=5| A | A : oké top nou dan zijn we er al snel uit
+	Free: Pattern=oké top, Pattern=zijn, Pattern=dan, Pattern=er
+	Constrained: Pattern=oké, Pattern=top
+Turn ID=6| B | B : oké dus F
+	Free: Pattern=oké dus
+	Constrained: Pattern=dus, Pattern=oké
+Turn ID=7| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : helemaal goed
+	Free: Pattern=helemaal
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| A | A : bij mij staan die als je zeggen maar zo kijken staan die halverwege het scherm maar dan wel een beetje rechts
+	Free: Pattern=rechts, Pattern=staan die, Pattern=zo, Pattern=dan wel, Pattern=maar, Pattern=bij mij staan die, Pattern=je
+	Constrained: Pattern=die, Pattern=bij mij, Pattern=staan die, Pattern=dan, Pattern=staan, Pattern=wel
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : oké helemaal rechts
+	Free: Pattern=rechts, Pattern=oké, Pattern=helemaal
+	Constrained: 
+Turn ID=13| A | A : nee er zitten er nog naast aan de rechterkant als je een beetje midden midden van de twee helft zeggen maar
+	Free: Pattern=nog, Pattern=nee, Pattern=zitten, Pattern=er, Pattern=maar, Pattern=midden, Pattern=van de, Pattern=aan de, Pattern=helft, Pattern=je
+	Constrained: Pattern=de, Pattern=van, Pattern=aan
+Turn ID=14| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : twee van de rechts helft
+	Free: Pattern=van de, Pattern=helft, Pattern=rechts
+	Constrained: Pattern=de, Pattern=van
+Turn ID=16| B | B : oké ik hebben hem wel inderdaad op zo midden
+	Free: Pattern=ik hebben, Pattern=op, Pattern=wel, Pattern=zo, Pattern=oké, Pattern=hem, Pattern=midden
+	Constrained: Pattern=ik
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : maar bij mij zijn die wel er staan niks veel rechts van
+	Free: Pattern=rechts, Pattern=zijn die, Pattern=er, Pattern=van, Pattern=maar, Pattern=bij mij, Pattern=staan, Pattern=wel
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=19| A | A : oké dan zijn het wel een ander plek
+	Free: Pattern=dan, Pattern=wel, Pattern=ander plek, Pattern=oké, Pattern=zijn
+	Constrained: Pattern=plek
+Turn ID=20| B | B : dus dan wel ander plek denken ik
+	Free: Pattern=denken, Pattern=dus dan, Pattern=ander plek, Pattern=dan wel, Pattern=ik
+	Constrained: Pattern=plek, Pattern=dus, Pattern=dan, Pattern=wel
+Turn ID=21| A | A : oké dus dan moeten jij op de rood drukken
+	Free: Pattern=op de, Pattern=oké dus, Pattern=dus dan
+	Constrained: Pattern=op, Pattern=dan, Pattern=oké, Pattern=de, Pattern=dus
+Turn ID=22| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=23| A | A : top
+	Free: Pattern=top
+	Constrained: 
+Turn ID=24| B | B : oké ik hebben weer die inboorling
+	Free: Pattern=ik hebben, Pattern=inboorling, Pattern=die, Pattern=oké, Pattern=weer
+	Constrained: Pattern=ik
+Turn ID=25| A | A : met dat ding door zijn neus
+	Free: Pattern=ding door zijn neus, Pattern=met, Pattern=dat
+	Constrained: Pattern=zijn, Pattern=neus
+Turn ID=26| B | B : dus de kannibaal met de ding door zijn neus
+	Free: Pattern=ding door zijn neus, Pattern=de kannibaal met de, Pattern=dus
+	Constrained: Pattern=kannibaal met, Pattern=kannibaal, Pattern=neus, Pattern=met, Pattern=de kannibaal, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=27| A | A : maar waar zijn die ? waar zijn die ? daar zijn die
+	Free: Pattern=zijn die, Pattern=maar
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=28| A | A : nummer vijf
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=29| B | B : en hij zitten ja ongeveer op de helft van de helft aan de linkerkant
+	Free: Pattern=ja, Pattern=hij, Pattern=en, Pattern=aan de, Pattern=op de helft van de helft, Pattern=zitten, Pattern=ongeveer
+	Constrained: Pattern=de helft van de helft, Pattern=op de helft, Pattern=van, Pattern=helft, Pattern=op de, Pattern=de, Pattern=de helft, Pattern=aan, Pattern=van de helft, Pattern=van de, Pattern=op
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : en ja wel redelijk iets boven de helft
+	Free: Pattern=boven, Pattern=wel, Pattern=en, Pattern=de helft, Pattern=iets, Pattern=ja
+	Constrained: Pattern=helft, Pattern=de
+Turn ID=32| B | B : of ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=34| B | B : ongeveer de helft van de helft weer
+	Free: Pattern=de helft van de helft, Pattern=ongeveer de helft van de, Pattern=weer
+	Constrained: Pattern=van de, Pattern=ongeveer, Pattern=van, Pattern=helft, Pattern=ongeveer de helft, Pattern=de, Pattern=de helft, Pattern=van de helft
+Turn ID=35| A | A : ongeveer de helft van de ja ik denken dat die bij mij niet helemaal in het midden zitten
+	Free: Pattern=dat, Pattern=helemaal, Pattern=ja ik, Pattern=bij mij, Pattern=midden, Pattern=ongeveer de helft van de, Pattern=denken, Pattern=die, Pattern=zitten
+	Constrained: Pattern=van de, Pattern=ongeveer, Pattern=ik, Pattern=van, Pattern=helft, Pattern=ongeveer de helft, Pattern=de, Pattern=de helft, Pattern=ja
+Turn ID=36| A | A : van de helft van de helft
+	Free: Pattern=de helft van de helft, Pattern=van de helft
+	Constrained: Pattern=van de, Pattern=van, Pattern=helft, Pattern=de, Pattern=de helft, Pattern=van de helft
+Turn ID=37| A | A : en ook wel vrij ver naar boven dus het zullen wel een ander plek zijn dan
+	Free: Pattern=dus, Pattern=ook, Pattern=wel, Pattern=ander plek, Pattern=en, Pattern=zijn, Pattern=naar, Pattern=boven, Pattern=dan
+	Constrained: Pattern=plek
+Turn ID=38| B | B : oké oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=39| A | A : nou weer de kannibaal met de
+	Free: Pattern=de kannibaal met de, Pattern=weer de
+	Constrained: Pattern=kannibaal met, Pattern=kannibaal, Pattern=met, Pattern=de kannibaal, Pattern=weer, Pattern=de, Pattern=met de
+Turn ID=40| B | B : oké kannibaal yes dat zijn nummer A of dat zijn A bij mij
+	Free: Pattern=dat, Pattern=nummer, Pattern=kannibaal, Pattern=oké, Pattern=zijn, Pattern=bij mij
+	Constrained: 
+Turn ID=41| A | A : met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : even kijken op de helft van de helft rechts en dan ook wel bijna op de helft van de helft onder
+	Free: Pattern=helft rechts, Pattern=dan, Pattern=wel, Pattern=en, Pattern=ook, Pattern=op de helft van de helft
+	Constrained: Pattern=de helft van de helft, Pattern=op de helft, Pattern=van, Pattern=helft, Pattern=op de, Pattern=de, Pattern=de helft, Pattern=rechts, Pattern=van de helft, Pattern=van de, Pattern=op
+Turn ID=44| B | B : oké nee bij mij staan die wat hoog dus ander plek
+	Free: Pattern=dus, Pattern=nee, Pattern=ander plek, Pattern=oké, Pattern=bij mij staan die
+	Constrained: Pattern=staan die, Pattern=staan, Pattern=die, Pattern=plek, Pattern=bij mij
+Turn ID=45| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=46| B | B : oké weer de inboorling
+	Free: Pattern=de inboorling, Pattern=weer de, Pattern=oké
+	Constrained: Pattern=de, Pattern=weer, Pattern=inboorling
+Turn ID=47| B | B : de kannibaal
+	Free: Pattern=de kannibaal
+	Constrained: Pattern=de, Pattern=kannibaal
+Turn ID=48| A | A : top
+	Free: Pattern=top
+	Constrained: 
+Turn ID=49| A | A : met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de
+Turn ID=50| B | B : met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de
+Turn ID=51| A | A : nummer vijf
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=52| B | B : en hij staan net iets boven de helft zo
+	Free: Pattern=hij staan net iets, Pattern=de helft, Pattern=boven, Pattern=zo, Pattern=en
+	Constrained: Pattern=staan, Pattern=net iets, Pattern=hij, Pattern=helft, Pattern=de, Pattern=iets
+Turn ID=53| B | B : en ongeveer op de helft helft rechts
+	Free: Pattern=op de helft, Pattern=helft rechts, Pattern=en ongeveer
+	Constrained: Pattern=op, Pattern=ongeveer, Pattern=en, Pattern=helft, Pattern=op de, Pattern=de, Pattern=de helft, Pattern=rechts
+Turn ID=54| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : misschien nog net iets naar links daarvan maar ja
+	Free: Pattern=nog, Pattern=ja, Pattern=net iets, Pattern=maar, Pattern=naar
+	Constrained: Pattern=iets
+Turn ID=56| A | A : ja bij mij ook wel ja
+	Free: Pattern=bij mij, Pattern=ook, Pattern=ja, Pattern=wel
+	Constrained: 
+Turn ID=57| B | B : oké top
+	Free: Pattern=oké top
+	Constrained: Pattern=oké, Pattern=top
+Turn ID=58| A | A : nou dit zijn weer de de de inboorling met de
+	Free: Pattern=de inboorling, Pattern=de, Pattern=met de, Pattern=weer de, Pattern=zijn
+	Constrained: Pattern=met, Pattern=de, Pattern=weer, Pattern=inboorling
+Turn ID=59| B | B : inboorling
+	Free: Pattern=inboorling
+	Constrained: 
+Turn ID=60| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=61| B | B : de H zijn dat bij mij
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=de, Pattern=dat
+	Constrained: 
+Turn ID=62| B | B : nice
+	Free: 
+	Constrained: 
+Turn ID=63| A | A : top
+	Free: Pattern=top
+	Constrained: 
+Turn ID=64| A | A : hij staan net iets rechts uit het midden en ongeveer half half naar beneden
+	Free: Pattern=hij staan net iets, Pattern=rechts, Pattern=en ongeveer, Pattern=midden, Pattern=naar
+	Constrained: Pattern=iets, Pattern=staan, Pattern=net iets, Pattern=hij, Pattern=ongeveer, Pattern=en
+Turn ID=65| B | B : ja hebben ik ook zelfde plek
+	Free: Pattern=hebben ik, Pattern=ook, Pattern=ja, Pattern=plek
+	Constrained: Pattern=ik
+Turn ID=66| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=67| B | B : de inboorling weer
+	Free: Pattern=de inboorling, Pattern=weer
+	Constrained: Pattern=de, Pattern=inboorling
+Turn ID=68| A | A : Chill vijftien
+	Free: 
+	Constrained: 
+Turn ID=69| B | B : de kannibaal
+	Free: Pattern=de kannibaal
+	Constrained: Pattern=de, Pattern=kannibaal
+Turn ID=70| B | B : hij zitten ongeveer de helft helft boven
+	Free: Pattern=boven, Pattern=hij, Pattern=zitten, Pattern=helft, Pattern=ongeveer de helft
+	Constrained: Pattern=de helft, Pattern=helft, Pattern=ongeveer, Pattern=de
+Turn ID=71| B | B : en ongeveer helft helft rechts
+	Free: Pattern=helft rechts, Pattern=en ongeveer, Pattern=helft
+	Constrained: Pattern=helft, Pattern=ongeveer, Pattern=rechts, Pattern=en
+Turn ID=72| A | A : dan zitten de mijne wel op een ander plek ja
+	Free: Pattern=op, Pattern=dan, Pattern=wel, Pattern=de, Pattern=ja, Pattern=ander plek, Pattern=zitten
+	Constrained: Pattern=plek
+Turn ID=73| B | B : oké
+	Free: Pattern=oké
+	Constrained: 

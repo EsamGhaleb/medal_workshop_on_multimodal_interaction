@@ -1,0 +1,139 @@
+B|0| B: _er_ _het zijn_ zeggen maar _er_ _zitten_ _het_ lijken alsof _er_ zeggen maar _een_ _tafel_ door _het_ kop heen _zijn_ maken zeggen maar 
+B|1| B: _en_ _er_ _zitten_ Linksboven _zitten_ _er_ ook nog _een_ _klein_ dinge 
+A|2| A: _ja_ [klein] 
+A|3| A: _ja_ 
+B|4| B: [ja] 
+A|5| A: uitsteeksel [en] dan bovenop _de tafel_ daar [zitten] _een soort van_ trapezium omgekeerd 
+B|6| B: [ja] [ja] inderdaad _die_ 
+A|7| A: [ja] 
+A|8| A: dat [zijn] zes 
+A|9| A: even kijken 
+A|10| A: _dit zijn_ _de_ kopvorm waar [er] als [het zijn] [die] [tafel] [er] half in [zitten] 
+B|11| B: okee [ja] _met de_ _gek_ trapeze op [zijn] kop erbovenop 
+A|12| A: [ja] 
+B|13| B: [ja] 
+A|14| A: [ja] [en] [de] aan [de] linkerkant [het] 
+B|15| B: _gek_ dinge [ja] 
+A|16| A: yes 
+B|17| B: i 
+B|18| B: [dit zijn] degeen _met de tafel_ dwars erdoorheen 
+B|19| B: _met_ [een soort van] trapezevorm erbovenop 
+A|20| A: [ja] even zoeken waar [die] staan 
+B|21| B: [ja] 
+A|22| A: dat [zijn] vier 
+A|23| A: [dit zijn] [die] [met de tafel] erin [met] [het] [gek] trapezium 
+B|24| B: [ja] 
+B|25| B: [ja] a 
+B|26| B: degeen [met de tafel] erdoorheen 
+A|27| A: [ja] [en] trapezium 
+A|28| A: drie 
+A|29| A: [dit zijn] [die] [met de tafel] erin 
+B|30| B: [de tafel] 
+A|31| A: [met de] trapezium 
+B|32| B: [ja] 
+B|33| B: e 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : er het zijn zeggen maar er zitten het lijken alsof er zeggen maar een tafel door het kop heen zijn maken zeggen maar
+	Free: Pattern=een, Pattern=het, Pattern=er, Pattern=zijn, Pattern=tafel, Pattern=het zijn, Pattern=zitten
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=1| B | B : en er zitten Linksboven zitten er ook nog een klein dinge
+	Free: Pattern=een, Pattern=zitten, Pattern=er, Pattern=klein, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja klein
+	Free: Pattern=klein, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : uitsteeksel en dan bovenop de tafel daar zitten een soort van trapezium omgekeerd
+	Free: Pattern=een soort van, Pattern=de tafel, Pattern=en, Pattern=zitten
+	Constrained: Pattern=tafel, Pattern=een, Pattern=de
+Turn ID=6| B | B : ja ja inderdaad die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dat zijn zes
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn de kopvorm waar er als het zijn die tafel er half in zitten
+	Free: Pattern=de, Pattern=er, Pattern=dit zijn, Pattern=tafel, Pattern=het zijn, Pattern=die, Pattern=zitten
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=11| B | B : okee ja met de gek trapeze op zijn kop erbovenop
+	Free: Pattern=met de, Pattern=gek, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja en de aan de linkerkant het
+	Free: Pattern=en, Pattern=het, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : gek dinge ja
+	Free: Pattern=gek, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : i
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn degeen met de tafel dwars erdoorheen
+	Free: Pattern=met de tafel, Pattern=dit zijn
+	Constrained: Pattern=de tafel, Pattern=met, Pattern=tafel, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=19| B | B : met een soort van trapezevorm erbovenop
+	Free: Pattern=een soort van, Pattern=met
+	Constrained: Pattern=een
+Turn ID=20| A | A : ja even zoeken waar die staan
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn vier
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : dit zijn die met de tafel erin met het gek trapezium
+	Free: Pattern=met de tafel, Pattern=het, Pattern=met, Pattern=die, Pattern=gek, Pattern=dit zijn
+	Constrained: Pattern=de tafel, Pattern=met, Pattern=tafel, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja a
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : degeen met de tafel erdoorheen
+	Free: Pattern=met de tafel
+	Constrained: Pattern=de tafel, Pattern=met, Pattern=tafel, Pattern=de, Pattern=met de
+Turn ID=27| A | A : ja en trapezium
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : dit zijn die met de tafel erin
+	Free: Pattern=met de tafel, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=de tafel, Pattern=met, Pattern=tafel, Pattern=zijn, Pattern=de, Pattern=met de
+Turn ID=30| B | B : de tafel
+	Free: Pattern=de tafel
+	Constrained: Pattern=tafel, Pattern=de
+Turn ID=31| A | A : met de trapezium
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : e
+	Free: 
+	Constrained: 

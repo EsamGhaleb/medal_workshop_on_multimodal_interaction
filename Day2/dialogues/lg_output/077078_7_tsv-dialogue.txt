@@ -1,0 +1,255 @@
+B|0| B: _je_ _hebben_ _het_ beker _en_ om _het_ bekert _zitten_ _een_ soort _van_ kampbankje of _een_ _een_ _kampvuurbank_ heen 
+B|1| B: _en_ _op_ _het_ _kampvuurbank_ _staan_ _een_ soort _van_ _cakevorm_ 
+A|2| A: _ja_ 
+B|3| B: _oké_ 
+A|4| A: nummer zestien 
+B|5| B: _hij_ _staan_ _bij mij_ flink _rechts_ _van het midden_ 
+B|6| B: _maar_ _ik_ denken qua _hoog_ _en_ laag _ongeveer_ _in het midden_ _van het midden_ 
+B|7| B: _er_ vaststaan _wel_ _nog_ één recht _nog_ _nog een_ ander figuurtje _rechts_ _van_ _hem_ 
+A|8| A: [hebben] [ik] _niet_ 
+B|9| B: _oké_ 
+A|10| A: [bij mij] [staan] _die_ _zeggen maar_ aan _de_ rand 
+A|11| A: dit _zijn_ _die_ [een] _met_ _dat_ [kampvuurbank] waar _dan_ _dat_ cakevormp [op] staat 
+B|12| B: [ja] 
+B|13| B: letter P 
+A|14| A: [en] [ik] [hebben] [hem] _zeggen maar de_ rechterhelft 
+A|15| A: [in het midden] 
+B|16| B: [ja] Same 
+B|17| B: [en] _er_ [staan] niks veel _rechts_ _van_ 
+A|18| A: _nee_ [maar] [wel] [van] _de_ rand af 
+B|19| B: [ja] 
+A|20| A: [ja] 
+B|21| B: [het] bak _met het_ cakeblik _erop_ 
+A|22| A: _yes_ 
+A|23| A: nummer veertien 
+B|24| B: _hij_ [staan] [bij mij] bijna [in het midden] _maar dan_ [een] heel klein beetje link ervan 
+B|25| B: [en] helemaal onderaan 
+A|26| A: [ja] [hebben] [ik] ook 
+A|27| A: dit _zijn_ _die_ [een] [met het] kampvuurtafeltje [met] _de_ [cakevorm] 
+B|28| B: letter N 
+A|29| A: [en] _die_ [staan] [in] _de_ linkerhelft [in het midden] 
+A|30| A: [ongeveer] [op] _de_ lijn [van het midden] 
+B|31| B: [ja] 
+A|32| A: _zeggen maar_ alsof [je] [hem] [erop] zetten 
+B|33| B: [ja] 
+B|34| B: Same 
+B|35| B: [ja] 
+B|36| B: [het] [kampvuurbank] [met het] cakeblik 
+A|37| A: _yes_ kijken _zijn_ moeilijk nummer _tien_ 
+B|38| B: _hij_ [staan] [een] klein beetje link [van het midden] 
+B|39| B: _hij_ _zeggen maar hij_ _hij_ scheiden één of _hij_ scheiden [niet] [het midden] [maar] [het midden] gaan _komen_ door [hem] heen 
+B|40| B: [en] _hij_ [staan] [een] klein beetje _nou_ _zo'n_ stuk _boven_ [het midden] 
+A|41| A: voor mijn gevoel [staan] _die_ juist iets [rechts] [zeggen maar] naar [het midden] [het midden] [komen] [er] [bij mij] ook [wel] doorheen 
+A|42| A: [maar dan] opsteken _die_ dus uit naar [rechts] toe vooral 
+B|43| B: [nee] [nee] [dat] kunnen [ik] echt [niet] [zeggen] 
+A|44| A: [met het] tafel [zeggen maar] 
+A|45| A: [oké] 
+A|46| A: [maar hij] [zitten] [wel] [zo'n] stukkie [van] _de_ bovenrand af 
+B|47| B: [ja] 
+B|48| B: _maar [bij_ mij] _zitten die_ echt [ik] denken [ja] [het] [hij] _snijden_ _net_ [zeggen maar de] rechterpoot [van het] bank eraf [het midden] _zullen_ [ik] [zeggen] 
+A|49| A: [maar bij] jou [zitten die] [dan] 
+A|50| A: [nee] [bij mij] [snijden] [die] dus [net] [de] linkerhelft [van het] plank aan [de] zijkant af 
+B|51| B: [ja] [oké] 
+A|52| A: [niet] dezelfde plek 
+B|53| B: jij moeten 
+A|54| A: even kijken dit _zijn_ [met] [dat] picknickbankje [met] [de] [cakevorm] [erop] 
+B|55| B: [yes] 
+B|56| B: letter D 
+A|57| A: [en] [die] [hebben] [ik] [nou] wat [zullen] we [zeggen] ? [zeggen maar] [dat] [die] [bij] vijfentachtig procent [van het] scherm aan [de] rechterkant 
+A|58| A: [en] [dan] [van] [hoog] naar beneden [op] [ongeveer] veertig [zeggen maar hij] [zitten] [wel] [boven] [de] helft [van het] scherm 
+B|59| B: [bij mij] [zitten die] echt als [boven] nul [zijn] [en] onder honderd [op] [tien] denken [ik] 
+A|60| A: [nee] [ik] [hebben] [er] [nog een] figuur [boven] [staan] 
+B|61| B: [ik] moeten [een] [nee] [niet] 
+A|62| A: rood [dan] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : je hebben het beker en om het bekert zitten een soort van kampbankje of een een kampvuurbank heen
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=zitten, Pattern=kampvuurbank, Pattern=je, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=1| B | B : en op het kampvuurbank staan een soort van cakevorm
+	Free: Pattern=op, Pattern=het, Pattern=kampvuurbank, Pattern=cakevorm, Pattern=een, Pattern=staan, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : hij staan bij mij flink rechts van het midden
+	Free: Pattern=rechts, Pattern=van het midden, Pattern=staan, Pattern=hij, Pattern=bij mij
+	Constrained: Pattern=het midden, Pattern=het, Pattern=van het, Pattern=bij, Pattern=van
+Turn ID=6| B | B : maar ik denken qua hoog en laag ongeveer in het midden van het midden
+	Free: Pattern=van het midden, Pattern=ongeveer, Pattern=ik, Pattern=en, Pattern=hoog, Pattern=maar, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in, Pattern=van het, Pattern=van
+Turn ID=7| B | B : er vaststaan wel nog één recht nog nog een ander figuurtje rechts van hem
+	Free: Pattern=nog, Pattern=nog een, Pattern=rechts, Pattern=wel, Pattern=er, Pattern=van, Pattern=hem
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=8| A | A : hebben ik niet
+	Free: Pattern=ik, Pattern=niet, Pattern=hebben
+	Constrained: 
+Turn ID=9| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=10| A | A : bij mij staan die zeggen maar aan de rand
+	Free: Pattern=de, Pattern=staan, Pattern=zeggen maar, Pattern=die, Pattern=bij mij
+	Constrained: Pattern=zeggen, Pattern=maar, Pattern=bij
+Turn ID=11| A | A : dit zijn die een met dat kampvuurbank waar dan dat cakevormp op staat
+	Free: Pattern=dat, Pattern=op, Pattern=dan, Pattern=een, Pattern=met, Pattern=die, Pattern=kampvuurbank, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : letter P
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : en ik hebben hem zeggen maar de rechterhelft
+	Free: Pattern=zeggen maar de, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=hem
+	Constrained: Pattern=zeggen, Pattern=de, Pattern=zeggen maar, Pattern=maar
+Turn ID=15| A | A : in het midden
+	Free: Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=in, Pattern=het
+Turn ID=16| B | B : ja Same
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : en er staan niks veel rechts van
+	Free: Pattern=rechts, Pattern=staan, Pattern=er, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : nee maar wel van de rand af
+	Free: Pattern=de, Pattern=wel, Pattern=nee, Pattern=van, Pattern=maar
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : het bak met het cakeblik erop
+	Free: Pattern=met het, Pattern=het, Pattern=erop
+	Constrained: Pattern=het, Pattern=met
+Turn ID=22| A | A : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=23| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : hij staan bij mij bijna in het midden maar dan een heel klein beetje link ervan
+	Free: Pattern=hij, Pattern=maar dan, Pattern=bij mij, Pattern=in het midden, Pattern=een, Pattern=staan
+	Constrained: Pattern=het midden, Pattern=dan, Pattern=het, Pattern=in, Pattern=bij, Pattern=maar
+Turn ID=25| B | B : en helemaal onderaan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=26| A | A : ja hebben ik ook
+	Free: Pattern=ja, Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=27| A | A : dit zijn die een met het kampvuurtafeltje met de cakevorm
+	Free: Pattern=de, Pattern=een, Pattern=met, Pattern=die, Pattern=met het, Pattern=zijn, Pattern=cakevorm
+	Constrained: Pattern=het, Pattern=met
+Turn ID=28| B | B : letter N
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : en die staan in de linkerhelft in het midden
+	Free: Pattern=de, Pattern=staan, Pattern=in, Pattern=die, Pattern=en, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=in, Pattern=het
+Turn ID=30| A | A : ongeveer op de lijn van het midden
+	Free: Pattern=van het midden, Pattern=ongeveer, Pattern=op, Pattern=de
+	Constrained: Pattern=van, Pattern=het, Pattern=van het, Pattern=het midden
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : zeggen maar alsof je hem erop zetten
+	Free: Pattern=zeggen maar, Pattern=je, Pattern=hem, Pattern=erop
+	Constrained: Pattern=zeggen, Pattern=maar
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : Same
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : het kampvuurbank met het cakeblik
+	Free: Pattern=met het, Pattern=het, Pattern=kampvuurbank
+	Constrained: Pattern=het, Pattern=met
+Turn ID=37| A | A : yes kijken zijn moeilijk nummer tien
+	Free: Pattern=tien, Pattern=yes, Pattern=zijn
+	Constrained: 
+Turn ID=38| B | B : hij staan een klein beetje link van het midden
+	Free: Pattern=van het midden, Pattern=staan, Pattern=hij, Pattern=een
+	Constrained: Pattern=van, Pattern=het, Pattern=van het, Pattern=het midden
+Turn ID=39| B | B : hij zeggen maar hij hij scheiden één of hij scheiden niet het midden maar het midden gaan komen door hem heen
+	Free: Pattern=het midden, Pattern=niet, Pattern=hij, Pattern=maar, Pattern=hem, Pattern=zeggen maar hij, Pattern=komen
+	Constrained: Pattern=zeggen maar, Pattern=het, Pattern=maar, Pattern=maar hij, Pattern=zeggen, Pattern=hij
+Turn ID=40| B | B : en hij staan een klein beetje nou zo'n stuk boven het midden
+	Free: Pattern=het midden, Pattern=boven, Pattern=hij, Pattern=en, Pattern=zo'n, Pattern=nou, Pattern=een, Pattern=staan
+	Constrained: Pattern=het
+Turn ID=41| A | A : voor mijn gevoel staan die juist iets rechts zeggen maar naar het midden het midden komen er bij mij ook wel doorheen
+	Free: Pattern=het midden, Pattern=rechts, Pattern=komen, Pattern=zeggen maar, Pattern=die, Pattern=er, Pattern=bij mij, Pattern=staan, Pattern=wel
+	Constrained: Pattern=bij, Pattern=zeggen, Pattern=het, Pattern=maar
+Turn ID=42| A | A : maar dan opsteken die dus uit naar rechts toe vooral
+	Free: Pattern=maar dan, Pattern=die, Pattern=rechts
+	Constrained: Pattern=maar, Pattern=dan
+Turn ID=43| B | B : nee nee dat kunnen ik echt niet zeggen
+	Free: Pattern=dat, Pattern=niet, Pattern=nee, Pattern=zeggen, Pattern=ik
+	Constrained: 
+Turn ID=44| A | A : met het tafel zeggen maar
+	Free: Pattern=zeggen maar, Pattern=met het
+	Constrained: Pattern=zeggen, Pattern=het, Pattern=maar, Pattern=met
+Turn ID=45| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=46| A | A : maar hij zitten wel zo'n stukkie van de bovenrand af
+	Free: Pattern=zo'n, Pattern=de, Pattern=wel, Pattern=zitten, Pattern=van, Pattern=maar hij
+	Constrained: Pattern=maar, Pattern=hij
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : maar bij mij zitten die echt ik denken ja het hij snijden net zeggen maar de rechterpoot van het bank eraf het midden zullen ik zeggen
+	Free: Pattern=zeggen maar de, Pattern=zullen, Pattern=net, Pattern=ja, Pattern=het, Pattern=van het, Pattern=ik, Pattern=zitten die, Pattern=snijden, Pattern=bij mij, Pattern=het midden, Pattern=maar bij, Pattern=zeggen, Pattern=hij
+	Constrained: Pattern=de, Pattern=zeggen maar, Pattern=het, Pattern=zeggen, Pattern=bij, Pattern=van, Pattern=maar, Pattern=die, Pattern=zitten
+Turn ID=49| A | A : maar bij jou zitten die dan
+	Free: Pattern=zitten die, Pattern=maar bij, Pattern=dan
+	Constrained: Pattern=die, Pattern=maar, Pattern=zitten, Pattern=bij
+Turn ID=50| A | A : nee bij mij snijden die dus net de linkerhelft van het plank aan de zijkant af
+	Free: Pattern=net, Pattern=de, Pattern=nee, Pattern=die, Pattern=van het, Pattern=snijden, Pattern=bij mij
+	Constrained: Pattern=van, Pattern=het, Pattern=bij
+Turn ID=51| B | B : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=52| A | A : niet dezelfde plek
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=53| B | B : jij moeten
+	Free: 
+	Constrained: 
+Turn ID=54| A | A : even kijken dit zijn met dat picknickbankje met de cakevorm erop
+	Free: Pattern=dat, Pattern=de, Pattern=erop, Pattern=met, Pattern=zijn, Pattern=cakevorm
+	Constrained: 
+Turn ID=55| B | B : yes
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=56| B | B : letter D
+	Free: 
+	Constrained: 
+Turn ID=57| A | A : en die hebben ik nou wat zullen we zeggen ? zeggen maar dat die bij vijfentachtig procent van het scherm aan de rechterkant
+	Free: Pattern=dat, Pattern=zullen, Pattern=nou, Pattern=de, Pattern=zeggen maar, Pattern=hebben, Pattern=zeggen, Pattern=die, Pattern=van het, Pattern=bij, Pattern=ik, Pattern=en
+	Constrained: Pattern=van, Pattern=zeggen, Pattern=het, Pattern=maar
+Turn ID=58| A | A : en dan van hoog naar beneden op ongeveer veertig zeggen maar hij zitten wel boven de helft van het scherm
+	Free: Pattern=de, Pattern=op, Pattern=zeggen maar hij, Pattern=wel, Pattern=van het, Pattern=hoog, Pattern=boven, Pattern=dan, Pattern=zitten, Pattern=ongeveer, Pattern=van, Pattern=en
+	Constrained: Pattern=zeggen maar, Pattern=het, Pattern=van, Pattern=maar, Pattern=maar hij, Pattern=zeggen, Pattern=hij
+Turn ID=59| B | B : bij mij zitten die echt als boven nul zijn en onder honderd op tien denken ik
+	Free: Pattern=op, Pattern=boven, Pattern=ik, Pattern=zijn, Pattern=bij mij, Pattern=tien, Pattern=en, Pattern=zitten die
+	Constrained: Pattern=die, Pattern=zitten, Pattern=bij
+Turn ID=60| A | A : nee ik hebben er nog een figuur boven staan
+	Free: Pattern=nog een, Pattern=boven, Pattern=staan, Pattern=nee, Pattern=hebben, Pattern=er, Pattern=ik
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=61| B | B : ik moeten een nee niet
+	Free: Pattern=ik, Pattern=niet, Pattern=nee, Pattern=een
+	Constrained: 
+Turn ID=62| A | A : rood dan
+	Free: Pattern=dan
+	Constrained: 

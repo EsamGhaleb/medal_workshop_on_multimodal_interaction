@@ -1,0 +1,303 @@
+A|0| A: _ja_ _oké_ 
+B|1| B: _nou_ [ja] _het_ _zijn_ _een_ beetje _een een_ vorm _van_ _een_ glaas _en dan_ _zitten_ _er_ _twee blok_ op 
+B|2| B: _en _een_ soort van_ Lvormig uitsteeksel 
+A|3| A: _twee blok erop_ 
+B|4| B: _een een_ glas _met_ _een_ voe 
+B|5| B: _met twee blok erop_ 
+A|6| A: [ja] ik zien [er] één [met twee blok erop] hebben zeggen _maar_ _de onderkant_ [een soort van] draai erin [zitten] 
+B|7| B: [ja] 
+A|8| A: [ja] _oké_ 
+A|9| A: [en dan] inderdaad [een een] _driehoek_ _die_ [er] _onderin_ [zitten] 
+B|10| B: [ja] 
+A|11| A: _oké_ _dat zijn_ vier voor _mij_ [dan] 
+B|12| B: [ja] 
+B|13| B: C 
+B|14| B: hij _staan_ _bij mij_ _in de_ _veel_ _in de_ _veel_ rechtsbovenhoek 
+B|15| B: _bij_ jou ook 
+A|16| A: [nou] _bij mij staan die_ _niet_ helemaal _rechtsboven_ [in de] hoek want daar [staan] _iets_ ander [bij mij] [zitten] _die_ [veel] _naar_ _het midden_ toe 
+B|17| B: [oké] 
+B|18| B: nee [dan] [zijn] [die] hier [niet] gelijk 
+A|19| A: _dus dat_ kloppen [niet] helemaal 
+B|20| B: nee 
+A|21| A: deze hebben [een] gedraaide _onderkant_ [en] [de] _driehoek_ eronder 
+B|22| B: _ja [dat_ zijn] A 
+A|23| A: [ja] 
+A|24| A: [en] [die] [twee blok] 
+B|25| B: [ja] 
+A|26| A: _en bij mij staan die_ ongeveer _in het midden van_ _de linkerkant_ 
+B|27| B: [ja] [bij mij] ook 
+A|28| A: [en] _net iets_ _onder_ _het midden_ 
+B|29| B: [nou] [en bij mij] [net iets] _boven_ [dus] 
+A|30| A: [oké] 
+B|31| B: [het] _zijn weer die_ [een] [in de] vorm _van het_ glas 
+B|32| B: _met _de_ blok erop_ 
+B|33| B: [de] driehoekig standaard 
+A|34| A: [ja] [en] [de] [en] [de] gedraaide 
+B|35| B: _draaien_ [ja] 
+A|36| A: [ja] [draaien] ding [oké] [dat zijn] tien 
+B|37| B: [oké] 
+B|38| B: [en bij mij staan die] [onderin] 
+B|39| B: _link_ [onderin] 
+B|40| B: [in het midden van] _link_ 
+B|41| B: [bij] jou ook 
+A|42| A: [ja] [oké] 
+B|43| B: [oké] 
+A|44| A: yes 
+A|45| A: [dat] kloppen 
+A|46| A: [oké] dit [zijn weer] _de draaien onderkant_ [met de] _driehoek_ eronder 
+B|47| B: [ja] 
+B|48| B: L 
+A|49| A: yes 
+A|50| A: [en] [staan] [ja] echt helemaal rechts 
+A|51| A: [en] ongeveer [in het midden van] [de] bovenkant 
+B|52| B: [zijn] [het] [het] [veel] [zijn] [die] [bij] jou [de] [veel] [rechtsboven] plaatsen 
+A|53| A: [ja] 
+A|54| A: [ja] [ja] 
+B|55| B: [oké] [bij mij] ook 
+B|56| B: [het] glaas _met de draaien onderkant_ 
+B|57| B: [en] [het] [driehoek] aan [de onderkant] 
+A|58| A: yes 
+A|59| A: [oké] [dat zijn] vier 
+B|60| B: [en] hij [staan] [in het midden] 
+B|61| B: [maar] _dan iets_ [naar] [onder] 
+A|62| A: [oké] [dus] [niet] 
+B|63| B: _link_ _link_ _link van het midden_ _en dan iets daaronder_ 
+A|64| A: [link van het midden] wel 
+B|65| B: [ja] 
+A|66| A: [oké] 
+A|67| A: [en dan iets daaronder] [ja dat] kloppen 
+A|68| A: deze dit [zijn weer die] [met de draaien onderkant] [en] [de] [en] [de blok erop] 
+B|69| B: [draaien onderkant] F 
+A|70| A: [en] [iets] rechts [van het midden] 
+A|71| A: [en een] stuk [boven] [het midden] 
+B|72| B: nee [oké] [bij mij staan die] juist aan [de linkerkant] 
+A|73| A: [oké] 
+B|74| B: [dus dat] worden hem [niet] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : nou ja het zijn een beetje een een vorm van een glaas en dan zitten er twee blok op
+	Free: Pattern=nou, Pattern=ja, Pattern=en dan, Pattern=een, Pattern=het, Pattern=een een, Pattern=zitten, Pattern=twee blok, Pattern=er, Pattern=van, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=een, Pattern=en
+Turn ID=2| B | B : en een soort van Lvormig uitsteeksel
+	Free: Pattern=een soort van, Pattern=en een
+	Constrained: Pattern=van, Pattern=een, Pattern=en
+Turn ID=3| A | A : twee blok erop
+	Free: Pattern=twee blok erop
+	Constrained: Pattern=twee blok
+Turn ID=4| B | B : een een glas met een voe
+	Free: Pattern=een een, Pattern=met, Pattern=een
+	Constrained: Pattern=een
+Turn ID=5| B | B : met twee blok erop
+	Free: Pattern=met twee blok erop
+	Constrained: Pattern=met, Pattern=twee blok, Pattern=twee blok erop
+Turn ID=6| A | A : ja ik zien er één met twee blok erop hebben zeggen maar de onderkant een soort van draai erin zitten
+	Free: Pattern=met twee blok erop, Pattern=ja, Pattern=een soort van, Pattern=er, Pattern=maar, Pattern=zitten, Pattern=de onderkant
+	Constrained: Pattern=de, Pattern=een, Pattern=twee blok erop, Pattern=met, Pattern=twee blok, Pattern=onderkant, Pattern=van
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en dan inderdaad een een driehoek die er onderin zitten
+	Free: Pattern=driehoek, Pattern=en dan, Pattern=onderin, Pattern=een een, Pattern=er, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dan, Pattern=een, Pattern=en
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : oké dat zijn vier voor mij dan
+	Free: Pattern=dat zijn, Pattern=dan, Pattern=mij, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : C
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : hij staan bij mij in de veel in de veel rechtsbovenhoek
+	Free: Pattern=in de, Pattern=bij mij, Pattern=staan, Pattern=veel
+	Constrained: Pattern=de, Pattern=mij, Pattern=bij
+Turn ID=15| B | B : bij jou ook
+	Free: Pattern=bij
+	Constrained: 
+Turn ID=16| A | A : nou bij mij staan die niet helemaal rechtsboven in de hoek want daar staan iets ander bij mij zitten die veel naar het midden toe
+	Free: Pattern=het midden, Pattern=nou, Pattern=iets, Pattern=rechtsboven, Pattern=niet, Pattern=veel, Pattern=staan, Pattern=in de, Pattern=naar, Pattern=die, Pattern=zitten, Pattern=bij mij, Pattern=bij mij staan die
+	Constrained: Pattern=de, Pattern=staan, Pattern=het, Pattern=die, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| B | B : nee dan zijn die hier niet gelijk
+	Free: Pattern=zijn, Pattern=die, Pattern=dan, Pattern=niet
+	Constrained: 
+Turn ID=19| A | A : dus dat kloppen niet helemaal
+	Free: Pattern=dus dat, Pattern=niet
+	Constrained: Pattern=dus, Pattern=dat
+Turn ID=20| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : deze hebben een gedraaide onderkant en de driehoek eronder
+	Free: Pattern=driehoek, Pattern=de, Pattern=een, Pattern=onderkant, Pattern=en
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn A
+	Free: Pattern=ja dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : en die twee blok
+	Free: Pattern=twee blok, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : en bij mij staan die ongeveer in het midden van de linkerkant
+	Free: Pattern=en bij mij staan die, Pattern=in het midden van, Pattern=de linkerkant
+	Constrained: Pattern=het midden, Pattern=de, Pattern=staan, Pattern=het, Pattern=en bij mij, Pattern=die, Pattern=bij, Pattern=mij, Pattern=in het midden, Pattern=van, Pattern=en, Pattern=bij mij, Pattern=bij mij staan die
+Turn ID=27| B | B : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=mij, Pattern=bij
+Turn ID=28| A | A : en net iets onder het midden
+	Free: Pattern=het midden, Pattern=net iets, Pattern=en, Pattern=onder
+	Constrained: Pattern=iets, Pattern=het
+Turn ID=29| B | B : nou en bij mij net iets boven dus
+	Free: Pattern=nou, Pattern=dus, Pattern=boven, Pattern=net iets, Pattern=en bij mij
+	Constrained: Pattern=iets, Pattern=bij, Pattern=mij, Pattern=en, Pattern=bij mij
+Turn ID=30| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=31| B | B : het zijn weer die een in de vorm van het glas
+	Free: Pattern=zijn weer die, Pattern=een, Pattern=het, Pattern=in de, Pattern=van het
+	Constrained: Pattern=de, Pattern=het, Pattern=die, Pattern=van, Pattern=zijn, Pattern=zijn weer
+Turn ID=32| B | B : met de blok erop
+	Free: Pattern=de blok erop, Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=33| B | B : de driehoekig standaard
+	Free: Pattern=de
+	Constrained: 
+Turn ID=34| A | A : ja en de en de gedraaide
+	Free: Pattern=de, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : draaien ja
+	Free: Pattern=draaien, Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : ja draaien ding oké dat zijn tien
+	Free: Pattern=dat zijn, Pattern=draaien, Pattern=oké, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=37| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=38| B | B : en bij mij staan die onderin
+	Free: Pattern=en bij mij staan die, Pattern=onderin
+	Constrained: Pattern=staan, Pattern=en bij mij, Pattern=die, Pattern=bij, Pattern=mij, Pattern=en, Pattern=bij mij, Pattern=bij mij staan die
+Turn ID=39| B | B : link onderin
+	Free: Pattern=link, Pattern=onderin
+	Constrained: 
+Turn ID=40| B | B : in het midden van link
+	Free: Pattern=in het midden van, Pattern=link
+	Constrained: Pattern=in het midden, Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=41| B | B : bij jou ook
+	Free: Pattern=bij
+	Constrained: 
+Turn ID=42| A | A : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=44| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=45| A | A : dat kloppen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=46| A | A : oké dit zijn weer de draaien onderkant met de driehoek eronder
+	Free: Pattern=driehoek, Pattern=met de, Pattern=oké, Pattern=de draaien onderkant, Pattern=zijn weer
+	Constrained: Pattern=de, Pattern=draaien, Pattern=met, Pattern=onderkant, Pattern=zijn, Pattern=draaien onderkant
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : en staan ja echt helemaal rechts
+	Free: Pattern=en, Pattern=ja, Pattern=staan
+	Constrained: 
+Turn ID=51| A | A : en ongeveer in het midden van de bovenkant
+	Free: Pattern=in het midden van, Pattern=de, Pattern=en
+	Constrained: Pattern=in het midden, Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=52| B | B : zijn het het veel zijn die bij jou de veel rechtsboven plaatsen
+	Free: Pattern=de, Pattern=rechtsboven, Pattern=veel, Pattern=het, Pattern=die, Pattern=bij, Pattern=zijn
+	Constrained: 
+Turn ID=53| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : oké bij mij ook
+	Free: Pattern=bij mij, Pattern=oké
+	Constrained: Pattern=mij, Pattern=bij
+Turn ID=56| B | B : het glaas met de draaien onderkant
+	Free: Pattern=met de draaien onderkant, Pattern=het
+	Constrained: Pattern=draaien, Pattern=met, Pattern=onderkant, Pattern=de draaien onderkant, Pattern=draaien onderkant, Pattern=de, Pattern=met de
+Turn ID=57| B | B : en het driehoek aan de onderkant
+	Free: Pattern=de onderkant, Pattern=en, Pattern=driehoek, Pattern=het
+	Constrained: Pattern=de, Pattern=onderkant
+Turn ID=58| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=59| A | A : oké dat zijn vier
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=60| B | B : en hij staan in het midden
+	Free: Pattern=in het midden, Pattern=en, Pattern=staan
+	Constrained: Pattern=het midden, Pattern=het
+Turn ID=61| B | B : maar dan iets naar onder
+	Free: Pattern=dan iets, Pattern=maar, Pattern=onder, Pattern=naar
+	Constrained: Pattern=dan, Pattern=iets
+Turn ID=62| A | A : oké dus niet
+	Free: Pattern=dus, Pattern=oké, Pattern=niet
+	Constrained: 
+Turn ID=63| B | B : link link link van het midden en dan iets daaronder
+	Free: Pattern=link van het midden, Pattern=en dan iets daaronder, Pattern=link
+	Constrained: Pattern=iets, Pattern=en dan, Pattern=van het midden, Pattern=dan, Pattern=het, Pattern=link, Pattern=van het, Pattern=het midden, Pattern=dan iets, Pattern=van, Pattern=en
+Turn ID=64| A | A : link van het midden wel
+	Free: Pattern=link van het midden
+	Constrained: Pattern=het midden, Pattern=van het midden, Pattern=het, Pattern=link, Pattern=van het, Pattern=van
+Turn ID=65| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=66| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=67| A | A : en dan iets daaronder ja dat kloppen
+	Free: Pattern=en dan iets daaronder, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=dan iets, Pattern=en dan, Pattern=dan, Pattern=en, Pattern=iets, Pattern=ja
+Turn ID=68| A | A : deze dit zijn weer die met de draaien onderkant en de en de blok erop
+	Free: Pattern=zijn weer die, Pattern=de blok erop, Pattern=en, Pattern=de, Pattern=met de draaien onderkant
+	Constrained: Pattern=draaien, Pattern=met, Pattern=die, Pattern=onderkant, Pattern=de draaien onderkant, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=draaien onderkant, Pattern=zijn weer
+Turn ID=69| B | B : draaien onderkant F
+	Free: Pattern=draaien onderkant
+	Constrained: Pattern=draaien, Pattern=onderkant
+Turn ID=70| A | A : en iets rechts van het midden
+	Free: Pattern=van het midden, Pattern=en, Pattern=iets
+	Constrained: Pattern=van, Pattern=het, Pattern=van het, Pattern=het midden
+Turn ID=71| A | A : en een stuk boven het midden
+	Free: Pattern=het midden, Pattern=en een, Pattern=boven
+	Constrained: Pattern=een, Pattern=en, Pattern=het
+Turn ID=72| B | B : nee oké bij mij staan die juist aan de linkerkant
+	Free: Pattern=bij mij staan die, Pattern=de linkerkant, Pattern=oké
+	Constrained: Pattern=de, Pattern=staan, Pattern=die, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=73| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=74| B | B : dus dat worden hem niet
+	Free: Pattern=dus dat, Pattern=niet
+	Constrained: Pattern=dus, Pattern=dat

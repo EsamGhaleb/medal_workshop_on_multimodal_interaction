@@ -1,0 +1,163 @@
+A|0| A: _deze hebben_ _aan de rechterkant_ _twee_ uitstekend paneel zullen _ik_ zeggen 
+B|1| B: _ja_ 
+A|2| A: _en_ bovenop eigenlijk _een soort_ _hoed_ _dat_ toelopen 
+B|3| B: _ja_ 
+A|4| A: _en_ speciaal 
+B|5| B: [ik] denken [dat] [ik] _hem_ _al_ weten 
+A|6| A: _okee_ 
+A|7| A: [ik] geven _de_ hoop [al] _op_ 
+B|8| B: h 
+B|9| B: we doen het gewoon 
+B|10| B: [deze hebben] [een soort] _fez_ [op] _zijn_ hoofd 
+B|11| B: zo'n afgedakt [hoed] 
+B|12| B: _met_ _rechts twee_ identiek _ja_ 
+A|13| A: [ja] drie 
+B|14| B: [ja] 
+A|15| A: [deze hebben] [rechts twee] paneel 
+A|16| A: _en_ [een] [hoed] [met] [een] plat dak 
+A|17| A: of [een] plat [hoed] 
+B|18| B: [ja] [en] nog [twee] aanhangsel [aan de] linkerkant 
+A|19| A: of [een] plat dak 
+A|20| A: precies 
+B|21| B: [okee] [dat] _zijn_ o 
+B|22| B: [deze hebben] _een fez_ [op] _zijn_ hoofd 
+B|23| B: [een] afgeplat [hoed] 
+B|24| B: [en] [twee] 
+A|25| A: [een fez] 
+B|26| B: [ja] volgens mij heten [dat] zo 
+B|27| B: [en] [twee] identiek staf [aan de] zijkant 
+B|28| B: [aan de rechterkant] 
+B|29| B: [en] dan nog [twee] ding [aan de] linkerkant 
+A|30| A: [ik] [hebben] [hem] dertien 
+A|31| A: [twee] uithangborde [aan de rechterkant] 
+A|32| A: [en] plat [hoed] 
+B|33| B: [en] [twee] ding link 
+A|34| A: [ja] 
+B|35| B: [dat] _zijn_ m 
+B|36| B: [fez] [met] [twee] rechthoeak [aan de] zijkant 
+A|37| A: [ja] [fez] [zijn] wel genoeg nu die gaan [ik] niet veel vergeten 
+A|38| A: even kijken waar hij [zijn] 
+A|39| A: [ja] zeven 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben aan de rechterkant twee uitstekend paneel zullen ik zeggen
+	Free: Pattern=aan de rechterkant, Pattern=deze hebben, Pattern=ik, Pattern=twee
+	Constrained: Pattern=de, Pattern=hebben, Pattern=aan de
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en bovenop eigenlijk een soort hoed dat toelopen
+	Free: Pattern=een soort, Pattern=en, Pattern=dat, Pattern=hoed
+	Constrained: Pattern=een
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en speciaal
+	Free: Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ik denken dat ik hem al weten
+	Free: Pattern=dat, Pattern=ik, Pattern=hem, Pattern=al
+	Constrained: 
+Turn ID=6| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=7| A | A : ik geven de hoop al op
+	Free: Pattern=ik, Pattern=de, Pattern=al, Pattern=op
+	Constrained: 
+Turn ID=8| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : we doen het gewoon
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : deze hebben een soort fez op zijn hoofd
+	Free: Pattern=fez, Pattern=op, Pattern=deze hebben, Pattern=een soort, Pattern=zijn
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=11| B | B : zo'n afgedakt hoed
+	Free: Pattern=hoed
+	Constrained: 
+Turn ID=12| B | B : met rechts twee identiek ja
+	Free: Pattern=rechts twee, Pattern=met, Pattern=ja
+	Constrained: Pattern=twee
+Turn ID=13| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : deze hebben rechts twee paneel
+	Free: Pattern=rechts twee, Pattern=deze hebben
+	Constrained: Pattern=hebben, Pattern=twee
+Turn ID=16| A | A : en een hoed met een plat dak
+	Free: Pattern=en, Pattern=met, Pattern=hoed, Pattern=een
+	Constrained: 
+Turn ID=17| A | A : of een plat hoed
+	Free: Pattern=hoed, Pattern=een
+	Constrained: 
+Turn ID=18| B | B : ja en nog twee aanhangsel aan de linkerkant
+	Free: Pattern=aan de, Pattern=en, Pattern=ja, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=19| A | A : of een plat dak
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| A | A : precies
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : okee dat zijn o
+	Free: Pattern=dat, Pattern=zijn, Pattern=okee
+	Constrained: 
+Turn ID=22| B | B : deze hebben een fez op zijn hoofd
+	Free: Pattern=een fez, Pattern=deze hebben, Pattern=zijn, Pattern=op
+	Constrained: Pattern=fez, Pattern=hebben, Pattern=een
+Turn ID=23| B | B : een afgeplat hoed
+	Free: Pattern=hoed, Pattern=een
+	Constrained: 
+Turn ID=24| B | B : en twee
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=25| A | A : een fez
+	Free: Pattern=een fez
+	Constrained: Pattern=fez, Pattern=een
+Turn ID=26| B | B : ja volgens mij heten dat zo
+	Free: Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : en twee identiek staf aan de zijkant
+	Free: Pattern=aan de, Pattern=en, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=28| B | B : aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=29| B | B : en dan nog twee ding aan de linkerkant
+	Free: Pattern=aan de, Pattern=en, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=30| A | A : ik hebben hem dertien
+	Free: Pattern=ik, Pattern=hem, Pattern=hebben
+	Constrained: 
+Turn ID=31| A | A : twee uithangborde aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=32| A | A : en plat hoed
+	Free: Pattern=en, Pattern=hoed
+	Constrained: 
+Turn ID=33| B | B : en twee ding link
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat zijn m
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=36| B | B : fez met twee rechthoeak aan de zijkant
+	Free: Pattern=aan de, Pattern=fez, Pattern=met, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=37| A | A : ja fez zijn wel genoeg nu die gaan ik niet veel vergeten
+	Free: Pattern=fez, Pattern=zijn, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : even kijken waar hij zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=39| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,151 @@
+B|0| B: _ah_ 
+B|1| B: nou _ja_ van al ander kop zeggen maar er _zijn_ er niet zo veel _die_ staan op _een_ soort van plateautje 
+B|2| B: _en_ _deze_ _die_ staan op _een_ soort van driehoekplateau _met_ _een_ twist _omhoog_ 
+A|3| A: _een wokkel_ ha [ja] 
+B|4| B: [een] soort [wokkel] inderdaad 
+A|5| A: _blok_ bovenop toevallig 
+B|6| B: [een] [blok] [ja] [een] [blok] 
+A|7| A: [ja] 
+B|8| B: zitten er rechts één _en_ er zitten er één in denken _ik_ 
+A|9| A: [ja] 
+B|10| B: _en_ nog [een] ander uitsteeksel 
+A|11| A: okee 
+B|12| B: _ik_ denken _dat_ je hem wel weten 
+A|13| A: _ik gaan voor_ vijfteen 
+A|14| A: okee 
+A|15| A: standaard 
+A|16| A: _driehoek_ 
+B|17| B: [ja] 
+A|18| A: _wokkel omhoog_ 
+B|19| B: [een [wokkel] omhoog] [ja] 
+A|20| A: [blok] bovenop 
+B|21| B: [ik] [ja] [ik gaan voor] d 
+B|22| B: nou dit _zijn_ diegene _die_ op [een] twisterpootje staan 
+A|23| A: [met] _het_ _driehoek_ 
+B|24| B: [een] driehoekig 
+B|25| B: [ja] 
+A|26| A: zoeken [ah] nummer acht 
+A|27| A: [deze] [zijn] [met] [die] [wokkel] standaard [met] [dat] _driehoek_ eronder [en] [blok] bovenop 
+B|28| B: yes 
+B|29| B: [dat] [zijn] o 
+B|30| B: [het] [zijn] grappig hoe dit werken vinden [ik] wel 
+A|31| A: [ja] 
+B|32| B: twisterkopje _met driehoek_ beneden 
+B|33| B: [ja] 
+A|34| A: [ah] [ja] nummer zeven 
+A|35| A: wokkelvormig Standaard [met driehoek] 
+B|36| B: [dat] [zijn] k 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ah
+	Free: Pattern=ah
+	Constrained: 
+Turn ID=1| B | B : nou ja van al ander kop zeggen maar er zijn er niet zo veel die staan op een soort van plateautje
+	Free: Pattern=zijn, Pattern=die, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : en deze die staan op een soort van driehoekplateau met een twist omhoog
+	Free: Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=deze, Pattern=omhoog
+	Constrained: 
+Turn ID=3| A | A : een wokkel ha ja
+	Free: Pattern=een wokkel, Pattern=ja
+	Constrained: Pattern=wokkel, Pattern=een
+Turn ID=4| B | B : een soort wokkel inderdaad
+	Free: Pattern=wokkel, Pattern=een
+	Constrained: 
+Turn ID=5| A | A : blok bovenop toevallig
+	Free: Pattern=blok
+	Constrained: 
+Turn ID=6| B | B : een blok ja een blok
+	Free: Pattern=blok, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : zitten er rechts één en er zitten er één in denken ik
+	Free: Pattern=en, Pattern=ik
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en nog een ander uitsteeksel
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=11| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : ik denken dat je hem wel weten
+	Free: Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=13| A | A : ik gaan voor vijfteen
+	Free: Pattern=ik gaan voor
+	Constrained: Pattern=ik
+Turn ID=14| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : standaard
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : driehoek
+	Free: Pattern=driehoek
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : wokkel omhoog
+	Free: Pattern=wokkel omhoog
+	Constrained: Pattern=wokkel, Pattern=omhoog
+Turn ID=19| B | B : een wokkel omhoog ja
+	Free: Pattern=wokkel omhoog, Pattern=een wokkel, Pattern=ja
+	Constrained: Pattern=wokkel, Pattern=omhoog, Pattern=een
+Turn ID=20| A | A : blok bovenop
+	Free: Pattern=blok
+	Constrained: 
+Turn ID=21| B | B : ik ja ik gaan voor d
+	Free: Pattern=ik gaan voor, Pattern=ja, Pattern=ik
+	Constrained: Pattern=ik
+Turn ID=22| B | B : nou dit zijn diegene die op een twisterpootje staan
+	Free: Pattern=zijn, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=23| A | A : met het driehoek
+	Free: Pattern=driehoek, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=24| B | B : een driehoekig
+	Free: Pattern=een
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : zoeken ah nummer acht
+	Free: Pattern=ah
+	Constrained: 
+Turn ID=27| A | A : deze zijn met die wokkel standaard met dat driehoek eronder en blok bovenop
+	Free: Pattern=driehoek, Pattern=dat, Pattern=wokkel, Pattern=met, Pattern=die, Pattern=en, Pattern=blok, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=28| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : dat zijn o
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=30| B | B : het zijn grappig hoe dit werken vinden ik wel
+	Free: Pattern=zijn, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : twisterkopje met driehoek beneden
+	Free: Pattern=met driehoek
+	Constrained: Pattern=driehoek, Pattern=met
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ah ja nummer zeven
+	Free: Pattern=ja, Pattern=ah
+	Constrained: 
+Turn ID=35| A | A : wokkelvormig Standaard met driehoek
+	Free: Pattern=met driehoek
+	Constrained: Pattern=driehoek, Pattern=met
+Turn ID=36| B | B : dat zijn k
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 

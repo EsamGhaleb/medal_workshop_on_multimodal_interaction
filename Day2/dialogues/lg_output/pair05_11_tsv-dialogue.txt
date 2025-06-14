@@ -1,0 +1,167 @@
+B|0| B: _okee_ _deze hebben een aardappelneus_ 
+B|1| B: tenminste zo'n groot ronde _neus_ 
+B|2| B: _en een_ soort _ja_ wat _zijn het_ _een_ soort 3D-ruit vanuit _zijn_ _hoofd_ steken _en _een_ staaf_ uit _zijn_ _hoofd_ 
+B|3| B: _en_ _ook een_ klein driehoekig _staaf_ uit de zijkant _van_ _zijn_ _hoofd_ 
+A|4| A: [okee] 
+A|5| A: dertien 
+A|6| A: [deze hebben een aardappelneus] [een] bol [neus] 
+A|7| A: [en] precies in [het] midden [een staaf] recht overeind [en] [zijn] oor [zijn] eigenlijk [een] [ook [een] staaf] _met_ [een] driehoekvorm 
+A|8| A: [en] _dan zijn_ er _nog_ _één_ 
+B|9| B: ik [zijn] al even _op_ zoek 
+A|10| A: [ja] 
+A|11| A: dit [zijn het] driehoeksoor 
+B|12| B: de [staaf] komen door de [neus] heen 
+A|13| A: nee _dat [zijn_ het] niet 
+B|14| B: [okee] 
+A|15| A: [het] oor [zijn] dus zeggen maar [een] driehoek 
+A|16| A: driehoeksstaafvorm daar [zijn] er maar _één_ [van] 
+B|17| B: [ja] [en] hij [hebben een] soort raar punt 
+A|18| A: _twee_ staf [op] [hoofd] 
+B|19| B: [ja] [en] [nog] [een staaf] [okee] 
+A|20| A: [van] verschilen vorm 
+B|21| B: [dan [zijn] het] e 
+A|22| A: [ja] 
+B|23| B: [deze hebben een aardappelneus] 
+B|24| B: [hebben] [twee] verschillend ding bovenop [zijn] [hoofd] 
+B|25| B: [en] aan de linkerkant [nog] [een] driehoekigvormig 
+A|26| A: [ja] negen 
+A|27| A: [deze hebben een] driehoek [een] driehoeksoor 
+A|28| A: [aardappelneus] 
+B|29| B: [en] [twee] verschillend 
+A|30| A: [een staaf] [en een] hendel of [ja] [staaf] [ja] 
+B|31| B: _ja dat zijn_ i 
+B|32| B: [aardappelneus] [twee] verschillend ding [op] [zijn] [hoofd] [en] [één] driehoeksding link 
+A|33| A: [ja] 
+A|34| A: [ja dat zijn] zes 
+A|35| A: driehoeksoor 
+B|36| B: [ja] [met] [aardappelneus] 
+A|37| A: [aardappelneus] 
+B|38| B: [dat zijn] p 
+A|39| A: misschien [zijn] [dat] [een] beetje [een] indiaan 
+B|40| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee deze hebben een aardappelneus
+	Free: Pattern=deze hebben een aardappelneus, Pattern=okee
+	Constrained: Pattern=aardappelneus, Pattern=hebben een, Pattern=deze hebben een, Pattern=een, Pattern=hebben
+Turn ID=1| B | B : tenminste zo'n groot ronde neus
+	Free: Pattern=neus
+	Constrained: 
+Turn ID=2| B | B : en een soort ja wat zijn het een soort 3D-ruit vanuit zijn hoofd steken en een staaf uit zijn hoofd
+	Free: Pattern=zijn het, Pattern=ja, Pattern=een, Pattern=een staaf, Pattern=hoofd, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=staaf, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn
+Turn ID=3| B | B : en ook een klein driehoekig staaf uit de zijkant van zijn hoofd
+	Free: Pattern=ook een, Pattern=staaf, Pattern=zijn, Pattern=hoofd, Pattern=van, Pattern=en
+	Constrained: Pattern=een
+Turn ID=4| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=5| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : deze hebben een aardappelneus een bol neus
+	Free: Pattern=deze hebben een aardappelneus, Pattern=een, Pattern=neus
+	Constrained: Pattern=aardappelneus, Pattern=hebben een, Pattern=deze hebben een, Pattern=een, Pattern=hebben
+Turn ID=7| A | A : en precies in het midden een staaf recht overeind en zijn oor zijn eigenlijk een ook een staaf met een driehoekvorm
+	Free: Pattern=ook een, Pattern=een, Pattern=het, Pattern=met, Pattern=zijn, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=staaf, Pattern=een
+Turn ID=8| A | A : en dan zijn er nog één
+	Free: Pattern=dan zijn, Pattern=één, Pattern=en, Pattern=nog
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : ik zijn al even op zoek
+	Free: Pattern=zijn, Pattern=op
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dit zijn het driehoeksoor
+	Free: Pattern=zijn het
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=12| B | B : de staaf komen door de neus heen
+	Free: Pattern=staaf, Pattern=neus
+	Constrained: 
+Turn ID=13| A | A : nee dat zijn het niet
+	Free: Pattern=zijn het, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=het
+Turn ID=14| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=15| A | A : het oor zijn dus zeggen maar een driehoek
+	Free: Pattern=zijn, Pattern=het, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : driehoeksstaafvorm daar zijn er maar één van
+	Free: Pattern=één, Pattern=zijn, Pattern=van
+	Constrained: 
+Turn ID=17| B | B : ja en hij hebben een soort raar punt
+	Free: Pattern=hebben een, Pattern=ja, Pattern=en
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=18| A | A : twee staf op hoofd
+	Free: Pattern=op, Pattern=hoofd, Pattern=twee
+	Constrained: 
+Turn ID=19| B | B : ja en nog een staaf okee
+	Free: Pattern=nog, Pattern=okee, Pattern=ja, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=staaf, Pattern=een
+Turn ID=20| A | A : van verschilen vorm
+	Free: Pattern=van
+	Constrained: 
+Turn ID=21| B | B : dan zijn het e
+	Free: Pattern=zijn het, Pattern=dan zijn
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : deze hebben een aardappelneus
+	Free: Pattern=deze hebben een aardappelneus
+	Constrained: Pattern=aardappelneus, Pattern=hebben een, Pattern=deze hebben een, Pattern=een, Pattern=hebben
+Turn ID=24| B | B : hebben twee verschillend ding bovenop zijn hoofd
+	Free: Pattern=zijn, Pattern=hoofd, Pattern=hebben, Pattern=twee
+	Constrained: 
+Turn ID=25| B | B : en aan de linkerkant nog een driehoekigvormig
+	Free: Pattern=en, Pattern=een, Pattern=nog
+	Constrained: 
+Turn ID=26| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : deze hebben een driehoek een driehoeksoor
+	Free: Pattern=deze hebben een, Pattern=een
+	Constrained: Pattern=hebben een, Pattern=hebben, Pattern=een
+Turn ID=28| A | A : aardappelneus
+	Free: Pattern=aardappelneus
+	Constrained: 
+Turn ID=29| B | B : en twee verschillend
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=30| A | A : een staaf en een hendel of ja staaf ja
+	Free: Pattern=en een, Pattern=een staaf, Pattern=ja, Pattern=staaf
+	Constrained: Pattern=staaf, Pattern=en, Pattern=een
+Turn ID=31| B | B : ja dat zijn i
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=32| B | B : aardappelneus twee verschillend ding op zijn hoofd en één driehoeksding link
+	Free: Pattern=aardappelneus, Pattern=twee, Pattern=op, Pattern=en, Pattern=zijn, Pattern=één, Pattern=hoofd
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja dat zijn zes
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=35| A | A : driehoeksoor
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : ja met aardappelneus
+	Free: Pattern=ja, Pattern=met, Pattern=aardappelneus
+	Constrained: 
+Turn ID=37| A | A : aardappelneus
+	Free: Pattern=aardappelneus
+	Constrained: 
+Turn ID=38| B | B : dat zijn p
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=39| A | A : misschien zijn dat een beetje een indiaan
+	Free: Pattern=dat, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

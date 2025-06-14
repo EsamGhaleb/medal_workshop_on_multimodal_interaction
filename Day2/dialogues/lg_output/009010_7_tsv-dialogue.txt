@@ -1,0 +1,243 @@
+B|0| B: _oké_ 
+B|1| B: _ik_ _vinden_ _bij_ deze lijken alsof _het_ _er_ _een_ _soort_ plank aan vastzit _of_ _een_ _soort_ _tafel_ 
+B|2| B: _waar_ _het_ _dan_ aan _hangen_ _dus_ _ik_ moeten denken aan _een_ _een_ _een_ plantenpot _die_ aan _de_ muur _hangen_ _of_ _zo_ 
+B|3| B: _het_ _zijn_ _ja_ _het_ lijken _echt_ op _een_ _tafel dat_ _zo_ _een_ _beetje_ bovenaan _zitten_ 
+A|4| A: en [er] _er zitten_ zo'n [soort] van omdraaien trapezium [zitten] erop 
+B|5| B: _ja_ 
+A|6| A: zo'n _piramide_ en _er zitten_ Linksboven [zitten] _nog_ zo'n [soort] van haak 
+B|7| B: _ja_ 
+B|8| B: _ja_ 
+A|9| A: [ja] _oké dat zijn_ zestien 
+A|10| A: _bij mij_ [zijn] [dat] degeen [die] _helemaal_ rechtsboven staan 
+B|11| B: _nee_ ander plek 
+A|12| A: [oké] 
+A|13| A: _dit zijn die met_ [dat] _met_ [die] _plantenbak_ _met_ [dat] [tafel] 
+A|14| A: _met_ [die] _omgedraaide piramide_ erbovenop 
+B|15| B: _waar zijn die_ ? [ja] 
+B|16| B: _dus_ [dat zijn] P 
+A|17| A: en _bij mij_ [zijn die] als je rechts [zitten] en [dan] gewoon [echt] _het midden_ van [het] scherm 
+B|18| B: [ja] 
+B|19| B: [dat zijn] hetzelfde 
+B|20| B: [dit zijn] _de_ _de_ [plantenbak] aan _een_ [tafel] 
+A|21| A: even zoeken zoeken zoeken [waar zijn die] 
+A|22| A: [ja] 
+A|23| A: [dat zijn] veertien 
+B|24| B: hij [zitten] [bij mij] [helemaal] onderaan _in het midden_ 
+A|25| A: [ja] [bij mij] ook 
+B|26| B: [oké] 
+A|27| A: onder [die] [een] [die] we net hebben 
+A|28| A: [dit zijn] weer [dat] [tafel dat] _in de_ lucht [hangen] _met_ [die] bak erop 
+B|29| B: [ja] 
+B|30| B: [dat zijn] N 
+A|31| A: als je [die] [die] groep hebben van _boven_ [die] twee _dan zijn het_ [bij mij] diegene [die] daaronder [zitten] 
+A|32| A: [dus] Linksboven 
+B|33| B: [ja] 
+B|34| B: [ja] [dat zijn] dezelfde plek 
+B|35| B: [dit zijn die met] [het] [tafel] 
+B|36| B: [met] [de] te [de] plantenpot aan [tafel] [met] [de] [omgedraaide piramide] op [het] [tafel] 
+A|37| A: [ja] 
+A|38| A: [dat zijn] tien 
+A|39| A: maar gewoon _helemaal boven_ en [dan] [in het midden] 
+A|40| A: precies [in het midden] 
+A|41| A: zo'n [beetje] 
+B|42| B: [het] [zijn] _niet_ [helemaal boven] 
+B|43| B: [bij mij] 
+B|44| B: _er zitten er_ [nog] _één boven_ 
+A|45| A: [nee] [bij mij] [zijn] [dat] wel 
+A|46| A: [dit zijn] weer [die] [tafel] [die] opgetilgen worden 
+A|47| A: [of] tenminste [dat] [met] [die] plantenbakachtig 
+B|48| B: [oké dat zijn] D 
+A|49| A: en als je [helemaal] rechts kijken _dan zijn het_ zeggen maar [niet] degeen [die] [het] _veel_ rechts [zitten] maar [één] daarna 
+A|50| A: [zitten] link zeggen maar 
+B|51| B: [bij mij] [zitten] [die] [veel] [in de] rechterbovenhoek 
+B|52| B: kloppen [dat] 
+A|53| A: [ja] [vinden] [ik] lastig want [er zitten er] zeggen maar twee [die] best wel rechtsboven [in de] bovenhoek [zitten] 
+A|54| A: als je zeggen maar [echt] vanuit rechts komen 
+A|55| A: [dan] hebben je [er] [één] [die] [echt] [in het midden] van [de] [ja] zeggen maar [zo] [midden] [zijn] 
+A|56| A: maar [dan] [zitten er] [één boven] 
+B|57| B: [nee] [er zitten] [bij] [bij] deze niks [boven] 
+B|58| B: [dan zijn het] [niet] [ik] denken [niet] [dat] [het] dezelfde plek [zijn] 
+A|59| A: [oké] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : ik vinden bij deze lijken alsof het er een soort plank aan vastzit of een soort tafel
+	Free: Pattern=of, Pattern=soort, Pattern=vinden, Pattern=een, Pattern=het, Pattern=tafel, Pattern=ik, Pattern=bij, Pattern=er
+	Constrained: 
+Turn ID=2| B | B : waar het dan aan hangen dus ik moeten denken aan een een een plantenpot die aan de muur hangen of zo
+	Free: Pattern=of, Pattern=waar, Pattern=dan, Pattern=een, Pattern=het, Pattern=die, Pattern=ik, Pattern=de, Pattern=dus, Pattern=zo, Pattern=hangen
+	Constrained: 
+Turn ID=3| B | B : het zijn ja het lijken echt op een tafel dat zo een beetje bovenaan zitten
+	Free: Pattern=ja, Pattern=beetje, Pattern=een, Pattern=het, Pattern=zo, Pattern=zitten, Pattern=echt, Pattern=tafel dat, Pattern=zijn
+	Constrained: Pattern=tafel, Pattern=dat
+Turn ID=4| A | A : en er er zitten zo'n soort van omdraaien trapezium zitten erop
+	Free: Pattern=er zitten, Pattern=zitten, Pattern=soort, Pattern=er
+	Constrained: Pattern=zitten, Pattern=er
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : zo'n piramide en er zitten Linksboven zitten nog zo'n soort van haak
+	Free: Pattern=piramide, Pattern=zitten, Pattern=er zitten, Pattern=nog, Pattern=soort
+	Constrained: Pattern=zitten, Pattern=er
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja oké dat zijn zestien
+	Free: Pattern=oké dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : bij mij zijn dat degeen die helemaal rechtsboven staan
+	Free: Pattern=dat, Pattern=helemaal, Pattern=die, Pattern=zijn, Pattern=bij mij
+	Constrained: Pattern=bij
+Turn ID=11| B | B : nee ander plek
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : dit zijn die met dat met die plantenbak met dat tafel
+	Free: Pattern=dat, Pattern=dit zijn die met, Pattern=met, Pattern=plantenbak, Pattern=tafel, Pattern=die
+	Constrained: Pattern=zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=14| A | A : met die omgedraaide piramide erbovenop
+	Free: Pattern=omgedraaide piramide, Pattern=die, Pattern=met
+	Constrained: Pattern=piramide
+Turn ID=15| B | B : waar zijn die ? ja
+	Free: Pattern=waar zijn die, Pattern=ja
+	Constrained: Pattern=zijn die, Pattern=waar, Pattern=die, Pattern=zijn
+Turn ID=16| B | B : dus dat zijn P
+	Free: Pattern=dat zijn, Pattern=dus
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : en bij mij zijn die als je rechts zitten en dan gewoon echt het midden van het scherm
+	Free: Pattern=het midden, Pattern=dan, Pattern=zitten, Pattern=echt, Pattern=bij mij, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=het, Pattern=die, Pattern=bij, Pattern=zijn, Pattern=midden
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn hetzelfde
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| B | B : dit zijn de de plantenbak aan een tafel
+	Free: Pattern=de, Pattern=een, Pattern=tafel, Pattern=plantenbak, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : even zoeken zoeken zoeken waar zijn die
+	Free: Pattern=waar zijn die
+	Constrained: Pattern=zijn die, Pattern=waar, Pattern=die, Pattern=zijn
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| B | B : hij zitten bij mij helemaal onderaan in het midden
+	Free: Pattern=in het midden, Pattern=bij mij, Pattern=helemaal, Pattern=zitten
+	Constrained: Pattern=midden, Pattern=het, Pattern=het midden, Pattern=bij
+Turn ID=25| A | A : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ja
+	Constrained: Pattern=bij
+Turn ID=26| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| A | A : onder die een die we net hebben
+	Free: Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=28| A | A : dit zijn weer dat tafel dat in de lucht hangen met die bak erop
+	Free: Pattern=dat, Pattern=hangen, Pattern=in de, Pattern=met, Pattern=die, Pattern=tafel dat, Pattern=dit zijn
+	Constrained: Pattern=tafel, Pattern=dat, Pattern=de, Pattern=zijn
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=31| A | A : als je die die groep hebben van boven die twee dan zijn het bij mij diegene die daaronder zitten
+	Free: Pattern=dan zijn het, Pattern=boven, Pattern=bij mij, Pattern=die, Pattern=zitten
+	Constrained: Pattern=bij, Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=32| A | A : dus Linksboven
+	Free: Pattern=dus
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja dat zijn dezelfde plek
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=35| B | B : dit zijn die met het tafel
+	Free: Pattern=dit zijn die met, Pattern=tafel, Pattern=het
+	Constrained: Pattern=zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=36| B | B : met de te de plantenpot aan tafel met de omgedraaide piramide op het tafel
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=tafel, Pattern=omgedraaide piramide
+	Constrained: Pattern=piramide
+Turn ID=37| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=39| A | A : maar gewoon helemaal boven en dan in het midden
+	Free: Pattern=in het midden, Pattern=helemaal boven, Pattern=dan
+	Constrained: Pattern=het midden, Pattern=helemaal, Pattern=boven, Pattern=het, Pattern=midden
+Turn ID=40| A | A : precies in het midden
+	Free: Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=het, Pattern=midden
+Turn ID=41| A | A : zo'n beetje
+	Free: Pattern=beetje
+	Constrained: 
+Turn ID=42| B | B : het zijn niet helemaal boven
+	Free: Pattern=helemaal boven, Pattern=niet, Pattern=het, Pattern=zijn
+	Constrained: Pattern=helemaal, Pattern=boven
+Turn ID=43| B | B : bij mij
+	Free: Pattern=bij mij
+	Constrained: Pattern=bij
+Turn ID=44| B | B : er zitten er nog één boven
+	Free: Pattern=er zitten er, Pattern=één boven, Pattern=nog
+	Constrained: Pattern=boven, Pattern=zitten, Pattern=er zitten, Pattern=er, Pattern=zitten er, Pattern=één
+Turn ID=45| A | A : nee bij mij zijn dat wel
+	Free: Pattern=bij mij, Pattern=nee, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=bij
+Turn ID=46| A | A : dit zijn weer die tafel die opgetilgen worden
+	Free: Pattern=dit zijn, Pattern=tafel, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=47| A | A : of tenminste dat met die plantenbakachtig
+	Free: Pattern=of, Pattern=die, Pattern=met, Pattern=dat
+	Constrained: 
+Turn ID=48| B | B : oké dat zijn D
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=49| A | A : en als je helemaal rechts kijken dan zijn het zeggen maar niet degeen die het veel rechts zitten maar één daarna
+	Free: Pattern=dan zijn het, Pattern=helemaal, Pattern=niet, Pattern=veel, Pattern=het, Pattern=één, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=50| A | A : zitten link zeggen maar
+	Free: Pattern=zitten
+	Constrained: 
+Turn ID=51| B | B : bij mij zitten die veel in de rechterbovenhoek
+	Free: Pattern=veel, Pattern=in de, Pattern=bij mij, Pattern=die, Pattern=zitten
+	Constrained: Pattern=bij, Pattern=de
+Turn ID=52| B | B : kloppen dat
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=53| A | A : ja vinden ik lastig want er zitten er zeggen maar twee die best wel rechtsboven in de bovenhoek zitten
+	Free: Pattern=er zitten er, Pattern=in de, Pattern=ik, Pattern=vinden, Pattern=ja, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=zitten, Pattern=er zitten, Pattern=er, Pattern=zitten er
+Turn ID=54| A | A : als je zeggen maar echt vanuit rechts komen
+	Free: Pattern=echt
+	Constrained: 
+Turn ID=55| A | A : dan hebben je er één die echt in het midden van de ja zeggen maar zo midden zijn
+	Free: Pattern=dan, Pattern=zo, Pattern=die, Pattern=echt, Pattern=er, Pattern=zijn, Pattern=één, Pattern=in het midden, Pattern=midden, Pattern=de, Pattern=ja
+	Constrained: Pattern=het midden, Pattern=het, Pattern=midden
+Turn ID=56| A | A : maar dan zitten er één boven
+	Free: Pattern=één boven, Pattern=zitten er, Pattern=dan
+	Constrained: Pattern=zitten, Pattern=één, Pattern=er, Pattern=boven
+Turn ID=57| B | B : nee er zitten bij bij deze niks boven
+	Free: Pattern=er zitten, Pattern=nee, Pattern=bij, Pattern=boven
+	Constrained: Pattern=zitten, Pattern=er
+Turn ID=58| B | B : dan zijn het niet ik denken niet dat het dezelfde plek zijn
+	Free: Pattern=dat, Pattern=dan zijn het, Pattern=niet, Pattern=het, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=59| A | A : oké
+	Free: Pattern=oké
+	Constrained: 

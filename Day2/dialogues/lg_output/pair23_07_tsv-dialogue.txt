@@ -1,0 +1,127 @@
+B|0| B: _het_ voelen alsof deze persoon één of dit _kop _een_ tafel_ vasthouden _heel_ hoog _met_ _een piramide op_ zijn _kop_ 
+B|1| B: erop 
+A|2| A: _ja_ 
+A|3| A: _en_ nog [een] _heel klein dinge aan de_ linkerkant 
+B|4| B: [ja] 
+B|5| B: [heel klein dinge aan de] achterkant 
+A|6| A: [ja] 
+A|7| A: zeven 
+B|8| B: [ja] 
+A|9| A: bovenin van [het] [kop] zitten [een] soort van plateau _en_ daarop _staan_ [een] [een] [ja] lijken [een] beetje [op] [een tafel] _die_ plateau _en_ daarop _staan_ [een] [klein] figuurt 
+B|10| B: [ja] 
+B|11| B: _piramide op_ zijn [kop] 
+A|12| A: [ja] 
+B|13| B: [ja] oké A 
+B|14| B: houden [een tafel] vast _met_ omgedraaide _piramide_ erop [en] [heel klein] staart erachter 
+B|15| B: [tafel] [heel] hoog [aan] [het] houden zijn , _met_ omgedraaide _piramide _op_ de_ voorkant 
+A|16| A: even kijken 
+A|17| A: omgekeeren 
+B|18| B: [en] er opstaan [op] [die] [tafel] [staan] twee poot [die] uitsteken 
+A|19| A: [ja] [ja] ik hebben hem zestien 
+A|20| A: [een tafel] bovenin [met] zo'n [op de] [kop] [piramide] 
+B|21| B: [ja] 
+B|22| B: F 
+B|23| B: houden [tafel] vast 
+B|24| B: _piramide op_ zijn [kop] erop 
+B|25| B: [klein] staart achter 
+A|26| A: [ja] 
+A|27| A: elf 
+A|28| A: [tafel] bovenaan [en] daar [staan] [een] [op de] [kop [een] piramide op] 
+B|29| B: [ja] 
+B|30| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het voelen alsof deze persoon één of dit kop een tafel vasthouden heel hoog met een piramide op zijn kop
+	Free: Pattern=het, Pattern=kop, Pattern=een piramide op, Pattern=met, Pattern=kop een, Pattern=een tafel, Pattern=heel
+	Constrained: Pattern=een, Pattern=kop, Pattern=tafel, Pattern=piramide op, Pattern=piramide, Pattern=op
+Turn ID=1| B | B : erop
+	Free: 
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en nog een heel klein dinge aan de linkerkant
+	Free: Pattern=heel klein dinge aan de, Pattern=en, Pattern=een
+	Constrained: Pattern=heel klein, Pattern=aan, Pattern=heel, Pattern=klein
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : heel klein dinge aan de achterkant
+	Free: Pattern=heel klein dinge aan de
+	Constrained: Pattern=heel klein, Pattern=aan, Pattern=heel, Pattern=klein
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : bovenin van het kop zitten een soort van plateau en daarop staan een een ja lijken een beetje op een tafel die plateau en daarop staan een klein figuurt
+	Free: Pattern=een tafel, Pattern=ja, Pattern=op, Pattern=het, Pattern=kop, Pattern=die, Pattern=klein, Pattern=en, Pattern=een, Pattern=staan
+	Constrained: Pattern=tafel, Pattern=een
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : piramide op zijn kop
+	Free: Pattern=piramide op, Pattern=kop
+	Constrained: Pattern=op, Pattern=piramide
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja oké A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : houden een tafel vast met omgedraaide piramide erop en heel klein staart erachter
+	Free: Pattern=een tafel, Pattern=piramide, Pattern=met, Pattern=en, Pattern=heel klein
+	Constrained: Pattern=tafel, Pattern=heel, Pattern=klein, Pattern=een
+Turn ID=15| B | B : tafel heel hoog aan het houden zijn , met omgedraaide piramide op de voorkant
+	Free: Pattern=heel, Pattern=aan, Pattern=het, Pattern=met, Pattern=tafel, Pattern=piramide op, Pattern=op de
+	Constrained: Pattern=op, Pattern=piramide
+Turn ID=16| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : omgekeeren
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : en er opstaan op die tafel staan twee poot die uitsteken
+	Free: Pattern=op, Pattern=staan, Pattern=en, Pattern=tafel, Pattern=die
+	Constrained: 
+Turn ID=19| A | A : ja ja ik hebben hem zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : een tafel bovenin met zo'n op de kop piramide
+	Free: Pattern=een tafel, Pattern=piramide, Pattern=kop, Pattern=met, Pattern=op de
+	Constrained: Pattern=tafel, Pattern=op, Pattern=een
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=23| B | B : houden tafel vast
+	Free: Pattern=tafel
+	Constrained: 
+Turn ID=24| B | B : piramide op zijn kop erop
+	Free: Pattern=piramide op, Pattern=kop
+	Constrained: Pattern=op, Pattern=piramide
+Turn ID=25| B | B : klein staart achter
+	Free: Pattern=klein
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : tafel bovenaan en daar staan een op de kop een piramide op
+	Free: Pattern=een piramide op, Pattern=tafel, Pattern=en, Pattern=een, Pattern=staan, Pattern=op de, Pattern=kop een
+	Constrained: Pattern=een, Pattern=kop, Pattern=piramide op, Pattern=piramide, Pattern=op
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : d
+	Free: 
+	Constrained: 

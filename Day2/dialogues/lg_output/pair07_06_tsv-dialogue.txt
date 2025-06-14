@@ -1,0 +1,87 @@
+A|0| A: okee _dit zijn_ ook _een_ _emmer_ _en daar_ _zitten een_ ovaal bol _aan_ _de_ rechterkant _en daar_ steken _een_ vierkant stok _doorheen_ _met_ _aan_ _de_ rechterkant _een_ _een_ _schijf_ _en_ bovenop _zitten_ nog _een_ heel klein uitsteeksel 
+A|1| A: soort _ja_ hoe noemen je dat 
+B|2| B: [ja] [ja] [ja] [ja] ik hebben hem 
+A|3| A: [ja] 
+B|4| B: l 
+B|5| B: [dit zijn] [een] bal tegen [de] [emmer] [aan] [en daar] [doorheen] [zitten een] spel 
+A|6| A: [ja] 
+B|7| B: [ja] [met] zo'n _plat_ _rond_ 
+A|8| A: [ja] veertien 
+A|9| A: [dit zijn] _die met_ dat [rond] [aan] [de] voorkant _met die_ _staaf_ erdoorheen 
+A|10| A: _en dan_ [de] [aan] [de] [plat] kant nog [een] [rond] 
+B|11| B: [ja] [ja] 
+B|12| B: j 
+B|13| B: [dit zijn] [de] bal [die] tegen [de] [emmer] [aan] [zitten] waar [de] [schijf] waar _de staaf_ [doorheen] opsteken [en dan] [die] [rond] [schijf] zo [aan] het uiteinde van _de staaf_ 
+A|14| A: [ja] 
+A|15| A: zestien 
+A|16| A: [dit zijn] [die] bol [aan] [de] voorkant [met] [de staaf] erdoorheen [en] dat [rond] [aan] [de] zijkant 
+B|17| B: e 
+B|18| B: [dit zijn] [de] bal waar [de] spel [doorheen] opsteken [met [die] [met] die] ander schijfjes [aan] het uiteinde 
+A|19| A: [ja] 
+A|20| A: vijfteen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee dit zijn ook een emmer en daar zitten een ovaal bol aan de rechterkant en daar steken een vierkant stok doorheen met aan de rechterkant een een schijf en bovenop zitten nog een heel klein uitsteeksel
+	Free: Pattern=en daar, Pattern=een, Pattern=schijf, Pattern=met, Pattern=zitten, Pattern=zitten een, Pattern=en, Pattern=emmer, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=doorheen
+	Constrained: Pattern=een, Pattern=zitten, Pattern=en
+Turn ID=1| A | A : soort ja hoe noemen je dat
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja ja ja ja ik hebben hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : dit zijn een bal tegen de emmer aan en daar doorheen zitten een spel
+	Free: Pattern=en daar, Pattern=een, Pattern=zitten een, Pattern=emmer, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=doorheen
+	Constrained: Pattern=een, Pattern=zitten, Pattern=en
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja met zo'n plat rond
+	Free: Pattern=ja, Pattern=rond, Pattern=plat, Pattern=met
+	Constrained: 
+Turn ID=8| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dit zijn die met dat rond aan de voorkant met die staaf erdoorheen
+	Free: Pattern=met die, Pattern=staaf, Pattern=die met, Pattern=rond, Pattern=dit zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=die, Pattern=met
+Turn ID=10| A | A : en dan de aan de plat kant nog een rond
+	Free: Pattern=en dan, Pattern=een, Pattern=de, Pattern=aan, Pattern=rond, Pattern=plat
+	Constrained: Pattern=en
+Turn ID=11| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : j
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dit zijn de bal die tegen de emmer aan zitten waar de schijf waar de staaf doorheen opsteken en dan die rond schijf zo aan het uiteinde van de staaf
+	Free: Pattern=en dan, Pattern=schijf, Pattern=de staaf, Pattern=rond, Pattern=emmer, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=doorheen, Pattern=die, Pattern=zitten
+	Constrained: Pattern=staaf, Pattern=de, Pattern=en
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn die bol aan de voorkant met de staaf erdoorheen en dat rond aan de zijkant
+	Free: Pattern=de staaf, Pattern=met, Pattern=die, Pattern=en, Pattern=rond, Pattern=dit zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=de, Pattern=staaf
+Turn ID=17| B | B : e
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dit zijn de bal waar de spel doorheen opsteken met die met die ander schijfjes aan het uiteinde
+	Free: Pattern=met die, Pattern=die met, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=doorheen
+	Constrained: Pattern=die, Pattern=met
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : vijfteen
+	Free: 
+	Constrained: 

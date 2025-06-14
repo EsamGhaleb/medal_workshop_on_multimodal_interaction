@@ -1,0 +1,131 @@
+A|0| A: _ok_ deze hebben _een_ soort _piramide_ hoed achtig _iets_ 
+B|1| B: ah daar _zijn_ er _maar één_ _van_ toch 
+A|2| A: _ja_ volgens mij _wel_ _ja hij_ hebben _aan de_ voorkant _nog_ best _wel een_ groot figuur 
+B|3| B: [ja] dan _zijn_ _het_ J 
+A|4| A: _ok_ 
+A|5| A: _hij zitten_ helemaal _aan de_ _onderkant_ _van het_ scherm _aan de rechterkant_ kunnen _nog_ _één _plaat_ naast_ _misschien_ anderhalf 
+B|6| B: [ja] dan _zijn_ [het] [wel] op _dezelfde_ plek 
+B|7| B: hum _dit zijn_ die [piramide] op _dat_ hoofd 
+A|8| A: [ja] [dit zijn] zes 
+B|9| B: [hij zitten] _zeggen maar aan de_ rechter [onderkant] er passen _onder_ [misschien] _net_ [iets] [naast] en _rechts_ [nog] _net_ [iets] 
+A|10| A: _ok dat zijn_ [dezelfde] 
+A|11| A: o _dit zijn met de piramide_ erop 
+B|12| B: [ok dat zijn] E 
+A|13| A: [zitten] _rechts van het midden_ kunnen _nog een plaat_ [onder] [aan de] zijkant [zijn] of [zeggen maar _aan de] rechterkant_ [zijn] [nog] best [wel] _veel_ ruimte 
+A|14| A: want [hij zitten] echt _maar net_ _een_ beetje _rechts van het midden_ 
+B|15| B: [maar net] [rechts van het midden] 
+B|16| B: [zeggen maar] 
+A|17| A: [ja] 
+B|18| B: [veel] dan weinig dan [één plaat] [rechts van het midden] ? [ok] _nee_ dan [zijn] [het] niet hetzelfde 
+A|19| A: [ja] 
+B|20| B: [dit zijn met _de piramide] bovenop_ 
+A|21| A: [ok dat zijn] tien 
+B|22| B: [ja [hij] zitten] _link_ onderin en er passen _links_ denken ik [nog een [plaat] naast] [onder] niet 
+A|23| A: echt [maar [één] plaat] [link] [van] ? [nee] 
+A|24| A: _dit zijn [de piramide_ bovenop] 
+B|25| B: _ja dat zijn_ G 
+A|26| A: [zitten] helemaal [links] in [de] hoek bovenin 
+B|27| B: [ja] 
+B|28| B: [dit zijn de piramide] er [bovenop] 
+A|29| A: [ja dat zijn] tien 
+B|30| B: [hij zitten] [aan de rechterkant] [iets] [onder] [het midden] [rechts] past [nog] [wel [een] [plaat] naast] [onder] ook [nog] [wel] 
+A|31| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ok deze hebben een soort piramide hoed achtig iets
+	Free: Pattern=piramide, Pattern=ok, Pattern=een, Pattern=iets
+	Constrained: 
+Turn ID=1| B | B : ah daar zijn er maar één van toch
+	Free: Pattern=maar één, Pattern=zijn, Pattern=van
+	Constrained: 
+Turn ID=2| A | A : ja volgens mij wel ja hij hebben aan de voorkant nog best wel een groot figuur
+	Free: Pattern=nog, Pattern=ja, Pattern=aan de, Pattern=wel, Pattern=ja hij, Pattern=wel een
+	Constrained: Pattern=een, Pattern=de, Pattern=wel, Pattern=ja
+Turn ID=3| B | B : ja dan zijn het J
+	Free: Pattern=zijn, Pattern=het, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=5| A | A : hij zitten helemaal aan de onderkant van het scherm aan de rechterkant kunnen nog één plaat naast misschien anderhalf
+	Free: Pattern=nog, Pattern=hij zitten, Pattern=één plaat, Pattern=aan de, Pattern=misschien, Pattern=plaat naast, Pattern=aan de rechterkant, Pattern=van het, Pattern=onderkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=het, Pattern=naast, Pattern=zitten, Pattern=van
+Turn ID=6| B | B : ja dan zijn het wel op dezelfde plek
+	Free: Pattern=dezelfde, Pattern=ja, Pattern=wel, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=7| B | B : hum dit zijn die piramide op dat hoofd
+	Free: Pattern=dit zijn, Pattern=piramide, Pattern=dat
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : ja dit zijn zes
+	Free: Pattern=dit zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : hij zitten zeggen maar aan de rechter onderkant er passen onder misschien net iets naast en rechts nog net iets
+	Free: Pattern=nog, Pattern=net, Pattern=onder, Pattern=naast, Pattern=zeggen maar aan de, Pattern=onderkant, Pattern=misschien, Pattern=rechts, Pattern=iets, Pattern=hij zitten
+	Constrained: Pattern=de, Pattern=zeggen maar, Pattern=zitten, Pattern=aan de
+Turn ID=10| A | A : ok dat zijn dezelfde
+	Free: Pattern=ok dat zijn, Pattern=dezelfde
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=ok
+Turn ID=11| A | A : o dit zijn met de piramide erop
+	Free: Pattern=dit zijn met de piramide
+	Constrained: Pattern=dit zijn, Pattern=piramide, Pattern=de, Pattern=zijn
+Turn ID=12| B | B : ok dat zijn E
+	Free: Pattern=ok dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=ok
+Turn ID=13| A | A : zitten rechts van het midden kunnen nog een plaat onder aan de zijkant zijn of zeggen maar aan de rechterkant zijn nog best wel veel ruimte
+	Free: Pattern=nog, Pattern=aan de, Pattern=rechts van het midden, Pattern=veel, Pattern=wel, Pattern=onder, Pattern=zeggen maar aan de, Pattern=nog een plaat, Pattern=zijn, Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=een plaat, Pattern=het midden, Pattern=nog, Pattern=aan de, Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=van het, Pattern=van, Pattern=de, Pattern=rechts
+Turn ID=14| A | A : want hij zitten echt maar net een beetje rechts van het midden
+	Free: Pattern=rechts van het midden, Pattern=maar net, Pattern=hij zitten, Pattern=een
+	Constrained: Pattern=het midden, Pattern=net, Pattern=rechts, Pattern=het, Pattern=zitten, Pattern=van het, Pattern=van
+Turn ID=15| B | B : maar net rechts van het midden
+	Free: Pattern=rechts van het midden, Pattern=maar net
+	Constrained: Pattern=het midden, Pattern=net, Pattern=rechts, Pattern=het, Pattern=van het, Pattern=van
+Turn ID=16| B | B : zeggen maar
+	Free: Pattern=zeggen maar
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : veel dan weinig dan één plaat rechts van het midden ? ok nee dan zijn het niet hetzelfde
+	Free: Pattern=één plaat, Pattern=rechts van het midden, Pattern=veel, Pattern=nee, Pattern=het, Pattern=ok, Pattern=zijn
+	Constrained: Pattern=het midden, Pattern=rechts, Pattern=het, Pattern=van het, Pattern=van
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dit zijn met de piramide bovenop
+	Free: Pattern=dit zijn met de piramide, Pattern=de piramide bovenop
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=piramide, Pattern=zijn, Pattern=dit zijn
+Turn ID=21| A | A : ok dat zijn tien
+	Free: Pattern=ok dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=ok
+Turn ID=22| B | B : ja hij zitten link onderin en er passen links denken ik nog een plaat naast onder niet
+	Free: Pattern=hij zitten, Pattern=links, Pattern=ja hij, Pattern=onder, Pattern=plaat naast, Pattern=link, Pattern=nog een plaat
+	Constrained: Pattern=een plaat, Pattern=nog, Pattern=ja, Pattern=een, Pattern=naast, Pattern=zitten
+Turn ID=23| A | A : echt maar één plaat link van ? nee
+	Free: Pattern=één plaat, Pattern=nee, Pattern=link, Pattern=van, Pattern=maar één
+	Constrained: 
+Turn ID=24| A | A : dit zijn de piramide bovenop
+	Free: Pattern=dit zijn de piramide, Pattern=de piramide bovenop
+	Constrained: Pattern=bovenop, Pattern=de, Pattern=piramide, Pattern=zijn, Pattern=dit zijn
+Turn ID=25| B | B : ja dat zijn G
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=ja
+Turn ID=26| A | A : zitten helemaal links in de hoek bovenin
+	Free: Pattern=de, Pattern=zitten, Pattern=links
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dit zijn de piramide er bovenop
+	Free: Pattern=dit zijn de piramide, Pattern=bovenop
+	Constrained: Pattern=dit zijn, Pattern=piramide, Pattern=de, Pattern=zijn
+Turn ID=29| A | A : ja dat zijn tien
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=ja
+Turn ID=30| B | B : hij zitten aan de rechterkant iets onder het midden rechts past nog wel een plaat naast onder ook nog wel
+	Free: Pattern=een plaat, Pattern=het midden, Pattern=nog, Pattern=wel, Pattern=onder, Pattern=wel een, Pattern=rechts, Pattern=iets, Pattern=hij zitten, Pattern=plaat naast, Pattern=aan de rechterkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=het, Pattern=naast, Pattern=zitten, Pattern=een, Pattern=wel
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,175 @@
+B|0| B: _deze hebben _een_ vierkant_ plateau iets onder _het midden_ 
+A|1| A: _ja_ 
+B|2| B: denken _dat_ _dat_ al redelijk duidelijk _zijn_ 
+A|3| A: _ja_ 
+A|4| A: _ja_ 
+A|5| A: _en_ zullen ik hem ver beschrijven 
+B|6| B: [ja] 
+A|7| A: met [een] soort pijp [dat] omhoog wijzen aan de linkerkant 
+A|8| A: _twee_ punt _bovenop_ 
+B|9| B: [ja] 
+A|10| A: _en_ [een] diagonaal regenpijpje in [het midden] beetje aan de rechterkant 
+B|11| B: [ja] 
+B|12| B: [ja] kloppen 
+A|13| A: oké 
+B|14| B: [ja] 
+A|15| A: twaalf 
+A|16| A: [deze hebben een] klein pijp aan de linkerkant 
+A|17| A: _en_ _zeggen maar_ niet halverwege _maar_ op te hoogte van [een] drie van de emmer van de onderkant zien , [zijn] _er_ [een] soort [vierkant] blad om de heel emmer heen , lijken [het] 
+A|18| A: aan de bovenkant [hebben] hij _twee_ 
+B|19| B: _schoorsteent_ [ja] 
+A|20| A: [ja] [schoorsteent] 
+B|21| B: [ja] 
+A|22| A: _en_ aan de voorkant ook [een] soort afvoerbuis of ik weten niet 
+B|23| B: [ja] 
+B|24| B: [dat] [zijn] M 
+B|25| B: [deze hebben] _zo'n_ [vierkant] rondom iets onder [het midden] [zeggen maar] 
+A|26| A: [ja] 
+A|27| A: _en_ één _en_ [een] soort pijp [dat] zo aan de linkerkant eruit komen 
+B|28| B: [ja] 
+A|29| A: [ja] 
+A|30| A: nummer vier 
+A|31| A: [deze] [zijn] met [dat] pijp aan de linkerkant , hij roken pijp 
+A|32| A: aan de linkerkant , _en_ hij [hebben] _bovenop_ _twee_ haartje , na [ja] _twee_ staaf die _er_ uitsteken _en_ halverwege [zijn] middel [zijn] _er_ [dat] [vierkant] 
+B|33| B: [vierkant] 
+A|34| A: [ja] 
+B|35| B: [ja] [dat] [zijn] C 
+B|36| B: [deze hebben] [het] [vierkant] iets onder [het midden] 
+B|37| B: [en] [twee] schoorsteen [er] [bovenop] 
+A|38| A: [ja] 
+A|39| A: [en] [een] pijp 
+B|40| B: [ja] 
+A|41| A: nummer elf 
+A|42| A: [deze] [zijn] met [het] pijp [en] de [een] [een vierkant] plank als soort van tutu , hoe noemen je [dat] , die ballerina , [zo'n] jurk lijken [het] wel , [zo'n] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een vierkant plateau iets onder het midden
+	Free: Pattern=deze hebben een, Pattern=het midden, Pattern=een vierkant
+	Constrained: Pattern=een, Pattern=het, Pattern=hebben, Pattern=deze hebben, Pattern=vierkant, Pattern=deze
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : denken dat dat al redelijk duidelijk zijn
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en zullen ik hem ver beschrijven
+	Free: Pattern=en
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : met een soort pijp dat omhoog wijzen aan de linkerkant
+	Free: Pattern=dat, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : twee punt bovenop
+	Free: Pattern=bovenop, Pattern=twee
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en een diagonaal regenpijpje in het midden beetje aan de rechterkant
+	Free: Pattern=het midden, Pattern=en, Pattern=een
+	Constrained: Pattern=het
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : deze hebben een klein pijp aan de linkerkant
+	Free: Pattern=deze hebben een
+	Constrained: Pattern=deze hebben, Pattern=een, Pattern=deze, Pattern=hebben
+Turn ID=17| A | A : en zeggen maar niet halverwege maar op te hoogte van een drie van de emmer van de onderkant zien , zijn er een soort vierkant blad om de heel emmer heen , lijken het
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=het, Pattern=er, Pattern=en, Pattern=vierkant, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=maar
+Turn ID=18| A | A : aan de bovenkant hebben hij twee
+	Free: Pattern=twee, Pattern=hebben
+	Constrained: 
+Turn ID=19| B | B : schoorsteent ja
+	Free: Pattern=ja, Pattern=schoorsteent
+	Constrained: 
+Turn ID=20| A | A : ja schoorsteent
+	Free: Pattern=ja, Pattern=schoorsteent
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en aan de voorkant ook een soort afvoerbuis of ik weten niet
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : dat zijn M
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : deze hebben zo'n vierkant rondom iets onder het midden zeggen maar
+	Free: Pattern=het midden, Pattern=zo'n, Pattern=zeggen maar, Pattern=deze hebben, Pattern=vierkant
+	Constrained: Pattern=deze, Pattern=het, Pattern=hebben, Pattern=maar
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : en één en een soort pijp dat zo aan de linkerkant eruit komen
+	Free: Pattern=en, Pattern=dat, Pattern=een
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : deze zijn met dat pijp aan de linkerkant , hij roken pijp
+	Free: Pattern=dat, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=32| A | A : aan de linkerkant , en hij hebben bovenop twee haartje , na ja twee staaf die er uitsteken en halverwege zijn middel zijn er dat vierkant
+	Free: Pattern=twee, Pattern=ja, Pattern=hebben, Pattern=er, Pattern=en, Pattern=zijn, Pattern=vierkant, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=33| B | B : vierkant
+	Free: Pattern=vierkant
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja dat zijn C
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : deze hebben het vierkant iets onder het midden
+	Free: Pattern=het midden, Pattern=deze hebben, Pattern=vierkant, Pattern=het
+	Constrained: Pattern=hebben, Pattern=deze, Pattern=het
+Turn ID=37| B | B : en twee schoorsteen er bovenop
+	Free: Pattern=er, Pattern=en, Pattern=bovenop, Pattern=twee
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : en een pijp
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : nummer elf
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : deze zijn met het pijp en de een een vierkant plank als soort van tutu , hoe noemen je dat , die ballerina , zo'n jurk lijken het wel , zo'n
+	Free: Pattern=dat, Pattern=zo'n, Pattern=een, Pattern=het, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een

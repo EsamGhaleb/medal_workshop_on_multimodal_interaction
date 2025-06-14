@@ -1,0 +1,191 @@
+A|0| A: _dit zijn_ _die_ ik net _zeggen_ 
+A|1| A: _met_ zo'n _twee_ koker _naar_ _de_ linkerkant _en dan_ zo'n toeter erop 
+B|2| B: _ja_ _één_ lijken _wel_ _een_ projectie van _een_ _beamer_ [zeggen] _maar_ 
+B|3| B: zullen _het_ _kunnen_ [zijn] 
+A|4| A: [ja] 
+B|5| B: [ja] oké 
+A|6| A: _en dan_ nog zo'n _tafel aan de_ rechterkant 
+B|7| B: [tafel aan de] rechts kant _ja dat zijn_ _bij mij zijn_ _dat_ L 
+A|8| A: _en_ hij staat _helemaal_ _naar_ beneden _en_ vanuit [de] verticaal lijn _twee _naar_ links_ 
+B|9| B: _nee_ _staan die_ _bij mij_ _niet_ 
+B|10| B: [dan] deze weer [met] [die] [die] [die] ronde verrekijker [aan de] zijkant [met] [die] beamerprojectie [naar] achter 
+B|11| B: [en] _dat_ [tafel aan de] rechts kant 
+A|12| A: [ja] 
+A|13| A: [dat zijn] nummer zeven 
+B|14| B: _die staan_ _als_ je _in het midden_ _staan_ gaan je [twee _naar] boven_ [en] _één [naar_ links] ongeveer 
+A|15| A: vanaf [die] sliert [aan de] linkerkant [die] zo schuin lopen 
+B|16| B: [ja] 
+A|17| A: _zijn het_ [dan] [de] [twee] of [de] [één] 
+B|18| B: [dan] _zijn het de_ _boven_ 
+A|19| A: _nee [bij mij_ [zijn] het de] [twee] 
+A|20| A: [die] [een] _met de_ [beamer] 
+A|21| A: [en] [het] [tafel] 
+B|22| B: [ja] [zijn] [bij mij] C 
+A|23| A: [en] [die staan] [in het midden] [één [naar] boven] 
+B|24| B: [nee _bij mij] staan die_ [aan de] onderkant 
+B|25| B: dus [dat zijn] rood 
+B|26| B: [dit zijn] [met de] beamerstraal 
+A|27| A: [ja dat zijn] nummer [één] 
+B|28| B: [staan] [bij mij] [helemaal] linksmidden 
+B|29| B: middel vlak 
+B|30| B: [en dan] _helemaal links_ [en] _eigenlijk_ ietsjes [aan de] onderkant ervan 
+A|31| A: [staan] er nog [één naar] beneden 
+B|32| B: [ja] 
+A|33| A: [ja dat zijn] hem 
+A|34| A: [de] [een] [met de] [beamer] 
+B|35| B: [ja dat zijn] [bij mij] A 
+A|36| A: [en] [die staan] [in het midden] [eigenlijk] [helemaal links] 
+A|37| A: _niet [helemaal_ links] [maar] [wel] 
+B|38| B: halverwege [links] [ja] 
+A|39| A: [ja] zo ver mogelijk [links] [als] [kunnen] 
+B|40| B: [ja] 
+B|41| B: [de] beamerprojectie 
+A|42| A: [dat zijn] dertien 
+B|43| B: [niet helemaal] linksonder [maar] diegene [die] daar rechts [boven] [staan] 
+A|44| A: [nee] 
+A|45| A: [bij mij staan die] [helemaal] vanaf [het midden] [helemaal links] 
+B|46| B: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn die ik net zeggen
+	Free: Pattern=dit zijn, Pattern=die, Pattern=zeggen
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : met zo'n twee koker naar de linkerkant en dan zo'n toeter erop
+	Free: Pattern=twee, Pattern=de, Pattern=en dan, Pattern=met, Pattern=naar
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=2| B | B : ja één lijken wel een projectie van een beamer zeggen maar
+	Free: Pattern=ja, Pattern=beamer, Pattern=zeggen, Pattern=maar, Pattern=één, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=3| B | B : zullen het kunnen zijn
+	Free: Pattern=zijn, Pattern=kunnen, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en dan nog zo'n tafel aan de rechterkant
+	Free: Pattern=tafel aan de, Pattern=en dan
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dan, Pattern=tafel, Pattern=en
+Turn ID=7| B | B : tafel aan de rechts kant ja dat zijn bij mij zijn dat L
+	Free: Pattern=tafel aan de, Pattern=bij mij zijn, Pattern=ja dat zijn, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=tafel, Pattern=zijn, Pattern=bij mij, Pattern=dat, Pattern=dat zijn, Pattern=de, Pattern=ja
+Turn ID=8| A | A : en hij staat helemaal naar beneden en vanuit de verticaal lijn twee naar links
+	Free: Pattern=twee naar, Pattern=naar links, Pattern=de, Pattern=helemaal, Pattern=en, Pattern=naar
+	Constrained: Pattern=twee, Pattern=naar, Pattern=links
+Turn ID=9| B | B : nee staan die bij mij niet
+	Free: Pattern=bij mij, Pattern=staan die, Pattern=niet, Pattern=nee
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=10| B | B : dan deze weer met die die die ronde verrekijker aan de zijkant met die beamerprojectie naar achter
+	Free: Pattern=aan de, Pattern=dan, Pattern=met, Pattern=die, Pattern=naar
+	Constrained: Pattern=de
+Turn ID=11| B | B : en dat tafel aan de rechts kant
+	Free: Pattern=tafel aan de, Pattern=en, Pattern=dat
+	Constrained: Pattern=aan de, Pattern=de, Pattern=tafel
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn nummer zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=14| B | B : die staan als je in het midden staan gaan je twee naar boven en één naar links ongeveer
+	Free: Pattern=twee naar, Pattern=naar links, Pattern=staan, Pattern=als, Pattern=naar boven, Pattern=en, Pattern=één naar, Pattern=in het midden, Pattern=die staan
+	Constrained: Pattern=het midden, Pattern=twee, Pattern=boven, Pattern=staan, Pattern=links, Pattern=het, Pattern=die, Pattern=één, Pattern=naar
+Turn ID=15| A | A : vanaf die sliert aan de linkerkant die zo schuin lopen
+	Free: Pattern=aan de, Pattern=die
+	Constrained: Pattern=de
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : zijn het dan de twee of de één
+	Free: Pattern=zijn het, Pattern=twee, Pattern=de, Pattern=dan, Pattern=één
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=18| B | B : dan zijn het de boven
+	Free: Pattern=zijn het de, Pattern=boven, Pattern=dan
+	Constrained: Pattern=de, Pattern=het, Pattern=zijn het, Pattern=zijn
+Turn ID=19| A | A : nee bij mij zijn het de twee
+	Free: Pattern=nee bij mij, Pattern=bij mij zijn, Pattern=zijn het de, Pattern=twee
+	Constrained: Pattern=zijn het, Pattern=de, Pattern=nee, Pattern=het, Pattern=zijn, Pattern=bij mij
+Turn ID=20| A | A : die een met de beamer
+	Free: Pattern=met de, Pattern=beamer, Pattern=die, Pattern=een
+	Constrained: Pattern=de, Pattern=met
+Turn ID=21| A | A : en het tafel
+	Free: Pattern=en, Pattern=het, Pattern=tafel
+	Constrained: 
+Turn ID=22| B | B : ja zijn bij mij C
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en die staan in het midden één naar boven
+	Free: Pattern=naar boven, Pattern=en, Pattern=één naar, Pattern=in het midden, Pattern=die staan
+	Constrained: Pattern=het midden, Pattern=boven, Pattern=staan, Pattern=het, Pattern=die, Pattern=één, Pattern=naar
+Turn ID=24| B | B : nee bij mij staan die aan de onderkant
+	Free: Pattern=bij mij staan die, Pattern=nee bij mij, Pattern=aan de
+	Constrained: Pattern=de, Pattern=staan die, Pattern=staan, Pattern=nee, Pattern=die, Pattern=bij mij
+Turn ID=25| B | B : dus dat zijn rood
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : dit zijn met de beamerstraal
+	Free: Pattern=met de, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de, Pattern=met
+Turn ID=27| A | A : ja dat zijn nummer één
+	Free: Pattern=ja dat zijn, Pattern=één
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=28| B | B : staan bij mij helemaal linksmidden
+	Free: Pattern=bij mij, Pattern=helemaal, Pattern=staan
+	Constrained: 
+Turn ID=29| B | B : middel vlak
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : en dan helemaal links en eigenlijk ietsjes aan de onderkant ervan
+	Free: Pattern=en dan, Pattern=aan de, Pattern=helemaal links, Pattern=eigenlijk, Pattern=en
+	Constrained: Pattern=de, Pattern=helemaal, Pattern=dan, Pattern=links, Pattern=en
+Turn ID=31| A | A : staan er nog één naar beneden
+	Free: Pattern=één naar, Pattern=staan
+	Constrained: Pattern=één, Pattern=naar
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja dat zijn hem
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=34| A | A : de een met de beamer
+	Free: Pattern=met de, Pattern=beamer, Pattern=de, Pattern=een
+	Constrained: Pattern=de, Pattern=met
+Turn ID=35| B | B : ja dat zijn bij mij A
+	Free: Pattern=ja dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn, Pattern=ja
+Turn ID=36| A | A : en die staan in het midden eigenlijk helemaal links
+	Free: Pattern=helemaal links, Pattern=eigenlijk, Pattern=en, Pattern=in het midden, Pattern=die staan
+	Constrained: Pattern=het midden, Pattern=helemaal, Pattern=staan, Pattern=links, Pattern=het, Pattern=die
+Turn ID=37| A | A : niet helemaal links maar wel
+	Free: Pattern=niet helemaal, Pattern=helemaal links, Pattern=wel, Pattern=maar
+	Constrained: Pattern=helemaal, Pattern=niet, Pattern=links
+Turn ID=38| B | B : halverwege links ja
+	Free: Pattern=ja, Pattern=links
+	Constrained: 
+Turn ID=39| A | A : ja zo ver mogelijk links als kunnen
+	Free: Pattern=ja, Pattern=kunnen, Pattern=links, Pattern=als
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : de beamerprojectie
+	Free: Pattern=de
+	Constrained: 
+Turn ID=42| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=43| B | B : niet helemaal linksonder maar diegene die daar rechts boven staan
+	Free: Pattern=niet helemaal, Pattern=boven, Pattern=staan, Pattern=die, Pattern=maar
+	Constrained: Pattern=helemaal, Pattern=niet
+Turn ID=44| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=45| A | A : bij mij staan die helemaal vanaf het midden helemaal links
+	Free: Pattern=bij mij staan die, Pattern=helemaal links, Pattern=het midden, Pattern=helemaal
+	Constrained: Pattern=helemaal, Pattern=staan die, Pattern=staan, Pattern=links, Pattern=het, Pattern=die, Pattern=bij mij
+Turn ID=46| B | B : nee
+	Free: Pattern=nee
+	Constrained: 

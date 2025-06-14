@@ -1,0 +1,271 @@
+B|0| B: _okee_ _het zijn_ laten _maar_ _zeggen_ _dat_ hoofdplatform 
+A|1| A: _ja_ 
+B|2| B: _met_ daaromheen _een_ steeksel _aan de_ linkerkant 
+A|3| A: _ja_ 
+B|4| B: _het zijn_ _een rond_ uitsteeksel 
+A|5| A: _staan_ er twee streep _op_ [dat] dinge 
+B|6| B: nee één 
+B|7| B: _en dan_ boven opsteken dus laten _maar_ _zeggen_ _zo'n_ [ja] _op de kop_ _zo'n_ _kegel_ uit 
+B|8| B: _en_ daarachter _een cirkel_ 
+B|9| B: _zitten_ _daaraan_ vastgebenden 
+A|10| A: even _kijken_ hoe [zijn] [het] platformp [met] twee poot 
+B|11| B: nee dus [het] _staan op_ [ja] nee [het] vaststaan dus _op een_ [ja] [ja] _zo'n_ _rond_ [ja] [kijken] zo _zo'n_ _rond_ opzetstuk _het zijn_ één [ja] 
+A|12| A: _ook_ _niet_ 
+A|13| A: [ja] 
+B|14| B: _het zijn_ [niet] _een cirkel_ _maar_ langwerpig _soort_ 
+A|15| A: _je_ _hebben_ [zeggen] [maar] [de] hoofdbak bij elk plaat 
+B|16| B: _ja en_ _die_ _staan op een_ _ja die_ _staan op een op_ [op] _zo'n_ _vorm_ 
+A|17| A: [ja] [okee] 
+B|18| B: _en dan_ _aan de_ zijkant _aan de_ linkerkant 
+A|19| A: [ja] 
+B|20| B: _hebben je _een_ cirkel_ [dat] laten [maar] [zeggen] uitsteekt dus [ja] _dit_ 
+A|21| A: [ja] 
+A|22| A: [ja] 
+B|23| B: _en_ daar _bovenop_ _een op _een_ kegel op de kop_ 
+A|24| A: [ja] 
+B|25| B: _en_ daarachter nog _een_ cirkelplateau [dat] wel 
+A|26| A: [ja] [okee] [dan] weten _ik_ welk [het zijn] 
+B|27| B: [okee] 
+A|28| A: _dat zijn_ nummer vijf 
+B|29| B: [ja] [ik] [hebben] alleen [maar] a b c d 
+A|30| A: [ja] volgens mij moeten [ik] hem gewoon noemen [en dan] drukken 
+B|31| B: zo 
+A|32| A: [ja] _dat zijn_ nummer vijf 
+A|33| A: nou _de hoofdvorm [staan_ op [een _op] een] plateau_ 
+A|34| A: _link_ van _de hoofdvorm_ [hebben je] weer _een rond staaf_ [die] _uitsteken_ 
+A|35| A: links _achter_ _de hoofdvorm_ [hebben je [een] rond] [cirkel] [die] [daaraan] vastgeplakt [zitten] 
+A|36| A: [en] _rechts_ _bovenop de_ ronde [op] _bovenop de hoofdvorm_ [hebben je een] [soort] van [ja] 
+B|37| B: _kegel_ 
+A|38| A: [ja] hoe noemen [je] zoiets [een] 
+B|39| B: _kegel op de kop_ 
+A|40| A: [ja] [een kegel op de kop] inderdaad 
+B|41| B: [ja] 
+A|42| A: [ja] 
+B|43| B: [dat zijn] b 
+B|44| B: [de hoofdvorm] _met een_ schuin [kegel] [staan] daar _op zijn kop_ [rechts] 
+B|45| B: daarachter [zijn] [een] plat [cirkel] [daaraan] vastgeplakken 
+B|46| B: [link] bekendstaan [zijn] [een] [staaf] [een rond staaf] [dat] [uitsteken] 
+B|47| B: [en] [dat] vaststaan [ook] [op een plateau] 
+A|48| A: [ja en] rechtsboven [hebben je] [dat] 
+B|49| B: [die] [cirkel] _op zijn kop_ 
+A|50| A: even [kijken] 
+B|51| B: dus 
+A|52| A: [ja die] [kegel [op] zijn kop] bedoelen [je] 
+B|53| B: [ja] sorry [kegel] 
+A|54| A: [ja] 
+A|55| A: [okee] nummer zes 
+B|56| B: [ik] haalen [het] door [de] war [ja] 
+A|57| A: _dit zijn de hoofdvorm_ [die] [op een] bevestigingsstuk [staan] [met [een] rond] [vorm] _erachter_ [en] links uitstekend [een] 
+B|58| B: [ja] 
+B|59| B: m 
+B|60| B: [dit zijn de hoofdvorm] [dat] [op een] plateautje [staan] waarbij [een] plat [cirkel] [erachter] [achter] _aan [de_ hoofdvorm] vastzitten 
+B|61| B: [bovenop [de hoofdvorm] staan] [een] schuin [kegel] [rechts] 
+B|62| B: [en] [link] [een] uitsteeksel 
+A|63| A: [ja] nummer vier 
+A|64| A: [dit zijn de hoofdvorm] [die] [op] [dat] [plateau] [staan] of tenminste [zo'n] heel klein plateaut [met [een] cirkel] er [aan] vastgeplakt [aan de] achterkant 
+B|65| B: yes 
+B|66| B: j 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee het zijn laten maar zeggen dat hoofdplatform
+	Free: Pattern=dat, Pattern=okee, Pattern=zeggen, Pattern=het zijn, Pattern=maar
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : met daaromheen een steeksel aan de linkerkant
+	Free: Pattern=aan de, Pattern=met, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : het zijn een rond uitsteeksel
+	Free: Pattern=het zijn, Pattern=een rond
+	Constrained: Pattern=het, Pattern=zijn, Pattern=rond, Pattern=een
+Turn ID=5| A | A : staan er twee streep op dat dinge
+	Free: Pattern=op, Pattern=staan, Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : nee één
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : en dan boven opsteken dus laten maar zeggen zo'n ja op de kop zo'n kegel uit
+	Free: Pattern=kegel, Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=op de kop, Pattern=zeggen, Pattern=maar
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=op
+Turn ID=8| B | B : en daarachter een cirkel
+	Free: Pattern=een cirkel, Pattern=en
+	Constrained: Pattern=cirkel, Pattern=een
+Turn ID=9| B | B : zitten daaraan vastgebenden
+	Free: Pattern=daaraan, Pattern=zitten
+	Constrained: 
+Turn ID=10| A | A : even kijken hoe zijn het platformp met twee poot
+	Free: Pattern=het, Pattern=met, Pattern=zijn, Pattern=kijken
+	Constrained: 
+Turn ID=11| B | B : nee dus het staan op ja nee het vaststaan dus op een ja ja zo'n rond ja kijken zo zo'n rond opzetstuk het zijn één ja
+	Free: Pattern=zo'n, Pattern=ja, Pattern=kijken, Pattern=het, Pattern=het zijn, Pattern=rond, Pattern=staan op, Pattern=op een
+	Constrained: Pattern=op, Pattern=het, Pattern=zijn, Pattern=een, Pattern=staan
+Turn ID=12| A | A : ook niet
+	Free: Pattern=ook, Pattern=niet
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : het zijn niet een cirkel maar langwerpig soort
+	Free: Pattern=soort, Pattern=niet, Pattern=een cirkel, Pattern=het zijn, Pattern=maar
+	Constrained: Pattern=het, Pattern=cirkel, Pattern=zijn, Pattern=een
+Turn ID=15| A | A : je hebben zeggen maar de hoofdbak bij elk plaat
+	Free: Pattern=de, Pattern=hebben, Pattern=zeggen, Pattern=maar, Pattern=je
+	Constrained: 
+Turn ID=16| B | B : ja en die staan op een ja die staan op een op op zo'n vorm
+	Free: Pattern=vorm, Pattern=zo'n, Pattern=op, Pattern=staan op een, Pattern=die, Pattern=ja en, Pattern=staan op een op, Pattern=ja die
+	Constrained: Pattern=ja, Pattern=op, Pattern=staan op een, Pattern=die, Pattern=en, Pattern=staan op, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=17| A | A : ja okee
+	Free: Pattern=ja, Pattern=okee
+	Constrained: 
+Turn ID=18| B | B : en dan aan de zijkant aan de linkerkant
+	Free: Pattern=en dan, Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de, Pattern=en, Pattern=dan
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : hebben je een cirkel dat laten maar zeggen uitsteekt dus ja dit
+	Free: Pattern=dat, Pattern=ja, Pattern=een cirkel, Pattern=hebben je een, Pattern=maar, Pattern=zeggen, Pattern=dit
+	Constrained: Pattern=cirkel, Pattern=een, Pattern=hebben, Pattern=hebben je, Pattern=je
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : en daar bovenop een op een kegel op de kop
+	Free: Pattern=een kegel op de kop, Pattern=een op een, Pattern=en, Pattern=bovenop
+	Constrained: Pattern=kegel, Pattern=de, Pattern=op, Pattern=op de kop, Pattern=kegel op de kop, Pattern=op een, Pattern=een, Pattern=kegel op
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : en daarachter nog een cirkelplateau dat wel
+	Free: Pattern=en, Pattern=een, Pattern=dat
+	Constrained: 
+Turn ID=26| A | A : ja okee dan weten ik welk het zijn
+	Free: Pattern=dan, Pattern=het zijn, Pattern=ik, Pattern=okee, Pattern=ja
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=27| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=28| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| B | B : ja ik hebben alleen maar a b c d
+	Free: Pattern=ja, Pattern=maar, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=30| A | A : ja volgens mij moeten ik hem gewoon noemen en dan drukken
+	Free: Pattern=en dan, Pattern=ja, Pattern=ik
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=31| B | B : zo
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : ja dat zijn nummer vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=33| A | A : nou de hoofdvorm staan op een op een plateau
+	Free: Pattern=staan op een op, Pattern=een op een, Pattern=op een plateau, Pattern=de hoofdvorm staan
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=op, Pattern=staan op een, Pattern=plateau, Pattern=staan op, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=34| A | A : link van de hoofdvorm hebben je weer een rond staaf die uitsteken
+	Free: Pattern=de hoofdvorm, Pattern=uitsteken, Pattern=een rond staaf, Pattern=die, Pattern=link, Pattern=hebben je
+	Constrained: Pattern=de, Pattern=staaf, Pattern=een, Pattern=hebben, Pattern=je, Pattern=een rond, Pattern=rond
+Turn ID=35| A | A : links achter de hoofdvorm hebben je een rond cirkel die daaraan vastgeplakt zitten
+	Free: Pattern=achter, Pattern=hebben je een, Pattern=een rond, Pattern=daaraan, Pattern=de hoofdvorm, Pattern=cirkel, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=een, Pattern=hebben, Pattern=hebben je, Pattern=rond, Pattern=je
+Turn ID=36| A | A : en rechts bovenop de ronde op bovenop de hoofdvorm hebben je een soort van ja
+	Free: Pattern=soort, Pattern=op, Pattern=bovenop de hoofdvorm, Pattern=bovenop de, Pattern=hebben je een, Pattern=en, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=de hoofdvorm, Pattern=bovenop, Pattern=de, Pattern=een, Pattern=hebben je, Pattern=je, Pattern=bovenop de, Pattern=hebben
+Turn ID=37| B | B : kegel
+	Free: Pattern=kegel
+	Constrained: 
+Turn ID=38| A | A : ja hoe noemen je zoiets een
+	Free: Pattern=ja, Pattern=een, Pattern=je
+	Constrained: 
+Turn ID=39| B | B : kegel op de kop
+	Free: Pattern=kegel op de kop
+	Constrained: Pattern=kegel, Pattern=de, Pattern=op, Pattern=kegel op, Pattern=op de kop
+Turn ID=40| A | A : ja een kegel op de kop inderdaad
+	Free: Pattern=een kegel op de kop, Pattern=ja
+	Constrained: Pattern=kegel, Pattern=de, Pattern=op, Pattern=op de kop, Pattern=kegel op de kop, Pattern=een, Pattern=kegel op
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=44| B | B : de hoofdvorm met een schuin kegel staan daar op zijn kop rechts
+	Free: Pattern=rechts, Pattern=staan, Pattern=met een, Pattern=op zijn kop, Pattern=de hoofdvorm, Pattern=kegel
+	Constrained: Pattern=de, Pattern=op, Pattern=een, Pattern=met, Pattern=zijn
+Turn ID=45| B | B : daarachter zijn een plat cirkel daaraan vastgeplakken
+	Free: Pattern=cirkel, Pattern=zijn, Pattern=daaraan, Pattern=een
+	Constrained: 
+Turn ID=46| B | B : link bekendstaan zijn een staaf een rond staaf dat uitsteken
+	Free: Pattern=dat, Pattern=staaf, Pattern=een, Pattern=uitsteken, Pattern=een rond staaf, Pattern=link, Pattern=zijn
+	Constrained: Pattern=een rond, Pattern=rond, Pattern=een, Pattern=staaf
+Turn ID=47| B | B : en dat vaststaan ook op een plateau
+	Free: Pattern=op een plateau, Pattern=ook, Pattern=en, Pattern=dat
+	Constrained: Pattern=plateau, Pattern=op een, Pattern=een, Pattern=op
+Turn ID=48| A | A : ja en rechtsboven hebben je dat
+	Free: Pattern=hebben je, Pattern=ja en, Pattern=dat
+	Constrained: Pattern=ja, Pattern=hebben, Pattern=en, Pattern=je
+Turn ID=49| B | B : die cirkel op zijn kop
+	Free: Pattern=op zijn kop, Pattern=cirkel, Pattern=die
+	Constrained: Pattern=op, Pattern=zijn
+Turn ID=50| A | A : even kijken
+	Free: Pattern=kijken
+	Constrained: 
+Turn ID=51| B | B : dus
+	Free: 
+	Constrained: 
+Turn ID=52| A | A : ja die kegel op zijn kop bedoelen je
+	Free: Pattern=op zijn kop, Pattern=ja die, Pattern=kegel op, Pattern=je
+	Constrained: Pattern=kegel, Pattern=ja, Pattern=op, Pattern=die, Pattern=zijn
+Turn ID=53| B | B : ja sorry kegel
+	Free: Pattern=ja, Pattern=kegel
+	Constrained: 
+Turn ID=54| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| A | A : okee nummer zes
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=56| B | B : ik haalen het door de war ja
+	Free: Pattern=ja, Pattern=het, Pattern=de, Pattern=ik
+	Constrained: 
+Turn ID=57| A | A : dit zijn de hoofdvorm die op een bevestigingsstuk staan met een rond vorm erachter en links uitstekend een
+	Free: Pattern=vorm, Pattern=erachter, Pattern=die, Pattern=met een, Pattern=en, Pattern=een rond, Pattern=een, Pattern=staan, Pattern=op een, Pattern=dit zijn de hoofdvorm
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=op, Pattern=een, Pattern=dit, Pattern=met, Pattern=rond, Pattern=zijn
+Turn ID=58| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=59| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=60| B | B : dit zijn de hoofdvorm dat op een plateautje staan waarbij een plat cirkel erachter achter aan de hoofdvorm vastzitten
+	Free: Pattern=aan de, Pattern=achter, Pattern=de hoofdvorm, Pattern=cirkel, Pattern=dat, Pattern=erachter, Pattern=een, Pattern=staan, Pattern=op een, Pattern=dit zijn de hoofdvorm
+	Constrained: Pattern=de hoofdvorm, Pattern=op, Pattern=een, Pattern=dit, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=61| B | B : bovenop de hoofdvorm staan een schuin kegel rechts
+	Free: Pattern=kegel, Pattern=rechts, Pattern=een, Pattern=bovenop de hoofdvorm, Pattern=de hoofdvorm staan
+	Constrained: Pattern=de hoofdvorm, Pattern=bovenop, Pattern=de, Pattern=staan, Pattern=bovenop de
+Turn ID=62| B | B : en link een uitsteeksel
+	Free: Pattern=link, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=63| A | A : ja nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=64| A | A : dit zijn de hoofdvorm die op dat plateau staan of tenminste zo'n heel klein plateaut met een cirkel er aan vastgeplakt aan de achterkant
+	Free: Pattern=dat, Pattern=zo'n, Pattern=aan, Pattern=plateau, Pattern=die, Pattern=met een, Pattern=dit zijn de hoofdvorm, Pattern=op, Pattern=aan de, Pattern=staan, Pattern=een cirkel
+	Constrained: Pattern=een, Pattern=dit, Pattern=met, Pattern=zijn, Pattern=de hoofdvorm, Pattern=cirkel, Pattern=de, Pattern=aan
+Turn ID=65| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=66| B | B : j
+	Free: 
+	Constrained: 

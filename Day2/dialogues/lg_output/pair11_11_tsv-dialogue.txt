@@ -1,0 +1,167 @@
+B|0| B: _deze hebben_ _aan_ _zijn_ linkerkant _een_ driehoekig oor _en_ _aan de_ voorkant _hebben_ hij _een_ dik _rond_ neusje 
+B|1| B: _en_ _aan de bovenkant_ _hebben_ hij twee object één zien eruit als _een_ rechthoek _en_ _de_ ander zien er _een_ beetje uit als _een_ _ja_ _wat_ zullen ik zeggen tolle 
+A|2| A: [en] _ook _een_ soort_ bolletje _rechts_ 
+B|3| B: _ja_ _een soort van_ neusje _aan de_ rechterkant _ja_ 
+A|4| A: [ja] 
+A|5| A: [ja] [ja] [ja] [ja] _dat zijn_ zes nummer zes 
+A|6| A: [deze hebben] _het_ bolle [aan de] _rechts_ _in het midden_ [van] _het_ beker 
+A|7| A: link _in het midden_ zitten nog [een] stok 
+A|8| A: dan _hebben je_ inderdaad _ook_ nog [een] stok [aan de bovenkant] of [een] balk _en _een_ soort van ja_ _kegel_ [wat] _je_ net _ook_ _noemen_ 
+B|9| B: [ja] 
+B|10| B: [ja] 
+B|11| B: [dat zijn] e 
+B|12| B: _dit zijn_ lastig te omschrijven 
+B|13| B: _dit zijn_ [een] kop _met_ [een] ronde bol neus 
+B|14| B: _met_ [aan de bovenkant] [een soort van ja] kegeltje [noemen] [je] [het] 
+A|15| A: [ja] 
+B|16| B: [en] daarnaast [een] rechthoekig staaf [en] [aan de] linkerkant [hebben je] [ook een] uitstekend staaf [in] driehoekge vorm 
+A|17| A: [ook] nog [ja] 
+A|18| A: [dat zijn] nummer vier 
+B|19| B: [ja] 
+A|20| A: [dit zijn] [het] [rond] zitten _rechts_ _in het midden_ [van] [het] beker [met] [het] _kegel_ bovenaan balk bovenaan 
+A|21| A: [en] link zitten [ook] nog [een soort] _driehoek_ [in] 
+A|22| A: dus [het] _rond in het midden rechts_ 
+B|23| B: [een] [rond in het midden rechts] 
+A|24| A: _kegel aan de bovenkant_ 
+B|25| B: [zijn] ik nou gewoon kippig 
+B|26| B: [rond] [ja] [je] [hebben] _die_ _dat kegel [en_ een] staaf [aan de bovenkant] [en] [dat] [driehoek] 
+A|27| A: [ja] [ja] [ja] [ja] [ja] [ja] 
+B|28| B: [ja] okee [dat zijn] e 
+B|29| B: yes [dat zijn] k 
+B|30| B: [en] nu moeten ik hem omschrijven toch voor jou 
+A|31| A: [ja] 
+B|32| B: [ja] 
+B|33| B: [dat zijn] [kegel aan de bovenkant] rechthoekig staaf [aan de bovenkant] [het] neus [aan de] rechterkant [en] [rond] neusje 
+A|34| A: [ja] [die] we net [ook] [hebben] 
+B|35| B: [ja] 
+A|36| A: drie 
+A|37| A: [het] weer [het] [rond] [midden rechts] 
+A|38| A: [met] [dat kegel en] [het] bovenaan 
+B|39| B: [ja] 
+B|40| B: yes [dat zijn] g 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben aan zijn linkerkant een driehoekig oor en aan de voorkant hebben hij een dik rond neusje
+	Free: Pattern=aan, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=en, Pattern=rond, Pattern=zijn
+	Constrained: Pattern=hebben, Pattern=aan, Pattern=de
+Turn ID=1| B | B : en aan de bovenkant hebben hij twee object één zien eruit als een rechthoek en de ander zien er een beetje uit als een ja wat zullen ik zeggen tolle
+	Free: Pattern=een, Pattern=hebben, Pattern=wat, Pattern=de, Pattern=ja, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=2| A | A : en ook een soort bolletje rechts
+	Free: Pattern=een soort, Pattern=ook een, Pattern=en, Pattern=rechts
+	Constrained: Pattern=een, Pattern=ook
+Turn ID=3| B | B : ja een soort van neusje aan de rechterkant ja
+	Free: Pattern=een soort van, Pattern=aan de, Pattern=ja
+	Constrained: Pattern=een, Pattern=een soort, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja ja ja ja dat zijn zes nummer zes
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=6| A | A : deze hebben het bolle aan de rechts in het midden van het beker
+	Free: Pattern=rechts, Pattern=aan de, Pattern=het, Pattern=deze hebben, Pattern=van, Pattern=in het midden
+	Constrained: Pattern=het, Pattern=hebben, Pattern=in, Pattern=de, Pattern=aan
+Turn ID=7| A | A : link in het midden zitten nog een stok
+	Free: Pattern=in het midden, Pattern=een
+	Constrained: Pattern=het, Pattern=in
+Turn ID=8| A | A : dan hebben je inderdaad ook nog een stok aan de bovenkant of een balk en een soort van ja kegel wat je net ook noemen
+	Free: Pattern=kegel, Pattern=ook, Pattern=een, Pattern=wat, Pattern=hebben je, Pattern=aan de bovenkant, Pattern=en een, Pattern=je, Pattern=noemen, Pattern=een soort van ja
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=een soort van, Pattern=een soort, Pattern=je, Pattern=de, Pattern=aan, Pattern=ja, Pattern=van, Pattern=en
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : dit zijn lastig te omschrijven
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=13| B | B : dit zijn een kop met een ronde bol neus
+	Free: Pattern=dit zijn, Pattern=een, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : met aan de bovenkant een soort van ja kegeltje noemen je het
+	Free: Pattern=het, Pattern=met, Pattern=aan de bovenkant, Pattern=je, Pattern=noemen, Pattern=een soort van ja
+	Constrained: Pattern=aan de, Pattern=een, Pattern=een soort van, Pattern=een soort, Pattern=van, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : en daarnaast een rechthoekig staaf en aan de linkerkant hebben je ook een uitstekend staaf in driehoekge vorm
+	Free: Pattern=ook een, Pattern=aan de, Pattern=een, Pattern=in, Pattern=hebben je, Pattern=en
+	Constrained: Pattern=ook, Pattern=een, Pattern=hebben, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=17| A | A : ook nog ja
+	Free: Pattern=ja, Pattern=ook
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dit zijn het rond zitten rechts in het midden van het beker met het kegel bovenaan balk bovenaan
+	Free: Pattern=kegel, Pattern=rechts, Pattern=het, Pattern=met, Pattern=van, Pattern=rond, Pattern=in het midden, Pattern=dit zijn
+	Constrained: Pattern=in, Pattern=zijn, Pattern=het
+Turn ID=21| A | A : en link zitten ook nog een soort driehoek in
+	Free: Pattern=driehoek, Pattern=ook, Pattern=in, Pattern=een soort, Pattern=en
+	Constrained: Pattern=een
+Turn ID=22| A | A : dus het rond in het midden rechts
+	Free: Pattern=rond in het midden rechts, Pattern=het
+	Constrained: Pattern=midden rechts, Pattern=rechts, Pattern=het, Pattern=in, Pattern=rond, Pattern=in het midden
+Turn ID=23| B | B : een rond in het midden rechts
+	Free: Pattern=rond in het midden rechts, Pattern=een
+	Constrained: Pattern=midden rechts, Pattern=rechts, Pattern=het, Pattern=in, Pattern=rond, Pattern=in het midden
+Turn ID=24| A | A : kegel aan de bovenkant
+	Free: Pattern=kegel aan de bovenkant
+	Constrained: Pattern=kegel, Pattern=aan de, Pattern=aan de bovenkant, Pattern=de, Pattern=aan
+Turn ID=25| B | B : zijn ik nou gewoon kippig
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : rond ja je hebben die dat kegel en een staaf aan de bovenkant en dat driehoek
+	Free: Pattern=driehoek, Pattern=dat, Pattern=ja, Pattern=hebben, Pattern=die, Pattern=rond, Pattern=je, Pattern=aan de bovenkant, Pattern=en, Pattern=en een, Pattern=dat kegel en
+	Constrained: Pattern=kegel, Pattern=dat, Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=27| A | A : ja ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja okee dat zijn e
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| B | B : yes dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| B | B : en nu moeten ik hem omschrijven toch voor jou
+	Free: Pattern=en
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dat zijn kegel aan de bovenkant rechthoekig staaf aan de bovenkant het neus aan de rechterkant en rond neusje
+	Free: Pattern=dat zijn, Pattern=aan de, Pattern=het, Pattern=aan de bovenkant, Pattern=en, Pattern=rond, Pattern=kegel aan de bovenkant
+	Constrained: Pattern=kegel, Pattern=dat, Pattern=aan de, Pattern=aan de bovenkant, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=34| A | A : ja die we net ook hebben
+	Free: Pattern=die, Pattern=hebben, Pattern=ja, Pattern=ook
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : het weer het rond midden rechts
+	Free: Pattern=midden rechts, Pattern=rond, Pattern=het
+	Constrained: Pattern=rechts
+Turn ID=38| A | A : met dat kegel en het bovenaan
+	Free: Pattern=dat kegel en, Pattern=het, Pattern=met
+	Constrained: Pattern=en, Pattern=kegel, Pattern=dat
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : yes dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

@@ -1,0 +1,159 @@
+B|0| B: _dit_ vinden ik _een helikopter_ 
+B|1| B: _maar_ _dan_ _met een_ soort _ja_ schilderij of _televisiescherm aan_ _zijn_ _rechter_ zijde 
+B|2| B: hij _hebben_ _twee_ _van_ _die_ _van_ _die_ _vierkant_ _die_ steeds _groot_ worden _aan de_ linkerzijde _en_ _dan_ bovenop zo'n antenne 
+A|3| A: oké [ja] 
+A|4| A: _dat zijn_ [een] [groot] [vierkant] [aan de] voorkant zeggen [maar] 
+B|5| B: [ja] 
+A|6| A: oké _dat zijn_ [twee] 
+B|7| B: _en_ hij _staan_ op [de] onderste rij _en_ _dan de_ _veel_ links _van_ [de] onderste rij 
+A|8| A: _dan _zijn_ die_ niet _hetzelfde_ _bij mij_ [staan] [die] [veel] naar _boven_ 
+A|9| A: deze noemen jij volgens _mij_ [een _helikopter] [met_ een] [televisiescherm [aan] de] zijkant 
+B|10| B: [ja] 
+B|11| B: [dat zijn] G 
+A|12| A: [en] [die] [staan] net rechts _boven_ [de] dansen Pinokkio 
+B|13| B: [ja] 
+B|14| B: _dit [zijn_ die] [helikopter met] _het_ [televisiescherm] 
+A|15| A: [dat zijn] negen 
+B|16| B: [en] hij [staan] onderste helft _van het scherm_ [en] [dan] 
+B|17| B: of _je_ _hebben_ [de] onderste rij 
+B|18| B: [en] [dan] daarboven _hebben je_ ook weer drie ding 
+A|19| A: [ja] 
+B|20| B: [en] [dan] [twee] zitten [boven] elkaar [en] [dan zijn] _het_ [die] bovenst 
+A|21| A: _ja dat zijn_ _hetzelfde_ 
+A|22| A: [dit zijn] _de [helikopter_ met] [dat] [scherm] 
+B|23| B: [ja dat zijn] D 
+A|24| A: [en] [die] [staan] zo goed als _in het midden_ [van _het] midden_ eigenlijk dus 
+B|25| B: [ja] 
+A|26| A: [ja] 
+B|27| B: [dat zijn] [bij mij] ook wel [hetzelfde] 
+B|28| B: [de helikopter] 
+A|29| A: [dat zijn] één 
+B|30| B: [in het midden] _hebben je_ zo'n driehoek 
+B|31| B: [en] _dan de rechter_ daarvan 
+A|32| A: niet gelijk 
+A|33| A: [dit zijn] [de helikopter] 
+B|34| B: [ja] B 
+A|35| A: [en] [die] [staan] onderaan [hebben je] er zeggen [maar] [in het midden] [van het scherm] [twee] 
+B|36| B: [ja] 
+A|37| A: [en] daar [dan de rechter] [van] 
+B|38| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit vinden ik een helikopter
+	Free: Pattern=een helikopter, Pattern=dit
+	Constrained: Pattern=een
+Turn ID=1| B | B : maar dan met een soort ja schilderij of televisiescherm aan zijn rechter zijde
+	Free: Pattern=ja, Pattern=dan, Pattern=televisiescherm aan, Pattern=met een, Pattern=rechter, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=een, Pattern=televisiescherm
+Turn ID=2| B | B : hij hebben twee van die van die vierkant die steeds groot worden aan de linkerzijde en dan bovenop zo'n antenne
+	Free: Pattern=twee, Pattern=aan de, Pattern=dan, Pattern=die, Pattern=vierkant, Pattern=groot, Pattern=hebben, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=3| A | A : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn een groot vierkant aan de voorkant zeggen maar
+	Free: Pattern=dat zijn, Pattern=aan de, Pattern=een, Pattern=groot, Pattern=maar, Pattern=vierkant
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dat zijn twee
+	Free: Pattern=dat zijn, Pattern=twee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : en hij staan op de onderste rij en dan de veel links van de onderste rij
+	Free: Pattern=de, Pattern=veel, Pattern=staan, Pattern=dan de, Pattern=van, Pattern=en
+	Constrained: Pattern=dan, Pattern=de
+Turn ID=8| A | A : dan zijn die niet hetzelfde bij mij staan die veel naar boven
+	Free: Pattern=boven, Pattern=veel, Pattern=zijn die, Pattern=die, Pattern=dan zijn, Pattern=bij mij, Pattern=staan, Pattern=hetzelfde
+	Constrained: Pattern=zijn, Pattern=die, Pattern=mij, Pattern=dan
+Turn ID=9| A | A : deze noemen jij volgens mij een helikopter met een televisiescherm aan de zijkant
+	Free: Pattern=een helikopter, Pattern=aan de, Pattern=televisiescherm aan, Pattern=met een, Pattern=mij, Pattern=helikopter met
+	Constrained: Pattern=de, Pattern=een, Pattern=televisiescherm
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : en die staan net rechts boven de dansen Pinokkio
+	Free: Pattern=de, Pattern=boven, Pattern=staan, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit zijn die helikopter met het televisiescherm
+	Free: Pattern=televisiescherm, Pattern=het, Pattern=zijn die, Pattern=dit zijn, Pattern=helikopter met
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=die
+Turn ID=15| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : en hij staan onderste helft van het scherm en dan
+	Free: Pattern=van het scherm, Pattern=en, Pattern=dan, Pattern=staan
+	Constrained: Pattern=van, Pattern=het, Pattern=van het, Pattern=scherm
+Turn ID=17| B | B : of je hebben de onderste rij
+	Free: Pattern=hebben, Pattern=je, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : en dan daarboven hebben je ook weer drie ding
+	Free: Pattern=hebben je, Pattern=en, Pattern=dan
+	Constrained: Pattern=hebben, Pattern=je
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en dan twee zitten boven elkaar en dan zijn het die bovenst
+	Free: Pattern=twee, Pattern=het, Pattern=die, Pattern=dan zijn, Pattern=en, Pattern=boven, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=dan
+Turn ID=21| A | A : ja dat zijn hetzelfde
+	Free: Pattern=ja dat zijn, Pattern=hetzelfde
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=22| A | A : dit zijn de helikopter met dat scherm
+	Free: Pattern=dat, Pattern=scherm, Pattern=de helikopter, Pattern=dit zijn, Pattern=helikopter met
+	Constrained: Pattern=dit, Pattern=de, Pattern=zijn
+Turn ID=23| B | B : ja dat zijn D
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=24| A | A : en die staan zo goed als in het midden van het midden eigenlijk dus
+	Free: Pattern=het midden, Pattern=staan, Pattern=die, Pattern=van het, Pattern=en, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=van, Pattern=het
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : dat zijn bij mij ook wel hetzelfde
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=hetzelfde
+	Constrained: Pattern=zijn, Pattern=mij, Pattern=dat
+Turn ID=28| B | B : de helikopter
+	Free: Pattern=de helikopter
+	Constrained: Pattern=de
+Turn ID=29| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| B | B : in het midden hebben je zo'n driehoek
+	Free: Pattern=in het midden, Pattern=hebben je
+	Constrained: Pattern=je, Pattern=het, Pattern=het midden, Pattern=hebben
+Turn ID=31| B | B : en dan de rechter daarvan
+	Free: Pattern=dan de rechter, Pattern=en
+	Constrained: Pattern=dan, Pattern=dan de, Pattern=de, Pattern=rechter
+Turn ID=32| A | A : niet gelijk
+	Free: 
+	Constrained: 
+Turn ID=33| A | A : dit zijn de helikopter
+	Free: Pattern=de helikopter, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=de
+Turn ID=34| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : en die staan onderaan hebben je er zeggen maar in het midden van het scherm twee
+	Free: Pattern=van het scherm, Pattern=twee, Pattern=staan, Pattern=die, Pattern=hebben je, Pattern=en, Pattern=maar, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=het, Pattern=hebben, Pattern=scherm, Pattern=van het, Pattern=van, Pattern=je
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : en daar dan de rechter van
+	Free: Pattern=dan de rechter, Pattern=van, Pattern=en
+	Constrained: Pattern=dan, Pattern=dan de, Pattern=de, Pattern=rechter
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

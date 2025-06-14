@@ -1,0 +1,139 @@
+A|0| A: _even kijken_ _dit zijn_ _de_ kopvorm _met _aan de_ linkerkant zitten_ één _van_ _soort balk_ 
+A|1| A: _en_ _het_ _lijken_ _dan_ _alsof_ _daar een_ heel groot _spijker in_ _zijn slaan_ 
+B|2| B: [even kijken] _aan de zijkant_ [soort balk] [met] [een] [spijker] erin 
+A|3| A: dus _een beetje_ [een] l-vorm _aan de linkerkant_ 
+A|4| A: zullen we _zeggen_ 
+B|5| B: [de] [met] [zitten] er [dan] _aan de zijkant_ [een] [soort] rond op [een] [soort] [van] tafel 
+A|6| A: _ja_ 
+B|7| B: okee [ja] 
+A|8| A: _aan de rechterkant_ [ja] 
+B|9| B: Okee d 
+B|10| B: deze [zijn] diegene _die_ [aan de rechterkant] [een] [soort] [van] _schotel_ eruit hebben komen 
+B|11| B: _en dan_ [aan de linkerkant zitten] [een] [soort] [van] twee ova [aan] elkaar vastgeplakt [met] [daar] [lijken] [het] [alsof] er [een] [spijker] erin [zijn slaan] 
+B|12| B: [soort] [van] vierkant vorm _die_ [dan] steeds klein worden [in] _het balk_ wat uit _het kop_ komen 
+B|13| B: okee [aan de linkerkant zitten] [een] [zitten] [een] komen er [een] [balk] uit wat [zeggen] [een beetje] rond [zijn] [met] twee klein ovaalt [lijken] [het] [een beetje] op 
+A|14| A: [ja] 
+A|15| A: ik [kijken] ook al want [het balk] 
+B|16| B: _en dan_ [zitten] [daar een] [spijker in] [slaan] 
+A|17| A: [die] _met het schotel aan de_ voorkant 
+B|18| B: [ja] 
+B|19| B: [met [aan de] rechterkant] [soort] [van] [schotel] inderdaad [ja] 
+A|20| A: [ja] 
+A|21| A: dat [zijn] twaalf 
+A|22| A: [even kijken] _dit zijn_ [de] [het kop] _met de_ [de] staaf [aan de zijkant] waar _de spijker_ inslaan [zijn] 
+B|23| B: _met het schotel aan de rechterkant_ 
+A|24| A: [met het schotel aan de rechterkant] [ja] 
+B|25| B: [ja] f 
+B|26| B: [dit zijn] degeen [met] [een] [soort] [van] [schotel aan de rechterkant] 
+B|27| B: _en dan_ [aan de linkerkant] _de balk_ [met] [een] [spijker] erin 
+A|28| A: [ja] twaalf 
+A|29| A: [dit zijn] [die] [met het _schotel aan de rechterkant] en dan de balk_ [aan de linkerkant] [met] [spijker] 
+B|30| B: [ja] 
+B|31| B: l 
+B|32| B: [dit zijn] degeen [met de] [schotel aan de rechterkant en dan de balk] [met [de] spijker] erin [aan de linkerkant] 
+A|33| A: [ja] vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken dit zijn de kopvorm met aan de linkerkant zitten één van soort balk
+	Free: Pattern=aan de linkerkant zitten, Pattern=van, Pattern=dit zijn, Pattern=de, Pattern=met aan de, Pattern=even kijken, Pattern=soort balk
+	Constrained: Pattern=soort, Pattern=kijken, Pattern=balk, Pattern=met, Pattern=zitten, Pattern=zijn, Pattern=aan de linkerkant, Pattern=de, Pattern=aan
+Turn ID=1| A | A : en het lijken dan alsof daar een heel groot spijker in zijn slaan
+	Free: Pattern=spijker in, Pattern=het, Pattern=daar een, Pattern=zijn slaan, Pattern=alsof, Pattern=en, Pattern=lijken, Pattern=dan
+	Constrained: Pattern=een, Pattern=in, Pattern=slaan, Pattern=zijn, Pattern=daar, Pattern=spijker
+Turn ID=2| B | B : even kijken aan de zijkant soort balk met een spijker erin
+	Free: Pattern=met, Pattern=spijker, Pattern=een, Pattern=aan de zijkant, Pattern=even kijken, Pattern=soort balk
+	Constrained: Pattern=soort, Pattern=kijken, Pattern=balk, Pattern=de, Pattern=aan
+Turn ID=3| A | A : dus een beetje een l-vorm aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=een beetje, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=een
+Turn ID=4| A | A : zullen we zeggen
+	Free: Pattern=zeggen
+	Constrained: 
+Turn ID=5| B | B : de met zitten er dan aan de zijkant een soort rond op een soort van tafel
+	Free: Pattern=soort, Pattern=de, Pattern=dan, Pattern=met, Pattern=zitten, Pattern=van, Pattern=een, Pattern=aan de zijkant
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : okee ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : aan de rechterkant ja
+	Free: Pattern=aan de rechterkant, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=9| B | B : Okee d
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : deze zijn diegene die aan de rechterkant een soort van schotel eruit hebben komen
+	Free: Pattern=soort, Pattern=een, Pattern=schotel, Pattern=van, Pattern=zijn, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=11| B | B : en dan aan de linkerkant zitten een soort van twee ova aan elkaar vastgeplakt met daar lijken het alsof er een spijker erin zijn slaan
+	Free: Pattern=soort, Pattern=aan, Pattern=en dan, Pattern=lijken, Pattern=een, Pattern=het, Pattern=zijn slaan, Pattern=alsof, Pattern=van, Pattern=daar, Pattern=spijker, Pattern=aan de linkerkant zitten, Pattern=met
+	Constrained: Pattern=dan, Pattern=zitten, Pattern=slaan, Pattern=en, Pattern=zijn, Pattern=aan de linkerkant, Pattern=de, Pattern=aan
+Turn ID=12| B | B : soort van vierkant vorm die dan steeds klein worden in het balk wat uit het kop komen
+	Free: Pattern=soort, Pattern=dan, Pattern=in, Pattern=die, Pattern=van, Pattern=het balk, Pattern=het kop
+	Constrained: Pattern=balk, Pattern=het
+Turn ID=13| B | B : okee aan de linkerkant zitten een zitten een komen er een balk uit wat zeggen een beetje rond zijn met twee klein ovaalt lijken het een beetje op
+	Free: Pattern=lijken, Pattern=een, Pattern=het, Pattern=zeggen, Pattern=balk, Pattern=zitten, Pattern=zijn, Pattern=een beetje, Pattern=aan de linkerkant zitten, Pattern=met
+	Constrained: Pattern=een, Pattern=zitten, Pattern=aan de linkerkant, Pattern=de, Pattern=aan
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ik kijken ook al want het balk
+	Free: Pattern=het balk, Pattern=kijken
+	Constrained: Pattern=balk, Pattern=het
+Turn ID=16| B | B : en dan zitten daar een spijker in slaan
+	Free: Pattern=spijker in, Pattern=en dan, Pattern=daar een, Pattern=zitten, Pattern=slaan
+	Constrained: Pattern=dan, Pattern=een, Pattern=in, Pattern=en, Pattern=daar, Pattern=spijker
+Turn ID=17| A | A : die met het schotel aan de voorkant
+	Free: Pattern=met het schotel aan de, Pattern=die
+	Constrained: Pattern=met, Pattern=de, Pattern=aan, Pattern=schotel, Pattern=het
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : met aan de rechterkant soort van schotel inderdaad ja
+	Free: Pattern=soort, Pattern=schotel, Pattern=aan de rechterkant, Pattern=van, Pattern=ja, Pattern=met aan de
+	Constrained: Pattern=aan, Pattern=de, Pattern=met
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn twaalf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=22| A | A : even kijken dit zijn de het kop met de de staaf aan de zijkant waar de spijker inslaan zijn
+	Free: Pattern=de spijker, Pattern=het kop, Pattern=aan de zijkant, Pattern=even kijken, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=kijken, Pattern=het, Pattern=met, Pattern=zijn, Pattern=spijker, Pattern=de, Pattern=aan
+Turn ID=23| B | B : met het schotel aan de rechterkant
+	Free: Pattern=met het schotel aan de rechterkant
+	Constrained: Pattern=schotel aan de rechterkant, Pattern=met, Pattern=aan de rechterkant, Pattern=met het schotel aan de, Pattern=de, Pattern=aan, Pattern=schotel, Pattern=het
+Turn ID=24| A | A : met het schotel aan de rechterkant ja
+	Free: Pattern=met het schotel aan de rechterkant, Pattern=ja
+	Constrained: Pattern=schotel aan de rechterkant, Pattern=met, Pattern=aan de rechterkant, Pattern=met het schotel aan de, Pattern=de, Pattern=aan, Pattern=schotel, Pattern=het
+Turn ID=25| B | B : ja f
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dit zijn degeen met een soort van schotel aan de rechterkant
+	Free: Pattern=soort, Pattern=een, Pattern=schotel aan de rechterkant, Pattern=met, Pattern=van, Pattern=dit zijn
+	Constrained: Pattern=schotel, Pattern=aan de rechterkant, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=27| B | B : en dan aan de linkerkant de balk met een spijker erin
+	Free: Pattern=en dan, Pattern=een, Pattern=de balk, Pattern=met, Pattern=spijker, Pattern=aan de linkerkant
+	Constrained: Pattern=dan, Pattern=balk, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=28| A | A : ja twaalf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : dit zijn die met het schotel aan de rechterkant en dan de balk aan de linkerkant met spijker
+	Free: Pattern=met het schotel aan de rechterkant, Pattern=schotel aan de rechterkant en dan de balk, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=spijker, Pattern=aan de linkerkant
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=de balk, Pattern=met, Pattern=aan de rechterkant, Pattern=en, Pattern=zijn, Pattern=met het schotel aan de, Pattern=de, Pattern=aan, Pattern=schotel, Pattern=het, Pattern=balk, Pattern=schotel aan de rechterkant
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dit zijn degeen met de schotel aan de rechterkant en dan de balk met de spijker erin aan de linkerkant
+	Free: Pattern=de spijker, Pattern=met de, Pattern=schotel aan de rechterkant en dan de balk, Pattern=dit zijn, Pattern=aan de linkerkant
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=de balk, Pattern=schotel, Pattern=met, Pattern=aan de rechterkant, Pattern=en, Pattern=zijn, Pattern=spijker, Pattern=de, Pattern=aan, Pattern=balk, Pattern=schotel aan de rechterkant
+Turn ID=33| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,175 @@
+B|0| B: _oké ja_ deze hebben _een soort van_ _plat ding aan de bovenkant_ 
+B|1| B: _in_ _de_ beetje erdoorheen met _twee poot_ 
+A|2| A: [de] [plat ding aan de bovenkant] 
+A|3| A: _en_ [twee poot] 
+B|4| B: met _een soort van_ bakje erop 
+B|5| B: als _het zijn_ 
+A|6| A: nuh je dus [het] lijken alsof hij [een soort van] [in] [een] _rek_ hangen 
+B|7| B: I Guess _ja_ 
+A|8| A: [ja] 
+B|9| B: misschien 
+B|10| B: met _zo'n_ [soort van] fliebel [aan de] achterkant _nog_ omhoog 
+A|11| A: _ja precies_ 
+A|12| A: _en_ [zo'n] _bak_ ernaast [nog] zo 
+B|13| B: [ja] 
+B|14| B: [ja] 
+A|15| A: ik weten niet _precies_ wat [het zijn] 
+A|16| A: maar sure 
+B|17| B: [ja] [ja precies] [ja] 
+A|18| A: _dat zijn_ negen 
+B|19| B: _oké_ 
+A|20| A: _ja dit zijn_ _dat_ datgeen _dat_ [in] _dat rek_ of _dat_ plateau [aan de bovenkant] weten je wel 
+B|21| B: [ja] 
+B|22| B: even kijken waar die zitten 
+A|23| A: [ja] 
+B|24| B: [ja] met _dat gek_ [bak] [en] dinge 
+A|25| A: [en] [dat gek] 
+A|26| A: [ja precies] 
+B|27| B: [ja] 
+B|28| B: _oké dat zijn_ N 
+B|29| B: _ja dit zijn weer_ met [dat rek] dinge met [dat] [bak] 
+A|30| A: [ja] sure [ja] nee duidelijk zeven 
+B|31| B: [ja] 
+B|32| B: _oké_ 
+A|33| A: [oké [ja] dit zijn weer] [in] [het] [rek] hangen , [dat] [in] [dat rek] hangen 
+B|34| B: ah [ja] 
+B|35| B: [ja] [oké] 
+B|36| B: even kijken [dat zijn] O 
+B|37| B: [ja dit zijn weer] [dat] [dat rek] 
+A|38| A: [ja] 
+B|39| B: dinge met bakje 
+A|40| A: [oké dat zijn] [twee] 
+A|41| A: [en] [dit zijn weer] [in] [dat rek] 
+B|42| B: [ja] [oké] even kijken ah [dat zijn] B 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ja deze hebben een soort van plat ding aan de bovenkant
+	Free: Pattern=plat ding aan de bovenkant, Pattern=een soort van, Pattern=oké ja
+	Constrained: Pattern=aan de, Pattern=een, Pattern=oké, Pattern=aan de bovenkant, Pattern=soort van, Pattern=de, Pattern=ja
+Turn ID=1| B | B : in de beetje erdoorheen met twee poot
+	Free: Pattern=twee poot, Pattern=de, Pattern=in
+	Constrained: Pattern=twee
+Turn ID=2| A | A : de plat ding aan de bovenkant
+	Free: Pattern=plat ding aan de bovenkant, Pattern=de
+	Constrained: Pattern=aan de bovenkant, Pattern=de, Pattern=aan de
+Turn ID=3| A | A : en twee poot
+	Free: Pattern=twee poot, Pattern=en
+	Constrained: Pattern=twee
+Turn ID=4| B | B : met een soort van bakje erop
+	Free: Pattern=een soort van
+	Constrained: Pattern=soort van, Pattern=een
+Turn ID=5| B | B : als het zijn
+	Free: Pattern=het zijn
+	Constrained: Pattern=het
+Turn ID=6| A | A : nuh je dus het lijken alsof hij een soort van in een rek hangen
+	Free: Pattern=een, Pattern=het, Pattern=rek, Pattern=in, Pattern=een soort van
+	Constrained: Pattern=soort van, Pattern=een
+Turn ID=7| B | B : I Guess ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : misschien
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : met zo'n soort van fliebel aan de achterkant nog omhoog
+	Free: Pattern=soort van, Pattern=aan de, Pattern=nog, Pattern=zo'n
+	Constrained: Pattern=de
+Turn ID=11| A | A : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja, Pattern=precies
+Turn ID=12| A | A : en zo'n bak ernaast nog zo
+	Free: Pattern=bak, Pattern=en, Pattern=nog, Pattern=zo'n
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ik weten niet precies wat het zijn
+	Free: Pattern=het zijn, Pattern=precies
+	Constrained: Pattern=het
+Turn ID=16| A | A : maar sure
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja ja precies ja
+	Free: Pattern=ja precies, Pattern=ja
+	Constrained: Pattern=ja, Pattern=precies
+Turn ID=18| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=19| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=20| A | A : ja dit zijn dat datgeen dat in dat rek of dat plateau aan de bovenkant weten je wel
+	Free: Pattern=dat, Pattern=dat rek, Pattern=aan de bovenkant, Pattern=ja dit zijn, Pattern=in
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=rek, Pattern=de, Pattern=ja
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : even kijken waar die zitten
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja met dat gek bak en dinge
+	Free: Pattern=dat gek, Pattern=bak, Pattern=ja, Pattern=en
+	Constrained: Pattern=dat
+Turn ID=25| A | A : en dat gek
+	Free: Pattern=dat gek, Pattern=en
+	Constrained: Pattern=dat
+Turn ID=26| A | A : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja, Pattern=precies
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : oké dat zijn N
+	Free: Pattern=oké dat zijn
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=dat
+Turn ID=29| B | B : ja dit zijn weer met dat rek dinge met dat bak
+	Free: Pattern=ja dit zijn weer, Pattern=dat rek, Pattern=bak, Pattern=dat
+	Constrained: Pattern=dat, Pattern=ja, Pattern=rek, Pattern=ja dit zijn, Pattern=dit zijn weer
+Turn ID=30| A | A : ja sure ja nee duidelijk zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=33| A | A : oké ja dit zijn weer in het rek hangen , dat in dat rek hangen
+	Free: Pattern=dat, Pattern=dat rek, Pattern=het, Pattern=rek, Pattern=oké ja, Pattern=in, Pattern=ja dit zijn weer
+	Constrained: Pattern=dat, Pattern=ja, Pattern=rek, Pattern=ja dit zijn, Pattern=oké, Pattern=dit zijn weer
+Turn ID=34| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=36| B | B : even kijken dat zijn O
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=37| B | B : ja dit zijn weer dat dat rek
+	Free: Pattern=ja dit zijn weer, Pattern=dat rek, Pattern=dat
+	Constrained: Pattern=dat, Pattern=ja, Pattern=rek, Pattern=ja dit zijn, Pattern=dit zijn weer
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dinge met bakje
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : oké dat zijn twee
+	Free: Pattern=oké dat zijn, Pattern=twee
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=dat
+Turn ID=41| A | A : en dit zijn weer in dat rek
+	Free: Pattern=dit zijn weer, Pattern=dat rek, Pattern=en, Pattern=in
+	Constrained: Pattern=dat, Pattern=rek
+Turn ID=42| B | B : ja oké even kijken ah dat zijn B
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=oké
+	Constrained: Pattern=dat

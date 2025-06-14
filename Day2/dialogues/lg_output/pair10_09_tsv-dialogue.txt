@@ -1,0 +1,167 @@
+B|0| B: _ik_ hebben _het_ rood vierkant dus _dan_ moeten _ik_ gaan uitleggen 
+A|1| A: _ja_ 
+B|2| B: _het_ _zijn_ _een_ _een_ _een_ _een_ _een_ kop _en_ _aan de_ _onderkant_ _zitten _een_ ovaal_ _standaard_ _zeggen maar_ _het_ kop _staan_ daarop 
+B|3| B: _en_ 
+A|4| A: _zitten er een_ _driehoek op_ 
+B|5| B: nee _er zitten geen_ [driehoek op] 
+A|6| A: [er zitten geen] okee [een ovaal] Standaard 
+B|7| B: rechtsboven [zitten er een] soort van [op] _zijn_ kop kegel wat [een] beetje [op] [een] mini-cactus blobje lijken _zeggen maar_ 
+B|8| B: _en_ _link_ _zitten een_ [een] _gewoon_ [een] _staaf_ _en_ daarachter _zitten een_ plat _rond_ cirkel 
+A|9| A: daar [zitten een] [rond] 
+A|10| A: _ja_ 
+B|11| B: [ja] 
+A|12| A: [een] _cactus_ ? _dat_ vinden [ik] niet [maar] [gewoon] zo [maar] 
+B|13| B: nou [ja] je je hebben toch van _die_ cactusprop 
+A|14| A: [ja] okee [ja] 
+B|15| B: [maar] dus 
+A|16| A: [en] [het] _staan zeggen maar_ [op] zo'n [ovaal] ding [ja] zo'n pilvorm [zijn] [het] 
+B|17| B: [ja] [het] belangrijk [zijn] [dat] [het] [een] soort van houder hebben waar [het] [op] [staan zeggen maar] 
+A|18| A: [ja] inderdaad [en] [dan] zo'n _stok_ [aan de] zijkant _en een_ [rond] [ja] 
+B|19| B: [de] 
+B|20| B: [ja] _links_ [en] [stok] [en] rechts _die_ [cactus] [en] daarachter _het rond_ 
+A|21| A: okee 
+A|22| A: [ja] [dan] [zijn] [het] _nummer_ [een] bij mij 
+A|23| A: even kijken deze [staan] [op] [die] pilvorm 
+A|24| A: met [die] [dat] cactusding erin [en] [het rond] _aan de achterkant_ _en de_ [staaf] erin 
+B|25| B: _ja dat zijn_ [nummer] of [nummer] sorry letter letter n 
+A|26| A: [link] 
+B|27| B: hee ze versprongen weer 
+A|28| A: [ja] 
+B|29| B: [ja] _dit zijn_ weer [de] [aan de] _onderkant_ [een] houder [een ovaal] houder [en een] minicactus [aan de] rechterkant [en een] schijf [aan de achterkant] 
+A|30| A: [ja] [en] [dan] nog zo'n ding [links] 
+B|31| B: [ja] 
+A|32| A: yes kijken [nummer] veertien 
+A|33| A: [dit zijn] [die] [op] [die] _pilvormig_ [standaard] met nog [een] [rond] erachter [en een] cactusding erin 
+B|34| B: _ja dat zijn_ d 
+B|35| B: [dit zijn] [de] [de] [pilvormig] [aan de] _onderkant_ [en] rechts [een] minicactus 
+A|36| A: [ja dat zijn] twaalf 
+A|37| A: [dit] [staan] [op] [die] [pilvormig] [onderkant] 
+B|38| B: [en de] [het] lepel 
+A|39| A: met [het] lepeltjeding erin 
+B|40| B: [ja dat zijn] p 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben het rood vierkant dus dan moeten ik gaan uitleggen
+	Free: Pattern=dan, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : het zijn een een een een een kop en aan de onderkant zitten een ovaal standaard zeggen maar het kop staan daarop
+	Free: Pattern=aan de, Pattern=zeggen maar, Pattern=het, Pattern=onderkant, Pattern=zitten een, Pattern=en, Pattern=een, Pattern=staan, Pattern=een ovaal, Pattern=zijn, Pattern=standaard
+	Constrained: Pattern=een, Pattern=de, Pattern=ovaal, Pattern=maar
+Turn ID=3| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| A | A : zitten er een driehoek op
+	Free: Pattern=zitten er een, Pattern=driehoek op
+	Constrained: Pattern=een, Pattern=op
+Turn ID=5| B | B : nee er zitten geen driehoek op
+	Free: Pattern=er zitten geen, Pattern=driehoek op
+	Constrained: Pattern=op
+Turn ID=6| A | A : er zitten geen okee een ovaal Standaard
+	Free: Pattern=er zitten geen, Pattern=een ovaal
+	Constrained: Pattern=een, Pattern=ovaal
+Turn ID=7| B | B : rechtsboven zitten er een soort van op zijn kop kegel wat een beetje op een mini-cactus blobje lijken zeggen maar
+	Free: Pattern=zitten er een, Pattern=op, Pattern=een, Pattern=zeggen maar, Pattern=zijn
+	Constrained: Pattern=een, Pattern=maar
+Turn ID=8| B | B : en link zitten een een gewoon een staaf en daarachter zitten een plat rond cirkel
+	Free: Pattern=staaf, Pattern=een, Pattern=gewoon, Pattern=link, Pattern=zitten een, Pattern=en, Pattern=rond
+	Constrained: Pattern=een
+Turn ID=9| A | A : daar zitten een rond
+	Free: Pattern=zitten een, Pattern=rond
+	Constrained: Pattern=een
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : een cactus ? dat vinden ik niet maar gewoon zo maar
+	Free: Pattern=dat, Pattern=gewoon, Pattern=ik, Pattern=maar, Pattern=een, Pattern=cactus
+	Constrained: 
+Turn ID=13| B | B : nou ja je je hebben toch van die cactusprop
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja okee ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : maar dus
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=16| A | A : en het staan zeggen maar op zo'n ovaal ding ja zo'n pilvorm zijn het
+	Free: Pattern=ja, Pattern=op, Pattern=het, Pattern=en, Pattern=zijn, Pattern=staan zeggen maar, Pattern=ovaal
+	Constrained: Pattern=zeggen maar, Pattern=maar, Pattern=staan
+Turn ID=17| B | B : ja het belangrijk zijn dat het een soort van houder hebben waar het op staan zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=een, Pattern=het, Pattern=staan zeggen maar, Pattern=zijn
+	Constrained: Pattern=zeggen maar, Pattern=maar, Pattern=staan
+Turn ID=18| A | A : ja inderdaad en dan zo'n stok aan de zijkant en een rond ja
+	Free: Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=stok, Pattern=en, Pattern=rond, Pattern=en een
+	Constrained: Pattern=en, Pattern=een, Pattern=de
+Turn ID=19| B | B : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=20| B | B : ja links en stok en rechts die cactus en daarachter het rond
+	Free: Pattern=ja, Pattern=cactus, Pattern=links, Pattern=het rond, Pattern=die, Pattern=stok, Pattern=en
+	Constrained: Pattern=rond, Pattern=het
+Turn ID=21| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja dan zijn het nummer een bij mij
+	Free: Pattern=nummer, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=23| A | A : even kijken deze staan op die pilvorm
+	Free: Pattern=die, Pattern=staan, Pattern=op
+	Constrained: 
+Turn ID=24| A | A : met die dat cactusding erin en het rond aan de achterkant en de staaf erin
+	Free: Pattern=staaf, Pattern=en de, Pattern=het rond, Pattern=die, Pattern=en, Pattern=dat, Pattern=aan de achterkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=het, Pattern=en, Pattern=rond
+Turn ID=25| B | B : ja dat zijn nummer of nummer sorry letter letter n
+	Free: Pattern=ja dat zijn, Pattern=nummer
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=26| A | A : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=27| B | B : hee ze versprongen weer
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja dit zijn weer de aan de onderkant een houder een ovaal houder en een minicactus aan de rechterkant en een schijf aan de achterkant
+	Free: Pattern=aan de achterkant, Pattern=aan de, Pattern=een, Pattern=onderkant, Pattern=dit zijn, Pattern=de, Pattern=ja, Pattern=een ovaal, Pattern=en een
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=dit, Pattern=ovaal, Pattern=en, Pattern=zijn
+Turn ID=30| A | A : ja en dan nog zo'n ding links
+	Free: Pattern=en, Pattern=links, Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : yes kijken nummer veertien
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=33| A | A : dit zijn die op die pilvormig standaard met nog een rond erachter en een cactusding erin
+	Free: Pattern=op, Pattern=een, Pattern=die, Pattern=pilvormig, Pattern=rond, Pattern=dit zijn, Pattern=en een, Pattern=standaard
+	Constrained: Pattern=en, Pattern=dit, Pattern=zijn, Pattern=een
+Turn ID=34| B | B : ja dat zijn d
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=35| B | B : dit zijn de de pilvormig aan de onderkant en rechts een minicactus
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=pilvormig, Pattern=onderkant, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=de
+Turn ID=36| A | A : ja dat zijn twaalf
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=37| A | A : dit staan op die pilvormig onderkant
+	Free: Pattern=op, Pattern=staan, Pattern=dit, Pattern=die, Pattern=pilvormig, Pattern=onderkant
+	Constrained: 
+Turn ID=38| B | B : en de het lepel
+	Free: Pattern=en de, Pattern=het
+	Constrained: Pattern=en, Pattern=de
+Turn ID=39| A | A : met het lepeltjeding erin
+	Free: Pattern=het
+	Constrained: 
+Turn ID=40| B | B : ja dat zijn p
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ja

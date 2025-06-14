@@ -1,0 +1,135 @@
+A|0| A: hier _hebben_ je twee handvat _met_ cirkel _aan_ beide _kant_ _van_ _de emmer_ 
+A|1| A: links _zijn hij wat kort_ _dan_ rechts 
+A|2| A: dus _zijn_ eigenlijk twee uitsteeksles _met_ _een_ bal erop 
+B|3| B: _ja_ 
+A|4| A: _en_ _aan de_ achterkant _hebben_ je _een schuin vierkant_ 
+A|5| A: _met_ daaronder _een_ balk _die_ omlaag gaan 
+B|6| B: _ja_ 
+B|7| B: b 
+B|8| B: deze [hebben] [die] [die] stok door [die] [emmer] heen 
+B|9| B: [aan de] [een] [kant] [zijn hij wat kort] [en] [hij] [hebben] [een] bobbel [aan] het eind _en dan_ [aan de] ander [kant] [zijn hij] iets lang 
+B|10| B: achterop [zijn] [een schuin vierkant] 
+B|11| B: [met] daar ook [een] soort [van] ding _eraan_ 
+B|12| B: _zo_ of [hij] liggen achter [de emmer] soort [van] [een] _baseballbat_ 
+B|13| B: _maar_ [dan] niet echt 
+A|14| A: Baseballbat 
+B|15| B: achter [de emmer] [zijn] [een] 
+A|16| A: [en] zitten [hij] [ja] zo'n [schuin vierkant] naar links richten zeggen [maar] weer [zo] 
+B|17| B: [ja] 
+B|18| B: [ja] 
+A|19| A: [en dan] twee staf [met] [die] bal [eraan] 
+B|20| B: [ja] [die] staaf lijken [een] beetje op [een] _baseballbat_ 
+A|21| A: okee 
+A|22| A: [ja] veertien 
+A|23| A: dit [zijn] [die] [baseballbat] 
+B|24| B: [ja] 
+B|25| B: where did it go ? l 
+B|26| B: deze [hebben] _de baseballbat_ 
+A|27| A: [ja] 
+A|28| A: [een] 
+A|29| A: [de] [de baseballbat] 
+B|30| B: [ja] i 
+B|31| B: [de baseballbat] 
+A|32| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hier hebben je twee handvat met cirkel aan beide kant van de emmer
+	Free: Pattern=kant, Pattern=aan, Pattern=hebben, Pattern=met, Pattern=van, Pattern=de emmer
+	Constrained: Pattern=de, Pattern=emmer
+Turn ID=1| A | A : links zijn hij wat kort dan rechts
+	Free: Pattern=zijn hij wat kort, Pattern=dan
+	Constrained: Pattern=zijn hij, Pattern=hij, Pattern=zijn
+Turn ID=2| A | A : dus zijn eigenlijk twee uitsteeksles met een bal erop
+	Free: Pattern=zijn, Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en aan de achterkant hebben je een schuin vierkant
+	Free: Pattern=een schuin vierkant, Pattern=aan de, Pattern=hebben, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=schuin vierkant
+Turn ID=5| A | A : met daaronder een balk die omlaag gaan
+	Free: Pattern=met, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : deze hebben die die stok door die emmer heen
+	Free: Pattern=hebben, Pattern=emmer, Pattern=die
+	Constrained: 
+Turn ID=9| B | B : aan de een kant zijn hij wat kort en hij hebben een bobbel aan het eind en dan aan de ander kant zijn hij iets lang
+	Free: Pattern=kant, Pattern=aan, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=hij, Pattern=zijn hij, Pattern=en, Pattern=zijn hij wat kort
+	Constrained: Pattern=dan, Pattern=hij, Pattern=en, Pattern=zijn hij, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=10| B | B : achterop zijn een schuin vierkant
+	Free: Pattern=een schuin vierkant, Pattern=zijn
+	Constrained: Pattern=schuin vierkant, Pattern=een
+Turn ID=11| B | B : met daar ook een soort van ding eraan
+	Free: Pattern=eraan, Pattern=met, Pattern=van, Pattern=een
+	Constrained: 
+Turn ID=12| B | B : zo of hij liggen achter de emmer soort van een baseballbat
+	Free: Pattern=een, Pattern=van, Pattern=de emmer, Pattern=baseballbat, Pattern=hij, Pattern=zo
+	Constrained: Pattern=de, Pattern=emmer
+Turn ID=13| B | B : maar dan niet echt
+	Free: Pattern=dan, Pattern=maar
+	Constrained: 
+Turn ID=14| A | A : Baseballbat
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : achter de emmer zijn een
+	Free: Pattern=de emmer, Pattern=zijn, Pattern=een
+	Constrained: Pattern=de, Pattern=emmer
+Turn ID=16| A | A : en zitten hij ja zo'n schuin vierkant naar links richten zeggen maar weer zo
+	Free: Pattern=ja, Pattern=schuin vierkant, Pattern=en, Pattern=maar, Pattern=hij, Pattern=zo
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en dan twee staf met die bal eraan
+	Free: Pattern=en dan, Pattern=eraan, Pattern=met, Pattern=die
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=20| B | B : ja die staaf lijken een beetje op een baseballbat
+	Free: Pattern=ja, Pattern=baseballbat, Pattern=die, Pattern=een
+	Constrained: 
+Turn ID=21| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dit zijn die baseballbat
+	Free: Pattern=zijn, Pattern=baseballbat, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : where did it go ? l
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : deze hebben de baseballbat
+	Free: Pattern=de baseballbat, Pattern=hebben
+	Constrained: Pattern=de, Pattern=baseballbat
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=29| A | A : de de baseballbat
+	Free: Pattern=de baseballbat, Pattern=de
+	Constrained: Pattern=de, Pattern=baseballbat
+Turn ID=30| B | B : ja i
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : de baseballbat
+	Free: Pattern=de baseballbat
+	Constrained: Pattern=de, Pattern=baseballbat
+Turn ID=32| A | A : zes
+	Free: 
+	Constrained: 

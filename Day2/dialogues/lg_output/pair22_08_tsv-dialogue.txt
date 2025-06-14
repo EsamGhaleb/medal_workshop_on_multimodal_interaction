@@ -1,0 +1,223 @@
+A|0| A: _oké_ nou _ja_ deze hebben jij hebben jij volgens mij net over , _dat zijn_ diegene _die_ er net _in_ hoekje eronder 
+B|1| B: _ja _die_ met die_ _draaien_ _poot_ _zegmaar_ 
+A|2| A: [ja] _met het_ gedraaide [poot] 
+B|3| B: [ja] 
+B|4| B: [oké] 
+B|5| B: _ja dat zijn_ M 
+B|6| B: [ja] 
+B|7| B: cool 
+B|8| B: [ja] 
+A|9| A: _ja ja_ hebben je hem al aangekliken 
+B|10| B: nee 
+B|11| B: nee _nog_ _niet_ 
+A|12| A: want volgens mij _het_ _zijn wel_ degeen _met zo'n_ soort _van_ _zo'n_ _ding_ Erboven waar [nog] twee _ding_ uitsteken [zegmaar] 
+B|13| B: [oké] 
+B|14| B: _ja ja dat [zijn_ wel] _een_ _ander_ inderdaad 
+A|15| A: en en _aan de_ rechterkant dan [nog] twee _van _die_ ander_ _ding_ [die] uitsteken 
+B|16| B: [ja] 
+B|17| B: [oké] 
+A|18| A: [die met die] _hoek_ [zegmaar] _aan de onderkant_ 
+B|19| B: _ja die_ zo 
+A|20| A: _ja ja ja_ 
+B|21| B: _ja oké_ 
+A|22| A: [ja] 
+B|23| B: top 
+B|24| B: [dat zijn] L 
+A|25| A: _ja precies_ 
+A|26| A: denken al _dit_ 
+B|27| B: [ja] 
+A|28| A: [ja] 
+B|29| B: [ja] _dit zijn_ [die] ook [met zo'n] _poo_ [aan de] benedenkant _maar die_ zo [in] _een_ boog lopen 
+A|30| A: [ja die] 
+B|31| B: [met] [dat] gek [ding] [aan de] bovenkant [met] [van die] zijsteeksel [ja] 
+A|32| A: [ja] en [aan de] rechterkant [nog] twee dinget 
+B|33| B: [ja] 
+A|34| A: [ja ja dat zijn] dertien 
+A|35| A: [oké] _dit zijn weer_ [niet] [de] [draaien] [maar _die] ander_ onderin 
+B|36| B: [die ander] [met] [dat] dinge 
+A|37| A: _ja precies_ 
+B|38| B: _ja oké_ 
+B|39| B: [dat zijn] B 
+B|40| B: [ja] _dit zijn weer met_ [dat] _poo_ [aan de onderkant] [dat] zo [in] _een_ boog lopen [met die] [ding] [aan de] bovenkant 
+A|41| A: [ja die] _hoek_ 
+A|42| A: [ja] 
+A|43| A: [ja ja dat zijn] zeven 
+A|44| A: _dit zijn weer met die_ haak eronder [in] plaats [van] [de] [draaien] 
+B|45| B: [ja] even kijken ah [dat zijn] C 
+B|46| B: [ja] [dit zijn weer met [die] [met] het] _rond poo_ [met die] fliebel [aan de] bovenkant 
+A|47| A: _ja ja ja_ waar [zijn] hij 
+A|48| A: [dat] [rond poo] 
+A|49| A: [die] _hoek_ , of 
+B|50| B: [ja die] [in] _een_ [hoek] lopen 
+A|51| A: _ja ja [ja_ oké] 
+B|52| B: [ja ja [ja] precies] 
+A|53| A: [ja dat zijn] [een] 
+B|54| B: [oké] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké nou ja deze hebben jij hebben jij volgens mij net over , dat zijn diegene die er net in hoekje eronder
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=in, Pattern=die, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=1| B | B : ja die met die draaien poot zegmaar
+	Free: Pattern=ja die, Pattern=die met die, Pattern=zegmaar, Pattern=draaien, Pattern=poot
+	Constrained: Pattern=met die, Pattern=ja, Pattern=die met, Pattern=met, Pattern=die
+Turn ID=2| A | A : ja met het gedraaide poot
+	Free: Pattern=met het, Pattern=ja, Pattern=poot
+	Constrained: Pattern=met, Pattern=het
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=5| B | B : ja dat zijn M
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : cool
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja ja hebben je hem al aangekliken
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : nee nog niet
+	Free: Pattern=niet, Pattern=nog
+	Constrained: 
+Turn ID=12| A | A : want volgens mij het zijn wel degeen met zo'n soort van zo'n ding Erboven waar nog twee ding uitsteken zegmaar
+	Free: Pattern=nog, Pattern=zo'n, Pattern=ding, Pattern=zijn wel, Pattern=het, Pattern=zegmaar, Pattern=van, Pattern=met zo'n
+	Constrained: Pattern=met, Pattern=zo'n, Pattern=zijn
+Turn ID=13| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=14| B | B : ja ja dat zijn wel een ander inderdaad
+	Free: Pattern=ja ja dat zijn, Pattern=zijn wel, Pattern=ander, Pattern=een
+	Constrained: Pattern=ja dat zijn, Pattern=zijn, Pattern=dat, Pattern=dat zijn, Pattern=ja, Pattern=ja ja
+Turn ID=15| A | A : en en aan de rechterkant dan nog twee van die ander ding die uitsteken
+	Free: Pattern=nog, Pattern=aan de, Pattern=die, Pattern=van die, Pattern=die ander, Pattern=ding
+	Constrained: Pattern=van, Pattern=de, Pattern=ander, Pattern=die
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : die met die hoek zegmaar aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=die met die, Pattern=zegmaar, Pattern=hoek
+	Constrained: Pattern=met die, Pattern=de, Pattern=aan de, Pattern=die met, Pattern=met, Pattern=die
+Turn ID=19| B | B : ja die zo
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=20| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=21| B | B : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : top
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=25| A | A : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja
+Turn ID=26| A | A : denken al dit
+	Free: Pattern=dit
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja dit zijn die ook met zo'n poo aan de benedenkant maar die zo in een boog lopen
+	Free: Pattern=maar die, Pattern=aan de, Pattern=een, Pattern=in, Pattern=die, Pattern=dit zijn, Pattern=met zo'n, Pattern=poo, Pattern=ja
+	Constrained: Pattern=zo'n, Pattern=de, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=30| A | A : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=31| B | B : met dat gek ding aan de bovenkant met van die zijsteeksel ja
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=ding, Pattern=met, Pattern=van die
+	Constrained: Pattern=van, Pattern=de, Pattern=die
+Turn ID=32| A | A : ja en aan de rechterkant nog twee dinget
+	Free: Pattern=aan de, Pattern=ja, Pattern=nog
+	Constrained: Pattern=de
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja ja dat zijn dertien
+	Free: Pattern=ja ja dat zijn
+	Constrained: Pattern=ja dat zijn, Pattern=zijn, Pattern=dat, Pattern=dat zijn, Pattern=ja, Pattern=ja ja
+Turn ID=35| A | A : oké dit zijn weer niet de draaien maar die ander onderin
+	Free: Pattern=maar die, Pattern=de, Pattern=die ander, Pattern=oké, Pattern=dit zijn weer, Pattern=draaien, Pattern=niet
+	Constrained: Pattern=dit, Pattern=die, Pattern=ander, Pattern=zijn, Pattern=dit zijn
+Turn ID=36| B | B : die ander met dat dinge
+	Free: Pattern=die ander, Pattern=met, Pattern=dat
+	Constrained: Pattern=ander, Pattern=die
+Turn ID=37| A | A : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja
+Turn ID=38| B | B : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=39| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| B | B : ja dit zijn weer met dat poo aan de onderkant dat zo in een boog lopen met die ding aan de bovenkant
+	Free: Pattern=dit zijn weer met, Pattern=aan de, Pattern=ding, Pattern=een, Pattern=aan de onderkant, Pattern=in, Pattern=dat, Pattern=met die, Pattern=poo, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan de, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=dit zijn weer
+Turn ID=41| A | A : ja die hoek
+	Free: Pattern=ja die, Pattern=hoek
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : ja ja dat zijn zeven
+	Free: Pattern=ja ja dat zijn
+	Constrained: Pattern=ja dat zijn, Pattern=zijn, Pattern=dat, Pattern=dat zijn, Pattern=ja, Pattern=ja ja
+Turn ID=44| A | A : dit zijn weer met die haak eronder in plaats van de draaien
+	Free: Pattern=dit zijn weer met die, Pattern=de, Pattern=draaien, Pattern=in, Pattern=van
+	Constrained: Pattern=met die, Pattern=dit zijn weer met, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=dit zijn weer
+Turn ID=45| B | B : ja even kijken ah dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=46| B | B : ja dit zijn weer met die met het rond poo met die fliebel aan de bovenkant
+	Free: Pattern=rond poo, Pattern=met die, Pattern=dit zijn weer met die, Pattern=ja, Pattern=aan de, Pattern=die met, Pattern=met het
+	Constrained: Pattern=met die, Pattern=dit zijn weer met, Pattern=het, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=dit zijn weer, Pattern=de, Pattern=poo
+Turn ID=47| A | A : ja ja ja waar zijn hij
+	Free: Pattern=ja ja ja, Pattern=zijn
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=48| A | A : dat rond poo
+	Free: Pattern=rond poo, Pattern=dat
+	Constrained: Pattern=poo
+Turn ID=49| A | A : die hoek , of
+	Free: Pattern=hoek, Pattern=die
+	Constrained: 
+Turn ID=50| B | B : ja die in een hoek lopen
+	Free: Pattern=ja die, Pattern=in, Pattern=hoek, Pattern=een
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=51| A | A : ja ja ja oké
+	Free: Pattern=ja ja ja, Pattern=ja oké
+	Constrained: Pattern=ja ja, Pattern=oké, Pattern=ja
+Turn ID=52| B | B : ja ja ja precies
+	Free: Pattern=ja ja ja, Pattern=ja precies
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=53| A | A : ja dat zijn een
+	Free: Pattern=ja dat zijn, Pattern=een
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=54| B | B : oké
+	Free: Pattern=oké
+	Constrained: 

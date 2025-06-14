@@ -1,0 +1,143 @@
+B|0| B: _deze_ _zijn het_ lijken _een_ beetje _op _een_ _op_ een_ _beeld_ 
+A|1| A: _ja_ 
+B|2| B: _zo'n_ _zo'n_ kromming ook weten je wel 
+B|3| B: bovenop _staan_ _staan_ _een_ _blok_ _dat_ _bijna_ _vallen_ 
+A|4| A: _ja_ 
+A|5| A: _ah ja_ 
+B|6| B: _en_ 
+A|7| A: [het] [staan] zeggen maar _op een standaard_ die [op] [zo'n] driehoek [staan] 
+B|8| B: [ja] 
+B|9| B: [ja] 
+B|10| B: [ja] 
+A|11| A: [ja] dan [zijn het] zeven 
+B|12| B: [ja] 
+A|13| A: [deze] _dat zijn_ die _op dat standaard_ zeggen maar [dat] [beeld] die [staan] [op] die driehoek _met_ die stang eraan daar [staan] hij [op] 
+A|14| A: [en] dan zitten rechts zitten _dat dat_ [blok] wat _er_ zeggen maar _bijna af vallen_ 
+B|15| B: okee [ja] ik hebben hem al 
+A|16| A: [en] dan binnen 
+B|17| B: [ja] 
+A|18| A: [ja] 
+B|19| B: [dat zijn] d 
+B|20| B: [deze] [zijn] [met] [dat] [vallen] [blok] 
+B|21| B: [en] [dat] ding [dat dat] ergens [op] [op] staat [met] [een] [met] [een] [ja] 
+A|22| A: maar die _op dat standaard staan_ 
+B|23| B: [op dat standaard staan] [ja] 
+A|24| A: _ja dat zijn_ drie 
+A|25| A: _dit zijn_ weer geen die [een] die [op] [het] [standaard staan] waarbij [dat] _blok er bijna af vallen_ 
+B|26| B: [ja] [ja] [ja dat zijn] k 
+B|27| B: [dit zijn] [dat] ding [op] [op een standaard] 
+B|28| B: [en] waaruit [het] [blok er bijna af vallen] 
+A|29| A: [ja] veertien 
+A|30| A: [dit zijn] die [een [op] dat standaard] waar [dat] [blok] [bijna af vallen] 
+B|31| B: [ja] wachten even 
+B|32| B: ik zoeken 
+B|33| B: [ah ja] [ja] 
+B|34| B: l 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze zijn het lijken een beetje op een op een beeld
+	Free: Pattern=zijn het, Pattern=beeld, Pattern=een op, Pattern=een, Pattern=deze, Pattern=op een
+	Constrained: Pattern=het, Pattern=op, Pattern=zijn, Pattern=een
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : zo'n zo'n kromming ook weten je wel
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=3| B | B : bovenop staan staan een blok dat bijna vallen
+	Free: Pattern=dat, Pattern=vallen, Pattern=blok, Pattern=bijna, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ah ja
+	Free: Pattern=ah ja
+	Constrained: Pattern=ja
+Turn ID=6| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=7| A | A : het staan zeggen maar op een standaard die op zo'n driehoek staan
+	Free: Pattern=zo'n, Pattern=op, Pattern=staan, Pattern=het, Pattern=op een standaard
+	Constrained: Pattern=op een, Pattern=een, Pattern=op
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja dan zijn het zeven
+	Free: Pattern=zijn het, Pattern=ja
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : deze dat zijn die op dat standaard zeggen maar dat beeld die staan op die driehoek met die stang eraan daar staan hij op
+	Free: Pattern=beeld, Pattern=op, Pattern=staan, Pattern=met, Pattern=op dat standaard, Pattern=deze, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=op
+Turn ID=14| A | A : en dan zitten rechts zitten dat dat blok wat er zeggen maar bijna af vallen
+	Free: Pattern=bijna af vallen, Pattern=dat dat, Pattern=er, Pattern=en, Pattern=blok
+	Constrained: Pattern=dat, Pattern=bijna, Pattern=vallen
+Turn ID=15| B | B : okee ja ik hebben hem al
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en dan binnen
+	Free: Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : deze zijn met dat vallen blok
+	Free: Pattern=dat, Pattern=vallen, Pattern=met, Pattern=blok, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=21| B | B : en dat ding dat dat ergens op op staat met een met een ja
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=een, Pattern=met, Pattern=dat dat, Pattern=en
+	Constrained: Pattern=dat
+Turn ID=22| A | A : maar die op dat standaard staan
+	Free: Pattern=op dat standaard staan
+	Constrained: Pattern=dat, Pattern=op, Pattern=staan, Pattern=standaard staan, Pattern=op dat standaard
+Turn ID=23| B | B : op dat standaard staan ja
+	Free: Pattern=op dat standaard staan, Pattern=ja
+	Constrained: Pattern=dat, Pattern=op, Pattern=staan, Pattern=standaard staan, Pattern=op dat standaard
+Turn ID=24| A | A : ja dat zijn drie
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=25| A | A : dit zijn weer geen die een die op het standaard staan waarbij dat blok er bijna af vallen
+	Free: Pattern=dat, Pattern=op, Pattern=een, Pattern=het, Pattern=standaard staan, Pattern=blok er bijna af vallen, Pattern=dit zijn
+	Constrained: Pattern=bijna af vallen, Pattern=staan, Pattern=vallen, Pattern=er, Pattern=blok, Pattern=zijn, Pattern=bijna
+Turn ID=26| B | B : ja ja ja dat zijn k
+	Free: Pattern=ja dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=27| B | B : dit zijn dat ding op op een standaard
+	Free: Pattern=op een standaard, Pattern=dit zijn, Pattern=op, Pattern=dat
+	Constrained: Pattern=op een, Pattern=een, Pattern=zijn, Pattern=op
+Turn ID=28| B | B : en waaruit het blok er bijna af vallen
+	Free: Pattern=blok er bijna af vallen, Pattern=het, Pattern=en
+	Constrained: Pattern=bijna af vallen, Pattern=vallen, Pattern=er, Pattern=blok, Pattern=bijna
+Turn ID=29| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : dit zijn die een op dat standaard waar dat blok bijna af vallen
+	Free: Pattern=bijna af vallen, Pattern=dat, Pattern=een op, Pattern=dit zijn, Pattern=op dat standaard, Pattern=blok
+	Constrained: Pattern=dat, Pattern=op, Pattern=een, Pattern=vallen, Pattern=zijn, Pattern=bijna
+Turn ID=31| B | B : ja wachten even
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ik zoeken
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : ah ja ja
+	Free: Pattern=ah ja, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=34| B | B : l
+	Free: 
+	Constrained: 

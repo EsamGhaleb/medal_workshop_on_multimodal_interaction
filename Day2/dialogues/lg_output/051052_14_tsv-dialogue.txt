@@ -1,0 +1,311 @@
+A|0| A: _oké_ 
+A|1| A: _ja_ _dit zijn_ _een_ _dat_ beker _staan_ _op_ _een_ _een_ rechthoekig statief _zeggen maar_ 
+A|2| A: _ik_ _hebben_ _het_ _bij_ _die_ ander als _waterpomp_ omschrijven _ik_ weten _niet_ _of_ _dat_ _ja_ even je _hebben_ _er_ nog _één_ ander _die_ _erop_ lijken 
+A|3| A: _ja_ je _hebben_ _er_ _één_ _een_ ander _die_ _erop_ lijken _maar_ _die_ _staan_ _op_ _een_ driehoek _dat zijn_ _hem_ _niet_ 
+A|4| A: _en_ je _hebben_ _er_ _één_ _met een_ soort _van_ tuitje _dat zijn_ _hem_ _ook_ _niet_ 
+B|5| B: [ja] 
+B|6| B: _hij hebben zo'n balle op_ zich [of] [niet] 
+A|7| A: [hij hebben zo'n balle op] _en_ _twee_ handvat _aan de_ 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: [ja] 
+B|11| B: [oké] _dan zijn het_ _nummer_ D 
+A|12| A: _en_ _bij mij_ _staan die_ _helemaal_ _op de_ onderste rij _en dan_ iets link _van_ _het midden_ 
+B|13| B: _ja bij mij_ [ook] 
+B|14| B: [staan] [er] [zeggen maar] _drie_ [en dan] [staan die] _in het midden_ daarvan 
+A|15| A: [ja] nou [ja] _de_ middel [maar] _hij staat niet_ precies [in het midden] 
+B|16| B: [ja] 
+B|17| B: _nee hij staat niet_ _nee_ kloppen 
+A|18| A: iets link 
+B|19| B: [maar] _ze_ [staan] wel _op dezelfde plek_ denken [ik] 
+A|20| A: [oké] 
+A|21| A: _volgens mij_ verspringen [ze] [ook] telkens _een beetje_ 
+A|22| A: [ja] [ja] 
+B|23| B: [dit zijn] weer [een] kop [met een] [balle] [erop] 
+B|24| B: [volgens mij] [ook] [de] enig _zo_ te zien 
+B|25| B: _die hebben_ [twee] armp [en dan] [één] [zo'n] verticaal balk [aan de] voorkant 
+A|26| A: [ja] mijn _waterpomp_ 
+A|27| A: [die hebben] we al [een] keer [hebben] 
+B|28| B: [ja] 
+B|29| B: [ja] 
+A|30| A: [ja] 
+A|31| A: _dat zijn_ [nummer] vijftien 
+B|32| B: _en hij staan_ [helemaal] _rechts_ onderaan 
+A|33| A: [helemaal] [ja bij mij] [staan die] [niet] [helemaal] rechtsonder 
+B|34| B: _nee_ [oké] 
+A|35| A: [staan die] [een] paar [ja] [niet] [helemaal] rechtsonder _dus_ [dan zijn] _dat_ [niet] hetzelfde 
+B|36| B: [ja] 
+A|37| A: [de] _waterpomp_ 
+B|38| B: _waar_ [zijn] [die] 
+A|39| A: [de] staaf [en] [het] bolle bovenop 
+B|40| B: [ja] 
+B|41| B: [dat zijn] L 
+A|42| A: [en hij staan] [één] figuurt link vanaf [het midden] [zeggen maar] _dus_ als 
+A|43| A: [en] [ja] _beetje_ linksboven [zeggen maar] [dat] vak zitten [die] [drie] [waar] we [het] net over [hebben] 
+A|44| A: [dan] [hebben] je [dat] tui [die] _boven de_ middel [staat] [en] _daar_ [staan] [dat] ding [bij mij] [er] net iets rechtsboven _van_ 
+B|45| B: [ja] 
+A|46| A: [ja] 
+B|47| B: [dus] eigenlijk [boven de] _rechter_ [een beetje] 
+A|48| A: [ja] [zo] half [boven] [die] [rechter] [ja] 
+B|49| B: [ja] 
+B|50| B: [ja] 
+B|51| B: [oké] [dit zijn] weer [die] [met] [die] [het] [balle] [erop] [en dan] [die] verticaal balk ervoor 
+B|52| B: [de] pomp 
+A|53| A: [de] _waterpomp_ 
+B|54| B: [ja] 
+A|55| A: [nummer] zes 
+B|56| B: _en hij staan bij mij_ eigenlijk _onder het wijnglas_ 
+A|57| A: [onder het wijnglas] ? echt direct [onder het wijnglas] 
+B|58| B: [dus] 
+B|59| B: [dus] _op de middellijn_ [van] [boven] naar [onder] [maar] [dan] wel [aan de] rechterkant 
+A|60| A: [ja] [hij staan bij mij] [onder] [de] [nee] [nee hij staat niet] [op dezelfde plek] [dus] [dat zijn] rood 
+B|61| B: ah [oké] 
+A|62| A: [de] _waterpomp_ 
+B|63| B: [waar] [zijn] [die] 
+A|64| A: bolle bovenop [en] [die] staaf 
+B|65| B: [ja] [ik] zien [hem] voor me [ja] [daar] [zijn] [die] J 
+A|66| A: [en hij staan bij mij] [op de middellijn] 
+A|67| A: [en [dan] zijn het] [de] [drie] [van] [rechts] [dus] [die] jij net benoemen [waar] [die] [van] jou [staan] [daar] [staan die] [dan] [zeggen maar] iets linksonder [van] 
+B|68| B: [ja] 
+B|69| B: [dat zijn] [bij mij] [ook] [ja] 
+B|70| B: [de] pomp 
+B|71| B: [waterpomp] 
+A|72| A: [ja] [nummer] [drie] 
+B|73| B: [en hij staan] [rechts] [in het midden] 
+A|74| A: [zijn het] [ook] je veel [rechts] plaat 
+B|75| B: [ja] 
+A|76| A: [dan zijn het] [dezelfde] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : ja dit zijn een dat beker staan op een een rechthoekig statief zeggen maar
+	Free: Pattern=dat, Pattern=ja, Pattern=op, Pattern=zeggen maar, Pattern=dit zijn, Pattern=een, Pattern=staan
+	Constrained: Pattern=zijn, Pattern=maar
+Turn ID=2| A | A : ik hebben het bij die ander als waterpomp omschrijven ik weten niet of dat ja even je hebben er nog één ander die erop lijken
+	Free: Pattern=dat, Pattern=of, Pattern=waterpomp, Pattern=ja, Pattern=erop, Pattern=niet, Pattern=het, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=één, Pattern=bij, Pattern=er
+	Constrained: 
+Turn ID=3| A | A : ja je hebben er één een ander die erop lijken maar die staan op een driehoek dat zijn hem niet
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=erop, Pattern=op, Pattern=niet, Pattern=hebben, Pattern=die, Pattern=er, Pattern=maar, Pattern=één, Pattern=hem, Pattern=een, Pattern=staan
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=4| A | A : en je hebben er één met een soort van tuitje dat zijn hem ook niet
+	Free: Pattern=dat zijn, Pattern=ook, Pattern=niet, Pattern=hebben, Pattern=met een, Pattern=er, Pattern=één, Pattern=hem, Pattern=van, Pattern=en
+	Constrained: Pattern=met, Pattern=zijn, Pattern=een, Pattern=dat
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : hij hebben zo'n balle op zich of niet
+	Free: Pattern=hij hebben zo'n balle op, Pattern=of, Pattern=niet
+	Constrained: Pattern=zo'n, Pattern=hebben, Pattern=op, Pattern=balle
+Turn ID=7| A | A : hij hebben zo'n balle op en twee handvat aan de
+	Free: Pattern=hij hebben zo'n balle op, Pattern=aan de, Pattern=twee, Pattern=en
+	Constrained: Pattern=zo'n, Pattern=de, Pattern=op, Pattern=hebben, Pattern=balle
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : oké dan zijn het nummer D
+	Free: Pattern=dan zijn het, Pattern=oké, Pattern=nummer
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=het, Pattern=dan zijn, Pattern=zijn
+Turn ID=12| A | A : en bij mij staan die helemaal op de onderste rij en dan iets link van het midden
+	Free: Pattern=het midden, Pattern=en dan, Pattern=helemaal, Pattern=staan die, Pattern=bij mij, Pattern=op de, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=op, Pattern=dan, Pattern=staan, Pattern=het, Pattern=die, Pattern=bij, Pattern=en
+Turn ID=13| B | B : ja bij mij ook
+	Free: Pattern=ja bij mij, Pattern=ook
+	Constrained: Pattern=bij mij, Pattern=ja, Pattern=bij
+Turn ID=14| B | B : staan er zeggen maar drie en dan staan die in het midden daarvan
+	Free: Pattern=en dan, Pattern=staan die, Pattern=staan, Pattern=zeggen maar, Pattern=drie, Pattern=er, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=dan, Pattern=staan, Pattern=het, Pattern=die, Pattern=en, Pattern=maar
+Turn ID=15| A | A : ja nou ja de middel maar hij staat niet precies in het midden
+	Free: Pattern=hij staat niet, Pattern=maar, Pattern=in het midden, Pattern=de, Pattern=ja
+	Constrained: Pattern=niet, Pattern=het, Pattern=het midden, Pattern=staat
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : nee hij staat niet nee kloppen
+	Free: Pattern=nee hij staat niet, Pattern=nee
+	Constrained: Pattern=niet, Pattern=nee, Pattern=staat, Pattern=hij staat niet
+Turn ID=18| A | A : iets link
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : maar ze staan wel op dezelfde plek denken ik
+	Free: Pattern=staan, Pattern=ze, Pattern=op dezelfde plek, Pattern=ik, Pattern=maar
+	Constrained: Pattern=op, Pattern=dezelfde
+Turn ID=20| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : volgens mij verspringen ze ook telkens een beetje
+	Free: Pattern=een beetje, Pattern=volgens mij, Pattern=ze, Pattern=ook
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=22| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dit zijn weer een kop met een balle erop
+	Free: Pattern=erop, Pattern=een, Pattern=balle, Pattern=met een, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=zijn, Pattern=een
+Turn ID=24| B | B : volgens mij ook de enig zo te zien
+	Free: Pattern=volgens mij, Pattern=zo, Pattern=ook, Pattern=de
+	Constrained: 
+Turn ID=25| B | B : die hebben twee armp en dan één zo'n verticaal balk aan de voorkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=die hebben, Pattern=één, Pattern=zo'n, Pattern=twee
+	Constrained: Pattern=de, Pattern=dan, Pattern=hebben, Pattern=die, Pattern=en
+Turn ID=26| A | A : ja mijn waterpomp
+	Free: Pattern=ja, Pattern=waterpomp
+	Constrained: 
+Turn ID=27| A | A : die hebben we al een keer hebben
+	Free: Pattern=die hebben, Pattern=hebben, Pattern=een
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : dat zijn nummer vijftien
+	Free: Pattern=dat zijn, Pattern=nummer
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| B | B : en hij staan helemaal rechts onderaan
+	Free: Pattern=en hij staan, Pattern=helemaal, Pattern=rechts
+	Constrained: Pattern=en, Pattern=staan
+Turn ID=33| A | A : helemaal ja bij mij staan die niet helemaal rechtsonder
+	Free: Pattern=ja bij mij, Pattern=staan die, Pattern=helemaal, Pattern=niet
+	Constrained: Pattern=ja, Pattern=staan, Pattern=die, Pattern=bij, Pattern=bij mij
+Turn ID=34| B | B : nee oké
+	Free: Pattern=oké, Pattern=nee
+	Constrained: 
+Turn ID=35| A | A : staan die een paar ja niet helemaal rechtsonder dus dan zijn dat niet hetzelfde
+	Free: Pattern=dat, Pattern=helemaal, Pattern=een, Pattern=dan zijn, Pattern=dus, Pattern=ja, Pattern=niet, Pattern=staan die
+	Constrained: Pattern=dan, Pattern=zijn, Pattern=die, Pattern=staan
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : de waterpomp
+	Free: Pattern=de, Pattern=waterpomp
+	Constrained: 
+Turn ID=38| B | B : waar zijn die
+	Free: Pattern=waar, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=39| A | A : de staaf en het bolle bovenop
+	Free: Pattern=de, Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=42| A | A : en hij staan één figuurt link vanaf het midden zeggen maar dus als
+	Free: Pattern=het midden, Pattern=dus, Pattern=zeggen maar, Pattern=en hij staan, Pattern=één
+	Constrained: Pattern=maar, Pattern=en, Pattern=het, Pattern=staan
+Turn ID=43| A | A : en ja beetje linksboven zeggen maar dat vak zitten die drie waar we het net over hebben
+	Free: Pattern=dat, Pattern=ja, Pattern=waar, Pattern=beetje, Pattern=zeggen maar, Pattern=hebben, Pattern=die, Pattern=en, Pattern=het, Pattern=drie
+	Constrained: Pattern=maar
+Turn ID=44| A | A : dan hebben je dat tui die boven de middel staat en daar staan dat ding bij mij er net iets rechtsboven van
+	Free: Pattern=dat, Pattern=staat, Pattern=dan, Pattern=staan, Pattern=boven de, Pattern=hebben, Pattern=die, Pattern=er, Pattern=van, Pattern=en, Pattern=bij mij, Pattern=daar
+	Constrained: Pattern=de, Pattern=boven, Pattern=bij
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| B | B : dus eigenlijk boven de rechter een beetje
+	Free: Pattern=boven de, Pattern=een beetje, Pattern=rechter, Pattern=dus
+	Constrained: Pattern=beetje, Pattern=de, Pattern=een, Pattern=boven
+Turn ID=48| A | A : ja zo half boven die rechter ja
+	Free: Pattern=ja, Pattern=boven, Pattern=zo, Pattern=die, Pattern=rechter
+	Constrained: 
+Turn ID=49| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : oké dit zijn weer die met die het balle erop en dan die verticaal balk ervoor
+	Free: Pattern=het, Pattern=met, Pattern=die, Pattern=dit zijn, Pattern=en dan, Pattern=erop, Pattern=oké, Pattern=balle
+	Constrained: Pattern=dan, Pattern=zijn, Pattern=en
+Turn ID=52| B | B : de pomp
+	Free: Pattern=de
+	Constrained: 
+Turn ID=53| A | A : de waterpomp
+	Free: Pattern=de, Pattern=waterpomp
+	Constrained: 
+Turn ID=54| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| A | A : nummer zes
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=56| B | B : en hij staan bij mij eigenlijk onder het wijnglas
+	Free: Pattern=en hij staan bij mij, Pattern=onder het wijnglas
+	Constrained: Pattern=staan, Pattern=het, Pattern=hij staan bij mij, Pattern=bij, Pattern=en, Pattern=bij mij, Pattern=en hij staan, Pattern=onder
+Turn ID=57| A | A : onder het wijnglas ? echt direct onder het wijnglas
+	Free: Pattern=onder het wijnglas
+	Constrained: Pattern=het, Pattern=onder
+Turn ID=58| B | B : dus
+	Free: Pattern=dus
+	Constrained: 
+Turn ID=59| B | B : dus op de middellijn van boven naar onder maar dan wel aan de rechterkant
+	Free: Pattern=op de middellijn, Pattern=dus, Pattern=aan de, Pattern=onder, Pattern=van, Pattern=maar, Pattern=boven, Pattern=dan
+	Constrained: Pattern=op de, Pattern=de, Pattern=op
+Turn ID=60| A | A : ja hij staan bij mij onder de nee nee hij staat niet op dezelfde plek dus dat zijn rood
+	Free: Pattern=nee hij staat niet, Pattern=dat zijn, Pattern=nee, Pattern=hij staan bij mij, Pattern=onder, Pattern=op dezelfde plek, Pattern=de, Pattern=dus, Pattern=ja
+	Constrained: Pattern=dat, Pattern=staat, Pattern=dezelfde, Pattern=hij staat niet, Pattern=op, Pattern=niet, Pattern=staan, Pattern=nee, Pattern=bij, Pattern=zijn, Pattern=bij mij
+Turn ID=61| B | B : ah oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=62| A | A : de waterpomp
+	Free: Pattern=de, Pattern=waterpomp
+	Constrained: 
+Turn ID=63| B | B : waar zijn die
+	Free: Pattern=waar, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=64| A | A : bolle bovenop en die staaf
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=65| B | B : ja ik zien hem voor me ja daar zijn die J
+	Free: Pattern=ja, Pattern=die, Pattern=ik, Pattern=zijn, Pattern=daar, Pattern=hem
+	Constrained: 
+Turn ID=66| A | A : en hij staan bij mij op de middellijn
+	Free: Pattern=en hij staan bij mij, Pattern=op de middellijn
+	Constrained: Pattern=de, Pattern=op, Pattern=staan, Pattern=hij staan bij mij, Pattern=en hij staan, Pattern=bij, Pattern=en, Pattern=bij mij, Pattern=op de
+Turn ID=67| A | A : en dan zijn het de drie van rechts dus die jij net benoemen waar die van jou staan daar staan die dan zeggen maar iets linksonder van
+	Free: Pattern=staan, Pattern=zeggen maar, Pattern=drie, Pattern=die, Pattern=van, Pattern=daar, Pattern=de, Pattern=rechts, Pattern=dus, Pattern=dan zijn het, Pattern=waar, Pattern=en dan, Pattern=staan die, Pattern=dan
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=staan, Pattern=het, Pattern=die, Pattern=dan zijn, Pattern=en, Pattern=zijn, Pattern=maar
+Turn ID=68| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=69| B | B : dat zijn bij mij ook ja
+	Free: Pattern=dat zijn, Pattern=bij mij, Pattern=ja, Pattern=ook
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=dat
+Turn ID=70| B | B : de pomp
+	Free: Pattern=de
+	Constrained: 
+Turn ID=71| B | B : waterpomp
+	Free: Pattern=waterpomp
+	Constrained: 
+Turn ID=72| A | A : ja nummer drie
+	Free: Pattern=ja, Pattern=drie, Pattern=nummer
+	Constrained: 
+Turn ID=73| B | B : en hij staan rechts in het midden
+	Free: Pattern=in het midden, Pattern=en hij staan, Pattern=rechts
+	Constrained: Pattern=het midden, Pattern=en, Pattern=het, Pattern=staan
+Turn ID=74| A | A : zijn het ook je veel rechts plaat
+	Free: Pattern=zijn het, Pattern=ook, Pattern=rechts
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=75| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=76| A | A : dan zijn het dezelfde
+	Free: Pattern=dan zijn het, Pattern=dezelfde
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=het, Pattern=dan zijn, Pattern=zijn

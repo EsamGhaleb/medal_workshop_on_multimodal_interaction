@@ -1,0 +1,155 @@
+A|0| A: nou _we_ _hebben weer_ _de_ hoofdbak _daarop liggen_ _dat_ _ei_ 
+A|1| A: _en_ voor _die_ hoofdbak staan _een_ _ook_ _weer_ _een_ _staaf_ 
+A|2| A: vierkant _staaf_ eigenlijk _een_ rechthoek 
+B|3| B: _ja_ 
+A|4| A: gewoon _op de_ smal _kant_ 
+A|5| A: _en_ door _de_ hoofdbak zitten _een_ soort [ja] _een_ soort boor _een_ _rond_ _rond_ _staaf_ _en_ _die_ maken _een_ hoek 
+B|6| B: [ja] ik [hebben] hem 
+A|7| A: _okee_ 
+B|8| B: b 
+B|9| B: je [hebben weer] [die] _hoofdvorm_ [en] [daarop _liggen] _een_ ei_ 
+B|10| B: aan [de] zijkant 
+B|11| B: _deze_ [hebben] [we] al [een] keer [hebben] 
+A|12| A: [ja] ze verwisselen net _ook_ 
+A|13| A: volgens mij _zijn_ _dit_ Ronde 2 _dan_ 
+B|14| B: [okee] 
+A|15| A: [ja] 
+B|16| B: _dit zijn de hoofdvorm_ 
+A|17| A: [ja] 
+B|18| B: [daarop] _een ei_ 
+B|19| B: aan [de] voorkant [hebben] je zo'n [staaf] 
+A|20| A: [ja] 
+B|21| B: [een] lang [staaf] 
+B|22| B: [en] aan [de] zijkant rechts [en] link steken wat uit _met_ aan [de] linkerkant nog zo'n boog 
+A|23| A: [ja] 
+A|24| A: _dat_ [zijn] nummer vijfteen 
+B|25| B: [okee] 
+A|26| A: [deze] [hoofdvorm] [hebben] _een ei op_ zich [liggen] 
+A|27| A: _er_ staan [een] vierkant langwerpig [staaf] voor 
+B|28| B: [ja] j 
+B|29| B: _dit zijn de hoofdvorm_ _dat er_ [een ei [op] _de] hoofdvorm_ laten maar zeggen [liggen] 
+B|30| B: _ervoor_ [zijn] [een] rechthoekig uitsteeksel 
+B|31| B: [en] [dan] rechts [en] links steken [er] [ook] van [die] [rond] staf uit _met een_ knik erin 
+A|32| A: [ja] 
+A|33| A: nummer [een] 
+A|34| A: _dit zijn de hoofdvorm [met_ [een] ei] [dat er] [op] [liggen een] vierkant [staaf] [die] [ervoor] staan 
+B|35| B: yes p 
+B|36| B: [dit zijn de hoofdvorm met] het [ei] bovenop [een] rechthoekig [staaf] aan [de] voorkant [en] links [en] rechts [zijn] [ook] twee [staaf] [met] aan [de] [een] [kant] [een] knik 
+A|37| A: [ja] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou we hebben weer de hoofdbak daarop liggen dat ei
+	Free: Pattern=dat, Pattern=ei, Pattern=de, Pattern=hebben weer, Pattern=daarop liggen, Pattern=we
+	Constrained: Pattern=hebben, Pattern=daarop, Pattern=liggen, Pattern=weer
+Turn ID=1| A | A : en voor die hoofdbak staan een ook weer een staaf
+	Free: Pattern=staaf, Pattern=ook, Pattern=een, Pattern=die, Pattern=en, Pattern=weer
+	Constrained: 
+Turn ID=2| A | A : vierkant staaf eigenlijk een rechthoek
+	Free: Pattern=een, Pattern=staaf
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : gewoon op de smal kant
+	Free: Pattern=op de, Pattern=kant
+	Constrained: Pattern=op, Pattern=de
+Turn ID=5| A | A : en door de hoofdbak zitten een soort ja een soort boor een rond rond staaf en die maken een hoek
+	Free: Pattern=staaf, Pattern=een, Pattern=die, Pattern=en, Pattern=rond, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja ik hebben hem
+	Free: Pattern=hebben, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=8| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : je hebben weer die hoofdvorm en daarop liggen een ei
+	Free: Pattern=hebben weer, Pattern=liggen een, Pattern=een ei, Pattern=daarop liggen, Pattern=hoofdvorm, Pattern=die, Pattern=en
+	Constrained: Pattern=daarop, Pattern=ei, Pattern=een, Pattern=hebben, Pattern=liggen, Pattern=weer
+Turn ID=10| B | B : aan de zijkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=11| B | B : deze hebben we al een keer hebben
+	Free: Pattern=hebben, Pattern=deze, Pattern=we, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : ja ze verwisselen net ook
+	Free: Pattern=ja, Pattern=ook
+	Constrained: 
+Turn ID=13| A | A : volgens mij zijn dit Ronde 2 dan
+	Free: Pattern=dit, Pattern=dan, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dit zijn de hoofdvorm
+	Free: Pattern=dit zijn de hoofdvorm
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=dit, Pattern=hoofdvorm, Pattern=zijn
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : daarop een ei
+	Free: Pattern=een ei, Pattern=daarop
+	Constrained: Pattern=ei, Pattern=een
+Turn ID=19| B | B : aan de voorkant hebben je zo'n staaf
+	Free: Pattern=hebben, Pattern=staaf, Pattern=de
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : een lang staaf
+	Free: Pattern=een, Pattern=staaf
+	Constrained: 
+Turn ID=22| B | B : en aan de zijkant rechts en link steken wat uit met aan de linkerkant nog zo'n boog
+	Free: Pattern=en, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer vijfteen
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=25| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=26| A | A : deze hoofdvorm hebben een ei op zich liggen
+	Free: Pattern=hebben, Pattern=een ei op, Pattern=hoofdvorm, Pattern=liggen, Pattern=deze
+	Constrained: Pattern=een ei, Pattern=ei, Pattern=een, Pattern=op
+Turn ID=27| A | A : er staan een vierkant langwerpig staaf voor
+	Free: Pattern=er, Pattern=een, Pattern=staaf
+	Constrained: 
+Turn ID=28| B | B : ja j
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dit zijn de hoofdvorm dat er een ei op de hoofdvorm laten maar zeggen liggen
+	Free: Pattern=de hoofdvorm, Pattern=dat er, Pattern=een ei op, Pattern=liggen, Pattern=dit zijn de hoofdvorm, Pattern=op de
+	Constrained: Pattern=de hoofdvorm, Pattern=dat, Pattern=ei, Pattern=de, Pattern=op, Pattern=een, Pattern=hoofdvorm, Pattern=er, Pattern=zijn, Pattern=dit, Pattern=een ei
+Turn ID=30| B | B : ervoor zijn een rechthoekig uitsteeksel
+	Free: Pattern=zijn, Pattern=een, Pattern=ervoor
+	Constrained: 
+Turn ID=31| B | B : en dan rechts en links steken er ook van die rond staf uit met een knik erin
+	Free: Pattern=ook, Pattern=dan, Pattern=die, Pattern=met een, Pattern=er, Pattern=en, Pattern=rond
+	Constrained: Pattern=met, Pattern=een
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : nummer een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=34| A | A : dit zijn de hoofdvorm met een ei dat er op liggen een vierkant staaf die ervoor staan
+	Free: Pattern=staaf, Pattern=ervoor, Pattern=dat er, Pattern=liggen een, Pattern=een ei, Pattern=die, Pattern=met een, Pattern=op, Pattern=dit zijn de hoofdvorm met
+	Constrained: Pattern=de hoofdvorm, Pattern=dat, Pattern=ei, Pattern=de, Pattern=een, Pattern=dit, Pattern=hoofdvorm, Pattern=met, Pattern=er, Pattern=liggen, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=35| B | B : yes p
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : dit zijn de hoofdvorm met het ei bovenop een rechthoekig staaf aan de voorkant en links en rechts zijn ook twee staaf met aan de een kant een knik
+	Free: Pattern=kant, Pattern=ei, Pattern=de, Pattern=staaf, Pattern=een, Pattern=met, Pattern=en, Pattern=zijn, Pattern=ook, Pattern=dit zijn de hoofdvorm met
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=dit, Pattern=hoofdvorm, Pattern=met, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=37| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 

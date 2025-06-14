@@ -1,0 +1,183 @@
+B|0| B: _het zijn_ _er_ zeggen maar _één_ met _een_ balk bovenop voor _de_ rest _zitten_ _er_ niks bovenop 
+A|1| A: _ja_ 
+B|2| B: zeggen maar _liggen_ balk _en_ link _zitten_ nog [ja] _een_ _gek_ _vorm_ _een_ soort van pilonvorm half 
+A|3| A: gewoon [een] raket [het zijn] [een] _spaceshuttle_ 
+B|4| B: [ja] zoeits 
+B|5| B: _en_ rechts _zitten_ [ja] ook nog [een] soort van _staaf_ met [een] driehoek [zijn] [het] denken _ik_ waar _die_ op staat 
+A|6| A: [ja] [ja] [en] daarachter [zitten] precies _dezelfde_ [vorm] [die] je _niet_ echt zien als aan [de] ander kant toch 
+B|7| B: [ja] 
+B|8| B: [ja] links [en] rechts [zijn] wel anders zeggen maar _dat_ wel 
+A|9| A: nou 
+B|10| B: bovenop _liggen_ alleen zeg maar liggend soort van chocoladereep 
+A|11| A: [ja] [liggen] [staaf] jajaja _ok_ achten 
+A|12| A: bij mij staan hij weer redelijk _in_ [het] midden 
+B|13| B: [ja] eigenlijk bijna niks _er_ omheen 
+A|14| A: nee [ja] [één] [één] figuurt [er] boven _en dan_ Linksboven zegmaar _en dan_ 
+B|15| B: [ja] 
+A|16| A: als je _dan_ [een] diagonaal lijn trekken _dan_ staan [er] daar weer [één] _en dan_ daar weer naast [één] [ja] 
+B|17| B: [ja] 
+A|18| A: deze hebben _die spaceshuttle _dat_ liggen_ blokje erop zegmaar [en] [die] _gek vormp_ 
+B|19| B: [dat] [gek vormp] [ja] soort van [ja] [dat] balk [er] zo wat [er] op [liggen] eigenlijk 
+A|20| A: [en] [dat] 
+A|21| A: [ja] 
+B|22| B: [ja] [zijn] E 
+B|23| B: rechtsboven [in] [dan] vierkant 
+A|24| A: nee bij mij rechtonder 
+B|25| B: [ok] [niet] [dezelfde] 
+B|26| B: [die] met [dat liggen] balk _bovenin_ _en dan [die_ spaceshuttle] 
+A|27| A: [ja] 
+A|28| A: [één] 
+A|29| A: vier _rij_ helemaal [bovenin] 
+B|30| B: [ja] zelfde 
+A|31| A: [de] [spaceshuttle] 
+B|32| B: zoeken 
+B|33| B: met [dat] blok bovenop [dat liggen] E 
+B|34| B: _drie_ [rij] [de] _twee_ 
+A|35| A: [ja] 
+B|36| B: met [die spaceshuttle dat] blok [liggen] bovenop 
+A|37| A: zestien 
+A|38| A: [één] [twee] [drie] vier vijf zes [rij] [en dan die] [drie] 
+B|39| B: [drie] [ja] 
+A|40| A: o [dat] [zijn] [ik] 
+A|41| A: [de] [spaceshuttle] 
+B|42| B: [ja] met [dat liggen] blok O 
+A|43| A: linksonder helemaal 
+B|44| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn er zeggen maar één met een balk bovenop voor de rest zitten er niks bovenop
+	Free: Pattern=de, Pattern=een, Pattern=er, Pattern=één, Pattern=het zijn, Pattern=zitten
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : zeggen maar liggen balk en link zitten nog ja een gek vorm een soort van pilonvorm half
+	Free: Pattern=vorm, Pattern=ja, Pattern=een, Pattern=zitten, Pattern=liggen, Pattern=gek, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : gewoon een raket het zijn een spaceshuttle
+	Free: Pattern=het zijn, Pattern=spaceshuttle, Pattern=een
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=4| B | B : ja zoeits
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en rechts zitten ja ook nog een soort van staaf met een driehoek zijn het denken ik waar die op staat
+	Free: Pattern=ja, Pattern=staaf, Pattern=een, Pattern=het, Pattern=ik, Pattern=en, Pattern=zijn, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=6| A | A : ja ja en daarachter zitten precies dezelfde vorm die je niet echt zien als aan de ander kant toch
+	Free: Pattern=vorm, Pattern=dezelfde, Pattern=niet, Pattern=en, Pattern=de, Pattern=ja, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja links en rechts zijn wel anders zeggen maar dat wel
+	Free: Pattern=ja, Pattern=en, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : nou
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : bovenop liggen alleen zeg maar liggend soort van chocoladereep
+	Free: Pattern=liggen
+	Constrained: 
+Turn ID=11| A | A : ja liggen staaf jajaja ok achten
+	Free: Pattern=ja, Pattern=liggen, Pattern=staaf, Pattern=ok
+	Constrained: 
+Turn ID=12| A | A : bij mij staan hij weer redelijk in het midden
+	Free: Pattern=in, Pattern=het
+	Constrained: 
+Turn ID=13| B | B : ja eigenlijk bijna niks er omheen
+	Free: Pattern=ja, Pattern=er
+	Constrained: 
+Turn ID=14| A | A : nee ja één één figuurt er boven en dan Linksboven zegmaar en dan
+	Free: Pattern=en dan, Pattern=ja, Pattern=één, Pattern=er
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : als je dan een diagonaal lijn trekken dan staan er daar weer één en dan daar weer naast één ja
+	Free: Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=er, Pattern=één
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze hebben die spaceshuttle dat liggen blokje erop zegmaar en die gek vormp
+	Free: Pattern=die spaceshuttle dat, Pattern=gek vormp, Pattern=die, Pattern=en, Pattern=dat liggen
+	Constrained: Pattern=dat, Pattern=die spaceshuttle, Pattern=die, Pattern=liggen, Pattern=gek, Pattern=spaceshuttle
+Turn ID=19| B | B : dat gek vormp ja soort van ja dat balk er zo wat er op liggen eigenlijk
+	Free: Pattern=dat, Pattern=ja, Pattern=gek vormp, Pattern=er, Pattern=liggen
+	Constrained: Pattern=gek
+Turn ID=20| A | A : en dat
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja zijn E
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : rechtsboven in dan vierkant
+	Free: Pattern=dan, Pattern=in
+	Constrained: 
+Turn ID=24| A | A : nee bij mij rechtonder
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : ok niet dezelfde
+	Free: Pattern=niet, Pattern=dezelfde, Pattern=ok
+	Constrained: 
+Turn ID=26| B | B : die met dat liggen balk bovenin en dan die spaceshuttle
+	Free: Pattern=die spaceshuttle, Pattern=en dan die, Pattern=die, Pattern=dat liggen, Pattern=bovenin
+	Constrained: Pattern=dat, Pattern=en dan, Pattern=dan, Pattern=die, Pattern=liggen, Pattern=en, Pattern=spaceshuttle
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : één
+	Free: Pattern=één
+	Constrained: 
+Turn ID=29| A | A : vier rij helemaal bovenin
+	Free: Pattern=rij, Pattern=bovenin
+	Constrained: 
+Turn ID=30| B | B : ja zelfde
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : de spaceshuttle
+	Free: Pattern=de, Pattern=spaceshuttle
+	Constrained: 
+Turn ID=32| B | B : zoeken
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : met dat blok bovenop dat liggen E
+	Free: Pattern=dat liggen, Pattern=dat
+	Constrained: Pattern=dat, Pattern=liggen
+Turn ID=34| B | B : drie rij de twee
+	Free: Pattern=twee, Pattern=rij, Pattern=de, Pattern=drie
+	Constrained: 
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : met die spaceshuttle dat blok liggen bovenop
+	Free: Pattern=die spaceshuttle dat, Pattern=liggen
+	Constrained: Pattern=die spaceshuttle, Pattern=die, Pattern=spaceshuttle, Pattern=dat
+Turn ID=37| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : één twee drie vier vijf zes rij en dan die drie
+	Free: Pattern=twee, Pattern=rij, Pattern=drie, Pattern=en dan die, Pattern=één
+	Constrained: Pattern=dan, Pattern=en dan, Pattern=die, Pattern=en
+Turn ID=39| B | B : drie ja
+	Free: Pattern=ja, Pattern=drie
+	Constrained: 
+Turn ID=40| A | A : o dat zijn ik
+	Free: Pattern=dat, Pattern=zijn, Pattern=ik
+	Constrained: 
+Turn ID=41| A | A : de spaceshuttle
+	Free: Pattern=de, Pattern=spaceshuttle
+	Constrained: 
+Turn ID=42| B | B : ja met dat liggen blok O
+	Free: Pattern=dat liggen, Pattern=ja
+	Constrained: Pattern=dat, Pattern=liggen
+Turn ID=43| A | A : linksonder helemaal
+	Free: 
+	Constrained: 
+Turn ID=44| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

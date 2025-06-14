@@ -1,0 +1,135 @@
+B|0| B: _oké_ deze _hebben_ _twee_ _ja_ _ik_ vinden het op _schroef_ lijken , het _zijn_ weer van _die blok die_ klein _worden_ 
+B|1| B: _twee_ stuk _aan de_ _zijkant_ 
+B|2| B: _zijn_ _ook_ _de_ enig _die_ _dat_ _hebben_ 
+A|3| A: [aan] beide [zijkant] 
+B|4| B: nee [aan] één [zijkant] 
+A|5| A: [ja] 
+B|6| B: _twee_ van _die_ 
+A|7| A: _en_ [hebben] hij [hebben] hij dan [ook] _een_ hoe noemen je [dat] , _vierkant_ 
+B|8| B: [ja] 
+A|9| A: vlak _vierkant_ 
+A|10| A: [oké] 
+A|11| A: nummer dertien 
+A|12| A: [oké] hier [hebben] je _dat zijn_ [die] [ik] dus bedoelen 
+A|13| A: _aan de linkerkant_ [hebben] je [dat] zelfde [dat] [die blok die] steeds groot [worden] _en _aan de_ voorkant_ 
+B|14| B: [ja] 
+B|15| B: _en _een_ vierkant_ 
+B|16| B: [dat zijn] K 
+A|17| A: [ja] 
+B|18| B: [oké] deze [hebben] _aan de voorkant een vierkant [en_ aan de] [zijkant] _twee schroef_ 
+A|19| A: kijken [aan de voorkant een vierkant en] [hebben] hij daarboven [ook] [een] uh , soort , [ja] hoe noemen je [dat] 
+B|20| B: [ja] champignon of _een paddestoel_ 
+A|21| A: [ja] [ja] serieus 
+A|22| A: [oké] nummer tien 
+B|23| B: zo kunnen we het misschien onthouden 
+A|24| A: [ja] 
+A|25| A: [aan de voorkant een] plat [vierkant en] je noemen [dat] [schroef] geloven [ik] , [en] daar boven [een paddestoel] 
+B|26| B: K 
+A|27| A: [ja] 
+B|28| B: [en] deze [hebben] _twee schroef_ [aan de linkerkant] _en [een_ vierkant _en] [een_ paddestoel] 
+A|29| A: [ja] nummer [een] 
+A|30| A: [aan de linkerkant] [hebben] je [twee schroef] , daar boven [een paddestoel] [en een] 
+B|31| B: G 
+A|32| A: [ja] top 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben twee ja ik vinden het op schroef lijken , het zijn weer van die blok die klein worden
+	Free: Pattern=twee, Pattern=ja, Pattern=worden, Pattern=hebben, Pattern=oké, Pattern=die blok die, Pattern=zijn, Pattern=schroef, Pattern=ik
+	Constrained: Pattern=die
+Turn ID=1| B | B : twee stuk aan de zijkant
+	Free: Pattern=aan de, Pattern=zijkant, Pattern=twee
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=2| B | B : zijn ook de enig die dat hebben
+	Free: Pattern=dat, Pattern=de, Pattern=ook, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : aan beide zijkant
+	Free: Pattern=zijkant, Pattern=aan
+	Constrained: 
+Turn ID=4| B | B : nee aan één zijkant
+	Free: Pattern=zijkant, Pattern=aan
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : twee van die
+	Free: Pattern=die, Pattern=twee
+	Constrained: 
+Turn ID=7| A | A : en hebben hij hebben hij dan ook een hoe noemen je dat , vierkant
+	Free: Pattern=dat, Pattern=ook, Pattern=een, Pattern=hebben, Pattern=en, Pattern=vierkant
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : vlak vierkant
+	Free: Pattern=vierkant
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : oké hier hebben je dat zijn die ik dus bedoelen
+	Free: Pattern=dat zijn, Pattern=hebben, Pattern=die, Pattern=oké, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=13| A | A : aan de linkerkant hebben je dat zelfde dat die blok die steeds groot worden en aan de voorkant
+	Free: Pattern=dat, Pattern=worden, Pattern=hebben, Pattern=die blok die, Pattern=aan de voorkant, Pattern=en aan de, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : en een vierkant
+	Free: Pattern=en een, Pattern=een vierkant
+	Constrained: Pattern=en, Pattern=vierkant, Pattern=een
+Turn ID=16| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : oké deze hebben aan de voorkant een vierkant en aan de zijkant twee schroef
+	Free: Pattern=hebben, Pattern=aan de voorkant een vierkant en, Pattern=twee schroef, Pattern=zijkant, Pattern=oké, Pattern=en aan de
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=aan de voorkant een, Pattern=schroef, Pattern=vierkant en, Pattern=een vierkant, Pattern=de, Pattern=aan, Pattern=en, Pattern=een vierkant en, Pattern=vierkant, Pattern=aan de voorkant
+Turn ID=19| A | A : kijken aan de voorkant een vierkant en hebben hij daarboven ook een uh , soort , ja hoe noemen je dat
+	Free: Pattern=dat, Pattern=ja, Pattern=ook, Pattern=een, Pattern=hebben, Pattern=aan de voorkant een vierkant en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=aan de voorkant een, Pattern=vierkant en, Pattern=een vierkant, Pattern=de, Pattern=aan, Pattern=en, Pattern=een vierkant en, Pattern=vierkant, Pattern=aan de voorkant
+Turn ID=20| B | B : ja champignon of een paddestoel
+	Free: Pattern=een paddestoel, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=21| A | A : ja ja serieus
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : oké nummer tien
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=23| B | B : zo kunnen we het misschien onthouden
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : aan de voorkant een plat vierkant en je noemen dat schroef geloven ik , en daar boven een paddestoel
+	Free: Pattern=een paddestoel, Pattern=dat, Pattern=aan de voorkant een, Pattern=en, Pattern=vierkant en, Pattern=schroef, Pattern=ik
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan, Pattern=vierkant, Pattern=aan de voorkant
+Turn ID=26| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : en deze hebben twee schroef aan de linkerkant en een vierkant en een paddestoel
+	Free: Pattern=een paddestoel, Pattern=hebben, Pattern=twee schroef, Pattern=en een, Pattern=aan de linkerkant, Pattern=en, Pattern=een vierkant en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=schroef, Pattern=en, Pattern=vierkant en, Pattern=vierkant, Pattern=een vierkant, Pattern=de, Pattern=aan
+Turn ID=29| A | A : ja nummer een
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=30| A | A : aan de linkerkant hebben je twee schroef , daar boven een paddestoel en een
+	Free: Pattern=een paddestoel, Pattern=hebben, Pattern=twee schroef, Pattern=en een, Pattern=aan de linkerkant
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=een, Pattern=schroef, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=31| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : ja top
+	Free: Pattern=ja
+	Constrained: 

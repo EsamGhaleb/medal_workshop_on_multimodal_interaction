@@ -1,0 +1,107 @@
+A|0| A: _bij mij_ _zijn het_ zo'n kop _en_ _aan de rechterkant_ zitten zo'n egaaltek van _met_ wiskunde _weten_ je 
+A|1| A: _en_ 
+B|2| B: [het] egaalteken kennen ik niet 
+B|3| B: sorry 
+A|4| A: _= ja_ _de_ _ISteken_ 
+B|5| B: [= ja] [ja] [ja] okee [ja] dan [weten] ik hem denken ik al 
+A|6| A: _en_ hij _hebben_ daarnaast zo'n hoedjeachtig iets 
+B|7| B: [ja] okee dan [weten] ik hem al _dat zijn nummer_ getal letter p [bij mij] 
+B|8| B: _deze_ [hebben] twee dezelfde arm [aan de rechterkant] 
+B|9| B: [zijn] rechthoek 
+B|10| B: _en een_ _een_ puntmuts maar [de] _punt_ [zijn] er niet zeggen maar _die_ [zijn] er afhakken 
+A|11| A: [dat zijn] [de] egaal of ISdinges _ISteken_ van wiskunde 
+B|12| B: [ja] [ja] 
+B|13| B: [ja] _die_ 
+A|14| A: [ja] [dat zijn nummer] zeven 
+A|15| A: _deze zijn met het ISteken_ 
+A|16| A: _en de_ [het] klein hoed zonder [punt] 
+B|17| B: [ja] f 
+B|18| B: [deze zijn met het ISteken] [en de] afgekapte puntmuts 
+A|19| A: [ja] [dat zijn nummer] zestien 
+A|20| A: _dit [zijn_ met het ISteken] [aan] [die] kant [en een] plathoed 
+B|21| B: [ja] 
+B|22| B: [dat zijn] f 
+B|23| B: f sorry harder 
+B|24| B: [dit [zijn] [het] ISteken] [en de] afgekapte puntmuts 
+A|25| A: [dat zijn nummer] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : bij mij zijn het zo'n kop en aan de rechterkant zitten zo'n egaaltek van met wiskunde weten je
+	Free: Pattern=zijn het, Pattern=weten, Pattern=met, Pattern=aan de rechterkant, Pattern=en, Pattern=bij mij
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=het
+Turn ID=1| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=2| B | B : het egaalteken kennen ik niet
+	Free: Pattern=het
+	Constrained: 
+Turn ID=3| B | B : sorry
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : = ja de ISteken
+	Free: Pattern== ja, Pattern=de, Pattern=ISteken
+	Constrained: Pattern=ja
+Turn ID=5| B | B : = ja ja ja okee ja dan weten ik hem denken ik al
+	Free: Pattern== ja, Pattern=ja, Pattern=weten
+	Constrained: Pattern=ja
+Turn ID=6| A | A : en hij hebben daarnaast zo'n hoedjeachtig iets
+	Free: Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=7| B | B : ja okee dan weten ik hem al dat zijn nummer getal letter p bij mij
+	Free: Pattern=dat zijn nummer, Pattern=bij mij, Pattern=ja, Pattern=weten
+	Constrained: Pattern=zijn, Pattern=dat zijn
+Turn ID=8| B | B : deze hebben twee dezelfde arm aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=hebben, Pattern=deze
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=9| B | B : zijn rechthoek
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : en een een puntmuts maar de punt zijn er niet zeggen maar die zijn er afhakken
+	Free: Pattern=punt, Pattern=de, Pattern=een, Pattern=die, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=een
+Turn ID=11| A | A : dat zijn de egaal of ISdinges ISteken van wiskunde
+	Free: Pattern=dat zijn, Pattern=de, Pattern=ISteken
+	Constrained: Pattern=zijn
+Turn ID=12| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja die
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja dat zijn nummer zeven
+	Free: Pattern=dat zijn nummer, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=zijn
+Turn ID=15| A | A : deze zijn met het ISteken
+	Free: Pattern=deze zijn met het ISteken
+	Constrained: Pattern=het ISteken, Pattern=met, Pattern=zijn, Pattern=deze, Pattern=zijn met het ISteken, Pattern=het, Pattern=ISteken
+Turn ID=16| A | A : en de het klein hoed zonder punt
+	Free: Pattern=en de, Pattern=het, Pattern=punt
+	Constrained: Pattern=de, Pattern=en
+Turn ID=17| B | B : ja f
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : deze zijn met het ISteken en de afgekapte puntmuts
+	Free: Pattern=deze zijn met het ISteken, Pattern=en de
+	Constrained: Pattern=de, Pattern=het ISteken, Pattern=met, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=zijn met het ISteken, Pattern=het, Pattern=ISteken
+Turn ID=19| A | A : ja dat zijn nummer zestien
+	Free: Pattern=dat zijn nummer, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=zijn
+Turn ID=20| A | A : dit zijn met het ISteken aan die kant en een plathoed
+	Free: Pattern=aan, Pattern=die, Pattern=en een, Pattern=dit zijn, Pattern=zijn met het ISteken
+	Constrained: Pattern=een, Pattern=het ISteken, Pattern=met, Pattern=en, Pattern=zijn, Pattern=het, Pattern=ISteken
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn f
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=23| B | B : f sorry harder
+	Free: 
+	Constrained: 
+Turn ID=24| B | B : dit zijn het ISteken en de afgekapte puntmuts
+	Free: Pattern=en de, Pattern=zijn het, Pattern=dit zijn, Pattern=het ISteken
+	Constrained: Pattern=de, Pattern=en, Pattern=zijn, Pattern=het, Pattern=ISteken
+Turn ID=25| A | A : dat zijn nummer drie
+	Free: Pattern=dat zijn nummer
+	Constrained: Pattern=dat zijn, Pattern=zijn

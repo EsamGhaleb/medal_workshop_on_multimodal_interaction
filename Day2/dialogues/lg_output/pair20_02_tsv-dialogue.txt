@@ -1,0 +1,83 @@
+A|0| A: _dit zijn_ een kegelvorm dus zo'n vorm 
+B|1| B: _ja_ 
+A|2| A: _en_ _die_ staan _bovenop_ _de_ op _het_ kop _zijn_ eigenlijk _de_ enig _die_ zo _zijn_ 
+B|3| B: _ja_ [en] [zijn] _die hol_ 
+A|4| A: [ja] [die] [zijn] [hol] 
+B|5| B: _okee_ _dan_ [zijn] [het] 
+A|6| A: [en] [dan] zitten daar links een klein uitsteeksel [en] 
+B|7| B: [ja] [dan] [zijn] [het] h 
+A|8| A: [okee] 
+A|9| A: [die] [zijn] makkelijk 
+B|10| B: _deze hebben_ [de] _hol kegel bovenop_ 
+A|11| A: [hol kegel bovenop] _dat zijn_ zeven 
+A|12| A: [deze hebben] [die] [die] kegelvorm bovenin [die hol] [zijn] 
+B|13| B: [ja] [dat zijn] m 
+B|14| B: [deze hebben] [de] [hol kegel] 
+A|15| A: [hol kegel] [zijn] nummer zeven 
+A|16| A: _dit zijn_ met met [de] kegelvorm [die hol] [zijn] 
+B|17| B: [ja] [dat zijn] o 
+B|18| B: [dit zijn] [de] [hol kegel] 
+A|19| A: [hol kegel] [zijn] nummer twaalf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een kegelvorm dus zo'n vorm
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en die staan bovenop de op het kop zijn eigenlijk de enig die zo zijn
+	Free: Pattern=bovenop, Pattern=de, Pattern=het, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : ja en zijn die hol
+	Free: Pattern=die hol, Pattern=ja, Pattern=en, Pattern=zijn
+	Constrained: Pattern=die, Pattern=hol
+Turn ID=4| A | A : ja die zijn hol
+	Free: Pattern=ja, Pattern=die, Pattern=hol, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : okee dan zijn het
+	Free: Pattern=dan, Pattern=zijn, Pattern=okee, Pattern=het
+	Constrained: 
+Turn ID=6| A | A : en dan zitten daar links een klein uitsteeksel en
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=7| B | B : ja dan zijn het h
+	Free: Pattern=ja, Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=8| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=9| A | A : die zijn makkelijk
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : deze hebben de hol kegel bovenop
+	Free: Pattern=hol kegel bovenop, Pattern=deze hebben, Pattern=de
+	Constrained: Pattern=hol, Pattern=hol kegel, Pattern=bovenop
+Turn ID=11| A | A : hol kegel bovenop dat zijn zeven
+	Free: Pattern=hol kegel bovenop, Pattern=dat zijn
+	Constrained: Pattern=hol, Pattern=hol kegel, Pattern=bovenop, Pattern=zijn
+Turn ID=12| A | A : deze hebben die die kegelvorm bovenin die hol zijn
+	Free: Pattern=die hol, Pattern=deze hebben, Pattern=die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=hol
+Turn ID=13| B | B : ja dat zijn m
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : deze hebben de hol kegel
+	Free: Pattern=hol kegel, Pattern=deze hebben, Pattern=de
+	Constrained: Pattern=hol
+Turn ID=15| A | A : hol kegel zijn nummer zeven
+	Free: Pattern=hol kegel, Pattern=zijn
+	Constrained: Pattern=hol
+Turn ID=16| A | A : dit zijn met met de kegelvorm die hol zijn
+	Free: Pattern=die hol, Pattern=dit zijn, Pattern=zijn, Pattern=de
+	Constrained: Pattern=die, Pattern=hol, Pattern=zijn
+Turn ID=17| B | B : ja dat zijn o
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : dit zijn de hol kegel
+	Free: Pattern=dit zijn, Pattern=hol kegel, Pattern=de
+	Constrained: Pattern=hol, Pattern=zijn
+Turn ID=19| A | A : hol kegel zijn nummer twaalf
+	Free: Pattern=hol kegel, Pattern=zijn
+	Constrained: Pattern=hol

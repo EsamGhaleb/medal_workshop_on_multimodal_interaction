@@ -1,0 +1,147 @@
+B|0| B: alright deze _die_ _zijn_ _een beetje_ deze hebben best wel veel verschillend object 
+B|1| B: _je_ uitzien misschien op _je_ scherm ook wel _dat_ _er een_ _kop_ _kop_ koffiekopje _zijn_ _die_ op _een_ soort van onderzetter staan 
+B|2| B: bij deze lijken _het_ alsof _die door_ _de_ onderzetter _heen_ _zijn zakken_ 
+B|3| B: _en_ _nou_ _ja_ _je_ hebben _aan de_ _aan de linkerkant_ zeggen maar _een_ soort van _haak_ 
+A|4| A: ah [ja] 
+B|5| B: _bovenop_ lijken _het_ soort van _twee_ klein schoorsteen of hoe _je_ _het_ ook willen noemen _en_ echt _een beetje_ _een_ slurfneus 
+A|6| A: ah 
+A|7| A: [ja] _ik_ weten _precies_ welk [je] bedoelen 
+B|8| B: [ik] denken toch _een beetje_ _in_ gezicht dus 
+A|9| A: _ja nou_ 
+B|10| B: [ja] 
+A|11| A: [ik] gaan voor [een] 
+A|12| A: okee [nou] [er] zitten [ja] weer één [in] _het plateau_ 
+B|13| B: [ja] 
+A|14| A: [nou] [zijn] [het] [kop] [er [een] beetje] doorheen [zakken] 
+A|15| A: [die] gek slurf [aan de] voorkant 
+A|16| A: [twee] spriet [bovenop] 
+A|17| A: [die] kleint 
+A|18| A: _en een haak aan de linkerkant_ [die] naar boven uitsteekt 
+B|19| B: [ja] 
+B|20| B: _dat zijn_ g 
+B|21| B: deze [zijn] _door het_ onderzettertje _heen zakken_ hebben [een] slurfneus [en een haak aan de linkerkant] 
+A|22| A: [ja] okee 
+A|23| A: [dat zijn] nummer zestien 
+B|24| B: [ja] 
+A|25| A: nu [die] [een] gek _die _door het_ plateau_ [zijn zakken] met [zijn] slurf [en] [twee] antennet [en een haak aan de linkerkant] 
+B|26| B: [ja nou] moeten [ik] ook zoeken waar [zijn] [die door het] _door het plateau heen_ [zijn] 
+A|27| A: [je] weten welk [ik] bedoelen 
+B|28| B: [ja] [precies] 
+B|29| B: p 
+B|30| B: deze hebben [een] slurfneus [zijn] [door] [zijn] onderzetter _heen zakken_ 
+A|31| A: ah 
+B|32| B: [en] hij hebben [een haak] 
+A|33| A: nummer twaalf 
+A|34| A: [door het plateau [heen] zakken] gek slurf [aan de] voorkant [twee] uitsteekselt [bovenop] 
+B|35| B: [dat zijn] l 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : alright deze die zijn een beetje deze hebben best wel veel verschillend object
+	Free: Pattern=een beetje, Pattern=die, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=1| B | B : je uitzien misschien op je scherm ook wel dat er een kop kop koffiekopje zijn die op een soort van onderzetter staan
+	Free: Pattern=dat, Pattern=een, Pattern=kop, Pattern=die, Pattern=er een, Pattern=zijn, Pattern=je
+	Constrained: Pattern=een, Pattern=er
+Turn ID=2| B | B : bij deze lijken het alsof die door de onderzetter heen zijn zakken
+	Free: Pattern=de, Pattern=het, Pattern=heen, Pattern=zijn zakken, Pattern=die door
+	Constrained: Pattern=door, Pattern=zakken, Pattern=die, Pattern=zijn
+Turn ID=3| B | B : en nou ja je hebben aan de aan de linkerkant zeggen maar een soort van haak
+	Free: Pattern=nou, Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en, Pattern=haak, Pattern=je, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=4| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : bovenop lijken het soort van twee klein schoorsteen of hoe je het ook willen noemen en echt een beetje een slurfneus
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=het, Pattern=en, Pattern=een beetje, Pattern=je
+	Constrained: Pattern=een
+Turn ID=6| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja ik weten precies welk je bedoelen
+	Free: Pattern=ik, Pattern=ja, Pattern=precies, Pattern=je
+	Constrained: 
+Turn ID=8| B | B : ik denken toch een beetje in gezicht dus
+	Free: Pattern=een beetje, Pattern=ik, Pattern=in
+	Constrained: Pattern=een
+Turn ID=9| A | A : ja nou
+	Free: Pattern=ja nou
+	Constrained: Pattern=nou, Pattern=ja
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ik gaan voor een
+	Free: Pattern=ik, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : okee nou er zitten ja weer één in het plateau
+	Free: Pattern=het plateau, Pattern=nou, Pattern=ja, Pattern=in, Pattern=er
+	Constrained: Pattern=het
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nou zijn het kop er een beetje doorheen zakken
+	Free: Pattern=zakken, Pattern=nou, Pattern=het, Pattern=kop, Pattern=er een, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=er
+Turn ID=15| A | A : die gek slurf aan de voorkant
+	Free: Pattern=aan de, Pattern=die
+	Constrained: Pattern=de
+Turn ID=16| A | A : twee spriet bovenop
+	Free: Pattern=bovenop, Pattern=twee
+	Constrained: 
+Turn ID=17| A | A : die kleint
+	Free: Pattern=die
+	Constrained: 
+Turn ID=18| A | A : en een haak aan de linkerkant die naar boven uitsteekt
+	Free: Pattern=en een haak aan de linkerkant, Pattern=die
+	Constrained: Pattern=een haak, Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=haak, Pattern=aan de linkerkant
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=21| B | B : deze zijn door het onderzettertje heen zakken hebben een slurfneus en een haak aan de linkerkant
+	Free: Pattern=heen zakken, Pattern=en een haak aan de linkerkant, Pattern=een, Pattern=zijn, Pattern=door het
+	Constrained: Pattern=zakken, Pattern=een haak, Pattern=de, Pattern=aan de, Pattern=door, Pattern=een, Pattern=het, Pattern=heen, Pattern=en, Pattern=haak, Pattern=aan de linkerkant
+Turn ID=22| A | A : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dat zijn nummer zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : nu die een gek die door het plateau zijn zakken met zijn slurf en twee antennet en een haak aan de linkerkant
+	Free: Pattern=twee, Pattern=en een haak aan de linkerkant, Pattern=een, Pattern=die, Pattern=zijn zakken, Pattern=en, Pattern=zijn, Pattern=die door het, Pattern=door het plateau
+	Constrained: Pattern=een haak, Pattern=de, Pattern=aan de, Pattern=door, Pattern=een, Pattern=het, Pattern=die, Pattern=en, Pattern=aan de linkerkant, Pattern=die door, Pattern=zakken, Pattern=het plateau, Pattern=haak, Pattern=zijn, Pattern=door het
+Turn ID=26| B | B : ja nou moeten ik ook zoeken waar zijn die door het door het plateau heen zijn
+	Free: Pattern=ja nou, Pattern=die door het, Pattern=ik, Pattern=zijn, Pattern=door het plateau heen
+	Constrained: Pattern=het plateau, Pattern=nou, Pattern=ja, Pattern=door, Pattern=door het plateau, Pattern=het, Pattern=heen, Pattern=die, Pattern=door het, Pattern=die door
+Turn ID=27| A | A : je weten welk ik bedoelen
+	Free: Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=28| B | B : ja precies
+	Free: Pattern=ja, Pattern=precies
+	Constrained: 
+Turn ID=29| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : deze hebben een slurfneus zijn door zijn onderzetter heen zakken
+	Free: Pattern=heen zakken, Pattern=door, Pattern=zijn, Pattern=een
+	Constrained: Pattern=heen, Pattern=zakken
+Turn ID=31| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : en hij hebben een haak
+	Free: Pattern=een haak, Pattern=en
+	Constrained: Pattern=haak, Pattern=een
+Turn ID=33| A | A : nummer twaalf
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : door het plateau heen zakken gek slurf aan de voorkant twee uitsteekselt bovenop
+	Free: Pattern=heen zakken, Pattern=bovenop, Pattern=twee, Pattern=aan de, Pattern=door het plateau heen
+	Constrained: Pattern=de, Pattern=door, Pattern=door het plateau, Pattern=het, Pattern=heen, Pattern=door het, Pattern=zakken, Pattern=het plateau
+Turn ID=35| B | B : dat zijn l
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

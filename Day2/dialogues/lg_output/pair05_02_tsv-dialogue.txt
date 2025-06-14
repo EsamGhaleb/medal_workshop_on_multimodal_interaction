@@ -1,0 +1,139 @@
+A|0| A: _deze hebben een_ driehoek of _een_ pyramidevorm op _zijn hoofd_ 
+B|1| B: _ja_ 
+A|2| A: _en een_ aan _de_ zijkant _een_ soort [ja] je zullen _het_ _ook _een_ kogel_ kunnen noemen 
+B|3| B: [ja] 
+A|4| A: _en een_ apart vormig _neus_ 
+B|5| B: [een] trapeziumvorm [neus] 
+A|6| A: wauw 
+A|7| A: [ja] 
+B|8| B: [en een] cirkel onder [zijn hoofd] 
+A|9| A: [ja] 
+B|10| B: dan [zijn] [het] c 
+B|11| B: [deze hebben een] [een] puntmutsje 
+B|12| B: [en] ik denken dat dit [de] enig _zijn die_ er één [hebben] 
+A|13| A: [ja] 
+A|14| A: [ja] 
+A|15| A: nou 
+B|16| B: nee wachten hij [hebben] [ook een] [een] [een kogel] _links_ 
+A|17| A: [ja] elf 
+A|18| A: [deze hebben een] _pyramide_ op [zijn hoofd] [en [een] kogel] tegen [zijn] schedel aan [links] oor 
+B|19| B: [ja] dat [zijn] p 
+B|20| B: [deze hebben] [het] punthoedje 
+A|21| A: [ja] 
+B|22| B: met [de] [kogel] 
+A|23| A: [ja] maar waar [zijn die] 
+A|24| A: [ja] veertien 
+A|25| A: _pyramide_ 
+A|26| A: [kogel] 
+B|27| B: [ja] dat [zijn] g 
+B|28| B: _punthoed_ met [kogel] 
+A|29| A: _pyramide_ 
+A|30| A: [ja] 
+B|31| B: [ja] [pyramide] 
+A|32| A: [ja] [punthoed] [zijn] [ook] goed 
+A|33| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een driehoek of een pyramidevorm op zijn hoofd
+	Free: Pattern=deze hebben een, Pattern=zijn hoofd, Pattern=een
+	Constrained: Pattern=deze hebben, Pattern=zijn, Pattern=hebben, Pattern=een
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en een aan de zijkant een soort ja je zullen het ook een kogel kunnen noemen
+	Free: Pattern=ook een, Pattern=een, Pattern=het, Pattern=en een, Pattern=een kogel, Pattern=de, Pattern=ja
+	Constrained: Pattern=een, Pattern=ook, Pattern=en, Pattern=kogel
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en een apart vormig neus
+	Free: Pattern=en een, Pattern=neus
+	Constrained: Pattern=een, Pattern=en
+Turn ID=5| B | B : een trapeziumvorm neus
+	Free: Pattern=een, Pattern=neus
+	Constrained: 
+Turn ID=6| A | A : wauw
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en een cirkel onder zijn hoofd
+	Free: Pattern=en een, Pattern=zijn hoofd
+	Constrained: Pattern=een, Pattern=en, Pattern=zijn
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dan zijn het c
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=11| B | B : deze hebben een een puntmutsje
+	Free: Pattern=deze hebben een, Pattern=een
+	Constrained: Pattern=deze hebben, Pattern=een, Pattern=hebben
+Turn ID=12| B | B : en ik denken dat dit de enig zijn die er één hebben
+	Free: Pattern=zijn die, Pattern=en, Pattern=de, Pattern=hebben
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : nou
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : nee wachten hij hebben ook een een een kogel links
+	Free: Pattern=ook een, Pattern=een kogel, Pattern=een, Pattern=links, Pattern=hebben
+	Constrained: Pattern=een, Pattern=ook, Pattern=kogel
+Turn ID=17| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze hebben een pyramide op zijn hoofd en een kogel tegen zijn schedel aan links oor
+	Free: Pattern=zijn hoofd, Pattern=een kogel, Pattern=deze hebben een, Pattern=links, Pattern=pyramide, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=een, Pattern=hebben, Pattern=deze hebben, Pattern=kogel, Pattern=en, Pattern=zijn
+Turn ID=19| B | B : ja dat zijn p
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : deze hebben het punthoedje
+	Free: Pattern=deze hebben, Pattern=het
+	Constrained: Pattern=hebben
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : met de kogel
+	Free: Pattern=de, Pattern=kogel
+	Constrained: 
+Turn ID=23| A | A : ja maar waar zijn die
+	Free: Pattern=zijn die, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=24| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : pyramide
+	Free: Pattern=pyramide
+	Constrained: 
+Turn ID=26| A | A : kogel
+	Free: Pattern=kogel
+	Constrained: 
+Turn ID=27| B | B : ja dat zijn g
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=28| B | B : punthoed met kogel
+	Free: Pattern=punthoed, Pattern=kogel
+	Constrained: 
+Turn ID=29| A | A : pyramide
+	Free: Pattern=pyramide
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : ja pyramide
+	Free: Pattern=ja, Pattern=pyramide
+	Constrained: 
+Turn ID=32| A | A : ja punthoed zijn ook goed
+	Free: Pattern=ja, Pattern=ook, Pattern=punthoed, Pattern=zijn
+	Constrained: 
+Turn ID=33| A | A : dertien
+	Free: 
+	Constrained: 

@@ -1,0 +1,79 @@
+B|0| B: dit _zijn _die_ bokaal_ zeggen maar _met_ _dat_ ding aan de onderkant 
+B|1| B: waar _die_ op kunnen staan 
+B|2| B: je weten wel zo'n prijs _die_ je krijgen 
+A|3| A: ja 
+A|4| A: dertien 
+A|5| A: ja 
+A|6| A: ja [dat] [zijn die] _wijnglas_ [die bokaal] 
+B|7| B: m 
+B|8| B: de [bokaal] of het [wijnglas] 
+A|9| A: twee 
+A|10| A: een [wijnglas] 
+A|11| A: _met ijsblok_ 
+B|12| B: [met ijsblok] 
+B|13| B: f 
+B|14| B: het lijken wel zo'n cocktail 
+B|15| B: de [bokaal] slash [wijnglas] 
+A|16| A: dertien 
+A|17| A: [wijnglas] 
+B|18| B: f 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn die bokaal zeggen maar met dat ding aan de onderkant
+	Free: Pattern=die bokaal, Pattern=zijn die, Pattern=met, Pattern=dat
+	Constrained: Pattern=bokaal, Pattern=die
+Turn ID=1| B | B : waar die op kunnen staan
+	Free: Pattern=die
+	Constrained: 
+Turn ID=2| B | B : je weten wel zo'n prijs die je krijgen
+	Free: Pattern=die
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ja dat zijn die wijnglas die bokaal
+	Free: Pattern=die bokaal, Pattern=zijn die, Pattern=wijnglas, Pattern=dat
+	Constrained: Pattern=bokaal, Pattern=die
+Turn ID=7| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : de bokaal of het wijnglas
+	Free: Pattern=wijnglas, Pattern=bokaal
+	Constrained: 
+Turn ID=9| A | A : twee
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : een wijnglas
+	Free: Pattern=wijnglas
+	Constrained: 
+Turn ID=11| A | A : met ijsblok
+	Free: Pattern=met ijsblok
+	Constrained: Pattern=met
+Turn ID=12| B | B : met ijsblok
+	Free: Pattern=met ijsblok
+	Constrained: Pattern=met
+Turn ID=13| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : het lijken wel zo'n cocktail
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : de bokaal slash wijnglas
+	Free: Pattern=wijnglas, Pattern=bokaal
+	Constrained: 
+Turn ID=16| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : wijnglas
+	Free: Pattern=wijnglas
+	Constrained: 
+Turn ID=18| B | B : f
+	Free: 
+	Constrained: 

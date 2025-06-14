@@ -1,0 +1,195 @@
+B|0| B: oké deze zien eruit alsof _er_ _een soort_ tafel vastmaken _zijn_ aan _het_ object 
+B|1| B: _en_ _dat_ op _dat_ tafel nog _een_ komme _staan_ _eigenlijk_ 
+B|2| B: _dus_ _je_ zien _je_ zien 
+A|3| A: _ja ja_ _ik_ snapen wat [je] _bedoelen_ _dat zijn_ [een soort] _van_ ontbijtopbedtafelt 
+B|4| B: [ja] 
+B|5| B: [ja] precies zo zo _hebben_ [ik] _het_ net _ook_ [een] beetje 
+A|6| A: _ja _ja_ ja_ 
+A|7| A: [ja] 
+A|8| A: zestien 
+B|9| B: [ja] 
+B|10| B: oké 
+B|11| B: _en_ hij [je] _hebben_ _twee_ object _helemaal_ _rechts_ 
+B|12| B: _en daar_ dan _als_ [je] dan _de_ onderste _hebben_ _zitten die_ link [van] _de_ onderste daarvan 
+A|13| A: nee _bij mij_ [staan] [die] _helemaal rechtsboven_ 
+B|14| B: oké [ja] 
+A|15| A: [dus] [dat] kloppen niet 
+A|16| A: _dit zijn_ [eigenlijk] weer [dat] ontbijtopbedtafelt 
+B|17| B: oké [ja _ja] dat zijn_ P 
+A|18| A: _met_ [dat] bak _erop_ 
+A|19| A: [en] _bij mij_ [als] [ik] kijken [rechts] [zitten] [er] vijf figuur 
+A|20| A: schuin over mekaar [en daar] [zijn] [het] [de] middel [van] 
+B|21| B: [helemaal] [rechts] [en] dan zeggen maar [de] drie [van] _boven_ [bedoelen] [je] 
+A|22| A: [ja] 
+B|23| B: [ja] 
+B|24| B: inderdaad 
+B|25| B: oké [dit zijn] [ja] tafel _ontbijttafeltje_ [met] bakje [erop] 
+A|26| A: [ja] nou [dat zijn] nummer veertien 
+B|27| B: [en] hij [zitten] [van] [de] drie onderste [de] [helemaal] [helemaal] [rechts] 
+A|28| A: _ja bij mij ook_ 
+A|29| A: [dit zijn] [eigenlijk] [dat] [ontbijttafeltje] weer [met] [dat] bak [erop] 
+B|30| B: [ik] zoeken hem _ja dat zijn_ N 
+A|31| A: [en] even goed kijken [ja] bovenin links [hebben] [je] [twee] figuur naast mekaar 
+B|32| B: [ja] 
+A|33| A: [en] diegene [die] _daaronder_ [zitten] 
+B|34| B: [daaronder] 
+B|35| B: [ja bij mij ook] 
+B|36| B: _ontbijttafel_ [met] bakje 
+A|37| A: [ja] even kijken waar [die] [zitten] [ja dat zijn] nummer tien 
+B|38| B: [en] [als] [je] [je] [hebben] [de] bovenste _in het midden_ 
+B|39| B: [daar] recht onder 
+A|40| A: nee [bij mij] [zitten die] [helemaal] [boven] [in het midden] 
+B|41| B: oké 
+A|42| A: [dus] [dat] kloppen niet 
+A|43| A: [ja] [dit zijn] [het] [ontbijttafel] weer [met] [dat] bak [erop] 
+B|44| B: [ja dat zijn] D 
+B|45| B: [en] hij [zitten] [bij mij] [rechts] [helemaal rechtsboven] 
+A|46| A: nee [bij mij] [zitten die] [daaronder] 
+B|47| B: oké 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze zien eruit alsof er een soort tafel vastmaken zijn aan het object
+	Free: Pattern=een soort, Pattern=zijn, Pattern=het, Pattern=er
+	Constrained: Pattern=een
+Turn ID=1| B | B : en dat op dat tafel nog een komme staan eigenlijk
+	Free: Pattern=dat, Pattern=eigenlijk, Pattern=en, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=2| B | B : dus je zien je zien
+	Free: Pattern=dus, Pattern=je
+	Constrained: 
+Turn ID=3| A | A : ja ja ik snapen wat je bedoelen dat zijn een soort van ontbijtopbedtafelt
+	Free: Pattern=dat zijn, Pattern=ja ja, Pattern=bedoelen, Pattern=van, Pattern=je, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=zijn, Pattern=ja, Pattern=een, Pattern=dat
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja precies zo zo hebben ik het net ook een beetje
+	Free: Pattern=ja, Pattern=ook, Pattern=een, Pattern=het, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=6| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : en hij je hebben twee object helemaal rechts
+	Free: Pattern=twee, Pattern=rechts, Pattern=helemaal, Pattern=hebben, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=12| B | B : en daar dan als je dan de onderste hebben zitten die link van de onderste daarvan
+	Free: Pattern=en daar, Pattern=de, Pattern=hebben, Pattern=als, Pattern=je, Pattern=van, Pattern=zitten die
+	Constrained: Pattern=die, Pattern=zitten, Pattern=en, Pattern=daar
+Turn ID=13| A | A : nee bij mij staan die helemaal rechtsboven
+	Free: Pattern=helemaal rechtsboven, Pattern=bij mij, Pattern=die, Pattern=staan
+	Constrained: Pattern=helemaal
+Turn ID=14| B | B : oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dus dat kloppen niet
+	Free: Pattern=dat, Pattern=dus
+	Constrained: 
+Turn ID=16| A | A : dit zijn eigenlijk weer dat ontbijtopbedtafelt
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=eigenlijk
+	Constrained: Pattern=zijn
+Turn ID=17| B | B : oké ja ja dat zijn P
+	Free: Pattern=ja dat zijn, Pattern=ja ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=18| A | A : met dat bak erop
+	Free: Pattern=dat, Pattern=erop, Pattern=met
+	Constrained: 
+Turn ID=19| A | A : en bij mij als ik kijken rechts zitten er vijf figuur
+	Free: Pattern=rechts, Pattern=als, Pattern=zitten, Pattern=er, Pattern=ik, Pattern=en, Pattern=bij mij
+	Constrained: 
+Turn ID=20| A | A : schuin over mekaar en daar zijn het de middel van
+	Free: Pattern=en daar, Pattern=de, Pattern=het, Pattern=van, Pattern=zijn
+	Constrained: Pattern=en, Pattern=daar
+Turn ID=21| B | B : helemaal rechts en dan zeggen maar de drie van boven bedoelen je
+	Free: Pattern=helemaal, Pattern=boven, Pattern=bedoelen, Pattern=je, Pattern=de, Pattern=rechts, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : inderdaad
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : oké dit zijn ja tafel ontbijttafeltje met bakje erop
+	Free: Pattern=ja, Pattern=erop, Pattern=ontbijttafeltje, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=26| A | A : ja nou dat zijn nummer veertien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : en hij zitten van de drie onderste de helemaal helemaal rechts
+	Free: Pattern=helemaal, Pattern=zitten, Pattern=de, Pattern=rechts, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=28| A | A : ja bij mij ook
+	Free: Pattern=ja bij mij ook
+	Constrained: Pattern=bij mij, Pattern=ook, Pattern=ja
+Turn ID=29| A | A : dit zijn eigenlijk dat ontbijttafeltje weer met dat bak erop
+	Free: Pattern=dat, Pattern=erop, Pattern=eigenlijk, Pattern=ontbijttafeltje, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=30| B | B : ik zoeken hem ja dat zijn N
+	Free: Pattern=ja dat zijn, Pattern=ik
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=31| A | A : en even goed kijken ja bovenin links hebben je twee figuur naast mekaar
+	Free: Pattern=twee, Pattern=ja, Pattern=hebben, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : en diegene die daaronder zitten
+	Free: Pattern=daaronder, Pattern=die, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=34| B | B : daaronder
+	Free: Pattern=daaronder
+	Constrained: 
+Turn ID=35| B | B : ja bij mij ook
+	Free: Pattern=ja bij mij ook
+	Constrained: Pattern=bij mij, Pattern=ook, Pattern=ja
+Turn ID=36| B | B : ontbijttafel met bakje
+	Free: Pattern=ontbijttafel, Pattern=met
+	Constrained: 
+Turn ID=37| A | A : ja even kijken waar die zitten ja dat zijn nummer tien
+	Free: Pattern=ja dat zijn, Pattern=die, Pattern=zitten, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=38| B | B : en als je je hebben de bovenste in het midden
+	Free: Pattern=de, Pattern=hebben, Pattern=als, Pattern=en, Pattern=je, Pattern=in het midden
+	Constrained: Pattern=het
+Turn ID=39| B | B : daar recht onder
+	Free: Pattern=daar
+	Constrained: 
+Turn ID=40| A | A : nee bij mij zitten die helemaal boven in het midden
+	Free: Pattern=helemaal, Pattern=boven, Pattern=zitten die, Pattern=bij mij, Pattern=in het midden
+	Constrained: Pattern=die, Pattern=zitten, Pattern=het
+Turn ID=41| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : dus dat kloppen niet
+	Free: Pattern=dat, Pattern=dus
+	Constrained: 
+Turn ID=43| A | A : ja dit zijn het ontbijttafel weer met dat bak erop
+	Free: Pattern=dat, Pattern=ja, Pattern=erop, Pattern=het, Pattern=met, Pattern=ontbijttafel, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=44| B | B : ja dat zijn D
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=45| B | B : en hij zitten bij mij rechts helemaal rechtsboven
+	Free: Pattern=rechts, Pattern=zitten, Pattern=en, Pattern=bij mij, Pattern=helemaal rechtsboven
+	Constrained: Pattern=helemaal
+Turn ID=46| A | A : nee bij mij zitten die daaronder
+	Free: Pattern=bij mij, Pattern=zitten die, Pattern=daaronder
+	Constrained: Pattern=die, Pattern=zitten
+Turn ID=47| B | B : oké
+	Free: 
+	Constrained: 

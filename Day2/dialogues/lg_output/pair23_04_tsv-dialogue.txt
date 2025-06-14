@@ -1,0 +1,179 @@
+A|0| A: er zitten bovenop _het_ beker een _zo'n_ _dinge_ _zo'n_ trapeziumpje zegmaar 
+A|1| A: _en_ _aan de_ zijkant rechts zitten _twee_ staaf 
+A|2| A: even groot _twee_ vierkant _stuk_ zegmaar 
+B|3| B: soort _van_ precies _gelijk_ 
+A|4| A: _ja_ 
+B|5| B: [ja] _oké_ _ik_ zien _hem_ N 
+B|6| B: [twee] _streep_ die precies _gelijk_ zijn _aan de rechterkant_ 
+B|7| B: trapeze zijn [het] 
+A|8| A: [ja] 
+B|9| B: op _de bovenkant_ 
+A|10| A: [ja] 
+B|11| B: linkerkant klein figuurt [en] linksonder soort _staart_ 
+A|12| A: veertien 
+A|13| A: [twee] even groot staafjes [aan de rechterkant] [van] [het] _dinge_ 
+B|14| B: [ja] 
+A|15| A: bovenop een trapeziumme 
+A|16| A: [en] [en] dan nog een [streep] [en] nog iets eronder 
+B|17| B: [ja] 
+A|18| A: [ja] 
+B|19| B: L 
+B|20| B: _twee gelijk_ [dinge] [aan de rechterkant] 
+B|21| B: [en] trapeze _aan de bovenkant_ 
+A|22| A: nog een _staart aan de_ onderkant 
+B|23| B: [ja] klein [staart aan de] [aan de] linkerkant heel klein [stuk] 
+A|24| A: [oké] dan denken [ik] _dat_ [ik] [hem] net een fout hebben doen 
+B|25| B: kunnen gebeuren 
+A|26| A: vijfteen 
+A|27| A: [twee gelijk] balkjes [aan de rechterkant] 
+B|28| B: [ja] [ik] gaan [hem] zoeken 
+A|29| A: [aan de bovenkant] _zo'n_ 
+B|30| B: [ik] weten [hem] al 
+B|31| B: [ja] [dat] zijn [zo'n] 
+A|32| A: trapeziumpje 
+B|33| B: trapezium 
+B|34| B: G 
+B|35| B: [gelijk] [aan de rechterkant] , [twee gelijk] [dinge] _, en_ piramide op zijn kop 
+B|36| B: nee piramide op [de bovenkant] 
+B|37| B: trapezium 
+A|38| A: [ja] 
+A|39| A: [ja] 
+A|40| A: [twee] [, en] [aan de] ander kant zitten nog een [staart] 
+B|41| B: [ja] 
+A|42| A: [ja] 
+A|43| A: dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten bovenop het beker een zo'n dinge zo'n trapeziumpje zegmaar
+	Free: Pattern=dinge, Pattern=zo'n, Pattern=het
+	Constrained: 
+Turn ID=1| A | A : en aan de zijkant rechts zitten twee staaf
+	Free: Pattern=aan de, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : even groot twee vierkant stuk zegmaar
+	Free: Pattern=stuk, Pattern=twee
+	Constrained: 
+Turn ID=3| B | B : soort van precies gelijk
+	Free: Pattern=van, Pattern=gelijk
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja oké ik zien hem N
+	Free: Pattern=ja, Pattern=ik, Pattern=hem, Pattern=oké
+	Constrained: 
+Turn ID=6| B | B : twee streep die precies gelijk zijn aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee, Pattern=streep, Pattern=gelijk
+	Constrained: Pattern=aan de
+Turn ID=7| B | B : trapeze zijn het
+	Free: Pattern=het
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : op de bovenkant
+	Free: Pattern=de bovenkant
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : linkerkant klein figuurt en linksonder soort staart
+	Free: Pattern=en, Pattern=staart
+	Constrained: 
+Turn ID=12| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : twee even groot staafjes aan de rechterkant van het dinge
+	Free: Pattern=twee, Pattern=het, Pattern=van, Pattern=aan de rechterkant, Pattern=dinge
+	Constrained: Pattern=aan de
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : bovenop een trapeziumme
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : en en dan nog een streep en nog iets eronder
+	Free: Pattern=streep, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : twee gelijk dinge aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee gelijk, Pattern=dinge
+	Constrained: Pattern=gelijk, Pattern=twee, Pattern=aan de
+Turn ID=21| B | B : en trapeze aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=de bovenkant, Pattern=aan de
+Turn ID=22| A | A : nog een staart aan de onderkant
+	Free: Pattern=staart aan de
+	Constrained: Pattern=aan de, Pattern=staart
+Turn ID=23| B | B : ja klein staart aan de aan de linkerkant heel klein stuk
+	Free: Pattern=staart aan de, Pattern=aan de, Pattern=stuk, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=staart
+Turn ID=24| A | A : oké dan denken ik dat ik hem net een fout hebben doen
+	Free: Pattern=ik, Pattern=hem, Pattern=dat, Pattern=oké
+	Constrained: 
+Turn ID=25| B | B : kunnen gebeuren
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : twee gelijk balkjes aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=twee gelijk
+	Constrained: Pattern=gelijk, Pattern=twee, Pattern=aan de
+Turn ID=28| B | B : ja ik gaan hem zoeken
+	Free: Pattern=ja, Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=29| A | A : aan de bovenkant zo'n
+	Free: Pattern=aan de bovenkant, Pattern=zo'n
+	Constrained: Pattern=de bovenkant, Pattern=aan de
+Turn ID=30| B | B : ik weten hem al
+	Free: Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=31| B | B : ja dat zijn zo'n
+	Free: Pattern=ja, Pattern=zo'n, Pattern=dat
+	Constrained: 
+Turn ID=32| A | A : trapeziumpje
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : trapezium
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : gelijk aan de rechterkant , twee gelijk dinge , en piramide op zijn kop
+	Free: Pattern=, en, Pattern=twee gelijk, Pattern=gelijk, Pattern=aan de rechterkant, Pattern=dinge
+	Constrained: Pattern=gelijk, Pattern=twee, Pattern=en, Pattern=aan de
+Turn ID=36| B | B : nee piramide op de bovenkant
+	Free: Pattern=de bovenkant
+	Constrained: 
+Turn ID=37| B | B : trapezium
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : twee , en aan de ander kant zitten nog een staart
+	Free: Pattern=, en, Pattern=aan de, Pattern=twee, Pattern=staart
+	Constrained: Pattern=en
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : dertien
+	Free: 
+	Constrained: 

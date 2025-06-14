@@ -1,0 +1,25 @@
+Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	3	aan de zijkant	18	B	1, 18
+2	3	deze hebben twee	29	B	0, 28
+2	3	een vierkant en	11	B	18, 28
+2	3	en een vierkant	14	B	15, 28
+2	3	oké deze hebben	19	B	0, 18
+3	2	aan de	28	B	1, 18, 28
+2	2	een paddestoel	9	B	20, 28
+2	2	en een	14	B	15, 28
+2	2	twee schroef	11	B	18, 28
+2	2	van die	7	B	0, 6
+5	1	twee	29	B	0, 1, 6, 18, 28
+4	1	aan	28	B	1, 4, 18, 28
+4	1	de	28	B	1, 2, 18, 28
+4	1	hebben	29	B	0, 2, 18, 28
+4	1	ja	21	B	0, 8, 14, 20
+3	1	die	7	B	0, 2, 6
+3	1	en	14	B	15, 18, 28
+3	1	schroef	29	B	0, 18, 28
+3	1	zijkant	18	B	1, 4, 18
+3	1	zijn	17	B	0, 2, 16
+2	1	K	11	B	16, 26
+2	1	dat	15	B	2, 16
+2	1	het	24	B	0, 23
+

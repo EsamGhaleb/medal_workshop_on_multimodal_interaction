@@ -1,0 +1,179 @@
+B|0| B: even _kijken_ 
+B|1| B: _dit zijn_ _echt_ _zo'n_ heel irritant vorm _met_ _zo niks_ heel interessant _zijn_ er _zitten_ _in_ ieder geval _een_ 
+B|2| B: langwerpig liggen _balk_ op 
+B|3| B: _en dan_ _zo'n_ _zo'n_ klein cilinder _aan de_ rechterkant 
+A|4| A: _ja_ 
+A|5| A: _ja_ [en] [zo'n] _aan de linkerkant_ lijken [een] soort _van_ _lampenkap_ achtig _erop_ 
+B|6| B: [ja] 
+B|7| B: [ja] 
+A|8| A: _ja dat zijn_ acht 
+B|9| B: [ja] 
+A|10| A: vinden _ik_ _ook_ _al_ [zo niks] zeggen 
+B|11| B: hij _zitten_ _bij mij_ _het veel in het midden_ [van] [al] ander te opzicht [van] [al] ander 
+A|12| A: [ja] 
+B|13| B: _het_ [zijn] [een] beetje linksboven [ook] 
+A|14| A: [ja] 
+A|15| A: _maar_ _wel_ [echt] [het veel in het midden] [ja] 
+B|16| B: [ja] 
+A|17| A: _ja dat zijn_ [bij mij] [ook] 
+A|18| A: _dit zijn die_ eigenlijk _die_ nikszeggen [met] _die_ [balk] bovenop [en] _die_ _lampenkap_ 
+B|19| B: _oké_ dus [dat zijn] E 
+A|20| A: [en] [dit zijn] [bij mij] [van] [het] vierkant [in het midden] [zijn] [dat] rechtsonder 
+B|21| B: nee [bij mij] rechts _bovenaan_ [zijn] [een] ander plek 
+B|22| B: _dit zijn weer die saai met_ [de] [de] langwerpig [balk] [erop] 
+A|23| A: [en] [die] _lampenkap_ 
+B|24| B: [ja] 
+A|25| A: [dat zijn] één 
+A|26| A: _bij mij _zijn_ die_ als je helemaal [bovenaan] [zitten] [en dan] gewoon [in het midden] 
+B|27| B: [ja] op dezelfde plek denken [ik] 
+A|28| A: [oké] 
+A|29| A: [dit zijn weer die saai met] [die] [balk] [en] [die] _lampenkap_ 
+B|30| B: [ja dat zijn] E 
+A|31| A: [en] als je linksonder [kijken] [dan] hebben je zeggen _maar_ [zo'n] vierkantje [weer] [van] [en dan] _zijn het_ [de] rechtsboven 
+B|32| B: [ja dat zijn] dezelfde plek 
+B|33| B: [dit zijn die] [weer die saai met] [de] [balk] [erop] [en] [de] [lampenkap] [aan de linkerkant] 
+A|34| A: [dat zijn] zestien 
+B|35| B: [bij mij [zijn] het] [die] onderaan rechts [maar] niet [echt] [in] [de] hoek of [zo] 
+A|36| A: [ja] [de] degeen [die] [echt] [het veel] [aan de] onderkant [zitten] 
+B|37| B: [wel] 
+A|38| A: [ja] 
+A|39| A: [dat zijn] hetzelfde 
+A|40| A: [dit zijn [die] saai met] [die] [balk] [en] [die] [die] [lampenkap] 
+B|41| B: [ja dat zijn] O 
+A|42| A: [en] [bij mij zijn] [dat] helemaal linksonder 
+B|43| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken
+	Free: Pattern=kijken
+	Constrained: 
+Turn ID=1| B | B : dit zijn echt zo'n heel irritant vorm met zo niks heel interessant zijn er zitten in ieder geval een
+	Free: Pattern=zo'n, Pattern=een, Pattern=in, Pattern=met, Pattern=zitten, Pattern=echt, Pattern=dit zijn, Pattern=zijn, Pattern=zo niks
+	Constrained: Pattern=zijn, Pattern=zo
+Turn ID=2| B | B : langwerpig liggen balk op
+	Free: Pattern=balk
+	Constrained: 
+Turn ID=3| B | B : en dan zo'n zo'n klein cilinder aan de rechterkant
+	Free: Pattern=aan de, Pattern=en dan, Pattern=zo'n
+	Constrained: Pattern=de, Pattern=dan, Pattern=en
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja en zo'n aan de linkerkant lijken een soort van lampenkap achtig erop
+	Free: Pattern=zo'n, Pattern=erop, Pattern=een, Pattern=aan de linkerkant, Pattern=ja, Pattern=lampenkap, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja dat zijn acht
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : vinden ik ook al zo niks zeggen
+	Free: Pattern=zo niks, Pattern=ik, Pattern=ook, Pattern=al
+	Constrained: Pattern=zo
+Turn ID=11| B | B : hij zitten bij mij het veel in het midden van al ander te opzicht van al ander
+	Free: Pattern=al, Pattern=het veel in het midden, Pattern=zitten, Pattern=van, Pattern=bij mij
+	Constrained: Pattern=in, Pattern=in het midden, Pattern=het veel, Pattern=het
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : het zijn een beetje linksboven ook
+	Free: Pattern=zijn, Pattern=ook, Pattern=een, Pattern=het
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : maar wel echt het veel in het midden ja
+	Free: Pattern=ja, Pattern=wel, Pattern=het veel in het midden, Pattern=echt, Pattern=maar
+	Constrained: Pattern=in, Pattern=in het midden, Pattern=het veel, Pattern=het
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja dat zijn bij mij ook
+	Free: Pattern=ja dat zijn, Pattern=bij mij, Pattern=ook
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=dat zijn, Pattern=ja
+Turn ID=18| A | A : dit zijn die eigenlijk die nikszeggen met die balk bovenop en die lampenkap
+	Free: Pattern=dit zijn die, Pattern=lampenkap, Pattern=balk, Pattern=met, Pattern=die, Pattern=en
+	Constrained: Pattern=zijn die, Pattern=dit zijn, Pattern=zijn, Pattern=die
+Turn ID=19| B | B : oké dus dat zijn E
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=20| A | A : en dit zijn bij mij van het vierkant in het midden zijn dat rechtsonder
+	Free: Pattern=dat, Pattern=het, Pattern=zijn, Pattern=bij mij, Pattern=in het midden, Pattern=dit zijn, Pattern=van, Pattern=en
+	Constrained: Pattern=in, Pattern=zijn, Pattern=het
+Turn ID=21| B | B : nee bij mij rechts bovenaan zijn een ander plek
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=een, Pattern=bovenaan
+	Constrained: 
+Turn ID=22| B | B : dit zijn weer die saai met de de langwerpig balk erop
+	Free: Pattern=dit zijn weer die saai met, Pattern=de, Pattern=erop, Pattern=balk
+	Constrained: Pattern=weer die saai met, Pattern=die saai met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=23| A | A : en die lampenkap
+	Free: Pattern=die, Pattern=lampenkap, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| A | A : bij mij zijn die als je helemaal bovenaan zitten en dan gewoon in het midden
+	Free: Pattern=zijn die, Pattern=zitten, Pattern=bovenaan, Pattern=in het midden, Pattern=bij mij zijn, Pattern=en dan
+	Constrained: Pattern=dan, Pattern=het, Pattern=in, Pattern=die, Pattern=en, Pattern=zijn, Pattern=bij mij
+Turn ID=27| B | B : ja op dezelfde plek denken ik
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=28| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=29| A | A : dit zijn weer die saai met die balk en die lampenkap
+	Free: Pattern=lampenkap, Pattern=balk, Pattern=die, Pattern=en, Pattern=dit zijn weer die saai met
+	Constrained: Pattern=weer die saai met, Pattern=die saai met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=30| B | B : ja dat zijn E
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=31| A | A : en als je linksonder kijken dan hebben je zeggen maar zo'n vierkantje weer van en dan zijn het de rechtsboven
+	Free: Pattern=zijn het, Pattern=zo'n, Pattern=de, Pattern=en dan, Pattern=dan, Pattern=kijken, Pattern=maar, Pattern=weer, Pattern=van, Pattern=en
+	Constrained: Pattern=zijn, Pattern=het, Pattern=dan, Pattern=en
+Turn ID=32| B | B : ja dat zijn dezelfde plek
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=33| B | B : dit zijn die weer die saai met de balk erop en de lampenkap aan de linkerkant
+	Free: Pattern=dit zijn die, Pattern=erop, Pattern=weer die saai met, Pattern=balk, Pattern=en, Pattern=aan de linkerkant, Pattern=de, Pattern=lampenkap
+	Constrained: Pattern=de, Pattern=aan de, Pattern=zijn die, Pattern=die saai met, Pattern=met, Pattern=die, Pattern=zijn, Pattern=weer, Pattern=dit zijn
+Turn ID=34| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=35| B | B : bij mij zijn het die onderaan rechts maar niet echt in de hoek of zo
+	Free: Pattern=zijn het, Pattern=de, Pattern=bij mij zijn, Pattern=zo, Pattern=in, Pattern=die, Pattern=echt, Pattern=maar
+	Constrained: Pattern=bij mij, Pattern=zijn, Pattern=het
+Turn ID=36| A | A : ja de degeen die echt het veel aan de onderkant zitten
+	Free: Pattern=aan de, Pattern=het veel, Pattern=echt, Pattern=de, Pattern=ja, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=het
+Turn ID=37| B | B : wel
+	Free: Pattern=wel
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : dat zijn hetzelfde
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=40| A | A : dit zijn die saai met die balk en die die lampenkap
+	Free: Pattern=dit zijn die, Pattern=lampenkap, Pattern=die saai met, Pattern=balk, Pattern=die, Pattern=en
+	Constrained: Pattern=zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn
+Turn ID=41| B | B : ja dat zijn O
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn, Pattern=dat
+Turn ID=42| A | A : en bij mij zijn dat helemaal linksonder
+	Free: Pattern=bij mij zijn, Pattern=dat, Pattern=en
+	Constrained: Pattern=bij mij, Pattern=zijn
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

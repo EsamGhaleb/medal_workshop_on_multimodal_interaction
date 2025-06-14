@@ -1,0 +1,407 @@
+A|0| A: top 
+B|1| B: gaan _wel_ goed 
+B|2| B: _ja_ _oké_ 
+B|3| B: _het zijn_ _hij_ _hebben_ _een_ _vierkantje_ _aan de voorkant_ gewoon _een_ _plat_ _vierkantje_ 
+A|4| A: [ja] we 
+A|5| A: [ja] 
+B|6| B: _en_ _twee van die_ gebouw _aan de_ _of ja_ _die_ legoding _aan de zijkant_ 
+A|7| A: _en dan_ [twee van die] 
+A|8| A: [ja] 
+A|9| A: [en] _nog_ één antennetje bovenop 
+B|10| B: _ja precies_ 
+A|11| A: [ja] vogelnes 
+A|12| A: nummer [twee] 
+B|13| B: _oké_ 
+B|14| B: _en hij_ staat _ongeveer_ in _het midden_ _van het_ linkerveld dus als _je_ _het_ inderdaad _weer_ door _de helft_ doen [en dan] _helemaal_ onderaan 
+A|15| A: [oké] nee _dat zijn_ [een] ander _plek_ [wel] 
+B|16| B: [oké] 
+A|17| A: [ja] 
+A|18| A: deze [hebben] [weer] zo'n antennetje bovenop [en dan] _dat vierkantje_ _zo_ [aan de voorkant] [een] beetje tegenaan plakken _en die_ 
+A|19| A: _twee legoblok_ _zeggen_ _maar_ legoblokdingen [aan de zijkant] 
+B|20| B: [ja] [ja] 
+B|21| B: [ja] 
+B|22| B: [dat zijn] G _bij mij_ 
+A|23| A: [en] [bij mij] zitten [die] _net iets link van het midden_ 
+A|24| A: _en net _iets_ onder_ [de] 
+B|25| B: _de helft_ 
+B|26| B: [ja] 
+A|27| A: [ja] bijna _niet_ bijna _de helft van de helft_ _zeggen_ _maar_ _maar_ 
+B|28| B: [zo] 
+A|29| A: beetje tussen [de helft] [en] _de helft van de helft_ 
+B|30| B: [ja] [ja] [ja] 
+B|31| B: [hebben] _je_ _ook_ vier [zo] rondom [het midden] laten [maar] [zeggen] 
+A|32| A: nee [ja] soort [van] 
+B|33| B: _of_ [dat] [niet] 
+B|34| B: [oké] 
+B|35| B: volgens [mij] _zijn het_ zelfde [plek] dus _ongeveer_ [link] _net links_ 
+A|36| A: [ja] [net links] _van het midden_ [en dan] 
+B|37| B: _ongeveer_ [de helft van [de helft] van [de helft] van de helft] 
+A|38| A: [ja precies] 
+B|39| B: [ja] 
+B|40| B: [ja] zelfde [plek] 
+A|41| A: mooi uitleg 
+B|42| B: [weer] [die] [twee legoblok] 
+A|43| A: [ja] 
+B|44| B: [aan de zijkant] _met_ [dat] _vierkant plat_ 
+A|45| A: [met] [de] [vierkant plat] [en] [het] _antenne_ 
+B|46| B: yes 
+B|47| B: yes 
+A|48| A: nummer negen 
+B|49| B: _en hij_ _staan_ [net iets link van het midden] 
+B|50| B: [en] _ongeveer_ [de helft van de helft] onderin 
+A|51| A: [ja] 
+A|52| A: [en] [staan] _er_ [bij] jou [ook] _nog iets onder_ 
+B|53| B: _ja er_ [staan] [nog iets onder] 
+A|54| A: [oké] [ja] [dan] [zijn het] denken _ik_ dezelfde [plek] 
+B|55| B: yes 
+B|56| B: [oké] 
+A|57| A: [oké] 
+A|58| A: deze _zijn weer_ [met] [het] _antenne_ bovenop [en] [de] [twee legoblok] [aan] één kant [en] [het] [vierkantje] voorop 
+B|59| B: [het] [vierkant] [ja] 
+B|60| B: [dat zijn] D [bij mij] 
+A|61| A: [oké] 
+A|62| A: [net iets link] uit [het midden] 
+A|63| A: [en] [ook] [net iets] boven [de helft] 
+B|64| B: [ja] [hebben] [ik] [ook] 
+A|65| A: [maar] _het zijn net_ [een] beetje 
+B|66| B: [ja] [het zijn net] [net] [niet] 
+A|67| A: [ja precies] 
+B|68| B: [maar] zelfde [plek] 
+A|69| A: top 
+B|70| B: yes 
+B|71| B: [het [zijn] weer] [die] [twee legoblok] 
+B|72| B: [met] [dat] [vierkant] [aan de voorkant] 
+A|73| A: [ja] 
+A|74| A: waar 
+B|75| B: [en die] [antenne] 
+A|76| A: [twee legoblok] [zeggen] [je] 
+B|77| B: [twee legoblok] yes 
+A|78| A: [ja] [met] [de] [ja] nummer één 
+B|79| B: [en] [dat vierkantje] 
+B|80| B: [oké] 
+B|81| B: _en hij_ bekendstaan redelijk op [de _helft] helft_ [zo] 
+B|82| B: [en net iets] _rechts_ [van de helft] verticaal 
+A|83| A: [helft helft] 
+B|84| B: dus [helft helft] [zo] 
+B|85| B: [ja] 
+A|86| A: [en dan] 
+B|87| B: redelijk op [de [helft] helft] 
+B|88| B: [en dan] [de helft] [zo] [en dan] [net iets] _rechts_ daarvan 
+A|89| A: [ik] denken [dat] [die] [bij mij] [net iets] [net iets] eronder [staan] 
+B|90| B: [oké] 
+A|91| A: deze [zijn weer] [met] [de] [twee legoblok] [aan] [die] kant [en] [het] [vierkantje] voorop antennetje 
+B|92| B: yes 
+B|93| B: B [bij mij] 
+A|94| A: [en hij] zitten [net] [rechts] uit [het midden] 
+A|95| A: bijna [helemaal] onderop 
+A|96| A: [of [ja] er] zitten niks veel onderop [maar] qua positie [zijn] [ongeveer] half half 
+B|97| B: [ja] 
+A|98| A: [maar] [er] zitten ver niks veel [onder] 
+B|99| B: [ja precies] 
+B|100| B: zelfde [plek] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=1| B | B : gaan wel goed
+	Free: Pattern=wel
+	Constrained: 
+Turn ID=2| B | B : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : het zijn hij hebben een vierkantje aan de voorkant gewoon een plat vierkantje
+	Free: Pattern=een, Pattern=hebben, Pattern=hij, Pattern=vierkantje, Pattern=het zijn, Pattern=plat, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=het, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=4| A | A : ja we
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en twee van die gebouw aan de of ja die legoding aan de zijkant
+	Free: Pattern=twee van die, Pattern=aan de, Pattern=aan de zijkant, Pattern=of ja, Pattern=die, Pattern=en
+	Constrained: Pattern=of, Pattern=twee, Pattern=aan de, Pattern=die, Pattern=van, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=7| A | A : en dan twee van die
+	Free: Pattern=twee van die, Pattern=en dan
+	Constrained: Pattern=twee, Pattern=dan, Pattern=die, Pattern=van, Pattern=en
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en nog één antennetje bovenop
+	Free: Pattern=en, Pattern=nog
+	Constrained: 
+Turn ID=10| B | B : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja
+Turn ID=11| A | A : ja vogelnes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : nummer twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=13| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=14| B | B : en hij staat ongeveer in het midden van het linkerveld dus als je het inderdaad weer door de helft doen en dan helemaal onderaan
+	Free: Pattern=het midden, Pattern=de helft, Pattern=en dan, Pattern=helemaal, Pattern=het, Pattern=ongeveer, Pattern=van het, Pattern=en hij, Pattern=weer, Pattern=je
+	Constrained: Pattern=de, Pattern=dan, Pattern=het, Pattern=hij, Pattern=van, Pattern=en
+Turn ID=15| A | A : oké nee dat zijn een ander plek wel
+	Free: Pattern=dat zijn, Pattern=een, Pattern=wel, Pattern=plek, Pattern=oké
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze hebben weer zo'n antennetje bovenop en dan dat vierkantje zo aan de voorkant een beetje tegenaan plakken en die
+	Free: Pattern=en die, Pattern=en dan, Pattern=een, Pattern=hebben, Pattern=zo, Pattern=dat vierkantje, Pattern=weer, Pattern=aan de voorkant
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=dan, Pattern=vierkantje, Pattern=die, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=19| A | A : twee legoblok zeggen maar legoblokdingen aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=twee legoblok, Pattern=zeggen, Pattern=maar
+	Constrained: Pattern=twee, Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=20| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn G bij mij
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=mij, Pattern=bij
+Turn ID=23| A | A : en bij mij zitten die net iets link van het midden
+	Free: Pattern=net iets link van het midden, Pattern=bij mij, Pattern=die, Pattern=en
+	Constrained: Pattern=het midden, Pattern=net, Pattern=van het midden, Pattern=net iets, Pattern=het, Pattern=net iets link, Pattern=link, Pattern=van het, Pattern=bij, Pattern=mij, Pattern=van
+Turn ID=24| A | A : en net iets onder de
+	Free: Pattern=en net iets, Pattern=iets onder, Pattern=de
+	Constrained: Pattern=net iets, Pattern=net, Pattern=en, Pattern=onder
+Turn ID=25| B | B : de helft
+	Free: Pattern=de helft
+	Constrained: Pattern=de
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja bijna niet bijna de helft van de helft zeggen maar maar
+	Free: Pattern=de helft van de helft, Pattern=ja, Pattern=niet, Pattern=zeggen, Pattern=maar
+	Constrained: Pattern=de, Pattern=de helft, Pattern=van, Pattern=van de helft
+Turn ID=28| B | B : zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=29| A | A : beetje tussen de helft en de helft van de helft
+	Free: Pattern=de helft van de helft, Pattern=de helft, Pattern=en
+	Constrained: Pattern=de, Pattern=de helft, Pattern=van, Pattern=van de helft
+Turn ID=30| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : hebben je ook vier zo rondom het midden laten maar zeggen
+	Free: Pattern=het midden, Pattern=ook, Pattern=hebben, Pattern=maar, Pattern=je, Pattern=zeggen, Pattern=zo
+	Constrained: Pattern=het
+Turn ID=32| A | A : nee ja soort van
+	Free: Pattern=ja, Pattern=van
+	Constrained: 
+Turn ID=33| B | B : of dat niet
+	Free: Pattern=dat, Pattern=of, Pattern=niet
+	Constrained: 
+Turn ID=34| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=35| B | B : volgens mij zijn het zelfde plek dus ongeveer link net links
+	Free: Pattern=net links, Pattern=zijn het, Pattern=ongeveer, Pattern=mij, Pattern=link, Pattern=plek
+	Constrained: Pattern=het, Pattern=zijn, Pattern=net
+Turn ID=36| A | A : ja net links van het midden en dan
+	Free: Pattern=van het midden, Pattern=net links, Pattern=en dan, Pattern=ja
+	Constrained: Pattern=het midden, Pattern=net, Pattern=dan, Pattern=het, Pattern=van het, Pattern=van, Pattern=en
+Turn ID=37| B | B : ongeveer de helft van de helft van de helft van de helft
+	Free: Pattern=de helft van de helft, Pattern=ongeveer
+	Constrained: Pattern=de, Pattern=de helft, Pattern=van, Pattern=van de helft
+Turn ID=38| A | A : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ja zelfde plek
+	Free: Pattern=ja, Pattern=plek
+	Constrained: 
+Turn ID=41| A | A : mooi uitleg
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : weer die twee legoblok
+	Free: Pattern=twee legoblok, Pattern=die, Pattern=weer
+	Constrained: Pattern=twee
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : aan de zijkant met dat vierkant plat
+	Free: Pattern=aan de zijkant, Pattern=vierkant plat, Pattern=dat, Pattern=met
+	Constrained: Pattern=aan de, Pattern=plat, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=45| A | A : met de vierkant plat en het antenne
+	Free: Pattern=de, Pattern=vierkant plat, Pattern=het, Pattern=met, Pattern=antenne, Pattern=en
+	Constrained: Pattern=plat, Pattern=vierkant
+Turn ID=46| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=47| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=48| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=49| B | B : en hij staan net iets link van het midden
+	Free: Pattern=net iets link van het midden, Pattern=en hij, Pattern=staan
+	Constrained: Pattern=het midden, Pattern=net, Pattern=van het midden, Pattern=net iets, Pattern=het, Pattern=net iets link, Pattern=hij, Pattern=link, Pattern=van het, Pattern=van, Pattern=en
+Turn ID=50| B | B : en ongeveer de helft van de helft onderin
+	Free: Pattern=de helft van de helft, Pattern=ongeveer, Pattern=en
+	Constrained: Pattern=de, Pattern=de helft, Pattern=van, Pattern=van de helft
+Turn ID=51| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| A | A : en staan er bij jou ook nog iets onder
+	Free: Pattern=ook, Pattern=staan, Pattern=nog iets onder, Pattern=en, Pattern=bij, Pattern=er
+	Constrained: Pattern=iets onder, Pattern=onder, Pattern=nog
+Turn ID=53| B | B : ja er staan nog iets onder
+	Free: Pattern=nog iets onder, Pattern=ja er, Pattern=staan
+	Constrained: Pattern=nog, Pattern=ja, Pattern=onder, Pattern=er, Pattern=iets onder
+Turn ID=54| A | A : oké ja dan zijn het denken ik dezelfde plek
+	Free: Pattern=zijn het, Pattern=ja, Pattern=dan, Pattern=ik, Pattern=plek, Pattern=oké
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=55| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=56| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=57| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=58| A | A : deze zijn weer met het antenne bovenop en de twee legoblok aan één kant en het vierkantje voorop
+	Free: Pattern=het, Pattern=en, Pattern=zijn weer, Pattern=de, Pattern=aan, Pattern=vierkantje, Pattern=met, Pattern=twee legoblok, Pattern=antenne
+	Constrained: Pattern=zijn, Pattern=twee, Pattern=weer
+Turn ID=59| B | B : het vierkant ja
+	Free: Pattern=het, Pattern=ja, Pattern=vierkant
+	Constrained: 
+Turn ID=60| B | B : dat zijn D bij mij
+	Free: Pattern=dat zijn, Pattern=bij mij
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=mij, Pattern=bij
+Turn ID=61| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=62| A | A : net iets link uit het midden
+	Free: Pattern=net iets link, Pattern=het midden
+	Constrained: Pattern=net iets, Pattern=net, Pattern=het, Pattern=link
+Turn ID=63| A | A : en ook net iets boven de helft
+	Free: Pattern=net iets, Pattern=de helft, Pattern=ook, Pattern=en
+	Constrained: Pattern=net, Pattern=de
+Turn ID=64| B | B : ja hebben ik ook
+	Free: Pattern=ik, Pattern=hebben, Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=65| A | A : maar het zijn net een beetje
+	Free: Pattern=het zijn net, Pattern=een, Pattern=maar
+	Constrained: Pattern=het, Pattern=het zijn, Pattern=zijn, Pattern=net
+Turn ID=66| B | B : ja het zijn net net niet
+	Free: Pattern=het zijn net, Pattern=net, Pattern=ja, Pattern=niet
+	Constrained: Pattern=het, Pattern=het zijn, Pattern=zijn, Pattern=net
+Turn ID=67| A | A : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja
+Turn ID=68| B | B : maar zelfde plek
+	Free: Pattern=maar, Pattern=plek
+	Constrained: 
+Turn ID=69| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=70| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=71| B | B : het zijn weer die twee legoblok
+	Free: Pattern=twee legoblok, Pattern=zijn weer, Pattern=het zijn, Pattern=die
+	Constrained: Pattern=twee, Pattern=zijn, Pattern=het, Pattern=weer
+Turn ID=72| B | B : met dat vierkant aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=dat, Pattern=met, Pattern=vierkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=73| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=74| A | A : waar
+	Free: 
+	Constrained: 
+Turn ID=75| B | B : en die antenne
+	Free: Pattern=en die, Pattern=antenne
+	Constrained: Pattern=die, Pattern=en
+Turn ID=76| A | A : twee legoblok zeggen je
+	Free: Pattern=twee legoblok, Pattern=zeggen, Pattern=je
+	Constrained: Pattern=twee
+Turn ID=77| B | B : twee legoblok yes
+	Free: Pattern=twee legoblok
+	Constrained: Pattern=twee
+Turn ID=78| A | A : ja met de ja nummer één
+	Free: Pattern=met, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=79| B | B : en dat vierkantje
+	Free: Pattern=dat vierkantje, Pattern=en
+	Constrained: Pattern=dat, Pattern=vierkantje
+Turn ID=80| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=81| B | B : en hij bekendstaan redelijk op de helft helft zo
+	Free: Pattern=helft helft, Pattern=en hij, Pattern=de helft, Pattern=zo
+	Constrained: Pattern=hij, Pattern=de, Pattern=en
+Turn ID=82| B | B : en net iets rechts van de helft verticaal
+	Free: Pattern=van de helft, Pattern=en net iets, Pattern=rechts
+	Constrained: Pattern=net, Pattern=net iets, Pattern=de, Pattern=de helft, Pattern=van, Pattern=en
+Turn ID=83| A | A : helft helft
+	Free: Pattern=helft helft
+	Constrained: 
+Turn ID=84| B | B : dus helft helft zo
+	Free: Pattern=helft helft, Pattern=zo
+	Constrained: 
+Turn ID=85| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=86| A | A : en dan
+	Free: Pattern=en dan
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=87| B | B : redelijk op de helft helft
+	Free: Pattern=helft helft, Pattern=de helft
+	Constrained: Pattern=de
+Turn ID=88| B | B : en dan de helft zo en dan net iets rechts daarvan
+	Free: Pattern=en dan, Pattern=net iets, Pattern=zo, Pattern=de helft, Pattern=rechts
+	Constrained: Pattern=de, Pattern=net, Pattern=en, Pattern=dan
+Turn ID=89| A | A : ik denken dat die bij mij net iets net iets eronder staan
+	Free: Pattern=dat, Pattern=staan, Pattern=net iets, Pattern=die, Pattern=ik, Pattern=bij mij
+	Constrained: Pattern=net, Pattern=mij, Pattern=bij
+Turn ID=90| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=91| A | A : deze zijn weer met de twee legoblok aan die kant en het vierkantje voorop antennetje
+	Free: Pattern=het, Pattern=die, Pattern=twee legoblok, Pattern=en, Pattern=zijn weer, Pattern=de, Pattern=aan, Pattern=vierkantje, Pattern=met
+	Constrained: Pattern=zijn, Pattern=twee, Pattern=weer
+Turn ID=92| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=93| B | B : B bij mij
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij, Pattern=bij
+Turn ID=94| A | A : en hij zitten net rechts uit het midden
+	Free: Pattern=het midden, Pattern=en hij, Pattern=rechts, Pattern=net
+	Constrained: Pattern=hij, Pattern=het, Pattern=en
+Turn ID=95| A | A : bijna helemaal onderop
+	Free: Pattern=helemaal
+	Constrained: 
+Turn ID=96| A | A : of ja er zitten niks veel onderop maar qua positie zijn ongeveer half half
+	Free: Pattern=of ja, Pattern=ja er, Pattern=ongeveer, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=er, Pattern=of, Pattern=ja
+Turn ID=97| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=98| A | A : maar er zitten ver niks veel onder
+	Free: Pattern=er, Pattern=maar, Pattern=onder
+	Constrained: 
+Turn ID=99| B | B : ja precies
+	Free: Pattern=ja precies
+	Constrained: Pattern=ja
+Turn ID=100| B | B : zelfde plek
+	Free: Pattern=plek
+	Constrained: 

@@ -1,0 +1,251 @@
+B|0| B: _okee_ 
+B|1| B: _deze_ _ik_ moeten bij _deze_ wel _een beetje_ denken _aan_ _een soort_ _kop_ _met een_ _staart aan de achterkant_ 
+B|2| B: _en_ _aan de_ voorkant _zijn het_ net alsof _die _een_ soort van_ alsof _die_ _in_ _een tafel_ hangen 
+B|3| B: _met een_ omgedraaide piramide _op _het_ tafel_ 
+B|4| B: afsnijden 
+B|5| B: _ja_ _dus_ kenmerken _zijn_ hiervoor wel _een beetje_ _een_ _staart aan de achterkant en _een_ soort_ _tafel_ _aan de_ voorkant 
+B|6| B: _en het_ _zijn_ _niet_ degeen _met het_ rond _tafel_ 
+A|7| A: wow 
+A|8| A: [zijn] wachten [een soort van] _tipiten_ bovenop 
+A|9| A: of _hebben_ we [die] al _hebben_ 
+A|10| A: [ik] weten [niet] veel 
+B|11| B: _nee_ _het_ [zijn] zonder [een] [tipiten] 
+A|12| A: [nee] 
+A|13| A: ah wachten iets [met [een] tafel] zeggen _je_ toch 
+B|14| B: _ja_ _ja_ 
+A|15| A: wachten kunnen _je_ hem nog [een] keer omschrijven 
+B|16| B: _ja_ _een kop_ [met] linksachter [een soort] _staart_ 
+A|17| A: _je_ 
+A|18| A: Linksboven zeggen maar boven _dat_ plateau 
+B|19| B: _ja_ 
+B|20| B: _ja_ precies 
+A|21| A: ah [en [een] kop] [op] [de] [tafel] zo'n schaal 
+A|22| A: [aan de] rechterkant 
+B|23| B: even kijken 
+A|24| A: zeggen maar [die] _twee poot_ 
+B|25| B: _ja_ 
+A|26| A: [die] _zien_ _je_ 
+A|27| A: [ja] dan 
+B|28| B: [ja] [je] [zien] [twee poot] inderdaad [en] _dat zijn het tafel_ 
+A|29| A: [dat zijn het tafel] 
+A|30| A: [ja] 
+A|31| A: [en] dan daarbovenop staan [een soort van] _schaalt_ 
+B|32| B: [ja] [ja] precies 
+A|33| A: [ja] [okee] [nee] dan weten [ik] welk 
+A|34| A: [ik] gaan _voor_ nummer vier 
+A|35| A: [okee] _dit_ gaan [dus] over [het tafel] [die [een] beetje] bovenaan zweeven [op het] [kop] 
+A|36| A: [met] [de] [twee poot] 
+A|37| A: [het] gek [staart] daarachter 
+A|38| A: [en het] [kop] of [het] _schaalt erop_ 
+B|39| B: [ja] 
+B|40| B: [okee] [dat zijn] p 
+A|41| A: [ja] 
+B|42| B: [dit] [zijn] degeen [met een] klein _staart aan de achterkant en [een_ tafel] [aan de] voorkant [met _een] schaalt_ 
+B|43| B: [erop] 
+A|44| A: _waar_ staan [die] 
+B|45| B: where did it go [ja] 
+A|46| A: _ik hebben_ hem [ik] mijn hoofd _ik hebben_ hem [in] mijn hoofd ah daar 
+A|47| A: [dat zijn] nummer elf 
+A|48| A: [deze] [zijn] [met [het] tafel] [met] [de] [twee poot] 
+A|49| A: [staart aan de achterkant en _een] schaalt erop_ 
+B|50| B: [ja] 
+B|51| B: zoeken zoeken zoeken zoeken [waar] [zijn] [je] 
+B|52| B: [dat zijn] [voor] mij n 
+B|53| B: hee ze verspringen 
+B|54| B: [ik hebben] hier [een] diegene [met] [dat] [staart aan de achterkant] 
+B|55| B: [en een] [een tafel] [aan de] voorkant [met [een] schaalt erop] 
+A|56| A: ah 
+A|57| A: nummer veertien 
+A|58| A: [tafel] [twee poot] [schaalt] bovenop 
+B|59| B: [ja] 
+A|60| A: [staart] 
+B|61| B: [dat zijn] d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=1| B | B : deze ik moeten bij deze wel een beetje denken aan een soort kop met een staart aan de achterkant
+	Free: Pattern=aan, Pattern=met een, Pattern=kop, Pattern=staart aan de achterkant, Pattern=ik, Pattern=een soort, Pattern=deze, Pattern=een beetje
+	Constrained: Pattern=aan de, Pattern=een, Pattern=staart, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=2| B | B : en aan de voorkant zijn het net alsof die een soort van alsof die in een tafel hangen
+	Free: Pattern=zijn het, Pattern=een tafel, Pattern=aan de, Pattern=die, Pattern=die een, Pattern=en, Pattern=in, Pattern=een soort van
+	Constrained: Pattern=een, Pattern=het, Pattern=een soort, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=tafel, Pattern=die
+Turn ID=3| B | B : met een omgedraaide piramide op het tafel
+	Free: Pattern=op het, Pattern=het tafel, Pattern=met een
+	Constrained: Pattern=op, Pattern=een, Pattern=het, Pattern=met, Pattern=tafel
+Turn ID=4| B | B : afsnijden
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja dus kenmerken zijn hiervoor wel een beetje een staart aan de achterkant en een soort tafel aan de voorkant
+	Free: Pattern=aan de, Pattern=een, Pattern=tafel, Pattern=staart aan de achterkant en een, Pattern=een soort, Pattern=zijn, Pattern=een beetje, Pattern=dus, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=een, Pattern=staart, Pattern=staart aan de achterkant, Pattern=en, Pattern=en een, Pattern=de, Pattern=aan
+Turn ID=6| B | B : en het zijn niet degeen met het rond tafel
+	Free: Pattern=en het, Pattern=niet, Pattern=tafel, Pattern=met het, Pattern=zijn
+	Constrained: Pattern=het, Pattern=met, Pattern=en
+Turn ID=7| A | A : wow
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : zijn wachten een soort van tipiten bovenop
+	Free: Pattern=een soort van, Pattern=zijn, Pattern=tipiten
+	Constrained: Pattern=een soort, Pattern=een
+Turn ID=9| A | A : of hebben we die al hebben
+	Free: Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=10| A | A : ik weten niet veel
+	Free: Pattern=niet, Pattern=ik
+	Constrained: 
+Turn ID=11| B | B : nee het zijn zonder een tipiten
+	Free: Pattern=een, Pattern=nee, Pattern=het, Pattern=tipiten, Pattern=zijn
+	Constrained: 
+Turn ID=12| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=13| A | A : ah wachten iets met een tafel zeggen je toch
+	Free: Pattern=een tafel, Pattern=met een, Pattern=je
+	Constrained: Pattern=tafel, Pattern=met, Pattern=een
+Turn ID=14| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : wachten kunnen je hem nog een keer omschrijven
+	Free: Pattern=je, Pattern=een
+	Constrained: 
+Turn ID=16| B | B : ja een kop met linksachter een soort staart
+	Free: Pattern=ja, Pattern=staart, Pattern=met, Pattern=een soort, Pattern=een kop
+	Constrained: Pattern=kop, Pattern=een
+Turn ID=17| A | A : je
+	Free: Pattern=je
+	Constrained: 
+Turn ID=18| A | A : Linksboven zeggen maar boven dat plateau
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ah en een kop op de tafel zo'n schaal
+	Free: Pattern=de, Pattern=op, Pattern=tafel, Pattern=een kop, Pattern=en een
+	Constrained: Pattern=kop, Pattern=en, Pattern=een
+Turn ID=22| A | A : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=23| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : zeggen maar die twee poot
+	Free: Pattern=twee poot, Pattern=die
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : die zien je
+	Free: Pattern=je, Pattern=zien, Pattern=die
+	Constrained: 
+Turn ID=27| A | A : ja dan
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja je zien twee poot inderdaad en dat zijn het tafel
+	Free: Pattern=ja, Pattern=twee poot, Pattern=en, Pattern=je, Pattern=dat zijn het tafel, Pattern=zien
+	Constrained: Pattern=zijn het, Pattern=het, Pattern=tafel, Pattern=het tafel, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=29| A | A : dat zijn het tafel
+	Free: Pattern=dat zijn het tafel
+	Constrained: Pattern=zijn het, Pattern=het, Pattern=tafel, Pattern=het tafel, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : en dan daarbovenop staan een soort van schaalt
+	Free: Pattern=een soort van, Pattern=schaalt, Pattern=en
+	Constrained: Pattern=een soort, Pattern=een
+Turn ID=32| B | B : ja ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja okee nee dan weten ik welk
+	Free: Pattern=nee, Pattern=ja, Pattern=okee, Pattern=ik
+	Constrained: 
+Turn ID=34| A | A : ik gaan voor nummer vier
+	Free: Pattern=voor, Pattern=ik
+	Constrained: 
+Turn ID=35| A | A : okee dit gaan dus over het tafel die een beetje bovenaan zweeven op het kop
+	Free: Pattern=die een, Pattern=het tafel, Pattern=een beetje, Pattern=op het, Pattern=okee, Pattern=dus, Pattern=kop, Pattern=dit
+	Constrained: Pattern=op, Pattern=een, Pattern=het, Pattern=tafel, Pattern=die
+Turn ID=36| A | A : met de twee poot
+	Free: Pattern=twee poot, Pattern=met, Pattern=de
+	Constrained: 
+Turn ID=37| A | A : het gek staart daarachter
+	Free: Pattern=het, Pattern=staart
+	Constrained: 
+Turn ID=38| A | A : en het kop of het schaalt erop
+	Free: Pattern=schaalt erop, Pattern=en het, Pattern=kop, Pattern=het
+	Constrained: Pattern=schaalt, Pattern=het, Pattern=en, Pattern=erop
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : okee dat zijn p
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : dit zijn degeen met een klein staart aan de achterkant en een tafel aan de voorkant met een schaalt
+	Free: Pattern=aan de, Pattern=dit, Pattern=zijn, Pattern=een schaalt, Pattern=een tafel, Pattern=met een, Pattern=staart aan de achterkant en een
+	Constrained: Pattern=aan de, Pattern=een, Pattern=staart, Pattern=staart aan de achterkant, Pattern=met, Pattern=tafel, Pattern=en, Pattern=en een, Pattern=schaalt, Pattern=de, Pattern=aan
+Turn ID=43| B | B : erop
+	Free: Pattern=erop
+	Constrained: 
+Turn ID=44| A | A : waar staan die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=45| B | B : where did it go ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : ik hebben hem ik mijn hoofd ik hebben hem in mijn hoofd ah daar
+	Free: Pattern=ik hebben, Pattern=in, Pattern=ik
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=47| A | A : dat zijn nummer elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=48| A | A : deze zijn met het tafel met de twee poot
+	Free: Pattern=de, Pattern=zijn, Pattern=deze, Pattern=twee poot, Pattern=met, Pattern=het tafel, Pattern=met het
+	Constrained: Pattern=het, Pattern=tafel, Pattern=met
+Turn ID=49| A | A : staart aan de achterkant en een schaalt erop
+	Free: Pattern=staart aan de achterkant en een, Pattern=een schaalt erop
+	Constrained: Pattern=een schaalt, Pattern=aan de, Pattern=een, Pattern=staart, Pattern=staart aan de achterkant, Pattern=en, Pattern=en een, Pattern=schaalt, Pattern=de, Pattern=aan, Pattern=schaalt erop, Pattern=erop
+Turn ID=50| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : zoeken zoeken zoeken zoeken waar zijn je
+	Free: Pattern=je, Pattern=waar, Pattern=zijn
+	Constrained: 
+Turn ID=52| B | B : dat zijn voor mij n
+	Free: Pattern=dat zijn, Pattern=voor
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=53| B | B : hee ze verspringen
+	Free: 
+	Constrained: 
+Turn ID=54| B | B : ik hebben hier een diegene met dat staart aan de achterkant
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=een, Pattern=staart aan de achterkant, Pattern=met
+	Constrained: Pattern=aan de, Pattern=staart, Pattern=hebben, Pattern=ik, Pattern=de, Pattern=aan
+Turn ID=55| B | B : en een een tafel aan de voorkant met een schaalt erop
+	Free: Pattern=een tafel, Pattern=aan de, Pattern=en een, Pattern=een schaalt erop, Pattern=met een
+	Constrained: Pattern=een schaalt, Pattern=een, Pattern=met, Pattern=tafel, Pattern=en, Pattern=schaalt, Pattern=de, Pattern=aan, Pattern=schaalt erop, Pattern=erop
+Turn ID=56| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=57| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=58| A | A : tafel twee poot schaalt bovenop
+	Free: Pattern=twee poot, Pattern=schaalt, Pattern=tafel
+	Constrained: 
+Turn ID=59| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=60| A | A : staart
+	Free: Pattern=staart
+	Constrained: 
+Turn ID=61| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

@@ -1,0 +1,227 @@
+B|0| B: deze _hebben_ een _tafel met_ een bak _er_ op _aan de_ voorkant 
+A|1| A: _ja_ zestien 
+A|2| A: helemaal rechtsboven _bij mij_ 
+B|3| B: _dan_ _zijn_ _het_ sowieso _niet_ dezelfde 
+A|4| A: _ok_ 
+A|5| A: [het] [tafel met] [het] schotel 
+B|6| B: _even_ _kijken_ _waar_ _die_ _staan_ P 
+A|7| A: _bij mij_ [staan] hij als _je_ [die] _zes_ figuur [hebben] [aan de] rechterkant 
+B|8| B: _de drie_ 
+A|9| A: _ja_ _of_ _ja_ _zes_ [het] [zijn] [er] eigenlijk _vijf_ 
+B|10| B: [ja] [het] _zullen_ we _kunnen_ [het] goed [vijf] noemen inderdaad 
+A|11| A: [ja] _dus dan_ in [het] _midden_ 
+B|12| B: [ja] [de] [je] [de] [midden] inderdaad [ja] 
+B|13| B: [tafel met] bakje erop 
+A|14| A: veertien 
+A|15| A: _drie rij_ van helemaal onderin 
+B|16| B: [ja] 
+A|17| A: _o_ _dat_ dienblad _met dat_ schotel 
+B|18| B: [o] [met _dat] tafel_ 
+A|19| A: [ja] [dat tafel] 
+B|20| B: jaja N 
+A|21| A: _twee_ _rij de_ _één_ 
+B|22| B: [ja] 
+B|23| B: [tafel met] bakje [er] op 
+A|24| A: tien 
+A|25| A: _bij mij zijn_ hij helemaal _boven_ _en dan_ als [je] links [je] [hebben] [er] _link_ _één_ _en dan_ [die] daarnaast 
+B|26| B: [bij mij zijn] zegmaar [die] daar [link] onder [die] overlpen 
+A|27| A: nee 
+B|28| B: gaan we deze _ook weer_ indelen [of] _niet_ 
+A|29| A: [ja] ik zitten [even] te [kijken] ik zien hier [niet] echt iets logisch 
+A|30| A: zo _één twee_ als in [de] _één_ _rij_ van links [hebben] [er] _twee_ [dan] [weer] _twee_ [dan] [drie] 
+B|31| B: [ja] 
+B|32| B: [ja] 
+A|33| A: [dan] 
+B|34| B: [en _dan] worden het vaag_ 
+A|35| A: [ja] [dan worden het vaag] [ja] 
+A|36| A: _dus_ [je] [je] [zullen] [kunnen] zeggen [dan] [ook weer] _twee_ [en dan] [ook weer] _twee_ [waar] heel veel ruimte tussen zitten 
+B|37| B: [ja] 
+A|38| A: [dan] _drie en dan twee_ 
+B|39| B: [drie en dan twee] [dus dan] [hebben] [je] [één twee] [die] _vier_ [vijf] [zes] zeven [rij] 
+A|40| A: [één _twee] drie_ [vier] 
+A|41| A: [ja] 
+B|42| B: _twee twee drie twee twee drie twee_ 
+A|43| A: [twee twee drie twee twee drie twee] [ja] 
+A|44| A: nee wachten [ja] 
+B|45| B: [dus] voor [mij zijn] [het] nu _de drie [rij_ de] [twee] 
+A|46| A: [de drie rij] [drie] nee 
+A|47| A: [dat [tafel] met] [het] schotel 
+B|48| B: d 
+A|49| A: _laat rij_ _en dan de_ middel 
+A|50| A: [of] [ja] 
+B|51| B: [dat] [zijn] [niet] [de] [laat rij] toch 
+A|52| A: [o] nee kloppen [dus _dan] de_ eennalaat [rij] _en dan de_ middel 
+B|53| B: [de] [zes] [ja] [bij mij zijn] [het] [de] [zes] [en dan de] [boven] 
+A|54| A: nee [dus] [bij mij] zitten hij wel in [het] [midden] [ja] 
+B|55| B: [ok] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een tafel met een bak er op aan de voorkant
+	Free: Pattern=aan de, Pattern=tafel met, Pattern=er, Pattern=hebben
+	Constrained: Pattern=de
+Turn ID=1| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : helemaal rechtsboven bij mij
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=3| B | B : dan zijn het sowieso niet dezelfde
+	Free: Pattern=zijn, Pattern=niet, Pattern=dan, Pattern=het
+	Constrained: 
+Turn ID=4| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=5| A | A : het tafel met het schotel
+	Free: Pattern=tafel met, Pattern=het
+	Constrained: 
+Turn ID=6| B | B : even kijken waar die staan P
+	Free: Pattern=waar, Pattern=even, Pattern=kijken, Pattern=staan, Pattern=die
+	Constrained: 
+Turn ID=7| A | A : bij mij staan hij als je die zes figuur hebben aan de rechterkant
+	Free: Pattern=zes, Pattern=aan de, Pattern=staan, Pattern=hebben, Pattern=die, Pattern=bij mij, Pattern=je
+	Constrained: Pattern=de
+Turn ID=8| B | B : de drie
+	Free: Pattern=de drie
+	Constrained: Pattern=de, Pattern=drie
+Turn ID=9| A | A : ja of ja zes het zijn er eigenlijk vijf
+	Free: Pattern=zes, Pattern=of, Pattern=ja, Pattern=vijf, Pattern=het, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : ja het zullen we kunnen het goed vijf noemen inderdaad
+	Free: Pattern=zullen, Pattern=kunnen, Pattern=ja, Pattern=vijf, Pattern=het
+	Constrained: 
+Turn ID=11| A | A : ja dus dan in het midden
+	Free: Pattern=dus dan, Pattern=midden, Pattern=het, Pattern=ja
+	Constrained: Pattern=dus, Pattern=dan
+Turn ID=12| B | B : ja de je de midden inderdaad ja
+	Free: Pattern=de, Pattern=midden, Pattern=je, Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : tafel met bakje erop
+	Free: Pattern=tafel met
+	Constrained: 
+Turn ID=14| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : drie rij van helemaal onderin
+	Free: Pattern=drie rij
+	Constrained: Pattern=rij, Pattern=drie
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : o dat dienblad met dat schotel
+	Free: Pattern=met dat, Pattern=o, Pattern=dat
+	Constrained: Pattern=dat
+Turn ID=18| B | B : o met dat tafel
+	Free: Pattern=met dat, Pattern=dat tafel, Pattern=o
+	Constrained: Pattern=dat
+Turn ID=19| A | A : ja dat tafel
+	Free: Pattern=dat tafel, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=20| B | B : jaja N
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : twee rij de één
+	Free: Pattern=rij de, Pattern=twee, Pattern=één
+	Constrained: Pattern=de, Pattern=rij
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : tafel met bakje er op
+	Free: Pattern=tafel met, Pattern=er
+	Constrained: 
+Turn ID=24| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : bij mij zijn hij helemaal boven en dan als je links je hebben er link één en dan die daarnaast
+	Free: Pattern=boven, Pattern=hebben, Pattern=die, Pattern=link, Pattern=er, Pattern=bij mij zijn, Pattern=en dan, Pattern=één, Pattern=je
+	Constrained: Pattern=mij zijn, Pattern=dan, Pattern=bij mij, Pattern=zijn
+Turn ID=26| B | B : bij mij zijn zegmaar die daar link onder die overlpen
+	Free: Pattern=bij mij zijn, Pattern=link, Pattern=die
+	Constrained: Pattern=mij zijn, Pattern=bij mij, Pattern=zijn
+Turn ID=27| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : gaan we deze ook weer indelen of niet
+	Free: Pattern=ook weer, Pattern=niet, Pattern=of
+	Constrained: Pattern=weer
+Turn ID=29| A | A : ja ik zitten even te kijken ik zien hier niet echt iets logisch
+	Free: Pattern=even, Pattern=niet, Pattern=kijken, Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : zo één twee als in de één rij van links hebben er twee dan weer twee dan drie
+	Free: Pattern=de, Pattern=rij, Pattern=dan, Pattern=drie, Pattern=hebben, Pattern=er, Pattern=één twee, Pattern=twee, Pattern=weer, Pattern=één
+	Constrained: Pattern=twee, Pattern=één
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=34| B | B : en dan worden het vaag
+	Free: Pattern=dan worden het vaag, Pattern=en dan
+	Constrained: Pattern=dan, Pattern=het
+Turn ID=35| A | A : ja dan worden het vaag ja
+	Free: Pattern=dan worden het vaag, Pattern=ja
+	Constrained: Pattern=dan, Pattern=het
+Turn ID=36| A | A : dus je je zullen kunnen zeggen dan ook weer twee en dan ook weer twee waar heel veel ruimte tussen zitten
+	Free: Pattern=zullen, Pattern=dus, Pattern=dan, Pattern=ook weer, Pattern=je, Pattern=twee, Pattern=kunnen, Pattern=waar, Pattern=en dan
+	Constrained: Pattern=weer, Pattern=dan
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : dan drie en dan twee
+	Free: Pattern=drie en dan twee, Pattern=dan
+	Constrained: Pattern=twee, Pattern=dan, Pattern=drie, Pattern=en dan
+Turn ID=39| B | B : drie en dan twee dus dan hebben je één twee die vier vijf zes zeven rij
+	Free: Pattern=zes, Pattern=één twee, Pattern=drie en dan twee, Pattern=die, Pattern=je, Pattern=vier, Pattern=vijf, Pattern=rij, Pattern=hebben, Pattern=dus dan
+	Constrained: Pattern=twee, Pattern=dus, Pattern=en dan, Pattern=dan, Pattern=drie, Pattern=één
+Turn ID=40| A | A : één twee drie vier
+	Free: Pattern=één twee, Pattern=twee drie, Pattern=vier
+	Constrained: Pattern=twee, Pattern=drie, Pattern=één
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : twee twee drie twee twee drie twee
+	Free: Pattern=twee twee drie twee twee drie twee
+	Constrained: Pattern=twee drie, Pattern=twee, Pattern=drie
+Turn ID=43| A | A : twee twee drie twee twee drie twee ja
+	Free: Pattern=twee twee drie twee twee drie twee, Pattern=ja
+	Constrained: Pattern=twee drie, Pattern=twee, Pattern=drie
+Turn ID=44| A | A : nee wachten ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : dus voor mij zijn het nu de drie rij de twee
+	Free: Pattern=twee, Pattern=dus, Pattern=mij zijn, Pattern=rij de, Pattern=het, Pattern=de drie rij
+	Constrained: Pattern=de, Pattern=rij, Pattern=drie, Pattern=de drie, Pattern=drie rij, Pattern=zijn
+Turn ID=46| A | A : de drie rij drie nee
+	Free: Pattern=de drie rij, Pattern=drie
+	Constrained: Pattern=de, Pattern=rij, Pattern=drie, Pattern=de drie, Pattern=drie rij
+Turn ID=47| A | A : dat tafel met het schotel
+	Free: Pattern=tafel met, Pattern=dat tafel, Pattern=het
+	Constrained: Pattern=dat
+Turn ID=48| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : laat rij en dan de middel
+	Free: Pattern=en dan de, Pattern=laat rij
+	Constrained: Pattern=de, Pattern=en dan, Pattern=rij, Pattern=dan, Pattern=dan de
+Turn ID=50| A | A : of ja
+	Free: Pattern=of, Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : dat zijn niet de laat rij toch
+	Free: Pattern=dat, Pattern=de, Pattern=niet, Pattern=laat rij, Pattern=zijn
+	Constrained: Pattern=rij
+Turn ID=52| A | A : o nee kloppen dus dan de eennalaat rij en dan de middel
+	Free: Pattern=en dan de, Pattern=rij, Pattern=dus dan, Pattern=o, Pattern=dan de
+	Constrained: Pattern=en dan, Pattern=dan, Pattern=dan de, Pattern=de, Pattern=dus
+Turn ID=53| B | B : de zes ja bij mij zijn het de zes en dan de boven
+	Free: Pattern=zes, Pattern=boven, Pattern=het, Pattern=de, Pattern=ja, Pattern=bij mij zijn, Pattern=en dan de
+	Constrained: Pattern=de, Pattern=dan, Pattern=zijn, Pattern=bij mij, Pattern=dan de, Pattern=mij zijn, Pattern=en dan
+Turn ID=54| A | A : nee dus bij mij zitten hij wel in het midden ja
+	Free: Pattern=het, Pattern=bij mij, Pattern=midden, Pattern=dus, Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : ok
+	Free: Pattern=ok
+	Constrained: 

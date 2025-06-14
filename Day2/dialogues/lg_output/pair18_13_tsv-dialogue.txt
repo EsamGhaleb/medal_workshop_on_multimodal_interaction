@@ -1,0 +1,107 @@
+B|0| B: _aan de_ _het_ linkerkant en _de_ rechterkant zitten _drie_ soort _van_ _bollet_ niet helemaal _bollet_ _maar_ precies hetzelfde _ja_ 
+A|1| A: [ja] weten _ik_ 
+A|2| A: acht 
+A|3| A: _ik hebben die_ een _met_ [aan] allebei [de] _kant_ _die drie_ rond slash rui 
+B|4| B: [aan] beide 
+A|5| A: allebei [de] _kant_ [de] _drie van die_ klein [bollet] ruit [het] zijn [maar] net hoe je [het] zien 
+B|6| B: [ja] [ja] 
+B|7| B: j 
+B|8| B: [ik hebben] [de] _met die_ twee [die] twee gelijkwaardig soort [van] _bollet aan de_ _aan de_ beide [kant] 
+B|9| B: en zo'n _plaat eronder_ 
+A|10| A: _drie van die _bollet aan de_ zijkant_ 
+B|11| B: [ja] [ja] [drie van die bollet aan de] beide [zijkant] 
+A|12| A: [ja] 
+A|13| A: vijf 
+A|14| A: _ik hebben die_ een [met _die] drie bollet aan de zijkant_ 
+A|15| A: [met die] [plaat eronder] 
+B|16| B: [die drie bollet aan de zijkant] 
+A|17| A: [met] zeggen [maar] allebei [aan] allebei [de] [kant] [die drie bollet] 
+B|18| B: [plaat eronder] 
+B|19| B: [ja] [ja] [ja] e 
+B|20| B: j 
+B|21| B: _ik hebben [die drie bollet aan_ de] linker en [de zijkant] rechterkant 
+A|22| A: [ja] zes 
+A|23| A: [ik hebben die drie bollet aan] allebei [de] [kant] 
+B|24| B: [ja] 
+B|25| B: f 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : aan de het linkerkant en de rechterkant zitten drie soort van bollet niet helemaal bollet maar precies hetzelfde ja
+	Free: Pattern=bollet, Pattern=aan de, Pattern=van, Pattern=maar, Pattern=de, Pattern=ja, Pattern=het, Pattern=drie
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=1| A | A : ja weten ik
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ik hebben die een met aan allebei de kant die drie rond slash rui
+	Free: Pattern=kant, Pattern=die drie, Pattern=met, Pattern=ik hebben die, Pattern=de, Pattern=aan
+	Constrained: Pattern=drie, Pattern=die, Pattern=ik hebben, Pattern=ik
+Turn ID=4| B | B : aan beide
+	Free: Pattern=aan
+	Constrained: 
+Turn ID=5| A | A : allebei de kant de drie van die klein bollet ruit het zijn maar net hoe je het zien
+	Free: Pattern=kant, Pattern=drie van die, Pattern=bollet, Pattern=de, Pattern=het, Pattern=maar
+	Constrained: Pattern=die, Pattern=drie, Pattern=van
+Turn ID=6| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : j
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : ik hebben de met die twee die twee gelijkwaardig soort van bollet aan de aan de beide kant
+	Free: Pattern=ik hebben, Pattern=de, Pattern=aan de, Pattern=die, Pattern=van, Pattern=bollet aan de, Pattern=kant, Pattern=met die
+	Constrained: Pattern=bollet, Pattern=aan de, Pattern=met, Pattern=die, Pattern=ik, Pattern=de, Pattern=aan
+Turn ID=9| B | B : en zo'n plaat eronder
+	Free: Pattern=plaat eronder
+	Constrained: 
+Turn ID=10| A | A : drie van die bollet aan de zijkant
+	Free: Pattern=drie van die bollet aan de, Pattern=bollet aan de zijkant
+	Constrained: Pattern=drie van die, Pattern=bollet, Pattern=aan de, Pattern=drie, Pattern=de zijkant, Pattern=van, Pattern=bollet aan de, Pattern=de, Pattern=aan, Pattern=die, Pattern=zijkant
+Turn ID=11| B | B : ja ja drie van die bollet aan de beide zijkant
+	Free: Pattern=drie van die bollet aan de, Pattern=ja, Pattern=zijkant
+	Constrained: Pattern=drie van die, Pattern=bollet, Pattern=aan de, Pattern=drie, Pattern=die, Pattern=van, Pattern=bollet aan de, Pattern=de, Pattern=aan
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik hebben die een met die drie bollet aan de zijkant
+	Free: Pattern=die drie bollet aan de zijkant, Pattern=ik hebben die, Pattern=met die
+	Constrained: Pattern=ik hebben, Pattern=bollet, Pattern=die drie, Pattern=drie, Pattern=met, Pattern=de zijkant, Pattern=ik, Pattern=bollet aan de, Pattern=die drie bollet aan de, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=bollet aan de zijkant, Pattern=die drie bollet, Pattern=die, Pattern=zijkant
+Turn ID=15| A | A : met die plaat eronder
+	Free: Pattern=met die, Pattern=plaat eronder
+	Constrained: Pattern=die, Pattern=met
+Turn ID=16| B | B : die drie bollet aan de zijkant
+	Free: Pattern=die drie bollet aan de zijkant
+	Constrained: Pattern=bollet, Pattern=die drie, Pattern=drie, Pattern=de zijkant, Pattern=bollet aan de, Pattern=die drie bollet aan de, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=bollet aan de zijkant, Pattern=die drie bollet, Pattern=die, Pattern=zijkant
+Turn ID=17| A | A : met zeggen maar allebei aan allebei de kant die drie bollet
+	Free: Pattern=kant, Pattern=met, Pattern=die drie bollet, Pattern=maar, Pattern=de, Pattern=aan
+	Constrained: Pattern=bollet, Pattern=die drie, Pattern=drie, Pattern=die
+Turn ID=18| B | B : plaat eronder
+	Free: Pattern=plaat eronder
+	Constrained: 
+Turn ID=19| B | B : ja ja ja e
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : j
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : ik hebben die drie bollet aan de linker en de zijkant rechterkant
+	Free: Pattern=ik hebben die drie bollet aan, Pattern=die drie bollet aan de, Pattern=de zijkant
+	Constrained: Pattern=ik hebben, Pattern=bollet, Pattern=aan de, Pattern=die drie, Pattern=drie, Pattern=bollet aan de, Pattern=de, Pattern=aan, Pattern=die drie bollet, Pattern=die, Pattern=zijkant, Pattern=ik hebben die, Pattern=ik
+Turn ID=22| A | A : ja zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ik hebben die drie bollet aan allebei de kant
+	Free: Pattern=ik hebben die drie bollet aan, Pattern=de, Pattern=kant
+	Constrained: Pattern=ik hebben, Pattern=bollet, Pattern=aan, Pattern=die drie, Pattern=drie, Pattern=die drie bollet, Pattern=die, Pattern=ik hebben die, Pattern=ik
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : f
+	Free: 
+	Constrained: 

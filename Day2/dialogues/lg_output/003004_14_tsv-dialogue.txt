@@ -1,0 +1,275 @@
+A|0| A: _ja_ even kijken er _zitten_ _een_ ronde bal achterop _zeggen_ _maar_ _aan de_ bovenkant _en _aan de_ zijkant_ _hebben_ _die_ twee soort van handvaat _en aan de voorkant een_ 
+B|1| B: [ja] [en aan de voorkant een] _vierkant_ staaf 
+A|2| A: [ja] _precies_ 
+B|3| B: d 
+A|4| A: even kijken _bij mij_ _zitten_ _die helemaal_ onderaan _het_ scherm _en dan_ _net_ _een klein stuk_ link van _het midden_ 
+B|5| B: [ja] 
+B|6| B: [precies] dezelfde plek 
+A|7| A: [ja] 
+B|8| B: _oké_ dit _zijn_ diegene _met die_ staaf [aan de voorkant] weer _met_ _dat_ bolle _bovenop_ 
+A|9| A: [ja] 
+B|10| B: _we_ [hebben] _hem_ al [hebben] 
+A|11| A: [en] _met de_ hand _aan de zijkant_ 
+B|12| B: [met] [ja] _met die_ dinge [aan de zijkant] 
+A|13| A: [ja] 
+A|14| A: [oké] 
+A|15| A: vijftien 
+B|16| B: _bij mij staan [die_ _helemaal] rechts_ onderin 
+A|17| A: _nee_ 
+A|18| A: hoe noemen [we] deze ook alweer ? [die] [met die] grijparmp _met de_ bol [bovenop] 
+A|19| A: [en] _de vierkant_ blok 
+B|20| B: [ja] [met [de] vierkant] statief 
+A|21| A: hoe gaan [we] [die] noemen 
+B|22| B: [de] [een] pullup _ik_ _ik_ zien [het] _wel_ als [een] [een] _basketbal_ laten [maar] [zeggen] 
+B|23| B: weten je _wel_ _dat_ je _dat_ bolle als _de basketbal_ _in het_ theekop doen 
+A|24| A: prima [basketbal] 
+B|25| B: [basketbal] 
+B|26| B: L 
+A|27| A: [en] [bij mij staan die] [in het] linksbovenkwadrant _en dan_ _net_ iets veel naar [rechts] toe vanaf _het midden_ [zeggen] [maar] 
+B|28| B: [ja] 
+A|29| A: vanaf [het] _dus_ [het] linkerbovenkwadrant iets veel naar [rechts] van _het midden_ [en] qua _hoogte_ _ongeveer_ _in het midden_ van [het] Linksbovenkwadrant 
+A|30| A: misschien _een klein_ tikkelt omhoog 
+B|31| B: [ja] 
+B|32| B: [dus] als jij [het] linkerveld pken [dan] [staan die] [ongeveer] op _een kwart_ 
+B|33| B: [dus] [een] [een] [een klein stuk] vanuit _de middellijn_ vanuit [het] heel 
+A|34| A: [ja] [ongeveer] [een kwart] naar links [ja] 
+B|35| B: [ja] 
+A|36| A: [ja] 
+B|37| B: [dan] [staan die] op [de] goed plek 
+B|38| B: _de basketbal_ 
+A|39| A: [de basketbal] [dat] [zijn] [met die] armpjes [aan de zijkant] ook [ja] 
+B|40| B: _ja ja_ 
+A|41| A: [dat] [zijn] zes 
+B|42| B: [bij mij staan die] [dan] [in] [de] _hoogte in het midden_ 
+B|43| B: [en dan] als je 
+A|44| A: [hoogte in het midden] ? _nee_ 
+B|45| B: [oké] 
+A|46| A: even kijken welk [zijn] [dat] [de basketbal] 
+A|47| A: [bij mij] _zitten_ [die] ook [rechts] 
+B|48| B: [ja] J 
+B|49| B: [staan die] [net] boven [het midden] 
+A|50| A: [ja] 
+B|51| B: [ja] [en dan] 
+A|52| A: [en] qua breedte _niet_ [helemaal rechts] [maar] [ongeveer] [in het midden] van [het] van [de] rechterkant [ja] 
+B|53| B: [ongeveer] 
+B|54| B: [ja] 
+B|55| B: [ja] 
+B|56| B: [de basketbal] 
+A|57| A: [basketbal] [dat] [zijn] drie 
+B|58| B: [en dan] [helemaal rechts] 
+B|59| B: [in] [de] [hoogte] _net onder het midden_ 
+B|60| B: [en dan] _wel_ _echt_ [helemaal rechts] 
+A|61| A: [ja ja] [wel] [helemaal rechts] [maar] [echt] _een tikkel_ [net onder het midden] of [ik] _zullen_ [hem] bijna [in _het midden] geven_ 
+B|62| B: [ja] 
+B|63| B: [nee] [wel] [een tikkel] [onder het midden] hij [zitten] [niet] hij [zullen] jij [hem] [het midden geven] 
+A|64| A: [ja] [oké] 
+A|65| A: [ja] [ik] denken [het] waar [de] bal [zitten] [dat] [dat] [ongeveer] [de middellijn] [zijn] zo 
+B|66| B: [ja [ja] [ja] [ja] [ja] ja] 
+A|67| A: [ja] [oké] [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja even kijken er zitten een ronde bal achterop zeggen maar aan de bovenkant en aan de zijkant hebben die twee soort van handvaat en aan de voorkant een
+	Free: Pattern=ja, Pattern=aan de, Pattern=en aan de voorkant een, Pattern=hebben, Pattern=zeggen, Pattern=maar, Pattern=en aan de, Pattern=een, Pattern=aan de zijkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=aan de voorkant, Pattern=en aan de
+Turn ID=1| B | B : ja en aan de voorkant een vierkant staaf
+	Free: Pattern=en aan de voorkant een, Pattern=ja, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=aan de voorkant, Pattern=en aan de
+Turn ID=2| A | A : ja precies
+	Free: Pattern=ja, Pattern=precies
+	Constrained: 
+Turn ID=3| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : even kijken bij mij zitten die helemaal onderaan het scherm en dan net een klein stuk link van het midden
+	Free: Pattern=het midden, Pattern=en dan, Pattern=het, Pattern=zitten, Pattern=bij mij, Pattern=die helemaal, Pattern=net, Pattern=een klein stuk
+	Constrained: Pattern=dan, Pattern=een, Pattern=het, Pattern=die, Pattern=en, Pattern=een klein
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : precies dezelfde plek
+	Free: Pattern=precies
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : oké dit zijn diegene met die staaf aan de voorkant weer met dat bolle bovenop
+	Free: Pattern=met, Pattern=oké, Pattern=zijn, Pattern=aan de voorkant, Pattern=dat, Pattern=met die, Pattern=bovenop
+	Constrained: Pattern=de, Pattern=die, Pattern=aan de, Pattern=met
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : we hebben hem al hebben
+	Free: Pattern=hem, Pattern=hebben, Pattern=we
+	Constrained: 
+Turn ID=11| A | A : en met de hand aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met de, Pattern=en
+	Constrained: Pattern=de, Pattern=met, Pattern=aan de
+Turn ID=12| B | B : met ja met die dinge aan de zijkant
+	Free: Pattern=aan de zijkant, Pattern=met die, Pattern=met, Pattern=ja
+	Constrained: Pattern=de, Pattern=met, Pattern=die, Pattern=aan de
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : bij mij staan die helemaal rechts onderin
+	Free: Pattern=bij mij staan die, Pattern=die helemaal, Pattern=helemaal rechts
+	Constrained: Pattern=die, Pattern=staan die, Pattern=rechts, Pattern=bij mij
+Turn ID=17| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=18| A | A : hoe noemen we deze ook alweer ? die met die grijparmp met de bol bovenop
+	Free: Pattern=met de, Pattern=met die, Pattern=bovenop, Pattern=we, Pattern=die
+	Constrained: Pattern=met, Pattern=de, Pattern=die
+Turn ID=19| A | A : en de vierkant blok
+	Free: Pattern=de vierkant, Pattern=en
+	Constrained: Pattern=de, Pattern=vierkant
+Turn ID=20| B | B : ja met de vierkant statief
+	Free: Pattern=de vierkant, Pattern=met de, Pattern=ja
+	Constrained: Pattern=met, Pattern=de, Pattern=vierkant
+Turn ID=21| A | A : hoe gaan we die noemen
+	Free: Pattern=we, Pattern=die
+	Constrained: 
+Turn ID=22| B | B : de een pullup ik ik zien het wel als een een basketbal laten maar zeggen
+	Free: Pattern=de, Pattern=het, Pattern=zeggen, Pattern=ik, Pattern=basketbal, Pattern=maar, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=23| B | B : weten je wel dat je dat bolle als de basketbal in het theekop doen
+	Free: Pattern=de basketbal, Pattern=in het, Pattern=dat, Pattern=wel
+	Constrained: Pattern=het, Pattern=basketbal, Pattern=de, Pattern=in
+Turn ID=24| A | A : prima basketbal
+	Free: Pattern=basketbal
+	Constrained: 
+Turn ID=25| B | B : basketbal
+	Free: Pattern=basketbal
+	Constrained: 
+Turn ID=26| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : en bij mij staan die in het linksbovenkwadrant en dan net iets veel naar rechts toe vanaf het midden zeggen maar
+	Free: Pattern=het midden, Pattern=net, Pattern=rechts, Pattern=en dan, Pattern=in het, Pattern=zeggen, Pattern=en, Pattern=maar, Pattern=bij mij staan die
+	Constrained: Pattern=het, Pattern=in, Pattern=die, Pattern=en, Pattern=bij mij, Pattern=staan die, Pattern=dan
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : vanaf het dus het linkerbovenkwadrant iets veel naar rechts van het midden en qua hoogte ongeveer in het midden van het Linksbovenkwadrant
+	Free: Pattern=het midden, Pattern=het, Pattern=ongeveer, Pattern=hoogte, Pattern=en, Pattern=in het midden, Pattern=rechts, Pattern=dus
+	Constrained: Pattern=in, Pattern=in het, Pattern=het, Pattern=het midden
+Turn ID=30| A | A : misschien een klein tikkelt omhoog
+	Free: Pattern=een klein
+	Constrained: Pattern=een
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : dus als jij het linkerveld pken dan staan die ongeveer op een kwart
+	Free: Pattern=dus, Pattern=een kwart, Pattern=het, Pattern=ongeveer, Pattern=staan die, Pattern=dan
+	Constrained: Pattern=een, Pattern=die
+Turn ID=33| B | B : dus een een een klein stuk vanuit de middellijn vanuit het heel
+	Free: Pattern=een klein stuk, Pattern=dus, Pattern=een, Pattern=het, Pattern=de middellijn
+	Constrained: Pattern=de, Pattern=een klein, Pattern=een
+Turn ID=34| A | A : ja ongeveer een kwart naar links ja
+	Free: Pattern=een kwart, Pattern=ongeveer, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : dan staan die op de goed plek
+	Free: Pattern=staan die, Pattern=de, Pattern=dan
+	Constrained: Pattern=die
+Turn ID=38| B | B : de basketbal
+	Free: Pattern=de basketbal
+	Constrained: Pattern=basketbal, Pattern=de
+Turn ID=39| A | A : de basketbal dat zijn met die armpjes aan de zijkant ook ja
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat, Pattern=met die, Pattern=aan de zijkant, Pattern=de basketbal
+	Constrained: Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=basketbal
+Turn ID=40| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=41| A | A : dat zijn zes
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=42| B | B : bij mij staan die dan in de hoogte in het midden
+	Free: Pattern=de, Pattern=dan, Pattern=hoogte in het midden, Pattern=in, Pattern=bij mij staan die
+	Constrained: Pattern=het midden, Pattern=staan die, Pattern=het, Pattern=in het, Pattern=in, Pattern=die, Pattern=hoogte, Pattern=bij mij, Pattern=in het midden
+Turn ID=43| B | B : en dan als je
+	Free: Pattern=en dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=44| A | A : hoogte in het midden ? nee
+	Free: Pattern=hoogte in het midden, Pattern=nee
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in het, Pattern=in, Pattern=hoogte, Pattern=in het midden
+Turn ID=45| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=46| A | A : even kijken welk zijn dat de basketbal
+	Free: Pattern=de basketbal, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=basketbal, Pattern=de
+Turn ID=47| A | A : bij mij zitten die ook rechts
+	Free: Pattern=bij mij, Pattern=zitten, Pattern=rechts, Pattern=die
+	Constrained: 
+Turn ID=48| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| B | B : staan die net boven het midden
+	Free: Pattern=staan die, Pattern=het midden, Pattern=net
+	Constrained: Pattern=het, Pattern=die
+Turn ID=50| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : ja en dan
+	Free: Pattern=en dan, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=52| A | A : en qua breedte niet helemaal rechts maar ongeveer in het midden van het van de rechterkant ja
+	Free: Pattern=niet, Pattern=het, Pattern=helemaal rechts, Pattern=ongeveer, Pattern=en, Pattern=maar, Pattern=in het midden, Pattern=de, Pattern=ja
+	Constrained: Pattern=het midden, Pattern=rechts, Pattern=het, Pattern=in het, Pattern=in
+Turn ID=53| B | B : ongeveer
+	Free: Pattern=ongeveer
+	Constrained: 
+Turn ID=54| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=56| B | B : de basketbal
+	Free: Pattern=de basketbal
+	Constrained: Pattern=basketbal, Pattern=de
+Turn ID=57| A | A : basketbal dat zijn drie
+	Free: Pattern=dat, Pattern=basketbal, Pattern=zijn
+	Constrained: 
+Turn ID=58| B | B : en dan helemaal rechts
+	Free: Pattern=helemaal rechts, Pattern=en dan
+	Constrained: Pattern=en, Pattern=rechts, Pattern=dan
+Turn ID=59| B | B : in de hoogte net onder het midden
+	Free: Pattern=net onder het midden, Pattern=hoogte, Pattern=de, Pattern=in
+	Constrained: Pattern=onder het midden, Pattern=net, Pattern=het, Pattern=het midden
+Turn ID=60| B | B : en dan wel echt helemaal rechts
+	Free: Pattern=helemaal rechts, Pattern=en dan, Pattern=echt, Pattern=wel
+	Constrained: Pattern=en, Pattern=rechts, Pattern=dan
+Turn ID=61| A | A : ja ja wel helemaal rechts maar echt een tikkel net onder het midden of ik zullen hem bijna in het midden geven
+	Free: Pattern=zullen, Pattern=ja ja, Pattern=wel, Pattern=helemaal rechts, Pattern=echt, Pattern=een tikkel, Pattern=ik, Pattern=het midden geven, Pattern=maar, Pattern=hem, Pattern=in het midden, Pattern=net onder het midden
+	Constrained: Pattern=het midden, Pattern=net, Pattern=een, Pattern=onder het midden, Pattern=het, Pattern=in het, Pattern=in, Pattern=rechts, Pattern=ja
+Turn ID=62| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=63| B | B : nee wel een tikkel onder het midden hij zitten niet hij zullen jij hem het midden geven
+	Free: Pattern=zullen, Pattern=niet, Pattern=wel, Pattern=zitten, Pattern=een tikkel, Pattern=het midden geven, Pattern=hem, Pattern=onder het midden, Pattern=nee
+	Constrained: Pattern=het, Pattern=het midden, Pattern=een
+Turn ID=64| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=65| A | A : ja ik denken het waar de bal zitten dat dat ongeveer de middellijn zijn zo
+	Free: Pattern=dat, Pattern=het, Pattern=ik, Pattern=zijn, Pattern=de middellijn, Pattern=de, Pattern=ja, Pattern=zitten, Pattern=ongeveer
+	Constrained: Pattern=de
+Turn ID=66| B | B : ja ja ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=67| A | A : ja oké ja
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 

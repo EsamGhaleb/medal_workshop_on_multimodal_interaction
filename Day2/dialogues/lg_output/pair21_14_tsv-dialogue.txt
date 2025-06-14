@@ -1,0 +1,119 @@
+A|0| A: _een_ _kop_ met _een_ _balle_ erop _zijn_ eigenlijk _de_ enig met _een_ _balle_ _aan de bovenkant_ 
+B|1| B: zo'n eivormig [balle] 
+A|2| A: _ja_ echt _een rond_ [balle] eigenlijk _en_ _je_ _zien_ hem niet helemaal 
+A|3| A: _en_ voor _de_ rest _zitten er een_ staaf voor _het kop_ 
+A|4| A: _en aan de_ beide _kant_ _zitten er een_ soort 
+B|5| B: [ja] 
+A|6| A: _hebben_ _je_ hem 
+B|7| B: dan weten ik welk [het] [zijn] 
+B|8| B: dat [zijn] O 
+B|9| B: _oké_ ik [zien] [een] [ja] weer zo'n zo'n zo'n [rond] maar ik vinden [het] op [een] ei lijken , volgens mij weten [je] dan _wel_ wat ik bedoelen 
+A|10| A: [ja] 
+B|11| B: [en] _die_ [zitten] op [het kop] [en aan de] voorkant [zitten er een] één [ja] [een] paal _die_ _naar beneden_ gaan 
+A|12| A: [oké] [en] _hebben_ hij ook [aan] links [en] rechts [een] soort uitstulpsel 
+B|13| B: [ja] 
+A|14| A: [oké] nummer vijfteen 
+A|15| A: [oké] dit _hebben_ [een] [balle] bovenop als enig 
+A|16| A: [en] [het] [een] staaf [die] recht [naar beneden] lopen , [een] heel groot staaf 
+B|17| B: [ja] dat [zijn] A 
+B|18| B: [oké] deze [hebben] [aan de bovenkant] [een rond] [een] ei 
+B|19| B: [en aan de] voorkant [een] paal 
+B|20| B: [en aan] twee [aan de] zijkant [aan] allebei [de] [kant] [een] uittulpsel 
+A|21| A: [oké] nummer twaalf 
+A|22| A: [een] [balle] bovenop [en] [een] best [wel] lang staaf 
+B|23| B: dat [zijn] J 
+B|24| B: [de] cirkel op [het kop] [en] [de] paal [aan de] voorkant 
+A|25| A: [die] recht staaf met 
+B|26| B: [ja] 
+A|27| A: [oké] 
+A|28| A: nummer vijfteen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : een kop met een balle erop zijn eigenlijk de enig met een balle aan de bovenkant
+	Free: Pattern=de, Pattern=een, Pattern=kop, Pattern=balle, Pattern=aan de bovenkant, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=1| B | B : zo'n eivormig balle
+	Free: Pattern=balle
+	Constrained: 
+Turn ID=2| A | A : ja echt een rond balle eigenlijk en je zien hem niet helemaal
+	Free: Pattern=ja, Pattern=zien, Pattern=balle, Pattern=en, Pattern=een rond, Pattern=je
+	Constrained: Pattern=rond, Pattern=een
+Turn ID=3| A | A : en voor de rest zitten er een staaf voor het kop
+	Free: Pattern=zitten er een, Pattern=het kop, Pattern=en, Pattern=de
+	Constrained: Pattern=een, Pattern=kop, Pattern=zitten, Pattern=het
+Turn ID=4| A | A : en aan de beide kant zitten er een soort
+	Free: Pattern=en aan de, Pattern=zitten er een, Pattern=kant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=en, Pattern=en aan, Pattern=de, Pattern=aan
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : hebben je hem
+	Free: Pattern=hebben, Pattern=je
+	Constrained: 
+Turn ID=7| B | B : dan weten ik welk het zijn
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=8| B | B : dat zijn O
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : oké ik zien een ja weer zo'n zo'n zo'n rond maar ik vinden het op een ei lijken , volgens mij weten je dan wel wat ik bedoelen
+	Free: Pattern=ja, Pattern=het, Pattern=zien, Pattern=oké, Pattern=rond, Pattern=je, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en die zitten op het kop en aan de voorkant zitten er een één ja een paal die naar beneden gaan
+	Free: Pattern=zitten er een, Pattern=ja, Pattern=het kop, Pattern=een, Pattern=naar beneden, Pattern=en, Pattern=en aan de, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=een, Pattern=het, Pattern=kop, Pattern=zitten, Pattern=en, Pattern=en aan, Pattern=de, Pattern=aan
+Turn ID=12| A | A : oké en hebben hij ook aan links en rechts een soort uitstulpsel
+	Free: Pattern=aan, Pattern=een, Pattern=hebben, Pattern=oké, Pattern=en
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : oké nummer vijfteen
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : oké dit hebben een balle bovenop als enig
+	Free: Pattern=oké, Pattern=hebben, Pattern=balle, Pattern=een
+	Constrained: 
+Turn ID=16| A | A : en het een staaf die recht naar beneden lopen , een heel groot staaf
+	Free: Pattern=een, Pattern=het, Pattern=die, Pattern=naar beneden, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja dat zijn A
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : oké deze hebben aan de bovenkant een rond een ei
+	Free: Pattern=een, Pattern=hebben, Pattern=oké, Pattern=aan de bovenkant, Pattern=een rond
+	Constrained: Pattern=aan de, Pattern=een, Pattern=rond, Pattern=de, Pattern=aan
+Turn ID=19| B | B : en aan de voorkant een paal
+	Free: Pattern=en aan de, Pattern=een
+	Constrained: Pattern=aan de, Pattern=en, Pattern=en aan, Pattern=de, Pattern=aan
+Turn ID=20| B | B : en aan twee aan de zijkant aan allebei de kant een uittulpsel
+	Free: Pattern=kant, Pattern=aan de, Pattern=een, Pattern=en aan, Pattern=de, Pattern=aan
+	Constrained: Pattern=en, Pattern=de, Pattern=aan
+Turn ID=21| A | A : oké nummer twaalf
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| A | A : een balle bovenop en een best wel lang staaf
+	Free: Pattern=en, Pattern=balle, Pattern=wel, Pattern=een
+	Constrained: 
+Turn ID=23| B | B : dat zijn J
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=24| B | B : de cirkel op het kop en de paal aan de voorkant
+	Free: Pattern=het kop, Pattern=aan de, Pattern=en, Pattern=de
+	Constrained: Pattern=kop, Pattern=de, Pattern=aan, Pattern=het
+Turn ID=25| A | A : die recht staaf met
+	Free: Pattern=die
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=28| A | A : nummer vijfteen
+	Free: 
+	Constrained: 

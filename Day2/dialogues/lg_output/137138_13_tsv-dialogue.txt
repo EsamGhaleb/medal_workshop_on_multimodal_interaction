@@ -1,0 +1,223 @@
+B|0| B: _oké_ deze _zijn_ uitzien _er_ heel anders uit _dan_ _de_ rest _dit_ 
+B|1| B: deze _hebben_ _helemaal_ _hij staan op een_ plat _plateau_ _en_ _hebben_ boven _aan_ beide kant _drie_ _van_ _die_ soort _rond_ diamantjesachtig ding 
+A|2| A: _ja_ [dan] weten ik denken ik al _wel_ wat _je_ welk _je_ bedoelen [er] _zitten_ [een] [rond] voor nog 
+B|3| B: [ja] _en_ _die_ _hebben_ 
+B|4| B: [ja] precies 
+A|5| A: [ja] 
+A|6| A: [oké] [dan] [zijn] _het_ nummer vijf 
+B|7| B: [oké] _en_ deze [zijn] [wel] [je] _hebben_ onderaan _hebben_ [je] _drie_ _hebben_ [je] weer _drie_ ding 
+B|8| B: _drie_ _drie_ vorm 
+B|9| B: _en_ [dan] _van_ _de_ _links_ _daar_ _staan_ _die_ recht boven _eigenlijk_ 
+A|10| A: _nee_ [dan] _zitten_ [die] _niet_ [op] [de] juist plek dus _dat zijn_ rood 
+B|11| B: [oké] 
+B|12| B: [ja] 
+A|13| A: even kijken hoor [ja] _dit zijn_ [die] enig met [die] [hij] [hebben] [drie] driehoekje [die] [er] [links] uitsteken _en drie_ driehoekje [die] [er] _rechts_ uitsteken _en [hij_ staan op een] [plateau] 
+B|14| B: [ja] 
+B|15| B: [oké] 
+B|16| B: [ja] 
+B|17| B: [dat zijn] J 
+A|18| A: [helemaal] _rechts_ onderin 
+B|19| B: _nee bij mij_ [staan] [die] één _naar_ [links] 
+B|20| B: [oké] [dit zijn] weer [de] [drie] kraalt zeggen maar _die drie_ [rechts] [en drie] link [zitten] 
+A|21| A: [ja] [dan] weten ik welk [je] bedoelen 
+B|22| B: [ja] 
+A|23| A: met _het_ [rond] [plateau] _aan de_ voorkant 
+B|24| B: [ja] 
+A|25| A: [ja] 
+A|26| A: [dat zijn] elf 
+B|27| B: [oké] [en] [dan] [hebben] _je de_ [drie] [links] 
+B|28| B: _en daar_ [hebben] [je] weer _een rij_ _van_ [drie] 
+B|29| B: [en] [dan] _de middel van_ [die] 
+A|30| A: [nee bij mij] [zitten] [die] nog [een rij] daarnaast 
+B|31| B: [oké] 
+A|32| A: dus [dat] _kloppen niet_ 
+A|33| A: [dit zijn] met [die] uitsteeksel _links en rechts_ [die drie] driehoek 
+B|34| B: [ja] [oké] 
+A|35| A: dus [links] [drie] _en rechts_ [drie] 
+B|36| B: [dat zijn] P 
+A|37| A: [en] als [je de] bovenste [rij] kijken [zijn] _het_ [eigenlijk] vijf figuur 
+A|38| A: [en daar] [zijn] _het_ [de middel van] 
+B|39| B: [oké] [nee] [kloppen niet] 
+B|40| B: [drie] diamant druppeltje [aan de] bovenkant [die] [links en rechts] zo 
+A|41| A: met [dat] [rond] [plateau] ervoor 
+B|42| B: [ja] 
+A|43| A: [ja] [dat zijn] nummer negen 
+B|44| B: [en hij] [zitten] [helemaal] _bovenin_ in _het midden_ 
+A|45| A: [nee bij mij] [zitten] [die] daaronder 
+A|46| A: [dit zijn] [de] figuur met [die drie] driehoek [aan de] linkerkant [die] uitsteken [en] [aan de] rechterkant ook 
+A|47| A: [hij staan op een] [plateau] [dat zijn] [eigenlijk] [de] enig [die] [op een] [plateau] [staan] 
+B|48| B: [ja] 
+B|49| B: L 
+A|50| A: [en] [zijn] als [je] [het] figuur [links] [bovenin] 
+A|51| A: daarnaast 
+B|52| B: [nee] 
+A|53| A: dus iets veel [naar] [het midden] toe 
+B|54| B: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze zijn uitzien er heel anders uit dan de rest dit
+	Free: Pattern=de, Pattern=dan, Pattern=dit, Pattern=oké, Pattern=er, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : deze hebben helemaal hij staan op een plat plateau en hebben boven aan beide kant drie van die soort rond diamantjesachtig ding
+	Free: Pattern=aan, Pattern=helemaal, Pattern=drie, Pattern=hebben, Pattern=plateau, Pattern=die, Pattern=rond, Pattern=hij staan op een, Pattern=van, Pattern=en
+	Constrained: Pattern=op, Pattern=hij, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=2| A | A : ja dan weten ik denken ik al wel wat je welk je bedoelen er zitten een rond voor nog
+	Free: Pattern=ja, Pattern=dan, Pattern=zitten, Pattern=er, Pattern=rond, Pattern=je, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=3| B | B : ja en die hebben
+	Free: Pattern=en, Pattern=ja, Pattern=hebben, Pattern=die
+	Constrained: 
+Turn ID=4| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké dan zijn het nummer vijf
+	Free: Pattern=dan, Pattern=oké, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=7| B | B : oké en deze zijn wel je hebben onderaan hebben je drie hebben je weer drie ding
+	Free: Pattern=wel, Pattern=drie, Pattern=hebben, Pattern=oké, Pattern=en, Pattern=zijn, Pattern=je
+	Constrained: 
+Turn ID=8| B | B : drie drie vorm
+	Free: Pattern=drie
+	Constrained: 
+Turn ID=9| B | B : en dan van de links daar staan die recht boven eigenlijk
+	Free: Pattern=de, Pattern=dan, Pattern=staan, Pattern=links, Pattern=eigenlijk, Pattern=die, Pattern=daar, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=10| A | A : nee dan zitten die niet op de juist plek dus dat zijn rood
+	Free: Pattern=dat zijn, Pattern=de, Pattern=op, Pattern=nee, Pattern=niet, Pattern=dan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : even kijken hoor ja dit zijn die enig met die hij hebben drie driehoekje die er links uitsteken en drie driehoekje die er rechts uitsteken en hij staan op een plateau
+	Free: Pattern=links, Pattern=drie, Pattern=hebben, Pattern=en drie, Pattern=die, Pattern=en hij, Pattern=er, Pattern=hij staan op een, Pattern=dit zijn, Pattern=rechts, Pattern=ja, Pattern=plateau, Pattern=hij
+	Constrained: Pattern=op, Pattern=drie, Pattern=en, Pattern=zijn, Pattern=op een, Pattern=een, Pattern=staan, Pattern=hij, Pattern=dit
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : helemaal rechts onderin
+	Free: Pattern=rechts, Pattern=helemaal
+	Constrained: 
+Turn ID=19| B | B : nee bij mij staan die één naar links
+	Free: Pattern=staan, Pattern=links, Pattern=nee bij mij, Pattern=die, Pattern=naar
+	Constrained: Pattern=nee
+Turn ID=20| B | B : oké dit zijn weer de drie kraalt zeggen maar die drie rechts en drie link zitten
+	Free: Pattern=die drie, Pattern=drie, Pattern=en drie, Pattern=zitten, Pattern=oké, Pattern=dit zijn, Pattern=de, Pattern=rechts
+	Constrained: Pattern=drie, Pattern=dit, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=21| A | A : ja dan weten ik welk je bedoelen
+	Free: Pattern=dan, Pattern=ja, Pattern=je
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : met het rond plateau aan de voorkant
+	Free: Pattern=aan de, Pattern=het, Pattern=plateau, Pattern=rond
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| B | B : oké en dan hebben je de drie links
+	Free: Pattern=je de, Pattern=dan, Pattern=links, Pattern=drie, Pattern=hebben, Pattern=oké, Pattern=en
+	Constrained: Pattern=de, Pattern=je
+Turn ID=28| B | B : en daar hebben je weer een rij van drie
+	Free: Pattern=en daar, Pattern=drie, Pattern=hebben, Pattern=een rij, Pattern=van, Pattern=je
+	Constrained: Pattern=daar, Pattern=en, Pattern=een, Pattern=rij
+Turn ID=29| B | B : en dan de middel van die
+	Free: Pattern=de middel van, Pattern=dan, Pattern=en, Pattern=die
+	Constrained: Pattern=van, Pattern=de
+Turn ID=30| A | A : nee bij mij zitten die nog een rij daarnaast
+	Free: Pattern=nee bij mij, Pattern=een rij, Pattern=zitten, Pattern=die
+	Constrained: Pattern=een, Pattern=rij, Pattern=nee
+Turn ID=31| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| A | A : dus dat kloppen niet
+	Free: Pattern=kloppen niet, Pattern=dat
+	Constrained: Pattern=niet
+Turn ID=33| A | A : dit zijn met die uitsteeksel links en rechts die drie driehoek
+	Free: Pattern=links en rechts, Pattern=dit zijn, Pattern=die drie, Pattern=die
+	Constrained: Pattern=en rechts, Pattern=rechts, Pattern=links, Pattern=drie, Pattern=dit, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=34| B | B : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : dus links drie en rechts drie
+	Free: Pattern=en rechts, Pattern=drie, Pattern=links
+	Constrained: Pattern=en, Pattern=rechts
+Turn ID=36| B | B : dat zijn P
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| A | A : en als je de bovenste rij kijken zijn het eigenlijk vijf figuur
+	Free: Pattern=je de, Pattern=rij, Pattern=het, Pattern=eigenlijk, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=je
+Turn ID=38| A | A : en daar zijn het de middel van
+	Free: Pattern=de middel van, Pattern=en daar, Pattern=zijn, Pattern=het
+	Constrained: Pattern=daar, Pattern=de, Pattern=van, Pattern=en
+Turn ID=39| B | B : oké nee kloppen niet
+	Free: Pattern=kloppen niet, Pattern=nee, Pattern=oké
+	Constrained: Pattern=niet
+Turn ID=40| B | B : drie diamant druppeltje aan de bovenkant die links en rechts zo
+	Free: Pattern=links en rechts, Pattern=aan de, Pattern=drie, Pattern=die
+	Constrained: Pattern=en rechts, Pattern=links, Pattern=en, Pattern=de, Pattern=rechts, Pattern=aan
+Turn ID=41| A | A : met dat rond plateau ervoor
+	Free: Pattern=dat, Pattern=plateau, Pattern=rond
+	Constrained: 
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : ja dat zijn nummer negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=44| B | B : en hij zitten helemaal bovenin in het midden
+	Free: Pattern=het midden, Pattern=helemaal, Pattern=zitten, Pattern=en hij, Pattern=bovenin
+	Constrained: Pattern=hij, Pattern=en, Pattern=het
+Turn ID=45| A | A : nee bij mij zitten die daaronder
+	Free: Pattern=nee bij mij, Pattern=zitten, Pattern=die
+	Constrained: Pattern=nee
+Turn ID=46| A | A : dit zijn de figuur met die drie driehoek aan de linkerkant die uitsteken en aan de rechterkant ook
+	Free: Pattern=de, Pattern=aan de, Pattern=die drie, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=drie, Pattern=dit, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=47| A | A : hij staan op een plateau dat zijn eigenlijk de enig die op een plateau staan
+	Free: Pattern=dat zijn, Pattern=de, Pattern=staan, Pattern=die, Pattern=hij staan op een, Pattern=op een, Pattern=plateau, Pattern=eigenlijk
+	Constrained: Pattern=dat, Pattern=op, Pattern=hij, Pattern=zijn, Pattern=op een, Pattern=een, Pattern=staan
+Turn ID=48| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : en zijn als je het figuur links bovenin
+	Free: Pattern=links, Pattern=het, Pattern=en, Pattern=zijn, Pattern=je, Pattern=bovenin
+	Constrained: 
+Turn ID=51| A | A : daarnaast
+	Free: 
+	Constrained: 
+Turn ID=52| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=53| A | A : dus iets veel naar het midden toe
+	Free: Pattern=het midden, Pattern=naar
+	Constrained: Pattern=het
+Turn ID=54| B | B : nee
+	Free: Pattern=nee
+	Constrained: 

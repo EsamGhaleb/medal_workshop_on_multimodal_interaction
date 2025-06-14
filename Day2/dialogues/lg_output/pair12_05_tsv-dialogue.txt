@@ -1,0 +1,79 @@
+B|0| B: _ja deze_ hebben eigenlijk heel weinig uitsteeksel 
+B|1| B: hij hebben _een_ _soort van_ _neus linksonder_ 
+B|2| B: _en_ _bovenop_ liggen _een_ blok 
+A|3| A: [ja] acht 
+A|4| A: [ja deze] _zijn_ die vag 
+A|5| A: dat _balk_ [bovenop] [en] die [ja] [soort van] neusvorm [linksonder] 
+B|6| B: h 
+B|7| B: [deze] hebben _een_ _neus linksonder_ [en] het blok [bovenop] [zijn] hoofd 
+B|8| B: met _een_ heel raar vormp aan _de_ rechterkant 
+A|9| A: [ja] vijfteen 
+A|10| A: okee 
+A|11| A: [de] _balk_ links rechts [bovenop] [en] _de neus linksonder_ 
+B|12| B: c 
+B|13| B: [de neus linksonder] [en] het [balk] horizontaal [bovenop] 
+A|14| A: [ja] 
+A|15| A: [een] 
+A|16| A: [balk] links rechts [bovenop] [en] [neus linksonder] 
+A|17| A: [de] [balk] [bovenop] [van] links rechts 
+B|18| B: a 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben eigenlijk heel weinig uitsteeksel
+	Free: Pattern=ja deze
+	Constrained: Pattern=ja, Pattern=deze
+Turn ID=1| B | B : hij hebben een soort van neus linksonder
+	Free: Pattern=soort van, Pattern=neus linksonder, Pattern=een
+	Constrained: Pattern=van, Pattern=linksonder
+Turn ID=2| B | B : en bovenop liggen een blok
+	Free: Pattern=en, Pattern=bovenop, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja acht
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja deze zijn die vag
+	Free: Pattern=ja deze, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=deze
+Turn ID=5| A | A : dat balk bovenop en die ja soort van neusvorm linksonder
+	Free: Pattern=bovenop, Pattern=ja, Pattern=balk, Pattern=en, Pattern=linksonder, Pattern=soort van
+	Constrained: Pattern=van
+Turn ID=6| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : deze hebben een neus linksonder en het blok bovenop zijn hoofd
+	Free: Pattern=bovenop, Pattern=een, Pattern=neus linksonder, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=linksonder
+Turn ID=8| B | B : met een heel raar vormp aan de rechterkant
+	Free: Pattern=de, Pattern=een
+	Constrained: 
+Turn ID=9| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : de balk links rechts bovenop en de neus linksonder
+	Free: Pattern=bovenop, Pattern=de, Pattern=de neus linksonder, Pattern=balk, Pattern=en
+	Constrained: Pattern=neus linksonder, Pattern=linksonder, Pattern=de
+Turn ID=12| B | B : c
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : de neus linksonder en het balk horizontaal bovenop
+	Free: Pattern=de neus linksonder, Pattern=en, Pattern=bovenop, Pattern=balk
+	Constrained: Pattern=neus linksonder, Pattern=linksonder, Pattern=de
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=16| A | A : balk links rechts bovenop en neus linksonder
+	Free: Pattern=neus linksonder, Pattern=en, Pattern=bovenop, Pattern=balk
+	Constrained: Pattern=linksonder
+Turn ID=17| A | A : de balk bovenop van links rechts
+	Free: Pattern=van, Pattern=bovenop, Pattern=balk, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : a
+	Free: 
+	Constrained: 

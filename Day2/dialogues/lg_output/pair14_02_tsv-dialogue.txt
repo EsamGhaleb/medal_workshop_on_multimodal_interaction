@@ -1,0 +1,159 @@
+A|0| A: _deze_ _hebben_ een groot _driehoek_ bovenop 
+A|1| A: zeggen _en_ hij lijken een _beetje_ rond te opgaan zeggen maar een kegel 
+B|2| B: _ja_ 
+A|3| A: _en_ _aan de_ linkerkant zitten er een soort van kogel 
+A|4| A: ook een kegel zeggen maar 
+B|5| B: _ja_ 
+B|6| B: ah _okee_ 
+A|7| A: _en dan_ linksonder zitten _zo'n_ cirkel 
+B|8| B: _ja_ 
+B|9| B: wachten _en dan [en_ dan] [hebben] je rechts nog [zo'n] 
+A|10| A: [en dan en] rechtsvoor [zo'n] groot _blok_ 
+B|11| B: _ja_ precies 
+A|12| A: [ja] 
+B|13| B: [ja] l 
+B|14| B: [deze] _zijn_ _met die driehoek_ op [de] bovenkant 
+B|15| B: [beetje] [ja] driedimensionaal [driehoek] [aan de] bovenkant 
+A|16| A: [ja] 
+A|17| A: [ja] 
+B|18| B: bij [zo'n] scheef _blok aan de voorkant_ staan 
+A|19| A: _ja [en_ dan] [zo'n] kegel [aan de] linkerkant [die] eruit steken 
+B|20| B: [ja] 
+B|21| B: [ja] 
+A|22| A: [okee] _dat zijn_ veertien 
+A|23| A: _dit zijn_ weer [die] [die driehoek] bovenop zeggen maar [die] kegel [die] dimensionaal [met] _dat_ groot _raar [blok_ aan de voorkant] 
+B|24| B: [ja] 
+B|25| B: [ja] [ja] [ja _en] dat_ schotel onder 
+A|26| A: [ja] 
+B|27| B: [ja] 
+B|28| B: [dat zijn] k 
+B|29| B: [dit zijn] _met die driehoek_ op [de] bovenkant 
+B|30| B: _en dat_ [blok aan de voorkant] 
+A|31| A: [ja] negen 
+A|32| A: [dit zijn] weer [met die driehoek] erbovenop _en dat raar_ groot [blok] rechtsvoor 
+B|33| B: [ja] 
+B|34| B: [ja] 
+B|35| B: [dat zijn] h 
+B|36| B: [dit zijn] [dat] [driehoek] 
+B|37| B: [dat] [driehoek] op [de] bovenkant [en dat [raar] blok] 
+A|38| A: [ja] een 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een groot driehoek bovenop
+	Free: Pattern=deze, Pattern=driehoek, Pattern=hebben
+	Constrained: 
+Turn ID=1| A | A : zeggen en hij lijken een beetje rond te opgaan zeggen maar een kegel
+	Free: Pattern=beetje, Pattern=en
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en aan de linkerkant zitten er een soort van kogel
+	Free: Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=4| A | A : ook een kegel zeggen maar
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ah okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=7| A | A : en dan linksonder zitten zo'n cirkel
+	Free: Pattern=en dan, Pattern=zo'n
+	Constrained: Pattern=en
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : wachten en dan en dan hebben je rechts nog zo'n
+	Free: Pattern=en dan en, Pattern=en dan, Pattern=zo'n, Pattern=hebben
+	Constrained: Pattern=en dan, Pattern=en
+Turn ID=10| A | A : en dan en rechtsvoor zo'n groot blok
+	Free: Pattern=en dan en, Pattern=zo'n, Pattern=blok
+	Constrained: Pattern=en dan, Pattern=en
+Turn ID=11| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : deze zijn met die driehoek op de bovenkant
+	Free: Pattern=met die driehoek, Pattern=zijn, Pattern=deze, Pattern=de
+	Constrained: Pattern=die driehoek, Pattern=met, Pattern=driehoek, Pattern=die
+Turn ID=15| B | B : beetje ja driedimensionaal driehoek aan de bovenkant
+	Free: Pattern=aan de, Pattern=beetje, Pattern=ja, Pattern=driehoek
+	Constrained: Pattern=de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : bij zo'n scheef blok aan de voorkant staan
+	Free: Pattern=blok aan de voorkant, Pattern=zo'n
+	Constrained: Pattern=de, Pattern=blok, Pattern=aan de
+Turn ID=19| A | A : ja en dan zo'n kegel aan de linkerkant die eruit steken
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=aan de, Pattern=die, Pattern=ja en
+	Constrained: Pattern=ja, Pattern=en, Pattern=de
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : okee dat zijn veertien
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| A | A : dit zijn weer die die driehoek bovenop zeggen maar die kegel die dimensionaal met dat groot raar blok aan de voorkant
+	Free: Pattern=dat, Pattern=met, Pattern=die, Pattern=die driehoek, Pattern=raar blok, Pattern=blok aan de voorkant, Pattern=dit zijn
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=aan de, Pattern=die, Pattern=blok, Pattern=zijn
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja ja ja en dat schotel onder
+	Free: Pattern=ja en, Pattern=en dat, Pattern=ja
+	Constrained: Pattern=dat, Pattern=ja, Pattern=en
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : dat zijn k
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| B | B : dit zijn met die driehoek op de bovenkant
+	Free: Pattern=met die driehoek, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=driehoek, Pattern=met, Pattern=die, Pattern=die driehoek, Pattern=zijn
+Turn ID=30| B | B : en dat blok aan de voorkant
+	Free: Pattern=blok aan de voorkant, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=de, Pattern=aan de, Pattern=en, Pattern=blok
+Turn ID=31| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dit zijn weer met die driehoek erbovenop en dat raar groot blok rechtsvoor
+	Free: Pattern=met die driehoek, Pattern=en dat raar, Pattern=dit zijn, Pattern=blok
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=met, Pattern=die, Pattern=die driehoek, Pattern=en, Pattern=zijn, Pattern=en dat
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat zijn h
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=36| B | B : dit zijn dat driehoek
+	Free: Pattern=dit zijn, Pattern=dat, Pattern=driehoek
+	Constrained: Pattern=zijn
+Turn ID=37| B | B : dat driehoek op de bovenkant en dat raar blok
+	Free: Pattern=driehoek, Pattern=dat, Pattern=de, Pattern=en dat raar, Pattern=raar blok
+	Constrained: Pattern=dat, Pattern=blok, Pattern=en, Pattern=en dat
+Turn ID=38| A | A : ja een
+	Free: Pattern=ja
+	Constrained: 

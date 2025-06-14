@@ -1,0 +1,227 @@
+B|0| B: deze _hebben_ _een neusvormig neus_ 
+A|1| A: [een neusvormig neus] _aan de linkerkant_ 
+B|2| B: [aan de linkerkant] 
+B|3| B: _ja_ 
+A|4| A: _met_ zo'n raar _vulkaanding_ _op zijn hoofd_ 
+A|5| A: _en_ dan twee _van_ _die_ uitsteeksel 
+B|6| B: geen [vulkaanding] 
+B|7| B: [een] _balk op zijn hoofd_ 
+A|8| A: _die_ _een beetje_ uitzien als [een] onderzeeër _dat_ ding _met_ zo'n 
+B|9| B: _ja_ _niet_ _niet_ [die] _met die_ driehoek [op zijn hoofd] maar [die] 
+A|10| A: nee [met] zo'n echt zo'n [balk] _en_ daarnaast [een] soort _van_ omgekeerd _hamer_ of zo [aan de] zijkant plakken 
+B|11| B: _ja_ 
+A|12| A: _oké_ 
+B|13| B: _ja dat zijn_ _hem_ 
+A|14| A: [dat zijn] nummer acht 
+B|15| B: [oké] hij bekendstaan eigenlijk helemaal _in het midden_ maar _iets_ _veel_ _naar_ _links_ [en] _iets_ _veel_ _naar_ boven 
+A|16| A: [ja] [die] [hebben] ik _ook_ 
+B|17| B: [oké] 
+A|18| A: _dit zijn_ [die] [een] [met die] _neus [met_ die] [balk op zijn hoofd] 
+B|19| B: [de] _neus met de [balk_ op zijn hoofd] [ja] E 
+A|20| A: [en] [die] _staan_ [ja] _een beetje naar_ _rechts_ _beetje naar_ _onder_ dus dan echt ongeveer zo _onder_ [het midden] 
+B|21| B: [ja] 
+B|22| B: [staan] _bij mij_ [een beetje] [rechts] [een beetje naar] boven 
+A|23| A: nee [bij mij] _onder_ [bij mij] 
+B|24| B: [dit zijn] _met de_ [neus] [en] bak boven [op zijn hoofd] 
+B|25| B: [en] omgekeerde [hamer] 
+A|26| A: even zoeken 
+A|27| A: [ja] [met die] [balk] [ja dat zijn] één 
+B|28| B: hij [staan] _in het midden_ [en] helemaal [naar] boven 
+A|29| A: [ja] _bij mij ook_ wel [ja] 
+A|30| A: [dit zijn] [het] gezicht [met die] [balk] erop 
+A|31| A: [op zijn hoofd] 
+B|32| B: [ja] 
+B|33| B: E 
+A|34| A: [en] dan _staan die_ _in het midden van_ link 
+B|35| B: [beetje naar] _beneden_ 
+A|36| A: [en] net [iets] [beneden] [ja] 
+B|37| B: [ja] 
+B|38| B: [de] _neus met de [balk_ op zijn hoofd] 
+A|39| A: [ja] even zoeken 
+B|40| B: [en] [de] omgekeerde [hamer] 
+A|41| A: waar _staan die_ 
+A|42| A: [ja] nummer zestien 
+B|43| B: [bij mij] [staan die] helemaal onderaan _past er_ geen _veel_ [onder] 
+B|44| B: [en] [in het midden van] [rechts] 
+A|45| A: [ja] ik _ook_ 
+A|46| A: [ja] 
+A|47| A: [hebben] je [een] [neus met de balk] 
+B|48| B: [oké] 
+B|49| B: O 
+A|50| A: [en] ik [hem] [links] 
+A|51| A: eronder [past er] niks [veel] 
+B|52| B: [ja] 
+A|53| A: [en] [er] link [van] twijfelgeval net [niet] denken ik 
+B|54| B: [ja] [ja] 
+B|55| B: [bij mij ook] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een neusvormig neus
+	Free: Pattern=een neusvormig neus, Pattern=hebben
+	Constrained: Pattern=neus, Pattern=een
+Turn ID=1| A | A : een neusvormig neus aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=een neusvormig neus
+	Constrained: Pattern=neus, Pattern=de, Pattern=aan de, Pattern=een
+Turn ID=2| B | B : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : met zo'n raar vulkaanding op zijn hoofd
+	Free: Pattern=op zijn hoofd, Pattern=met, Pattern=vulkaanding
+	Constrained: 
+Turn ID=5| A | A : en dan twee van die uitsteeksel
+	Free: Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=6| B | B : geen vulkaanding
+	Free: Pattern=vulkaanding
+	Constrained: 
+Turn ID=7| B | B : een balk op zijn hoofd
+	Free: Pattern=balk op zijn hoofd, Pattern=een
+	Constrained: Pattern=op zijn hoofd, Pattern=balk
+Turn ID=8| A | A : die een beetje uitzien als een onderzeeër dat ding met zo'n
+	Free: Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=9| B | B : ja niet niet die met die driehoek op zijn hoofd maar die
+	Free: Pattern=met die, Pattern=ja, Pattern=niet, Pattern=die, Pattern=op zijn hoofd
+	Constrained: Pattern=met, Pattern=die
+Turn ID=10| A | A : nee met zo'n echt zo'n balk en daarnaast een soort van omgekeerd hamer of zo aan de zijkant plakken
+	Free: Pattern=aan de, Pattern=een, Pattern=balk, Pattern=hamer, Pattern=met, Pattern=van, Pattern=en
+	Constrained: Pattern=de
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| B | B : ja dat zijn hem
+	Free: Pattern=ja dat zijn, Pattern=hem
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat
+Turn ID=14| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=15| B | B : oké hij bekendstaan eigenlijk helemaal in het midden maar iets veel naar links en iets veel naar boven
+	Free: Pattern=iets, Pattern=veel, Pattern=links, Pattern=oké, Pattern=en, Pattern=in het midden, Pattern=naar
+	Constrained: Pattern=het midden, Pattern=het
+Turn ID=16| A | A : ja die hebben ik ook
+	Free: Pattern=ook, Pattern=ja, Pattern=die, Pattern=hebben
+	Constrained: 
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : dit zijn die een met die neus met die balk op zijn hoofd
+	Free: Pattern=met die, Pattern=een, Pattern=balk op zijn hoofd, Pattern=die, Pattern=neus met, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=die, Pattern=op zijn hoofd, Pattern=neus, Pattern=balk
+Turn ID=19| B | B : de neus met de balk op zijn hoofd ja E
+	Free: Pattern=neus met de balk, Pattern=balk op zijn hoofd, Pattern=ja, Pattern=de
+	Constrained: Pattern=met, Pattern=neus met, Pattern=op zijn hoofd, Pattern=de, Pattern=met de, Pattern=neus, Pattern=balk
+Turn ID=20| A | A : en die staan ja een beetje naar rechts beetje naar onder dus dan echt ongeveer zo onder het midden
+	Free: Pattern=het midden, Pattern=staan, Pattern=onder, Pattern=en, Pattern=een beetje naar, Pattern=rechts, Pattern=ja, Pattern=beetje naar, Pattern=die
+	Constrained: Pattern=een, Pattern=het, Pattern=beetje naar, Pattern=een beetje, Pattern=naar
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : staan bij mij een beetje rechts een beetje naar boven
+	Free: Pattern=rechts, Pattern=staan, Pattern=een beetje naar, Pattern=bij mij, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=naar, Pattern=beetje naar, Pattern=een beetje
+Turn ID=23| A | A : nee bij mij onder bij mij
+	Free: Pattern=bij mij, Pattern=onder
+	Constrained: 
+Turn ID=24| B | B : dit zijn met de neus en bak boven op zijn hoofd
+	Free: Pattern=met de, Pattern=neus, Pattern=en, Pattern=op zijn hoofd, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=met
+Turn ID=25| B | B : en omgekeerde hamer
+	Free: Pattern=hamer, Pattern=en
+	Constrained: 
+Turn ID=26| A | A : even zoeken
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja met die balk ja dat zijn één
+	Free: Pattern=ja dat zijn, Pattern=met die, Pattern=balk, Pattern=ja
+	Constrained: Pattern=ja, Pattern=met, Pattern=die, Pattern=dat, Pattern=dat zijn
+Turn ID=28| B | B : hij staan in het midden en helemaal naar boven
+	Free: Pattern=in het midden, Pattern=naar, Pattern=staan, Pattern=en
+	Constrained: Pattern=het midden, Pattern=het
+Turn ID=29| A | A : ja bij mij ook wel ja
+	Free: Pattern=bij mij ook, Pattern=ja
+	Constrained: Pattern=bij mij, Pattern=ook
+Turn ID=30| A | A : dit zijn het gezicht met die balk erop
+	Free: Pattern=dit zijn, Pattern=met die, Pattern=balk, Pattern=het
+	Constrained: Pattern=met, Pattern=die
+Turn ID=31| A | A : op zijn hoofd
+	Free: Pattern=op zijn hoofd
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : en dan staan die in het midden van link
+	Free: Pattern=in het midden van, Pattern=staan die, Pattern=en
+	Constrained: Pattern=het midden, Pattern=staan, Pattern=het, Pattern=die, Pattern=van, Pattern=in het midden
+Turn ID=35| B | B : beetje naar beneden
+	Free: Pattern=beetje naar, Pattern=beneden
+	Constrained: Pattern=naar
+Turn ID=36| A | A : en net iets beneden ja
+	Free: Pattern=ja, Pattern=beneden, Pattern=iets, Pattern=en
+	Constrained: 
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : de neus met de balk op zijn hoofd
+	Free: Pattern=neus met de balk, Pattern=balk op zijn hoofd, Pattern=de
+	Constrained: Pattern=met, Pattern=neus met, Pattern=op zijn hoofd, Pattern=de, Pattern=met de, Pattern=neus, Pattern=balk
+Turn ID=39| A | A : ja even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : en de omgekeerde hamer
+	Free: Pattern=de, Pattern=hamer, Pattern=en
+	Constrained: 
+Turn ID=41| A | A : waar staan die
+	Free: Pattern=staan die
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=42| A | A : ja nummer zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : bij mij staan die helemaal onderaan past er geen veel onder
+	Free: Pattern=staan die, Pattern=veel, Pattern=onder, Pattern=past er, Pattern=bij mij
+	Constrained: Pattern=er, Pattern=die, Pattern=staan
+Turn ID=44| B | B : en in het midden van rechts
+	Free: Pattern=in het midden van, Pattern=rechts, Pattern=en
+	Constrained: Pattern=in het midden, Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=45| A | A : ja ik ook
+	Free: Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : hebben je een neus met de balk
+	Free: Pattern=neus met de balk, Pattern=een, Pattern=hebben
+	Constrained: Pattern=met, Pattern=neus met, Pattern=de, Pattern=met de, Pattern=neus, Pattern=balk
+Turn ID=48| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=49| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : en ik hem links
+	Free: Pattern=hem, Pattern=links, Pattern=en
+	Constrained: 
+Turn ID=51| A | A : eronder past er niks veel
+	Free: Pattern=past er, Pattern=veel
+	Constrained: Pattern=er
+Turn ID=52| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| A | A : en er link van twijfelgeval net niet denken ik
+	Free: Pattern=er, Pattern=niet, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=54| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : bij mij ook
+	Free: Pattern=bij mij ook
+	Constrained: Pattern=bij mij, Pattern=ook

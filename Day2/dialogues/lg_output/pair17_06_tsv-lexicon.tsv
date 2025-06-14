@@ -1,0 +1,20 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
+2	2	3	de emmer zijn	11	11	1	A	1, 11
+3	1	2	de emmer	11	12	2	A	0, 1, 11
+2	2	2	de helikopter	19	4	1	B	16, 19
+2	2	2	deze hebben	14	6	1	B	9, 14
+2	2	2	die helikopter	21	8	1	A	14, 21
+2	2	2	een cirkel	10	8	1	A	3, 10
+2	2	2	in het	9	9	1	A	1, 9
+7	2	1	de	9	20	2	A	0, 1, 9, 10, 11, 16, 19
+7	6	1	een	9	12	4	A	0, 1, 2, 3, 9, 10, 11
+5	5	1	en	9	11	2	A	1, 7, 9, 10, 11
+5	3	1	hebben	9	15	3	A	0, 1, 3, 9, 14
+5	1	1	helikopter	14	13	1	B	9, 14, 16, 19, 21
+5	3	1	zijn	10	21	1	A	1, 10, 11, 16, 21
+3	3	1	bal	9	10	2	A	0, 1, 9
+3	1	1	deze	16	8	1	B	9, 14, 16
+2	2	1	bovenop	11	5	1	A	7, 11
+2	1	1	die	21	8	1	A	14, 21
+2	2	1	zo'n	9	3	1	A	7, 9
+

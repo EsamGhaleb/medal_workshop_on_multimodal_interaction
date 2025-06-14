@@ -1,0 +1,207 @@
+B|0| B: _oké_ _ik_ hebben _een_ vierkant 
+A|1| A: _ja_ 
+B|2| B: _ik_ vinden _het_ lijken op _een_ wc-borstel 
+B|3| B: _of_ _een_ _wc-pot_ _met_ _een_ _borstel erin_ _ik_ weten _het_ niet 
+A|4| A: [wc-pot] 
+B|5| B: _en aan de linkerkant_ _een_ uitstulping 
+A|6| A: _ja_ 
+B|7| B: _een_ staaf 
+A|8| A: alleen [aan de linkerkant] [of] _zitten_ er ook iets _aan de rechterkant_ 
+B|9| B: [aan de rechterkant] [zitten] niks 
+A|10| A: [oké] 
+B|11| B: _en_ hij staat wel op _een_ soort _voet_ 
+A|12| A: volgens _zien_ [ik] _hem_ , want [de] [voet] _zijn_ ongeveer _even_ lang _als de_ _als de bak_ _zelf_ 
+B|13| B: [ja] 
+A|14| A: [oké] 
+A|15| A: dan _zijn_ [het] twaalf 
+B|16| B: [oké] 
+A|17| A: dit _zijn_ wat jij noemen [de] [de] wc [met] [de] [borstel erin] 
+B|18| B: [ja] 
+A|19| A: [en aan de linkerkant] _zitten een_ [een] pilaar 
+B|20| B: [ja] [en] _een rond_ 
+A|21| A: [een rond] erbovenop [en] [de] [de] [of] [de] [de] onderkant van _de bak_ _zijn_ _even breed_ _als de bak_ _zelf_ 
+B|22| B: [de] ander 
+B|23| B: _ja ja_ dat [zijn] [hem] [ja] 
+B|24| B: I 
+B|25| B: next 
+B|26| B: [de] wc-kop 
+B|27| B: [borstel] 
+B|28| B: op [het] plateau 
+B|29| B: die [even breed] [zijn] [als] [het] kop [zelf] 
+A|30| A: [oké] 
+A|31| A: nog [een] keer 
+A|32| A: [de] [de] wc 
+B|33| B: [ja] [ik] [zien] [het] [als] [een] wc-borstel , [zitten een] [borstel] in 
+A|34| A: [de] [de] 
+A|35| A: [oké] 
+B|36| B: zoals [ik] [het] [zien] , [met] [een] uh , [met] [een] [voet] 
+A|37| A: [oké] [ja [ja] ja] 
+B|38| B: die [even breed] [zijn] [als de bak] [de] kop [zelf] 
+A|39| A: [ja] 
+A|40| A: [ja] 
+A|41| A: dertien 
+A|42| A: dit [zijn] [het] toilet 
+B|43| B: yes 
+A|44| A: [en] [met] [de] [borstel erin] , [en] [de] onderkant [zijn] [even breed] [als de bak] [zelf] 
+B|45| B: A 
+B|46| B: wc-bak [met] één [of] [een] wc-borstel [en] [een] gelijk plateau die [even breed] [zijn] [als] [het] kop 
+A|47| A: nummer dertien 
+B|48| B: [aan de linkerkant] 
+A|49| A: [de bak] [met] [de] toiletbak [met] [de] [met] [de] [even breed] onderkant 
+B|50| B: d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik hebben een vierkant
+	Free: Pattern=oké, Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ik vinden het lijken op een wc-borstel
+	Free: Pattern=het, Pattern=een, Pattern=ik
+	Constrained: 
+Turn ID=3| B | B : of een wc-pot met een borstel erin ik weten het niet
+	Free: Pattern=of, Pattern=wc-pot, Pattern=een, Pattern=het, Pattern=met, Pattern=borstel erin, Pattern=ik
+	Constrained: Pattern=borstel
+Turn ID=4| A | A : wc-pot
+	Free: Pattern=wc-pot
+	Constrained: 
+Turn ID=5| B | B : en aan de linkerkant een uitstulping
+	Free: Pattern=en aan de linkerkant, Pattern=een
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de linkerkant
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : een staaf
+	Free: Pattern=een
+	Constrained: 
+Turn ID=8| A | A : alleen aan de linkerkant of zitten er ook iets aan de rechterkant
+	Free: Pattern=aan de linkerkant, Pattern=aan de rechterkant, Pattern=zitten, Pattern=of
+	Constrained: Pattern=de
+Turn ID=9| B | B : aan de rechterkant zitten niks
+	Free: Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : en hij staat wel op een soort voet
+	Free: Pattern=en, Pattern=voet, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : volgens zien ik hem , want de voet zijn ongeveer even lang als de als de bak zelf
+	Free: Pattern=de, Pattern=even, Pattern=voet, Pattern=als de bak, Pattern=zien, Pattern=ik, Pattern=zijn, Pattern=hem, Pattern=zelf, Pattern=als de
+	Constrained: Pattern=als, Pattern=de bak, Pattern=als de, Pattern=de
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : dan zijn het twaalf
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| A | A : dit zijn wat jij noemen de de wc met de borstel erin
+	Free: Pattern=borstel erin, Pattern=zijn, Pattern=met, Pattern=de
+	Constrained: Pattern=borstel
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en aan de linkerkant zitten een een pilaar
+	Free: Pattern=en aan de linkerkant, Pattern=zitten een, Pattern=een
+	Constrained: Pattern=de, Pattern=een, Pattern=zitten, Pattern=en, Pattern=aan de linkerkant
+Turn ID=20| B | B : ja en een rond
+	Free: Pattern=een rond, Pattern=en, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=21| A | A : een rond erbovenop en de de of de de onderkant van de bak zijn even breed als de bak zelf
+	Free: Pattern=of, Pattern=de, Pattern=als de bak, Pattern=zelf, Pattern=en, Pattern=een rond, Pattern=even breed, Pattern=zijn, Pattern=de bak
+	Constrained: Pattern=de, Pattern=even, Pattern=een, Pattern=als de, Pattern=als, Pattern=de bak
+Turn ID=22| B | B : de ander
+	Free: Pattern=de
+	Constrained: 
+Turn ID=23| B | B : ja ja dat zijn hem ja
+	Free: Pattern=ja ja, Pattern=zijn, Pattern=hem, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=24| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : next
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : de wc-kop
+	Free: Pattern=de
+	Constrained: 
+Turn ID=27| B | B : borstel
+	Free: Pattern=borstel
+	Constrained: 
+Turn ID=28| B | B : op het plateau
+	Free: Pattern=het
+	Constrained: 
+Turn ID=29| B | B : die even breed zijn als het kop zelf
+	Free: Pattern=het, Pattern=zelf, Pattern=als, Pattern=zijn, Pattern=even breed
+	Constrained: Pattern=even
+Turn ID=30| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=31| A | A : nog een keer
+	Free: Pattern=een
+	Constrained: 
+Turn ID=32| A | A : de de wc
+	Free: Pattern=de
+	Constrained: 
+Turn ID=33| B | B : ja ik zien het als een wc-borstel , zitten een borstel in
+	Free: Pattern=ja, Pattern=een, Pattern=het, Pattern=als, Pattern=zien, Pattern=borstel, Pattern=ik, Pattern=zitten een
+	Constrained: Pattern=zitten, Pattern=een
+Turn ID=34| A | A : de de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=35| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=36| B | B : zoals ik het zien , met een uh , met een voet
+	Free: Pattern=voet, Pattern=een, Pattern=het, Pattern=met, Pattern=zien, Pattern=ik
+	Constrained: 
+Turn ID=37| A | A : oké ja ja ja
+	Free: Pattern=ja ja, Pattern=oké
+	Constrained: Pattern=ja
+Turn ID=38| B | B : die even breed zijn als de bak de kop zelf
+	Free: Pattern=de, Pattern=als de bak, Pattern=zelf, Pattern=zijn, Pattern=even breed
+	Constrained: Pattern=de, Pattern=even, Pattern=als de, Pattern=als, Pattern=de bak
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : dit zijn het toilet
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=43| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : en met de borstel erin , en de onderkant zijn even breed als de bak zelf
+	Free: Pattern=de, Pattern=als de bak, Pattern=zelf, Pattern=met, Pattern=borstel erin, Pattern=en, Pattern=zijn, Pattern=even breed
+	Constrained: Pattern=de, Pattern=even, Pattern=als de, Pattern=als, Pattern=borstel, Pattern=de bak
+Turn ID=45| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=46| B | B : wc-bak met één of een wc-borstel en een gelijk plateau die even breed zijn als het kop
+	Free: Pattern=of, Pattern=een, Pattern=het, Pattern=als, Pattern=met, Pattern=en, Pattern=zijn, Pattern=even breed
+	Constrained: Pattern=even
+Turn ID=47| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=48| B | B : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=de
+Turn ID=49| A | A : de bak met de toiletbak met de met de even breed onderkant
+	Free: Pattern=even breed, Pattern=de bak, Pattern=met, Pattern=de
+	Constrained: Pattern=even, Pattern=de
+Turn ID=50| B | B : d
+	Free: 
+	Constrained: 

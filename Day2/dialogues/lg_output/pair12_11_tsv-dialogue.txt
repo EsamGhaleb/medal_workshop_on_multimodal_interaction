@@ -1,0 +1,99 @@
+B|0| B: okee deze _hebben_ weer zo'n _neus_ aan _de_ rechterkant 
+B|1| B: _en_ _twee_ verschillend spriet bovenop _zijn_ hoofd 
+B|2| B: _een_ recht _en_ _één_ _met_ _een_ raar vorm 
+A|3| A: _ja_ elf 
+A|4| A: dit [zijn] [een] beker [met] links [en] boven [een] driehoekig uitsteeksel [en] [een] [een] balle voorop 
+B|5| B: je moeten ze ook _maar_ net zien 
+A|6| A: het balle voorop daar [hebben] we eigenlijk [maar] [één] 
+B|7| B: [ja] 
+B|8| B: ik kunnen ze _niet_ ik kunnen ze _niet_ vinden 
+A|9| A: _die_ dan [niet] [de] _piercing_ [hebben] 
+B|10| B: [die] _met twee_ verschillend oor zeggen [maar] bovenop 
+A|11| A: [ja] [ja] 
+B|12| B: okee dat [zijn] i 
+B|13| B: deze [hebben] [een] _neus rechts_ [maar] geen [piercing] 
+A|14| A: vier 
+B|15| B: piratenverrekijker 
+A|16| A: [ja] [neus rechts] 
+A|17| A: [met] niks erdoorheen [en] [de] [twee] apart voelspriet 
+B|18| B: okee 
+B|19| B: i 
+B|20| B: [de] [neus] zonder [piercing] _met twee_ voelsprieten 
+A|21| A: veertien 
+A|22| A: [neus] [met twee] apart voelspriet 
+B|23| B: l 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee deze hebben weer zo'n neus aan de rechterkant
+	Free: Pattern=hebben, Pattern=neus, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : en twee verschillend spriet bovenop zijn hoofd
+	Free: Pattern=en, Pattern=twee, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : een recht en één met een raar vorm
+	Free: Pattern=en, Pattern=met, Pattern=een, Pattern=één
+	Constrained: 
+Turn ID=3| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dit zijn een beker met links en boven een driehoekig uitsteeksel en een een balle voorop
+	Free: Pattern=en, Pattern=met, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=5| B | B : je moeten ze ook maar net zien
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=6| A | A : het balle voorop daar hebben we eigenlijk maar één
+	Free: Pattern=hebben, Pattern=één, Pattern=maar
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ik kunnen ze niet ik kunnen ze niet vinden
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=9| A | A : die dan niet de piercing hebben
+	Free: Pattern=de, Pattern=niet, Pattern=hebben, Pattern=die, Pattern=piercing
+	Constrained: 
+Turn ID=10| B | B : die met twee verschillend oor zeggen maar bovenop
+	Free: Pattern=met twee, Pattern=die, Pattern=maar
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : okee dat zijn i
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : deze hebben een neus rechts maar geen piercing
+	Free: Pattern=een, Pattern=hebben, Pattern=neus rechts, Pattern=piercing, Pattern=maar
+	Constrained: Pattern=neus
+Turn ID=14| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : piratenverrekijker
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : ja neus rechts
+	Free: Pattern=neus rechts, Pattern=ja
+	Constrained: Pattern=neus
+Turn ID=17| A | A : met niks erdoorheen en de twee apart voelspriet
+	Free: Pattern=en, Pattern=met, Pattern=twee, Pattern=de
+	Constrained: 
+Turn ID=18| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : i
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : de neus zonder piercing met twee voelsprieten
+	Free: Pattern=met twee, Pattern=piercing, Pattern=neus, Pattern=de
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=21| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : neus met twee apart voelspriet
+	Free: Pattern=met twee, Pattern=neus
+	Constrained: Pattern=met, Pattern=twee
+Turn ID=23| B | B : l
+	Free: 
+	Constrained: 

@@ -1,0 +1,103 @@
+B|0| B: _oké_ ik soort stellage om hem heen bouwen , om het _bak_ , dus nou deze deze _leunen_ werkelijk _of_ _hij_ _worden_ _echt_ in plaats houden _door de_ stellage , zo zien ik het 
+B|1| B: _en_ _ja_ erbovenop zitten _een_ soort vierkant wat niet geen vierkant _zijn_ 
+B|2| B: het aandoen veel aan _een_ _houtversnipperaar_ denken 
+B|3| B: waar je zo iets in moeten douwen 
+A|4| A: [oké] [ja] 
+A|5| A: [hij] _ja hij hangen echt_ 
+B|6| B: [ja hij hangen echt] inderdaad 
+A|7| A: [oké] 
+A|8| A: dat [zijn] nummer vijfteen 
+B|9| B: goed zeggen 
+A|10| A: dit [zijn] [de] [bak] _die_ op [de] hoe heten dat op [een] [ja] ergens op [leunen] 
+A|11| A: [de] ondersteun balk _met_ _de houtversnipperaar_ erbij 
+B|12| B: [ja] [ja] [die] [zijn] [echt] onhandig 
+B|13| B: [zijn] O 
+B|14| B: [bak] [met] [een] bank om hem heen bouwen 
+B|15| B: _en_ [de houtversnipperaar] 
+A|16| A: [oké] vijfteen 
+A|17| A: [de] [bak] [die] [leunen] op één [of] [die] [echt] ondersteunen [worden] [door] [een] [met] [de houtversnipperaar] bovenop [en] 
+B|18| B: H 
+B|19| B: nou volgen weer 
+B|20| B: [ja] [bak] [met] [houtversnipperaar] [en] stellage 
+B|21| B: om hem heen bouwen 
+A|22| A: nummer [een] 
+A|23| A: [de] [bak] [die] ondersteunen [worden] [door de] [de] [de houtversnipperaar] 
+B|24| B: [ja] [de] K 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik soort stellage om hem heen bouwen , om het bak , dus nou deze deze leunen werkelijk of hij worden echt in plaats houden door de stellage , zo zien ik het
+	Free: Pattern=of, Pattern=worden, Pattern=bak, Pattern=hij, Pattern=oké, Pattern=echt, Pattern=door de, Pattern=leunen
+	Constrained: Pattern=de, Pattern=door
+Turn ID=1| B | B : en ja erbovenop zitten een soort vierkant wat niet geen vierkant zijn
+	Free: Pattern=en, Pattern=ja, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : het aandoen veel aan een houtversnipperaar denken
+	Free: Pattern=houtversnipperaar, Pattern=een
+	Constrained: 
+Turn ID=3| B | B : waar je zo iets in moeten douwen
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : oké ja
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=5| A | A : hij ja hij hangen echt
+	Free: Pattern=ja hij hangen echt, Pattern=hij
+	Constrained: Pattern=echt, Pattern=hij, Pattern=ja
+Turn ID=6| B | B : ja hij hangen echt inderdaad
+	Free: Pattern=ja hij hangen echt
+	Constrained: Pattern=echt, Pattern=hij, Pattern=ja
+Turn ID=7| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : dat zijn nummer vijfteen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : goed zeggen
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn de bak die op de hoe heten dat op een ja ergens op leunen
+	Free: Pattern=een, Pattern=bak, Pattern=die, Pattern=zijn, Pattern=leunen, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : de ondersteun balk met de houtversnipperaar erbij
+	Free: Pattern=de houtversnipperaar, Pattern=de, Pattern=met
+	Constrained: Pattern=houtversnipperaar, Pattern=de
+Turn ID=12| B | B : ja ja die zijn echt onhandig
+	Free: Pattern=ja, Pattern=zijn, Pattern=die, Pattern=echt
+	Constrained: 
+Turn ID=13| B | B : zijn O
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : bak met een bank om hem heen bouwen
+	Free: Pattern=bak, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=15| B | B : en de houtversnipperaar
+	Free: Pattern=de houtversnipperaar, Pattern=en
+	Constrained: Pattern=houtversnipperaar, Pattern=de
+Turn ID=16| A | A : oké vijfteen
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| A | A : de bak die leunen op één of die echt ondersteunen worden door een met de houtversnipperaar bovenop en
+	Free: Pattern=of, Pattern=de, Pattern=worden, Pattern=door, Pattern=een, Pattern=bak, Pattern=met, Pattern=die, Pattern=echt, Pattern=en, Pattern=de houtversnipperaar, Pattern=leunen
+	Constrained: Pattern=houtversnipperaar, Pattern=de
+Turn ID=18| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : nou volgen weer
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : ja bak met houtversnipperaar en stellage
+	Free: Pattern=houtversnipperaar, Pattern=ja, Pattern=bak, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=21| B | B : om hem heen bouwen
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : nummer een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=23| A | A : de bak die ondersteunen worden door de de de houtversnipperaar
+	Free: Pattern=de, Pattern=worden, Pattern=bak, Pattern=die, Pattern=door de, Pattern=de houtversnipperaar
+	Constrained: Pattern=houtversnipperaar, Pattern=de, Pattern=door
+Turn ID=24| B | B : ja de K
+	Free: Pattern=ja, Pattern=de
+	Constrained: 

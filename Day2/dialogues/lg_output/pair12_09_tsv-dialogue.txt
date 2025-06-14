@@ -1,0 +1,107 @@
+B|0| B: ik inzien nu _een_ dinge 
+B|1| B: _en_ dan moeten ik uitleggen aan jou toch 
+A|2| A: _ja_ 
+B|3| B: okee er zitten _een _half cirkel_ Linksboven_ 
+B|4| B: _en een_ _antenne_ _rechtsboven_ 
+B|5| B: _en_ _hij hebben een_ soort van neus aan _zijn_ linkerkant 
+A|6| A: wat [antenne] [half cirkel Linksboven] 
+B|7| B: [ja] 
+A|8| A: daar 
+A|9| A: [ja] vijf 
+B|10| B: weten je het 
+A|11| A: [ja] [hij hebben een] uitsteeksel _links_ [een] breed vlak onder [en] die [half cirkel] daarachter [en een] voelspriet [rechtsboven] 
+A|12| A: dus voelspriet [rechtsboven] [half cirkel] daarachter [en] zeshoekig _handvat links_ 
+B|13| B: a 
+B|14| B: hey 
+A|15| A: al twee 
+A|16| A: zo 
+B|17| B: schotel [Linksboven] 
+B|18| B: [een] neus [links] [en een] _antenne rechts_ 
+A|19| A: [ja] zestien 
+A|20| A: dit [zijn] de voelspriet [rechtsboven] [en [een] half cirkel] daarachter [en een] zeshoekig _handvat_ link 
+B|21| B: p 
+B|22| B: schotel [Linksboven] [en een] _antenne rechts_ [en] het [handvat links] 
+A|23| A: [ja] acht 
+A|24| A: [antenne rechts] [half cirkel] daarachter [links] [handvat] 
+B|25| B: g 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik inzien nu een dinge
+	Free: Pattern=een
+	Constrained: 
+Turn ID=1| B | B : en dan moeten ik uitleggen aan jou toch
+	Free: Pattern=en
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : okee er zitten een half cirkel Linksboven
+	Free: Pattern=half cirkel Linksboven, Pattern=een half cirkel
+	Constrained: Pattern=Linksboven, Pattern=een, Pattern=half cirkel
+Turn ID=4| B | B : en een antenne rechtsboven
+	Free: Pattern=en een, Pattern=rechtsboven, Pattern=antenne
+	Constrained: Pattern=en, Pattern=een
+Turn ID=5| B | B : en hij hebben een soort van neus aan zijn linkerkant
+	Free: Pattern=hij hebben een, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=6| A | A : wat antenne half cirkel Linksboven
+	Free: Pattern=half cirkel Linksboven, Pattern=antenne
+	Constrained: Pattern=half cirkel, Pattern=Linksboven
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : daar
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : weten je het
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : ja hij hebben een uitsteeksel links een breed vlak onder en die half cirkel daarachter en een voelspriet rechtsboven
+	Free: Pattern=ja, Pattern=rechtsboven, Pattern=een, Pattern=links, Pattern=hij hebben een, Pattern=en, Pattern=en een, Pattern=half cirkel
+	Constrained: Pattern=en, Pattern=een
+Turn ID=12| A | A : dus voelspriet rechtsboven half cirkel daarachter en zeshoekig handvat links
+	Free: Pattern=half cirkel, Pattern=handvat links, Pattern=en, Pattern=rechtsboven
+	Constrained: Pattern=links, Pattern=handvat
+Turn ID=13| B | B : a
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : hey
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : al twee
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : zo
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : schotel Linksboven
+	Free: Pattern=Linksboven
+	Constrained: 
+Turn ID=18| B | B : een neus links en een antenne rechts
+	Free: Pattern=antenne rechts, Pattern=en een, Pattern=links, Pattern=een
+	Constrained: Pattern=en, Pattern=een, Pattern=antenne
+Turn ID=19| A | A : ja zestien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dit zijn de voelspriet rechtsboven en een half cirkel daarachter en een zeshoekig handvat link
+	Free: Pattern=een half cirkel, Pattern=rechtsboven, Pattern=handvat, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=half cirkel, Pattern=en, Pattern=een
+Turn ID=21| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : schotel Linksboven en een antenne rechts en het handvat links
+	Free: Pattern=antenne rechts, Pattern=handvat links, Pattern=en, Pattern=en een, Pattern=Linksboven
+	Constrained: Pattern=een, Pattern=links, Pattern=handvat, Pattern=antenne, Pattern=en
+Turn ID=23| A | A : ja acht
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : antenne rechts half cirkel daarachter links handvat
+	Free: Pattern=half cirkel, Pattern=antenne rechts, Pattern=links, Pattern=handvat
+	Constrained: Pattern=antenne
+Turn ID=25| B | B : g
+	Free: 
+	Constrained: 

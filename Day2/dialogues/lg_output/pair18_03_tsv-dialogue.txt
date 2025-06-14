@@ -1,0 +1,91 @@
+B|0| B: onderaan zitten _een_ draaien staaf _met_ daaronder _een_ driehoekig platform 
+A|1| A: _ja_ weten _ik_ 
+A|2| A: tien 
+A|3| A: _ik hebben_ _die_ [een] _die_ [met] _dat_ _raar_ [met] _dat_ _raar voetstuk op die driehoek_ staan 
+B|4| B: _het_ [raar voetstuk op die driehoek] 
+A|5| A: [die] _zeggen_ maar ergens [op] staat 
+A|6| A: dus _je_ _hebben_ zo'n [driehoek] _op de_ grond dan _hebben_ _je_ soort buis en daar staan [het] rond _ding_ pas [op] 
+B|7| B: [een] [driehoek] [ja] [ja] [ja] [ja] sorry k 
+B|8| B: [ik hebben] [dat] twisen gedraaide dinge _aan de onderkant_ [met] 
+A|9| A: [op] [dat] [driehoek] 
+B|10| B: wat [zeggen] [je] 
+A|11| A: [op die driehoek] 
+B|12| B: [ja] [op _de] driehoek_ [ja] kloppen 
+A|13| A: zeven 
+A|14| A: [ik hebben] [die] [een] [op] [dat] [voetstuk] [die] [dat] twistding en dan [op] [dat] [driehoek] 
+B|15| B: [ja] i 
+B|16| B: [ik hebben] [de] [dat] [dat] twi twisten [ding] [op] [een] [driehoek] 
+A|17| A: [ja] 
+A|18| A: acht 
+A|19| A: [de] twistspiraal [met] [de driehoek] [aan de onderkant] 
+B|20| B: [ja] 
+B|21| B: i 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : onderaan zitten een draaien staaf met daaronder een driehoekig platform
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=1| A | A : ja weten ik
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ik hebben die een die met dat raar met dat raar voetstuk op die driehoek staan
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=een, Pattern=met, Pattern=die, Pattern=raar voetstuk op die driehoek, Pattern=raar
+	Constrained: Pattern=driehoek, Pattern=op, Pattern=hebben, Pattern=voetstuk, Pattern=op die driehoek, Pattern=die, Pattern=ik, Pattern=raar
+Turn ID=4| B | B : het raar voetstuk op die driehoek
+	Free: Pattern=raar voetstuk op die driehoek, Pattern=het
+	Constrained: Pattern=driehoek, Pattern=op, Pattern=voetstuk, Pattern=op die driehoek, Pattern=die, Pattern=raar
+Turn ID=5| A | A : die zeggen maar ergens op staat
+	Free: Pattern=die, Pattern=zeggen, Pattern=op
+	Constrained: 
+Turn ID=6| A | A : dus je hebben zo'n driehoek op de grond dan hebben je soort buis en daar staan het rond ding pas op
+	Free: Pattern=driehoek, Pattern=op, Pattern=ding, Pattern=het, Pattern=hebben, Pattern=je, Pattern=op de
+	Constrained: Pattern=de, Pattern=op
+Turn ID=7| B | B : een driehoek ja ja ja ja sorry k
+	Free: Pattern=een, Pattern=ja, Pattern=driehoek
+	Constrained: 
+Turn ID=8| B | B : ik hebben dat twisen gedraaide dinge aan de onderkant met
+	Free: Pattern=aan de onderkant, Pattern=ik hebben, Pattern=dat, Pattern=met
+	Constrained: Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=9| A | A : op dat driehoek
+	Free: Pattern=dat, Pattern=driehoek, Pattern=op
+	Constrained: 
+Turn ID=10| B | B : wat zeggen je
+	Free: Pattern=je, Pattern=zeggen
+	Constrained: 
+Turn ID=11| A | A : op die driehoek
+	Free: Pattern=op die driehoek
+	Constrained: Pattern=die, Pattern=driehoek, Pattern=op
+Turn ID=12| B | B : ja op de driehoek ja kloppen
+	Free: Pattern=op de, Pattern=de driehoek, Pattern=ja
+	Constrained: Pattern=de, Pattern=driehoek, Pattern=op
+Turn ID=13| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik hebben die een op dat voetstuk die dat twistding en dan op dat driehoek
+	Free: Pattern=dat, Pattern=op, Pattern=een, Pattern=voetstuk, Pattern=die, Pattern=ik hebben, Pattern=driehoek
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=15| B | B : ja i
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ik hebben de dat dat twi twisten ding op een driehoek
+	Free: Pattern=dat, Pattern=de, Pattern=op, Pattern=ding, Pattern=een, Pattern=ik hebben, Pattern=driehoek
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : de twistspiraal met de driehoek aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=de driehoek, Pattern=de, Pattern=met
+	Constrained: Pattern=de, Pattern=driehoek
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : i
+	Free: 
+	Constrained: 

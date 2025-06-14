@@ -1,0 +1,215 @@
+B|0| B: _ik_ _hebben_ het doen me altijd _aan_ gamen _denken_ 
+B|1| B: _zo'n_ _joystick_ bovenop _en_ _zo'n_ vierkant _plaat aan de zijkant_ 
+A|2| A: _ja_ 
+B|3| B: _en_ _twee_ _van_ _die_ verrekijkertjes _aan de zijkant_ 
+A|4| A: [ik] [denken] _dat_ [ik] weten welk _je_ bedoelen 
+A|5| A: _een_ [joystick] 
+B|6| B: _of_ [een] paddenstoel 
+B|7| B: lijken erbovenop te vaststaan 
+B|8| B: _met_ _twee_ _van_ _die verrekijker_ eigenlijk _aan de zijkant_ 
+A|9| A: _ja_ _ja_ _ja_ 
+A|10| A: _ja_ 
+A|11| A: _ja_ _dat zijn_ nummer [twee] _bij mij_ 
+A|12| A: _en dan_ [hebben] [die] [zo'n] [plaat aan de zijkant] toch 
+B|13| B: [ja] 
+A|14| A: [ja] 
+B|15| B: _oké_ hij _staan bij mij_ onderaan [aan] het scherm 
+B|16| B: [en dan] als [je] _iets_ link _van_ het midden 
+A|17| A: [oké] 
+A|18| A: _nee_ 
+B|19| B: [nee] ? 
+A|20| A: [bij mij] 
+A|21| A: [die] [die verrekijker] [met] [die] [met] [die] [plaat] [die] _gamer_ 
+B|22| B: [ja] 
+B|23| B: [dat zijn] G 
+A|24| A: _en dan centrum centrum_ [en dan] [iets] veel _naar onder_ [iets] veel _naar links_ 
+B|25| B: [de] [gamer] 
+A|26| A: [ja] [dat zijn] negen 
+B|27| B: [en dan centrum centrum] 
+B|28| B: [en dan] _ongeveer_ vijftig procent _naar onder [en_ dan] _klein stuk [naar_ links] 
+A|29| A: [ja] 
+A|30| A: [die] [met] [die verrekijker] [die] [gamer] 
+B|31| B: [oké] [dat zijn] D 
+A|32| A: [en] [die] [staan bij mij] [ongeveer] wel [centrum centrum] _iets hoog misschien_ maar 
+B|33| B: [bij mij] _ook_ 
+B|34| B: [de] [gamer] 
+B|35| B: [met] [de] [twee] [verrekijker] 
+A|36| A: [ja] [dat zijn] nummer één 
+B|37| B: [ongeveer] midden midden [iets] _naar rechts_ 
+B|38| B: _klein_ beetje 
+A|39| A: [ja] [en] _iets hoog misschien_ [ook] [of] niet 
+B|40| B: [ja] [iets hoog misschien] 
+A|41| A: [ja] 
+A|42| A: [die] [met] [die verrekijker] [die] [gamer] 
+B|43| B: [ja] 
+B|44| B: [ja] 
+B|45| B: B 
+A|46| A: [en] [staan] [die] [van] _mid mid_ [ja] best wel wat [naar onder en] [een] heel _klein stuk naar rechts_ 
+B|47| B: [ongeveer] vijfentwintig procent [naar onder] ? [ongeveer] dertig procent [naar onder] 
+A|48| A: [ja] 
+A|49| A: [ja] 
+B|50| B: vanuit [mid mid] [en dan] [een] [klein stuk naar rechts] 
+A|51| A: [ja] 
+B|52| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben het doen me altijd aan gamen denken
+	Free: Pattern=denken, Pattern=hebben, Pattern=aan, Pattern=ik
+	Constrained: 
+Turn ID=1| B | B : zo'n joystick bovenop en zo'n vierkant plaat aan de zijkant
+	Free: Pattern=plaat aan de zijkant, Pattern=joystick, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de zijkant, Pattern=plaat
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en twee van die verrekijkertjes aan de zijkant
+	Free: Pattern=twee, Pattern=aan de zijkant, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=4| A | A : ik denken dat ik weten welk je bedoelen
+	Free: Pattern=denken, Pattern=je, Pattern=ik, Pattern=dat
+	Constrained: 
+Turn ID=5| A | A : een joystick
+	Free: Pattern=joystick, Pattern=een
+	Constrained: 
+Turn ID=6| B | B : of een paddenstoel
+	Free: Pattern=of, Pattern=een
+	Constrained: 
+Turn ID=7| B | B : lijken erbovenop te vaststaan
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : met twee van die verrekijker eigenlijk aan de zijkant
+	Free: Pattern=twee, Pattern=die verrekijker, Pattern=aan de zijkant, Pattern=met, Pattern=van
+	Constrained: Pattern=aan, Pattern=verrekijker, Pattern=de, Pattern=die
+Turn ID=9| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja dat zijn nummer twee bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=ja, Pattern=twee
+	Constrained: Pattern=dat
+Turn ID=12| A | A : en dan hebben die zo'n plaat aan de zijkant toch
+	Free: Pattern=plaat aan de zijkant, Pattern=zo'n, Pattern=en dan, Pattern=hebben, Pattern=die
+	Constrained: Pattern=aan de zijkant, Pattern=en, Pattern=plaat, Pattern=de, Pattern=aan
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : oké hij staan bij mij onderaan aan het scherm
+	Free: Pattern=staan bij mij, Pattern=aan, Pattern=oké
+	Constrained: Pattern=bij mij, Pattern=staan
+Turn ID=16| B | B : en dan als je iets link van het midden
+	Free: Pattern=en dan, Pattern=je, Pattern=van, Pattern=iets
+	Constrained: Pattern=en
+Turn ID=17| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=19| B | B : nee ?
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=20| A | A : bij mij
+	Free: Pattern=bij mij
+	Constrained: 
+Turn ID=21| A | A : die die verrekijker met die met die plaat die gamer
+	Free: Pattern=die verrekijker, Pattern=met, Pattern=die, Pattern=gamer, Pattern=plaat
+	Constrained: Pattern=die, Pattern=verrekijker
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat
+Turn ID=24| A | A : en dan centrum centrum en dan iets veel naar onder iets veel naar links
+	Free: Pattern=naar links, Pattern=iets, Pattern=en dan, Pattern=en dan centrum centrum, Pattern=naar onder
+	Constrained: Pattern=en dan, Pattern=centrum centrum, Pattern=en
+Turn ID=25| B | B : de gamer
+	Free: Pattern=gamer, Pattern=de
+	Constrained: 
+Turn ID=26| A | A : ja dat zijn negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=27| B | B : en dan centrum centrum
+	Free: Pattern=en dan centrum centrum
+	Constrained: Pattern=en dan, Pattern=centrum centrum, Pattern=en
+Turn ID=28| B | B : en dan ongeveer vijftig procent naar onder en dan klein stuk naar links
+	Free: Pattern=naar links, Pattern=klein stuk naar, Pattern=ongeveer, Pattern=naar onder en, Pattern=en dan
+	Constrained: Pattern=en, Pattern=naar onder, Pattern=klein
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : die met die verrekijker die gamer
+	Free: Pattern=die verrekijker, Pattern=gamer, Pattern=die, Pattern=met
+	Constrained: Pattern=die, Pattern=verrekijker
+Turn ID=31| B | B : oké dat zijn D
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=dat
+Turn ID=32| A | A : en die staan bij mij ongeveer wel centrum centrum iets hoog misschien maar
+	Free: Pattern=centrum centrum, Pattern=iets hoog misschien, Pattern=en, Pattern=staan bij mij, Pattern=die, Pattern=ongeveer
+	Constrained: Pattern=iets, Pattern=bij mij, Pattern=staan
+Turn ID=33| B | B : bij mij ook
+	Free: Pattern=bij mij, Pattern=ook
+	Constrained: 
+Turn ID=34| B | B : de gamer
+	Free: Pattern=gamer, Pattern=de
+	Constrained: 
+Turn ID=35| B | B : met de twee verrekijker
+	Free: Pattern=de, Pattern=verrekijker, Pattern=met, Pattern=twee
+	Constrained: 
+Turn ID=36| A | A : ja dat zijn nummer één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat
+Turn ID=37| B | B : ongeveer midden midden iets naar rechts
+	Free: Pattern=naar rechts, Pattern=iets, Pattern=ongeveer
+	Constrained: 
+Turn ID=38| B | B : klein beetje
+	Free: Pattern=klein
+	Constrained: 
+Turn ID=39| A | A : ja en iets hoog misschien ook of niet
+	Free: Pattern=of, Pattern=ja, Pattern=ook, Pattern=iets hoog misschien, Pattern=en
+	Constrained: Pattern=iets
+Turn ID=40| B | B : ja iets hoog misschien
+	Free: Pattern=iets hoog misschien, Pattern=ja
+	Constrained: Pattern=iets
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : die met die verrekijker die gamer
+	Free: Pattern=die verrekijker, Pattern=gamer, Pattern=die, Pattern=met
+	Constrained: Pattern=die, Pattern=verrekijker
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : en staan die van mid mid ja best wel wat naar onder en een heel klein stuk naar rechts
+	Free: Pattern=klein stuk naar rechts, Pattern=ja, Pattern=naar onder en, Pattern=die, Pattern=mid mid, Pattern=een, Pattern=staan, Pattern=van, Pattern=en
+	Constrained: Pattern=naar rechts, Pattern=klein stuk naar, Pattern=klein, Pattern=en, Pattern=naar onder
+Turn ID=47| B | B : ongeveer vijfentwintig procent naar onder ? ongeveer dertig procent naar onder
+	Free: Pattern=naar onder, Pattern=ongeveer
+	Constrained: 
+Turn ID=48| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : vanuit mid mid en dan een klein stuk naar rechts
+	Free: Pattern=klein stuk naar rechts, Pattern=mid mid, Pattern=en dan, Pattern=een
+	Constrained: Pattern=naar rechts, Pattern=en, Pattern=klein, Pattern=klein stuk naar
+Turn ID=51| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

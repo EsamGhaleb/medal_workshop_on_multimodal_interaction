@@ -1,0 +1,75 @@
+A|0| A: _dit zijn_ een soort _ja_ doen me een beetje aan een _gieter_ denken of zo aan _de_ rechterkant steken iets uit _met_ een _bol_ aan _de_ zijkant _en_ aan _de_ linkerkant ook 
+A|1| A: _dus_ hebben je zo'n langwerpig _staaf_ _met_ aan _de_ rechterkant een _bol_ _en_ aan _de_ linkerkant ook _en dan_ zo'n schuin vierkant links bovenin 
+B|2| B: [ja] 
+B|3| B: a 
+B|4| B: _dit zijn die gieter_ 
+B|5| B: _met die_ [dus] _die_ [staaf] door erdoorheen [met] allebei _twee_ [bol] uiteinde 
+A|6| A: [ja] [ja] [ja] drie 
+B|7| B: [en dan] _die_ [ja] 
+A|8| A: [dit zijn die gieter] [met die] [twee] bollen aan _de_ zijkant 
+B|9| B: [ja] l 
+B|10| B: _dit zijn de gieter_ 
+A|11| A: [ja] veertien 
+A|12| A: [dit zijn de gieter] 
+B|13| B: even kijken 
+B|14| B: f 
+B|15| B: [dit zijn de gieter] 
+A|16| A: [ja] 
+A|17| A: waar staan hij tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een soort ja doen me een beetje aan een gieter denken of zo aan de rechterkant steken iets uit met een bol aan de zijkant en aan de linkerkant ook
+	Free: Pattern=bol, Pattern=gieter, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : dus hebben je zo'n langwerpig staaf met aan de rechterkant een bol en aan de linkerkant ook en dan zo'n schuin vierkant links bovenin
+	Free: Pattern=bol, Pattern=met, Pattern=en, Pattern=de, Pattern=dus, Pattern=staaf, Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : a
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : dit zijn die gieter
+	Free: Pattern=dit zijn die gieter
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=die
+Turn ID=5| B | B : met die dus die staaf door erdoorheen met allebei twee bol uiteinde
+	Free: Pattern=met die, Pattern=twee, Pattern=dus, Pattern=staaf, Pattern=bol, Pattern=met, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=6| A | A : ja ja ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en dan die ja
+	Free: Pattern=en dan, Pattern=ja, Pattern=die
+	Constrained: Pattern=en
+Turn ID=8| A | A : dit zijn die gieter met die twee bollen aan de zijkant
+	Free: Pattern=dit zijn die gieter, Pattern=met die, Pattern=twee, Pattern=de
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=met, Pattern=die
+Turn ID=9| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dit zijn de gieter
+	Free: Pattern=dit zijn de gieter
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=de
+Turn ID=11| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dit zijn de gieter
+	Free: Pattern=dit zijn de gieter
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=de
+Turn ID=13| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : dit zijn de gieter
+	Free: Pattern=dit zijn de gieter
+	Constrained: Pattern=dit zijn, Pattern=gieter, Pattern=de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : waar staan hij tien
+	Free: 
+	Constrained: 

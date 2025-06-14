@@ -1,0 +1,123 @@
+A|0| A: _deze_ _zijn_ _een_ komme _en_ _er_ _zitten_ onder ook _een_ soort uitstulpsel _het_ _zijn_ niet echt _een_ plank waar _die_ op staat _het_ _zitten_ zo'n knik in _het_ lopen zo 
+B|1| B: _ja_ 
+A|2| A: _en_ erbovenop _zitten_ _een_ _draaien_ vierkant _het_ _zijn_ _een_ soort ruitvorm maar dan wel _een_ vierkant _en_ _er_ _zitten_ _een_ soort _halter_ _aan_ 
+B|3| B: _ja_ _okee_ 
+B|4| B: _dat_ [zijn] b _ja_ _dat_ [zijn] b 
+A|5| A: yes 
+A|6| A: [okee] 
+B|7| B: [deze] hebben _dat_ [die] ruit [er] _aan de_ bovenkant [zitten] _met die_ twee _vier kubus aan_ beide kant [en] [een] buigen poo eronder 
+A|8| A: [ja] 
+A|9| A: [vier kubus [aan] de] 
+A|10| A: [zijn] [dat] degeen [met die] _halter_ 
+B|11| B: [ja] inderdaad [ja] 
+A|12| A: [ja] nummer tien 
+A|13| A: _dit zijn_ [met die] _halter_ [en] [die] [die] vierkant [dat] vierkant [dat] omdraaid 
+B|14| B: [ja] 
+B|15| B: eens even kijken [dat] [zijn] j 
+A|16| A: [okee] 
+B|17| B: [deze] hebben _de halter_ 
+A|18| A: [de halter] _met dat_ driehoek [dat] kantelen [zijn] of [dat] rechthoek bedoelen bedoelen ik 
+B|19| B: [ja] 
+B|20| B: _met het_ kromm poo [aan de] onderkant 
+A|21| A: [ja] elf 
+A|22| A: [ja] elf 
+A|23| A: _dit zijn_ [met] [de halter] [met het] omgekeerde _vierkantje_ 
+B|24| B: [dat] [zijn] l 
+B|25| B: [dit zijn] [de halter] 
+A|26| A: [de] [de halter] _met dat_ _vierkantje_ 
+B|27| B: [met dat] [draaien] [vierkantje] 
+A|28| A: oké waar staan [die] waar staan [die] waar staan [die] 
+A|29| A: zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze zijn een komme en er zitten onder ook een soort uitstulpsel het zijn niet echt een plank waar die op staat het zitten zo'n knik in het lopen zo
+	Free: Pattern=een, Pattern=het, Pattern=er, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en erbovenop zitten een draaien vierkant het zijn een soort ruitvorm maar dan wel een vierkant en er zitten een soort halter aan
+	Free: Pattern=aan, Pattern=een, Pattern=het, Pattern=zitten, Pattern=er, Pattern=en, Pattern=zijn, Pattern=draaien, Pattern=halter
+	Constrained: 
+Turn ID=3| B | B : ja okee
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dat zijn b ja dat zijn b
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=7| B | B : deze hebben dat die ruit er aan de bovenkant zitten met die twee vier kubus aan beide kant en een buigen poo eronder
+	Free: Pattern=aan de, Pattern=een, Pattern=vier kubus aan, Pattern=er, Pattern=en, Pattern=deze, Pattern=dat, Pattern=met die, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de, Pattern=met, Pattern=die
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : vier kubus aan de
+	Free: Pattern=vier kubus aan, Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=10| A | A : zijn dat degeen met die halter
+	Free: Pattern=met die, Pattern=halter, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=met, Pattern=die
+Turn ID=11| B | B : ja inderdaad ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dit zijn met die halter en die die vierkant dat vierkant dat omdraaid
+	Free: Pattern=halter, Pattern=die, Pattern=en, Pattern=dit zijn, Pattern=dat, Pattern=met die
+	Constrained: Pattern=zijn, Pattern=met, Pattern=die
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : eens even kijken dat zijn j
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=16| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=17| B | B : deze hebben de halter
+	Free: Pattern=de halter, Pattern=deze
+	Constrained: Pattern=halter, Pattern=de
+Turn ID=18| A | A : de halter met dat driehoek dat kantelen zijn of dat rechthoek bedoelen bedoelen ik
+	Free: Pattern=de halter, Pattern=met dat, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=halter, Pattern=dat, Pattern=met, Pattern=de
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : met het kromm poo aan de onderkant
+	Free: Pattern=aan de, Pattern=met het
+	Constrained: Pattern=aan, Pattern=met, Pattern=het, Pattern=de
+Turn ID=21| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : dit zijn met de halter met het omgekeerde vierkantje
+	Free: Pattern=de halter, Pattern=met het, Pattern=dit zijn, Pattern=vierkantje, Pattern=met
+	Constrained: Pattern=de, Pattern=halter, Pattern=het, Pattern=met, Pattern=zijn
+Turn ID=24| B | B : dat zijn l
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : dit zijn de halter
+	Free: Pattern=de halter, Pattern=dit zijn
+	Constrained: Pattern=halter, Pattern=zijn, Pattern=de
+Turn ID=26| A | A : de de halter met dat vierkantje
+	Free: Pattern=de halter, Pattern=met dat, Pattern=vierkantje, Pattern=de
+	Constrained: Pattern=halter, Pattern=dat, Pattern=met, Pattern=de
+Turn ID=27| B | B : met dat draaien vierkantje
+	Free: Pattern=met dat, Pattern=vierkantje, Pattern=draaien
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=28| A | A : oké waar staan die waar staan die waar staan die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=29| A | A : zes
+	Free: 
+	Constrained: 

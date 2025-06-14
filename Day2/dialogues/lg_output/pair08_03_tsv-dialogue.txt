@@ -1,0 +1,111 @@
+B|0| B: _dit zijn de_ enig die _soort_ van _been_ _en_ _voet_ hebben 
+A|1| A: _ja_ 
+A|2| A: _ja_ het [voet] [zijn] zo'n driehoek 
+B|3| B: [ja] 
+A|4| A: [ja] 
+A|5| A: lijken _een_ beetje op _een_ _vogel_ vinden _ik_ 
+B|6| B: [ja] 
+A|7| A: dertien 
+A|8| A: [ja] [dit zijn] dan [ja] [de] vogelachtig figuur met _een_ klein _staart_ , één poot [en] [de] [de] driehoekvorm als als [voet] of als 
+B|9| B: [een] [voet] [ja] 
+B|10| B: [ja] _en een_ _staart link_ 
+A|11| A: [staart link] [en een] [soort] vleugel in het midden [en] dan aan [de] rechterkant [een] [soort] kop 
+B|12| B: [ja] 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: dat [zijn] A 
+B|16| B: [dit zijn] die [vogel] kip 
+A|17| A: [ja] 
+A|18| A: nummer twee 
+A|19| A: _dit zijn de vogel_ 
+A|20| A: met één [been] 
+B|21| B: [ja] [ik] zoeken hem 
+B|22| B: [ja] dat [zijn] K 
+B|23| B: [dit zijn de vogel] 
+A|24| A: [ja] nummer twee 
+A|25| A: [dit zijn de vogel] 
+B|26| B: J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn de enig die soort van been en voet hebben
+	Free: Pattern=soort, Pattern=voet, Pattern=en, Pattern=been, Pattern=dit zijn de
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=zijn
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja het voet zijn zo'n driehoek
+	Free: Pattern=voet, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : lijken een beetje op een vogel vinden ik
+	Free: Pattern=een, Pattern=vogel, Pattern=ik
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ja dit zijn dan ja de vogelachtig figuur met een klein staart , één poot en de de driehoekvorm als als voet of als
+	Free: Pattern=voet, Pattern=een, Pattern=staart, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=9| B | B : een voet ja
+	Free: Pattern=voet, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja en een staart link
+	Free: Pattern=staart link, Pattern=en een, Pattern=ja
+	Constrained: Pattern=een, Pattern=staart, Pattern=en
+Turn ID=11| A | A : staart link en een soort vleugel in het midden en dan aan de rechterkant een soort kop
+	Free: Pattern=soort, Pattern=de, Pattern=een, Pattern=staart link, Pattern=en, Pattern=en een
+	Constrained: Pattern=een, Pattern=staart, Pattern=en
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : dat zijn A
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : dit zijn die vogel kip
+	Free: Pattern=dit zijn, Pattern=vogel
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : dit zijn de vogel
+	Free: Pattern=dit zijn de vogel
+	Constrained: Pattern=vogel, Pattern=de, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de
+Turn ID=20| A | A : met één been
+	Free: Pattern=been
+	Constrained: 
+Turn ID=21| B | B : ja ik zoeken hem
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn K
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dit zijn de vogel
+	Free: Pattern=dit zijn de vogel
+	Constrained: Pattern=vogel, Pattern=de, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de
+Turn ID=24| A | A : ja nummer twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn de vogel
+	Free: Pattern=dit zijn de vogel
+	Constrained: Pattern=vogel, Pattern=de, Pattern=dit zijn, Pattern=zijn, Pattern=dit zijn de
+Turn ID=26| B | B : J
+	Free: 
+	Constrained: 

@@ -1,0 +1,59 @@
+A|0| A: _ja_ _het ISteken aan de rechterkant_ 
+A|1| A: waarvan 
+B|2| B: [ja] die herkenten ik en nou moeten ik hem even zoeken 
+B|3| B: d 
+B|4| B: [het ISteken aan de rechterkant] 
+A|5| A: acht 
+A|6| A: [ISteken aan de rechterkant] 
+B|7| B: p 
+B|8| B: [het ISteken aan de rechterkant] 
+A|9| A: veertien 
+A|10| A: [het ISteken aan de rechterkant] 
+B|11| B: l 
+B|12| B: [het ISteken aan de rechterkant] 
+A|13| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja het ISteken aan de rechterkant
+	Free: Pattern=het ISteken aan de rechterkant, Pattern=ja
+	Constrained: Pattern=ISteken aan de rechterkant
+Turn ID=1| A | A : waarvan
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : ja die herkenten ik en nou moeten ik hem even zoeken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : het ISteken aan de rechterkant
+	Free: Pattern=het ISteken aan de rechterkant
+	Constrained: Pattern=ISteken aan de rechterkant
+Turn ID=5| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : ISteken aan de rechterkant
+	Free: Pattern=ISteken aan de rechterkant
+	Constrained: 
+Turn ID=7| B | B : p
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : het ISteken aan de rechterkant
+	Free: Pattern=het ISteken aan de rechterkant
+	Constrained: Pattern=ISteken aan de rechterkant
+Turn ID=9| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : het ISteken aan de rechterkant
+	Free: Pattern=het ISteken aan de rechterkant
+	Constrained: Pattern=ISteken aan de rechterkant
+Turn ID=11| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : het ISteken aan de rechterkant
+	Free: Pattern=het ISteken aan de rechterkant
+	Constrained: Pattern=ISteken aan de rechterkant
+Turn ID=13| A | A : tien
+	Free: 
+	Constrained: 

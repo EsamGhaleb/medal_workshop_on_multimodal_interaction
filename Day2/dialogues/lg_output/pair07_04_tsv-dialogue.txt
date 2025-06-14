@@ -1,0 +1,75 @@
+A|0| A: hier zitten twee rechthoek steken _aan de_ rechterkant uit zo _boven_ elkaar _en_ _aan de_ bovenkant _een_ beetje zo'n trapeze-achtig 
+B|1| B: _ja_ 
+B|2| B: afgekapte kegel 
+B|3| B: _ja_ _ja_ _ja_ _ja_ _ja_ k 
+A|4| A: [ja] 
+B|5| B: _dit zijn_ [de] emmer waar [een] soort ISteken rechts uitsteken [en] dan [boven] _die trapeze_ 
+A|6| A: [ja] twee 
+A|7| A: [dit zijn] _met_ _dat_ IStekentje _aan de_ recherkant in [die trapeze] 
+B|8| B: [ja] 
+B|9| B: m 
+B|10| B: _dit zijn het_ ISteken [dat] uitsteken 
+A|11| A: [ja] 
+B|12| B: [met] dan [die trapeze] bovenop 
+A|13| A: [dat] [zijn] twaalf 
+A|14| A: [dit zijn het] iStekentje _aan de zijkant_ 
+B|15| B: a 
+B|16| B: [dit zijn het] ISteken [dat] uitsteken [aan de zijkant] 
+A|17| A: [ja] twee 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hier zitten twee rechthoek steken aan de rechterkant uit zo boven elkaar en aan de bovenkant een beetje zo'n trapeze-achtig
+	Free: Pattern=aan de, Pattern=boven, Pattern=en, Pattern=een
+	Constrained: Pattern=de
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : afgekapte kegel
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja ja ja ja ja k
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dit zijn de emmer waar een soort ISteken rechts uitsteken en dan boven die trapeze
+	Free: Pattern=de, Pattern=boven, Pattern=een, Pattern=die trapeze, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=6| A | A : ja twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dit zijn met dat IStekentje aan de recherkant in die trapeze
+	Free: Pattern=dat, Pattern=aan de, Pattern=met, Pattern=die trapeze, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : m
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : dit zijn het ISteken dat uitsteken
+	Free: Pattern=dit zijn het, Pattern=dat
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : met dan die trapeze bovenop
+	Free: Pattern=die trapeze, Pattern=met
+	Constrained: 
+Turn ID=13| A | A : dat zijn twaalf
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : dit zijn het iStekentje aan de zijkant
+	Free: Pattern=dit zijn het, Pattern=aan de zijkant
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=aan de, Pattern=zijn
+Turn ID=15| B | B : a
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : dit zijn het ISteken dat uitsteken aan de zijkant
+	Free: Pattern=dit zijn het, Pattern=aan de zijkant, Pattern=dat
+	Constrained: Pattern=dit zijn, Pattern=de, Pattern=aan de, Pattern=zijn
+Turn ID=17| A | A : ja twee
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,151 @@
+A|0| A: zitten _een lang_ staaf _aan de voorkant_ van _het kop_ _naar beneden_ 
+A|1| A: _en_ _aan de_ erop zitten _een_ ronde _bol_ 
+B|2| B: _ja_ 
+B|3| B: duidelijk 
+A|4| A: _en_ _aan de_ zijkant _twee_ armp 
+B|5| B: L 
+B|6| B: _ja_ 
+A|7| A: [ja] 
+B|8| B: L 
+B|9| B: [een lang] recht balk voorin 
+B|10| B: _met_ [een] balle wat eigenlijk in [het kop] lijken te kunnen vallen 
+A|11| A: [ja] _en_ _aan de_ zijkant _twee_ armp 
+B|12| B: [twee] klein _dun armpjes_ [ja] 
+A|13| A: [ja] 
+A|14| A: [twee] 
+A|15| A: [een] dik [lang] staaf _aan de voorkant_ 
+A|16| A: [een] _bol_ _bovenop_ 
+A|17| A: _en twee_ armp _aan de_ zijkant 
+B|18| B: [ja] 
+B|19| B: M 
+B|20| B: groot balk [naar beneden] vooraf , bolle [bovenop] 
+B|21| B: [en twee] klein dinge 
+A|22| A: armp 
+A|23| A: [ja] 
+A|24| A: vier 
+A|25| A: [lang] staaf _aan de voorkant_ _met de bol aan de bovenkant_ [en twee] van die [dun armpjes] _aan de_ zijkant 
+B|26| B: waar zijn je 
+B|27| B: [met de bol aan de bovenkant] 
+A|28| A: [ja] 
+B|29| B: [ja] 
+B|30| B: O 
+B|31| B: balk [aan de voorkant] 
+B|32| B: recht balk 
+B|33| B: balle bovenin 
+B|34| B: [twee] klein [armpjes] 
+A|35| A: [twee] 
+A|36| A: zestien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : zitten een lang staaf aan de voorkant van het kop naar beneden
+	Free: Pattern=aan de voorkant, Pattern=een lang, Pattern=het kop, Pattern=naar beneden
+	Constrained: Pattern=een, Pattern=aan de, Pattern=lang
+Turn ID=1| A | A : en aan de erop zitten een ronde bol
+	Free: Pattern=aan de, Pattern=en, Pattern=bol, Pattern=een
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : duidelijk
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : en aan de zijkant twee armp
+	Free: Pattern=aan de, Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=5| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : een lang recht balk voorin
+	Free: Pattern=een lang
+	Constrained: Pattern=lang, Pattern=een
+Turn ID=10| B | B : met een balle wat eigenlijk in het kop lijken te kunnen vallen
+	Free: Pattern=het kop, Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=11| A | A : ja en aan de zijkant twee armp
+	Free: Pattern=aan de, Pattern=en, Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=12| B | B : twee klein dun armpjes ja
+	Free: Pattern=dun armpjes, Pattern=ja, Pattern=twee
+	Constrained: Pattern=armpjes
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=15| A | A : een dik lang staaf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=lang, Pattern=een
+	Constrained: Pattern=aan de
+Turn ID=16| A | A : een bol bovenop
+	Free: Pattern=bol, Pattern=een, Pattern=bovenop
+	Constrained: 
+Turn ID=17| A | A : en twee armp aan de zijkant
+	Free: Pattern=aan de, Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : M
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : groot balk naar beneden vooraf , bolle bovenop
+	Free: Pattern=naar beneden, Pattern=bovenop
+	Constrained: 
+Turn ID=21| B | B : en twee klein dinge
+	Free: Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=22| A | A : armp
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : lang staaf aan de voorkant met de bol aan de bovenkant en twee van die dun armpjes aan de zijkant
+	Free: Pattern=met de bol aan de bovenkant, Pattern=lang, Pattern=aan de voorkant, Pattern=en twee, Pattern=aan de, Pattern=dun armpjes
+	Constrained: Pattern=twee, Pattern=armpjes, Pattern=met, Pattern=en, Pattern=bol, Pattern=aan de
+Turn ID=26| B | B : waar zijn je
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : met de bol aan de bovenkant
+	Free: Pattern=met de bol aan de bovenkant
+	Constrained: Pattern=bol, Pattern=aan de, Pattern=met
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : O
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : balk aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan de
+Turn ID=32| B | B : recht balk
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : balle bovenin
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : twee klein armpjes
+	Free: Pattern=armpjes, Pattern=twee
+	Constrained: 
+Turn ID=35| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=36| A | A : zestien
+	Free: 
+	Constrained: 

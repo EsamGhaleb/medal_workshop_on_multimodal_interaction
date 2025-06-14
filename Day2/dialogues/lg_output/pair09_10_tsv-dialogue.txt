@@ -1,0 +1,131 @@
+A|0| A: _deze_ hebben _een_ soort van _twee arm_ maar _de_ rechter _zijn_ lang 
+A|1| A: _en_ hebben van _die_ knobbel in plaats van hand 
+A|2| A: laten we het zo maar zeggen 
+B|3| B: _ja_ 
+A|4| A: _en_ _die_ hebben zo iets zo'n _ding_ _dat_ zo achteruit _opsteken_ 
+B|5| B: [een] _achter_ _ja _dat_ zijn nummer_ b bij mij 
+B|6| B: [deze] [zijn] [die] [een] _met_ [arm] [die] recht [zijn] _en dan_ [een] bolle aan [de] buitenkant 
+B|7| B: [en] [een] dinge [die] erachter [opsteken] nog 
+A|8| A: [ja] zo'n _ding_ zo _naar_ [achter] 
+B|9| B: [ja] 
+A|10| A: [dat zijn nummer] vier 
+A|11| A: [deze] hebben dus [die] _twee arm met_ één [de] rechter lang [dan] [de] linker [en] [met] van [die] knobbel 
+A|12| A: [en dan] 
+B|13| B: [dat] [ding] [achter] 
+A|14| A: [ja dat] klein 
+B|15| B: [dat zijn] p 
+B|16| B: dit [zijn] [die] _met de_ [arm met] bollet eraan 
+B|17| B: [en] [achter] [een] [ding] nog 
+A|18| A: _twee arm met_ 
+B|19| B: [twee arm met] [een] bol eraan [en dan] 
+A|20| A: [die] zo 
+B|21| B: [ja] 
+A|22| A: [dat zijn nummer] vier 
+A|23| A: [deze] hebben zo één lang [arm] één kort [arm] [en] van [die] knobbel laten we het zo maar zeggen [met de] klein [ding] er zo [achter] 
+B|24| B: [ja] 
+B|25| B: [dat zijn] l 
+B|26| B: dit [zijn] [de] [twee arm met] bollet eraan 
+B|27| B: [en] [een] [ding] [naar] achteren 
+A|28| A: [die] zo 
+B|29| B: [ja] 
+A|30| A: waar zitten jij 
+A|31| A: [nummer] [twee] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een soort van twee arm maar de rechter zijn lang
+	Free: Pattern=de, Pattern=een, Pattern=twee arm, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=twee, Pattern=arm
+Turn ID=1| A | A : en hebben van die knobbel in plaats van hand
+	Free: Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=2| A | A : laten we het zo maar zeggen
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en die hebben zo iets zo'n ding dat zo achteruit opsteken
+	Free: Pattern=dat, Pattern=ding, Pattern=opsteken, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : een achter ja dat zijn nummer b bij mij
+	Free: Pattern=dat zijn nummer, Pattern=ja dat, Pattern=een, Pattern=achter
+	Constrained: Pattern=nummer, Pattern=ja, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=6| B | B : deze zijn die een met arm die recht zijn en dan een bolle aan de buitenkant
+	Free: Pattern=de, Pattern=en dan, Pattern=een, Pattern=met, Pattern=die, Pattern=arm, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=7| B | B : en een dinge die erachter opsteken nog
+	Free: Pattern=een, Pattern=die, Pattern=en, Pattern=opsteken
+	Constrained: 
+Turn ID=8| A | A : ja zo'n ding zo naar achter
+	Free: Pattern=ding, Pattern=ja, Pattern=achter, Pattern=naar
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn nummer
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=nummer, Pattern=dat zijn
+Turn ID=11| A | A : deze hebben dus die twee arm met één de rechter lang dan de linker en met van die knobbel
+	Free: Pattern=twee arm met, Pattern=de, Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=deze
+	Constrained: Pattern=twee, Pattern=twee arm, Pattern=met, Pattern=arm, Pattern=arm met
+Turn ID=12| A | A : en dan
+	Free: Pattern=en dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=13| B | B : dat ding achter
+	Free: Pattern=ding, Pattern=dat, Pattern=achter
+	Constrained: 
+Turn ID=14| A | A : ja dat klein
+	Free: Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=15| B | B : dat zijn p
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : dit zijn die met de arm met bollet eraan
+	Free: Pattern=arm met, Pattern=met de, Pattern=die, Pattern=zijn
+	Constrained: Pattern=arm, Pattern=de, Pattern=met
+Turn ID=17| B | B : en achter een ding nog
+	Free: Pattern=ding, Pattern=een, Pattern=achter, Pattern=en
+	Constrained: 
+Turn ID=18| A | A : twee arm met
+	Free: Pattern=twee arm met
+	Constrained: Pattern=twee, Pattern=twee arm, Pattern=met, Pattern=arm, Pattern=arm met
+Turn ID=19| B | B : twee arm met een bol eraan en dan
+	Free: Pattern=twee arm met, Pattern=en dan, Pattern=een
+	Constrained: Pattern=twee, Pattern=dan, Pattern=twee arm, Pattern=met, Pattern=arm met, Pattern=arm, Pattern=en
+Turn ID=20| A | A : die zo
+	Free: Pattern=die
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn nummer
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=nummer, Pattern=dat zijn
+Turn ID=23| A | A : deze hebben zo één lang arm één kort arm en van die knobbel laten we het zo maar zeggen met de klein ding er zo achter
+	Free: Pattern=met de, Pattern=ding, Pattern=achter, Pattern=die, Pattern=deze, Pattern=arm, Pattern=en
+	Constrained: Pattern=de, Pattern=met
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn l
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : dit zijn de twee arm met bollet eraan
+	Free: Pattern=twee arm met, Pattern=de, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=twee arm, Pattern=met, Pattern=arm, Pattern=arm met
+Turn ID=27| B | B : en een ding naar achteren
+	Free: Pattern=ding, Pattern=een, Pattern=en, Pattern=naar
+	Constrained: 
+Turn ID=28| A | A : die zo
+	Free: Pattern=die
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : waar zitten jij
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : nummer twee
+	Free: Pattern=twee, Pattern=nummer
+	Constrained: 

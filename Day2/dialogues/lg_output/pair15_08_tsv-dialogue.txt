@@ -1,0 +1,155 @@
+A|0| A: _okee_ je _hebben_ _het_ kopvormpje 
+A|1| A: _dan_ staan _er_ schuin _in_ _aan de_ bovenkant _zeggen maar_ _een_ ruit 
+A|2| A: _en_ _aan de zijkant_ _van_ _de_ ruit daar _zitten_ _twee_ _van_ _die ja_ _blokkentorens_ 
+A|3| A: _onderaan_ daar _zitten_ _een_ nou _ja_ _een_ l-vorm 
+A|4| A: licht l-vorm 
+A|5| A: _ook aan de_ rechterzijkant _zitten_ zo'n uitstekend l-vorm 
+B|6| B: [ja] 
+A|7| A: _en_ _in_ _het_ midden _zitten_ _er_ _dan_ _een_ _ja ik_ denken _het zijn_ _een_ zeshoek 
+A|8| A: _die_ uitsteken alsof _het_ _een beetje_ _een_ neus _zijn_ 
+B|9| B: [okee] [ja] [het zijn] diegene _met_ [een] soort [van] vierhoek dat [er] zo soort [van] [in] staat [en] [dan] _twee blokkentorens tegen elkaar_ 
+A|10| A: [ja] 
+A|11| A: [twee blokkentorens tegen elkaar] [ja] 
+B|12| B: toch 
+B|13| B: [ja] [okee] b 
+B|14| B: _dit_ [hebben] soort [van] [het] vierkantje wat [en] [er] [een] soort [van] _ingestoken_ [zijn] [aan de zijkant] [en] [dan] _met de twee_ toren [tegen elkaar] 
+B|15| B: _de twee blokkentoren_ _die er_ [in] [tegen elkaar] komen [zeggen maar] 
+B|16| B: [en] [dan] [onderaan] nog [een] soort [van] _vierkant_ dinge staaf iets 
+A|17| A: [okee] 
+B|18| B: [die] [ook aan de] rechterkant [zitten] 
+A|19| A: _beetje_ zo'n l-vorm [aan de] onderkant 
+B|20| B: [ja] [ja] [ja] 
+A|21| A: [en] eigenlijk [de] ruit [die er] half [ingestoken] 
+B|22| B: [ja] inderdaad dat [een beetje] lijken op [een] boek 
+A|23| A: [ja] 
+A|24| A: [ja] vijfteen 
+A|25| A: _dit zijn_ [die] [met de] ruit [met [de twee] blokkentoren] [aan de] bovenkant 
+B|26| B: [ja ik] moeten hem even zoeken 
+A|27| A: [de] vorm [aan de] onderkant 
+B|28| B: [die ja] inderdaad c 
+A|29| A: [ja] 
+B|30| B: [dit zijn] degeen [met] [het] vierkantje erin [en] _met de twee blokkentorens tegen elkaar_ 
+A|31| A: [ja] zeven 
+B|32| B: [okee] 
+A|33| A: [dit zijn] [die] [met de] [vierkant] Erbovenin [met de twee blokkentorens tegen elkaar] [aan] 
+B|34| B: [die ja] k 
+B|35| B: degeen [met] [het] vierkantje erin [met de twee blokkentorens tegen elkaar] 
+A|36| A: [ja] waar [zijn] hij 
+A|37| A: [ja] twaalf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee je hebben het kopvormpje
+	Free: Pattern=okee, Pattern=hebben, Pattern=het
+	Constrained: 
+Turn ID=1| A | A : dan staan er schuin in aan de bovenkant zeggen maar een ruit
+	Free: Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zeggen maar, Pattern=in, Pattern=er
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=2| A | A : en aan de zijkant van de ruit daar zitten twee van die ja blokkentorens
+	Free: Pattern=twee, Pattern=de, Pattern=aan de zijkant, Pattern=die ja, Pattern=zitten, Pattern=blokkentorens, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=die, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=3| A | A : onderaan daar zitten een nou ja een l-vorm
+	Free: Pattern=ja, Pattern=zitten, Pattern=onderaan, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : licht l-vorm
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : ook aan de rechterzijkant zitten zo'n uitstekend l-vorm
+	Free: Pattern=ook aan de, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de, Pattern=aan
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en in het midden zitten er dan een ja ik denken het zijn een zeshoek
+	Free: Pattern=dan, Pattern=een, Pattern=het, Pattern=in, Pattern=en, Pattern=het zijn, Pattern=zitten, Pattern=ja ik, Pattern=er
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=het
+Turn ID=8| A | A : die uitsteken alsof het een beetje een neus zijn
+	Free: Pattern=een, Pattern=het, Pattern=die, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=9| B | B : okee ja het zijn diegene met een soort van vierhoek dat er zo soort van in staat en dan twee blokkentorens tegen elkaar
+	Free: Pattern=twee blokkentorens tegen elkaar, Pattern=dan, Pattern=een, Pattern=in, Pattern=met, Pattern=het zijn, Pattern=er, Pattern=okee, Pattern=ja, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=tegen elkaar, Pattern=het, Pattern=blokkentorens, Pattern=zijn
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : twee blokkentorens tegen elkaar ja
+	Free: Pattern=twee blokkentorens tegen elkaar, Pattern=ja
+	Constrained: Pattern=twee, Pattern=tegen elkaar, Pattern=blokkentorens
+Turn ID=12| B | B : toch
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : ja okee b
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dit hebben soort van het vierkantje wat en er een soort van ingestoken zijn aan de zijkant en dan met de twee toren tegen elkaar
+	Free: Pattern=dan, Pattern=het, Pattern=hebben, Pattern=dit, Pattern=ingestoken, Pattern=er, Pattern=zijn, Pattern=tegen elkaar, Pattern=met de twee, Pattern=een, Pattern=aan de zijkant, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=met, Pattern=de, Pattern=met de, Pattern=aan
+Turn ID=15| B | B : de twee blokkentoren die er in tegen elkaar komen zeggen maar
+	Free: Pattern=die er, Pattern=tegen elkaar, Pattern=zeggen maar, Pattern=in, Pattern=de twee blokkentoren
+	Constrained: Pattern=twee, Pattern=die, Pattern=de, Pattern=er
+Turn ID=16| B | B : en dan onderaan nog een soort van vierkant dinge staaf iets
+	Free: Pattern=onderaan, Pattern=dan, Pattern=een, Pattern=vierkant, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=17| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=18| B | B : die ook aan de rechterkant zitten
+	Free: Pattern=ook aan de, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de, Pattern=aan
+Turn ID=19| A | A : beetje zo'n l-vorm aan de onderkant
+	Free: Pattern=aan de, Pattern=beetje
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=20| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : en eigenlijk de ruit die er half ingestoken
+	Free: Pattern=die er, Pattern=de, Pattern=ingestoken, Pattern=en
+	Constrained: Pattern=die, Pattern=er
+Turn ID=22| B | B : ja inderdaad dat een beetje lijken op een boek
+	Free: Pattern=een beetje, Pattern=ja, Pattern=een
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : dit zijn die met de ruit met de twee blokkentoren aan de bovenkant
+	Free: Pattern=aan de, Pattern=die, Pattern=de twee blokkentoren, Pattern=dit zijn, Pattern=met de, Pattern=met de twee
+	Constrained: Pattern=twee, Pattern=dit, Pattern=met, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=aan
+Turn ID=26| B | B : ja ik moeten hem even zoeken
+	Free: Pattern=ja ik
+	Constrained: Pattern=ja
+Turn ID=27| A | A : de vorm aan de onderkant
+	Free: Pattern=aan de, Pattern=de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=28| B | B : die ja inderdaad c
+	Free: Pattern=die ja
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dit zijn degeen met het vierkantje erin en met de twee blokkentorens tegen elkaar
+	Free: Pattern=met de twee blokkentorens tegen elkaar, Pattern=het, Pattern=met, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=twee blokkentorens tegen elkaar, Pattern=twee, Pattern=dit, Pattern=met, Pattern=blokkentorens, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=tegen elkaar, Pattern=met de twee
+Turn ID=31| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=33| A | A : dit zijn die met de vierkant Erbovenin met de twee blokkentorens tegen elkaar aan
+	Free: Pattern=met de twee blokkentorens tegen elkaar, Pattern=die, Pattern=vierkant, Pattern=dit zijn, Pattern=met de, Pattern=aan
+	Constrained: Pattern=twee blokkentorens tegen elkaar, Pattern=twee, Pattern=dit, Pattern=met, Pattern=blokkentorens, Pattern=zijn, Pattern=de, Pattern=met de, Pattern=tegen elkaar, Pattern=met de twee
+Turn ID=34| B | B : die ja k
+	Free: Pattern=die ja
+	Constrained: Pattern=die, Pattern=ja
+Turn ID=35| B | B : degeen met het vierkantje erin met de twee blokkentorens tegen elkaar
+	Free: Pattern=met de twee blokkentorens tegen elkaar, Pattern=het, Pattern=met
+	Constrained: Pattern=twee blokkentorens tegen elkaar, Pattern=twee, Pattern=met, Pattern=blokkentorens, Pattern=de, Pattern=met de, Pattern=tegen elkaar, Pattern=met de twee
+Turn ID=36| A | A : ja waar zijn hij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=37| A | A : ja twaalf
+	Free: Pattern=ja
+	Constrained: 

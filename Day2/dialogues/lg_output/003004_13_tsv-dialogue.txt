@@ -1,0 +1,283 @@
+B|0| B: _oké_ _ja_ ik beschrijven _het_ _als Pippi Langkous_ _het_ _hebben_ _aan_ beide kant _drie kraalt_ laten _maar_ _zeggen_ _die_ uit _het_ kop komen 
+A|1| A: [ja] 
+A|2| A: [ja] _en_ _aan de_ _onder_ 
+B|3| B: _en dan_ nog een vierkant eronder [en] een ronde ding _met_ een haal [aan de] voorkant 
+A|4| A: [ja] [ja] [ja] 
+A|5| A: [ja] 
+A|6| A: [ja] 
+A|7| A: vijf 
+B|8| B: _dan staan die_ _bij mij_ _in_ [de] hoogte net [onder] _het midden_ 
+B|9| B: _en dan_ net _links_ naast _het midden_ 
+A|10| A: _nee_ [dan] kloppen [die] _niet_ 
+B|11| B: wachten wachten 
+B|12| B: _link_ naast _het midden _van_ _het_ midden _van_ het_ linkerscherm laten _maar_ _zeggen_ 
+A|13| A: _nee_ [bij] _bij mij staan die_ _helemaal links_ [en] _hij_ [staan] _iets_ omhoog _dus_ 
+B|14| B: _als_ je _het_ _scherm_ 
+B|15| B: [helemaal links] 
+A|16| A: [bij] jou 
+A|17| A: [ja] zowat [helemaal links] [en] _hij_ [staan] _iets_ hoog [dan] [het midden] [bij] jou _zitten die_ ook laag of _niet_ 
+B|18| B: _oké_ 
+B|19| B: [nee] 
+A|20| A: _dan zijn_ [die] rood 
+B|21| B: [dan zijn] [het] [niet] hetzelfde 
+A|22| A: [nee] 
+B|23| B: _oké_ 
+A|24| A: even kijken jij [hebben] hem volgens [mij] [als Pippi Langkous] benoemen 
+B|25| B: [ja] [de] _met de drie_ 
+A|26| A: [met de [drie] kraalt] [en] [de] [ja] 
+B|27| B: yes 
+B|28| B: J 
+A|29| A: _bij mij zitten die echt_ [helemaal] rechtsonder 
+B|30| B: [nee] 
+A|31| A: [oké] 
+B|32| B: Pinokkio [Pippi Langkous] sorry [Pippi Langkous] [Pippi Langkous] 
+A|33| A: [Pippi Langkous] [oké] 
+A|34| A: [ja] [Pippi Langkous] 
+B|35| B: [Pippi Langkous] 
+A|36| A: elf 
+B|37| B: [bij mij staan die] [als] je _de linkerhelft_ pakken _in het midden van de linkerhelft_ 
+B|38| B: _en dan_ net [iets] [onder] 
+A|39| A: [in het midden van de linkerhelft] 
+B|40| B: [ja] 
+A|41| A: _echt_ [helemaal] recht [in het midden] 
+B|42| B: misschien misschien net [iets] naar [links] [van de linkerhelft] 
+A|43| A: [nee] [dan staan die] daar al [niet] goed 
+B|44| B: [oké] 
+A|45| A: [Pippi Langkous] 
+B|46| B: [ja] P 
+A|47| A: [en] [bij mij staan die] [in _het] rechtsbovenkwadrant_ 
+B|48| B: [ja] 
+A|49| A: [en dan] tegen [aan de] linkerkant [zeggen] [maar] _dus_ tegen [de] middellijn [van het] heel [scherm] [aan] ongeveer 
+B|50| B: [nee] [nee] [hij] [zitten] [bij mij] [in het midden [van] [het] rechtsbovenkwadrant] 
+A|51| A: [nee] 
+B|52| B: [Pippi Langkous] 
+A|53| A: [Pippi Langkous] dat [zijn] negen 
+B|54| B: [en [dan] staan die] _precies in het midden_ alleen [dan] wel naar boven 
+B|55| B: [dus] over [de] breedte [in het midden] 
+A|56| A: [precies in het midden] 
+B|57| B: boven _het BenQteken_ [oké] misschien een millimeter naar rechts 
+A|58| A: [bij mij staan die] 
+A|59| A: [nee] [bij mij staan die] [link] [van [het] BenQteken] 
+B|60| B: [nee] 
+A|61| A: [ja] [Pippi Langkous] 
+B|62| B: [Pippi Langkous] L 
+A|63| A: [bij mij] linksbovenkwadrant 
+B|64| B: [nee] 
+B|65| B: [bij mij zitten die echt] bijna [in het midden] 
+A|66| A: [oké] 
+A|67| A: [oké] 
+A|68| A: [nee] 
+B|69| B: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ja ik beschrijven het als Pippi Langkous het hebben aan beide kant drie kraalt laten maar zeggen die uit het kop komen
+	Free: Pattern=als Pippi Langkous, Pattern=het, Pattern=hebben, Pattern=zeggen, Pattern=die, Pattern=oké, Pattern=drie kraalt, Pattern=maar, Pattern=aan, Pattern=ja
+	Constrained: Pattern=als, Pattern=Pippi Langkous
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja en aan de onder
+	Free: Pattern=aan de, Pattern=en, Pattern=ja, Pattern=onder
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=3| B | B : en dan nog een vierkant eronder en een ronde ding met een haal aan de voorkant
+	Free: Pattern=en dan, Pattern=aan de, Pattern=met, Pattern=en
+	Constrained: Pattern=de, Pattern=en, Pattern=dan, Pattern=aan
+Turn ID=4| A | A : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dan staan die bij mij in de hoogte net onder het midden
+	Free: Pattern=het midden, Pattern=de, Pattern=onder, Pattern=in, Pattern=bij mij, Pattern=dan staan die
+	Constrained: Pattern=dan, Pattern=staan, Pattern=het, Pattern=die, Pattern=bij, Pattern=mij
+Turn ID=9| B | B : en dan net links naast het midden
+	Free: Pattern=het midden, Pattern=en dan, Pattern=links
+	Constrained: Pattern=het, Pattern=en, Pattern=dan
+Turn ID=10| A | A : nee dan kloppen die niet
+	Free: Pattern=die, Pattern=dan, Pattern=nee, Pattern=niet
+	Constrained: 
+Turn ID=11| B | B : wachten wachten
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : link naast het midden van het midden van het linkerscherm laten maar zeggen
+	Free: Pattern=zeggen, Pattern=het midden van, Pattern=link, Pattern=van het, Pattern=maar
+	Constrained: Pattern=het, Pattern=het midden
+Turn ID=13| A | A : nee bij bij mij staan die helemaal links en hij staan iets omhoog dus
+	Free: Pattern=nee, Pattern=hij, Pattern=bij, Pattern=en, Pattern=bij mij staan die, Pattern=iets, Pattern=dus, Pattern=staan, Pattern=helemaal links
+	Constrained: Pattern=helemaal, Pattern=staan, Pattern=links, Pattern=die, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=14| B | B : als je het scherm
+	Free: Pattern=het, Pattern=als, Pattern=scherm
+	Constrained: 
+Turn ID=15| B | B : helemaal links
+	Free: Pattern=helemaal links
+	Constrained: Pattern=links, Pattern=helemaal
+Turn ID=16| A | A : bij jou
+	Free: Pattern=bij
+	Constrained: 
+Turn ID=17| A | A : ja zowat helemaal links en hij staan iets hoog dan het midden bij jou zitten die ook laag of niet
+	Free: Pattern=het midden, Pattern=hij, Pattern=bij, Pattern=iets, Pattern=ja, Pattern=niet, Pattern=dan, Pattern=staan, Pattern=helemaal links, Pattern=en, Pattern=zitten die
+	Constrained: Pattern=helemaal, Pattern=links, Pattern=het, Pattern=die, Pattern=zitten
+Turn ID=18| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=20| A | A : dan zijn die rood
+	Free: Pattern=dan zijn, Pattern=die
+	Constrained: Pattern=zijn, Pattern=dan
+Turn ID=21| B | B : dan zijn het niet hetzelfde
+	Free: Pattern=dan zijn, Pattern=het, Pattern=niet
+	Constrained: Pattern=zijn, Pattern=dan
+Turn ID=22| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=23| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| A | A : even kijken jij hebben hem volgens mij als Pippi Langkous benoemen
+	Free: Pattern=als Pippi Langkous, Pattern=hebben, Pattern=mij
+	Constrained: Pattern=Pippi Langkous, Pattern=als
+Turn ID=25| B | B : ja de met de drie
+	Free: Pattern=met de drie, Pattern=de, Pattern=ja
+	Constrained: Pattern=met, Pattern=de
+Turn ID=26| A | A : met de drie kraalt en de ja
+	Free: Pattern=met de drie, Pattern=drie kraalt, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=27| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : bij mij zitten die echt helemaal rechtsonder
+	Free: Pattern=bij mij zitten die echt, Pattern=helemaal
+	Constrained: Pattern=echt, Pattern=bij, Pattern=mij, Pattern=zitten die, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=30| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=31| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=32| B | B : Pinokkio Pippi Langkous sorry Pippi Langkous Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=33| A | A : Pippi Langkous oké
+	Free: Pattern=Pippi Langkous, Pattern=oké
+	Constrained: 
+Turn ID=34| A | A : ja Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=36| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : bij mij staan die als je de linkerhelft pakken in het midden van de linkerhelft
+	Free: Pattern=in het midden van de linkerhelft, Pattern=bij mij staan die, Pattern=de linkerhelft, Pattern=als
+	Constrained: Pattern=van de linkerhelft, Pattern=het midden, Pattern=in het midden van, Pattern=de, Pattern=de linkerhelft, Pattern=staan, Pattern=het, Pattern=in het, Pattern=in, Pattern=het midden van, Pattern=die, Pattern=bij, Pattern=mij, Pattern=bij mij, Pattern=in het midden
+Turn ID=38| B | B : en dan net iets onder
+	Free: Pattern=en dan, Pattern=onder, Pattern=iets
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=39| A | A : in het midden van de linkerhelft
+	Free: Pattern=in het midden van de linkerhelft
+	Constrained: Pattern=van de linkerhelft, Pattern=het midden, Pattern=in het midden van, Pattern=de, Pattern=de linkerhelft, Pattern=het, Pattern=in het, Pattern=in, Pattern=het midden van, Pattern=in het midden
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : echt helemaal recht in het midden
+	Free: Pattern=in het midden, Pattern=echt, Pattern=helemaal
+	Constrained: Pattern=in, Pattern=in het, Pattern=het, Pattern=het midden
+Turn ID=42| B | B : misschien misschien net iets naar links van de linkerhelft
+	Free: Pattern=van de linkerhelft, Pattern=iets, Pattern=links
+	Constrained: Pattern=de linkerhelft, Pattern=de
+Turn ID=43| A | A : nee dan staan die daar al niet goed
+	Free: Pattern=dan staan die, Pattern=nee, Pattern=niet
+	Constrained: Pattern=die, Pattern=staan, Pattern=dan
+Turn ID=44| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=45| A | A : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=46| B | B : ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : en bij mij staan die in het rechtsbovenkwadrant
+	Free: Pattern=bij mij staan die, Pattern=in het, Pattern=het rechtsbovenkwadrant, Pattern=en
+	Constrained: Pattern=staan, Pattern=het, Pattern=in, Pattern=die, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=48| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| A | A : en dan tegen aan de linkerkant zeggen maar dus tegen de middellijn van het heel scherm aan ongeveer
+	Free: Pattern=en dan, Pattern=aan de, Pattern=zeggen, Pattern=scherm, Pattern=van het, Pattern=maar, Pattern=de, Pattern=aan, Pattern=dus
+	Constrained: Pattern=dan, Pattern=het, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=50| B | B : nee nee hij zitten bij mij in het midden van het rechtsbovenkwadrant
+	Free: Pattern=in het midden van, Pattern=nee, Pattern=hij, Pattern=het rechtsbovenkwadrant, Pattern=zitten, Pattern=van het, Pattern=bij mij
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in het, Pattern=in, Pattern=het midden van, Pattern=bij, Pattern=mij, Pattern=in het midden
+Turn ID=51| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=52| B | B : Pippi Langkous
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=53| A | A : Pippi Langkous dat zijn negen
+	Free: Pattern=Pippi Langkous, Pattern=zijn
+	Constrained: 
+Turn ID=54| B | B : en dan staan die precies in het midden alleen dan wel naar boven
+	Free: Pattern=precies in het midden, Pattern=dan staan die, Pattern=en dan, Pattern=dan
+	Constrained: Pattern=het midden, Pattern=dan, Pattern=staan, Pattern=het, Pattern=in het, Pattern=in, Pattern=die, Pattern=en, Pattern=in het midden
+Turn ID=55| B | B : dus over de breedte in het midden
+	Free: Pattern=in het midden, Pattern=de, Pattern=dus
+	Constrained: Pattern=in, Pattern=in het, Pattern=het, Pattern=het midden
+Turn ID=56| A | A : precies in het midden
+	Free: Pattern=precies in het midden
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in het, Pattern=in, Pattern=in het midden
+Turn ID=57| B | B : boven het BenQteken oké misschien een millimeter naar rechts
+	Free: Pattern=het BenQteken, Pattern=oké
+	Constrained: Pattern=het
+Turn ID=58| A | A : bij mij staan die
+	Free: Pattern=bij mij staan die
+	Constrained: Pattern=staan, Pattern=die, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=59| A | A : nee bij mij staan die link van het BenQteken
+	Free: Pattern=het BenQteken, Pattern=nee, Pattern=link, Pattern=van het, Pattern=bij mij staan die
+	Constrained: Pattern=staan, Pattern=het, Pattern=die, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=60| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=61| A | A : ja Pippi Langkous
+	Free: Pattern=Pippi Langkous, Pattern=ja
+	Constrained: 
+Turn ID=62| B | B : Pippi Langkous L
+	Free: Pattern=Pippi Langkous
+	Constrained: 
+Turn ID=63| A | A : bij mij linksbovenkwadrant
+	Free: Pattern=bij mij
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=64| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=65| B | B : bij mij zitten die echt bijna in het midden
+	Free: Pattern=bij mij zitten die echt, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in het, Pattern=in, Pattern=echt, Pattern=bij, Pattern=mij, Pattern=zitten die, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=66| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=67| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=68| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=69| B | B : nee
+	Free: Pattern=nee
+	Constrained: 

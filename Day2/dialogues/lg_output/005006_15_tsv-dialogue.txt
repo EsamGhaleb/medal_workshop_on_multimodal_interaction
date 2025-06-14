@@ -1,0 +1,175 @@
+B|0| B: _ok_ _het_ _zijn er_ _één_ _en_ aan _de_ bovenkant _zitten_ _twee_ heel klein _blok en_ voor _de_ rest _zitten_ _er_ staan _er_ eigenlijk niks _op_ 
+B|1| B: kunnen _er_ eigenlijk _maar_ _één_ _zijn_ _die_ _blok_ _zijn_ even groot 
+A|2| A: _ja en dan_ [zijn] [zijn er] _zitten hij_ door _een vierkant_ heen 
+B|3| B: [ja] [hij] _hebben_ _zeggen maar_ _soort van_ [vierkant] aan 
+A|4| A: [ja] [ok] zes 
+B|5| B: _dat_ [ja] 
+B|6| B: _bij mij_ [zitten hij] _helemaal_ _op_ _de_ bovenste _rij_ 
+A|7| A: [ja] 
+B|8| B: [en dan] iets _rechts_ _van _het_ midden_ 
+A|9| A: _ja en dan_ [bij mij] [het] [zeggen maar] veel veel naar [rechts] [dan] naar links ? [bij] jou ook 
+B|10| B: _van het_ Miden bedoelen _je_ _of_ 
+A|11| A: [ja] als [je] [het] scherm [hebben] [en dan] 
+A|12| A: veel [de] rechterkant [van het] scherm [of] ? _ja en dan_ [soort van] [de] drie [rij] [van] als [je] vanuit [rechts] [één] [twee] drie doen 
+B|13| B: _ja ja_ 
+B|14| B: [ja en dan] [de] boven 
+A|15| A: [ja] 
+B|16| B: [ja] 
+A|17| A: deze [zijn] [hebben] _een vierkant_ [blok] door zich heen ? _en die_ _twee blok_ [er] [op] _zegmaar_ 
+A|18| A: alleen [die] _twee [blok_ [en] dan] _zo'n_ rond cilinder ook [die] [er] uit opsteken [en] _een vierkant_ haak 
+B|19| B: [zegmaar] _die twin_ tower erop [bij] wijze [van] spreken _met_ [zo'n] [die] iet [die] [zegmaar] [een vierkant] ding aanheefn C 
+A|20| A: [ja] 
+A|21| A: [ja [ja] ja] 
+A|22| A: [bij] [zijn] [het] _in_ [die] [rij] [van] vijf [helemaal] bovenin 
+B|23| B: [ja] 
+B|24| B: [hij] [hebben] [zegmaar] weer [twee blok] bovenop [en] [hij] [hebben] [zo'n] _vierkantje_ aan [bij] wijze [van] spreken 
+A|25| A: [ja] dertien 
+A|26| A: [en dan] links _in_ [het midden] _in de één rij_ 
+B|27| B: [bij mij] [helemaal] bovenaan [in de één rij] 
+A|28| A: nee 
+A|29| A: [de] kom [met] [het] tutuu _en [die_ twin] _towers_ [er] [op] 
+B|30| B: even kijken J 
+B|31| B: _vier _rij_ en dan_ [de] [rechts] 
+A|32| A: [ja] 
+B|33| B: [met] [die] tutu [en die] Twin [towers] 
+A|34| A: negen 
+A|35| A: [de] _laat [rij_ en dan] onder 
+B|36| B: [laat rij] boven 
+A|37| A: [die] [met] [dat] [vierkantje] [er] doorheen [zegmaar] [en dan] [die] [twee] torent [er] [op] 
+B|38| B: [die] tutu 
+A|39| A: [ja] 
+B|40| B: N 
+A|41| A: [één] [twee] drie [vier rij] [de één] 
+B|42| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok het zijn er één en aan de bovenkant zitten twee heel klein blok en voor de rest zitten er staan er eigenlijk niks op
+	Free: Pattern=twee, Pattern=de, Pattern=op, Pattern=het, Pattern=zitten, Pattern=er, Pattern=en, Pattern=één, Pattern=blok en, Pattern=zijn er, Pattern=ok
+	Constrained: Pattern=zijn, Pattern=blok, Pattern=en, Pattern=er
+Turn ID=1| B | B : kunnen er eigenlijk maar één zijn die blok zijn even groot
+	Free: Pattern=die, Pattern=er, Pattern=blok, Pattern=één, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=2| A | A : ja en dan zijn zijn er zitten hij door een vierkant heen
+	Free: Pattern=zijn er, Pattern=ja en dan, Pattern=zijn, Pattern=zitten hij, Pattern=een vierkant
+	Constrained: Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=hij, Pattern=zitten, Pattern=er, Pattern=en, Pattern=zijn, Pattern=vierkant
+Turn ID=3| B | B : ja hij hebben zeggen maar soort van vierkant aan
+	Free: Pattern=ja, Pattern=zeggen maar, Pattern=hebben, Pattern=hij, Pattern=soort van, Pattern=vierkant
+	Constrained: Pattern=van, Pattern=maar
+Turn ID=4| A | A : ja ok zes
+	Free: Pattern=ja, Pattern=ok
+	Constrained: 
+Turn ID=5| B | B : dat ja
+	Free: Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=6| B | B : bij mij zitten hij helemaal op de bovenste rij
+	Free: Pattern=de, Pattern=bij mij, Pattern=zitten hij, Pattern=op, Pattern=rij, Pattern=helemaal
+	Constrained: Pattern=hij, Pattern=zitten, Pattern=bij
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en dan iets rechts van het midden
+	Free: Pattern=van het, Pattern=en dan, Pattern=het midden, Pattern=rechts
+	Constrained: Pattern=dan, Pattern=van, Pattern=en, Pattern=het
+Turn ID=9| A | A : ja en dan bij mij het zeggen maar veel veel naar rechts dan naar links ? bij jou ook
+	Free: Pattern=rechts, Pattern=dan, Pattern=zeggen maar, Pattern=het, Pattern=ja en dan, Pattern=bij, Pattern=bij mij
+	Constrained: Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=bij, Pattern=en, Pattern=maar
+Turn ID=10| B | B : van het Miden bedoelen je of
+	Free: Pattern=van het, Pattern=je, Pattern=of
+	Constrained: Pattern=het, Pattern=van
+Turn ID=11| A | A : ja als je het scherm hebben en dan
+	Free: Pattern=ja, Pattern=en dan, Pattern=het, Pattern=hebben, Pattern=je
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=12| A | A : veel de rechterkant van het scherm of ? ja en dan soort van de drie rij van als je vanuit rechts één twee drie doen
+	Free: Pattern=of, Pattern=twee, Pattern=rij, Pattern=ja en dan, Pattern=van het, Pattern=van, Pattern=soort van, Pattern=de, Pattern=rechts, Pattern=één, Pattern=je
+	Constrained: Pattern=ja, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=van, Pattern=en
+Turn ID=13| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=14| B | B : ja en dan de boven
+	Free: Pattern=ja en dan, Pattern=de
+	Constrained: Pattern=en dan, Pattern=ja, Pattern=en, Pattern=dan
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : deze zijn hebben een vierkant blok door zich heen ? en die twee blok er op zegmaar
+	Free: Pattern=en die, Pattern=op, Pattern=twee blok, Pattern=er, Pattern=blok, Pattern=zijn, Pattern=een vierkant, Pattern=hebben, Pattern=zegmaar
+	Constrained: Pattern=twee, Pattern=die, Pattern=en, Pattern=blok, Pattern=vierkant
+Turn ID=18| A | A : alleen die twee blok en dan zo'n rond cilinder ook die er uit opsteken en een vierkant haak
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=die, Pattern=twee blok, Pattern=er, Pattern=en, Pattern=blok en, Pattern=een vierkant
+	Constrained: Pattern=twee, Pattern=dan, Pattern=en, Pattern=blok, Pattern=vierkant
+Turn ID=19| B | B : zegmaar die twin tower erop bij wijze van spreken met zo'n die iet die zegmaar een vierkant ding aanheefn C
+	Free: Pattern=zo'n, Pattern=zegmaar, Pattern=met, Pattern=bij, Pattern=van, Pattern=een vierkant, Pattern=die twin, Pattern=die
+	Constrained: Pattern=vierkant, Pattern=die
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=22| A | A : bij zijn het in die rij van vijf helemaal bovenin
+	Free: Pattern=het, Pattern=in, Pattern=die, Pattern=bij, Pattern=van, Pattern=zijn, Pattern=rij, Pattern=helemaal
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : hij hebben zegmaar weer twee blok bovenop en hij hebben zo'n vierkantje aan bij wijze van spreken
+	Free: Pattern=zo'n, Pattern=hij, Pattern=vierkantje, Pattern=twee blok, Pattern=bij, Pattern=hebben, Pattern=zegmaar, Pattern=van, Pattern=en
+	Constrained: Pattern=blok, Pattern=twee
+Turn ID=25| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : en dan links in het midden in de één rij
+	Free: Pattern=in de één rij, Pattern=en dan, Pattern=het midden, Pattern=in
+	Constrained: Pattern=de, Pattern=rij, Pattern=dan, Pattern=het, Pattern=de één, Pattern=in, Pattern=en, Pattern=één
+Turn ID=27| B | B : bij mij helemaal bovenaan in de één rij
+	Free: Pattern=in de één rij, Pattern=bij mij, Pattern=helemaal
+	Constrained: Pattern=de, Pattern=rij, Pattern=de één, Pattern=in, Pattern=bij, Pattern=één
+Turn ID=28| A | A : nee
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : de kom met het tutuu en die twin towers er op
+	Free: Pattern=en die, Pattern=towers, Pattern=de, Pattern=op, Pattern=het, Pattern=met, Pattern=die twin, Pattern=er
+	Constrained: Pattern=die, Pattern=en
+Turn ID=30| B | B : even kijken J
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : vier rij en dan de rechts
+	Free: Pattern=rij en dan, Pattern=vier rij, Pattern=rechts, Pattern=de
+	Constrained: Pattern=en dan, Pattern=rij, Pattern=en, Pattern=dan
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : met die tutu en die Twin towers
+	Free: Pattern=en die, Pattern=die, Pattern=towers, Pattern=met
+	Constrained: Pattern=die, Pattern=en
+Turn ID=34| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : de laat rij en dan onder
+	Free: Pattern=rij en dan, Pattern=laat rij, Pattern=de
+	Constrained: Pattern=en dan, Pattern=rij, Pattern=en, Pattern=dan
+Turn ID=36| B | B : laat rij boven
+	Free: Pattern=laat rij
+	Constrained: Pattern=rij
+Turn ID=37| A | A : die met dat vierkantje er doorheen zegmaar en dan die twee torent er op
+	Free: Pattern=dat, Pattern=twee, Pattern=en dan, Pattern=op, Pattern=zegmaar, Pattern=die, Pattern=er, Pattern=vierkantje, Pattern=met
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=38| B | B : die tutu
+	Free: Pattern=die
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : één twee drie vier rij de één
+	Free: Pattern=vier rij, Pattern=de één, Pattern=twee, Pattern=één
+	Constrained: Pattern=rij, Pattern=de, Pattern=één
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

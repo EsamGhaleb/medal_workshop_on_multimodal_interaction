@@ -1,0 +1,111 @@
+B|0| B: _deze hebben_ _twee_ of _hebben een_ _schroef_ _op zijn hoofd_ _dat zijn_ misschien nog _de_ handig 
+B|1| B: _een_ groot _vierkant_ 
+B|2| B: _een_ beetje tegen _zijn_ oog _aan_ 
+B|3| B: _en_ eigenlijk of tegen _zijn hoofd_ _aan_ want _zijn_ oog _zijn_ eigenlijk _twee vierkant schroef_ 
+A|4| A: _ja_ 
+A|5| A: [dat zijn] zes 
+A|6| A: [deze hebben] rechtsvoor [een] plateau 
+A|7| A: [een] soort _paddestoel op zijn hoofd_ 
+A|8| A: jij zeggen het anders maar _ja een_ soort speld 
+B|9| B: [dat] maken niet uit 
+A|10| A: [en] [aan] [de] linkerkant [twee] identiek uitstulping 
+B|11| B: [ja] [dat zijn] k 
+B|12| B: _deze hebben een paddestoel op zijn hoofd_ 
+B|13| B: _een scherm_ rechts van [zijn hoofd] [een] _vierkant_ 
+A|14| A: [dat zijn] vier 
+B|15| B: _en twee_ 
+A|16| A: [deze hebben een paddestoel op zijn hoofd] [en] [een scherm] [aan] [de] voorkant [en [twee] vierkant schroef] 
+B|17| B: [ja] m 
+B|18| B: [paddestoel] [vierkant] [en] [vierkant schroef] 
+A|19| A: [ja] twaalf 
+A|20| A: nou [ja] dit [zijn] _met_ [paddestoel op zijn hoofd] 
+B|21| B: [met] [de] [twee vierkant schroef] 
+A|22| A: het het lijken _wel_ [een] robot 
+A|23| A: [ja] 
+B|24| B: [ja een] beetje [wel] 
+A|25| A: [ja] 
+B|26| B: [dat zijn] i 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben twee of hebben een schroef op zijn hoofd dat zijn misschien nog de handig
+	Free: Pattern=dat zijn, Pattern=de, Pattern=deze hebben, Pattern=schroef, Pattern=op zijn hoofd, Pattern=twee, Pattern=hebben een
+	Constrained: Pattern=zijn, Pattern=zijn hoofd, Pattern=een, Pattern=dat
+Turn ID=1| B | B : een groot vierkant
+	Free: Pattern=een, Pattern=vierkant
+	Constrained: 
+Turn ID=2| B | B : een beetje tegen zijn oog aan
+	Free: Pattern=een, Pattern=aan, Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : en eigenlijk of tegen zijn hoofd aan want zijn oog zijn eigenlijk twee vierkant schroef
+	Free: Pattern=twee vierkant schroef, Pattern=zijn hoofd, Pattern=aan, Pattern=en, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=vierkant schroef, Pattern=schroef, Pattern=zijn, Pattern=vierkant
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dat zijn zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=6| A | A : deze hebben rechtsvoor een plateau
+	Free: Pattern=deze hebben, Pattern=een
+	Constrained: 
+Turn ID=7| A | A : een soort paddestoel op zijn hoofd
+	Free: Pattern=paddestoel op zijn hoofd, Pattern=een
+	Constrained: Pattern=op zijn hoofd, Pattern=zijn, Pattern=paddestoel, Pattern=zijn hoofd
+Turn ID=8| A | A : jij zeggen het anders maar ja een soort speld
+	Free: Pattern=ja een
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=9| B | B : dat maken niet uit
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=10| A | A : en aan de linkerkant twee identiek uitstulping
+	Free: Pattern=aan, Pattern=en, Pattern=de, Pattern=twee
+	Constrained: 
+Turn ID=11| B | B : ja dat zijn k
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=12| B | B : deze hebben een paddestoel op zijn hoofd
+	Free: Pattern=deze hebben een paddestoel op zijn hoofd
+	Constrained: Pattern=zijn hoofd, Pattern=hebben een, Pattern=een, Pattern=deze hebben, Pattern=paddestoel, Pattern=paddestoel op zijn hoofd, Pattern=op zijn hoofd, Pattern=zijn
+Turn ID=13| B | B : een scherm rechts van zijn hoofd een vierkant
+	Free: Pattern=een scherm, Pattern=zijn hoofd, Pattern=een, Pattern=vierkant
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=14| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : en twee
+	Free: Pattern=en twee
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=16| A | A : deze hebben een paddestoel op zijn hoofd en een scherm aan de voorkant en twee vierkant schroef
+	Free: Pattern=twee vierkant schroef, Pattern=een scherm, Pattern=deze hebben een paddestoel op zijn hoofd, Pattern=en, Pattern=en twee, Pattern=de, Pattern=aan
+	Constrained: Pattern=zijn hoofd, Pattern=vierkant schroef, Pattern=een, Pattern=deze hebben, Pattern=paddestoel, Pattern=paddestoel op zijn hoofd, Pattern=schroef, Pattern=en, Pattern=op zijn hoofd, Pattern=zijn, Pattern=vierkant, Pattern=twee, Pattern=hebben een
+Turn ID=17| B | B : ja m
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : paddestoel vierkant en vierkant schroef
+	Free: Pattern=vierkant schroef, Pattern=en, Pattern=vierkant, Pattern=paddestoel
+	Constrained: Pattern=schroef, Pattern=vierkant
+Turn ID=19| A | A : ja twaalf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nou ja dit zijn met paddestoel op zijn hoofd
+	Free: Pattern=paddestoel op zijn hoofd, Pattern=met, Pattern=zijn, Pattern=ja
+	Constrained: Pattern=op zijn hoofd, Pattern=zijn, Pattern=paddestoel, Pattern=zijn hoofd
+Turn ID=21| B | B : met de twee vierkant schroef
+	Free: Pattern=twee vierkant schroef, Pattern=de, Pattern=met
+	Constrained: Pattern=vierkant schroef, Pattern=schroef, Pattern=vierkant, Pattern=twee
+Turn ID=22| A | A : het het lijken wel een robot
+	Free: Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ja een beetje wel
+	Free: Pattern=ja een, Pattern=wel
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dat zijn i
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

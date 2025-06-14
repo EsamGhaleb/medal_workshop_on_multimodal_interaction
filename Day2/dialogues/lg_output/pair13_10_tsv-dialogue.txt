@@ -1,0 +1,115 @@
+A|0| A: even kijken dit bekert lijken _het_ alsof _het_ _twee stomp_ hebben _aan_ _de_ alsof _het_ _twee_ armp hebben 
+A|1| A: dus zowel rechts als links hebben _het_ _een_ uitsteeksel _met_ _een_ _soort_ _ja_ _stomp_ doen _het_ me echt _aan_ denken 
+A|2| A: _aan_ _de_ bovenkant hebben _het_ _een_ _soort_ vierkant wat eraan vastzitten 
+A|3| A: _aan_ _de_ linkerzijde 
+A|4| A: _en_ vanuit daar lopen _het_ ook _nog_ _een_ beetje _naar beneden_ 
+B|5| B: [ja] [en] _die stomp_ _die_ eindigen gewoon _met zo'n_ [soort] van bolle 
+A|6| A: [met zo'n] bolling inderdaad [ja] 
+B|7| B: [ja] okee 
+B|8| B: dan _zijn_ [het] k 
+B|9| B: _die_ [een] [met] _de stomp aan beide_ kant 
+A|10| A: [ja] 
+B|11| B: linkerkant iets klein rechterkant iets groot [en] dan [nog] iets daarachter [en] dan [nog] [naar beneden] 
+A|12| A: [ja] _dat zijn_ nummer vier 
+A|13| A: _dat zijn_ weer [die stomp] 
+A|14| A: [met] [het] dinge linksachter 
+B|15| B: [ja] 
+B|16| B: [ja] 
+B|17| B: [dat zijn] o 
+B|18| B: [met] [twee stomp] 
+A|19| A: [ja] _waar_ zitten [die] 
+A|20| A: nummer veertien 
+A|21| A: [de stomp aan beide] zij 
+B|22| B: [ja] 
+B|23| B: [waar] staan [die] 
+B|24| B: ah [dat zijn] j 
+B|25| B: [de] [twee stomp] 
+A|26| A: [waar] [zijn] [die] 
+A|27| A: [ja] nummer zestien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken dit bekert lijken het alsof het twee stomp hebben aan de alsof het twee armp hebben
+	Free: Pattern=twee, Pattern=twee stomp, Pattern=het, Pattern=de, Pattern=aan
+	Constrained: Pattern=twee, Pattern=stomp
+Turn ID=1| A | A : dus zowel rechts als links hebben het een uitsteeksel met een soort ja stomp doen het me echt aan denken
+	Free: Pattern=soort, Pattern=een, Pattern=stomp, Pattern=het, Pattern=met, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : aan de bovenkant hebben het een soort vierkant wat eraan vastzitten
+	Free: Pattern=soort, Pattern=een, Pattern=het, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=3| A | A : aan de linkerzijde
+	Free: Pattern=aan, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : en vanuit daar lopen het ook nog een beetje naar beneden
+	Free: Pattern=nog, Pattern=een, Pattern=het, Pattern=naar beneden, Pattern=en
+	Constrained: 
+Turn ID=5| B | B : ja en die stomp die eindigen gewoon met zo'n soort van bolle
+	Free: Pattern=soort, Pattern=ja, Pattern=die, Pattern=en, Pattern=die stomp, Pattern=met zo'n
+	Constrained: Pattern=die, Pattern=met, Pattern=stomp
+Turn ID=6| A | A : met zo'n bolling inderdaad ja
+	Free: Pattern=met zo'n, Pattern=ja
+	Constrained: Pattern=met
+Turn ID=7| B | B : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dan zijn het k
+	Free: Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : die een met de stomp aan beide kant
+	Free: Pattern=de stomp aan beide, Pattern=die, Pattern=met, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=stomp
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : linkerkant iets klein rechterkant iets groot en dan nog iets daarachter en dan nog naar beneden
+	Free: Pattern=naar beneden, Pattern=nog, Pattern=en
+	Constrained: 
+Turn ID=12| A | A : ja dat zijn nummer vier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : dat zijn weer die stomp
+	Free: Pattern=dat zijn, Pattern=die stomp
+	Constrained: Pattern=zijn, Pattern=die, Pattern=stomp
+Turn ID=14| A | A : met het dinge linksachter
+	Free: Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn o
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : met twee stomp
+	Free: Pattern=twee stomp, Pattern=met
+	Constrained: Pattern=twee, Pattern=stomp
+Turn ID=19| A | A : ja waar zitten die
+	Free: Pattern=waar, Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : de stomp aan beide zij
+	Free: Pattern=de stomp aan beide
+	Constrained: Pattern=aan, Pattern=de, Pattern=stomp
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : waar staan die
+	Free: Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=24| B | B : ah dat zijn j
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : de twee stomp
+	Free: Pattern=twee stomp, Pattern=de
+	Constrained: Pattern=twee, Pattern=stomp
+Turn ID=26| A | A : waar zijn die
+	Free: Pattern=zijn, Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=27| A | A : ja nummer zestien
+	Free: Pattern=ja
+	Constrained: 

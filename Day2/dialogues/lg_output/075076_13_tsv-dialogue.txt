@@ -1,0 +1,187 @@
+B|0| B: dit _zijn_ _die een_ _met_ heel veel _ding_ hij _staan_ _op een op een_ oppervlakte en hij _hebben_ _twee_ _van_ _die_ uitsteeksel _rechts_ en link 
+A|1| A: _ja_ 
+A|2| A: _bij mij zijn_ _het_ nummer vijf 
+B|3| B: hij _staan_ _aan de linkerkant van het scherm_ 
+B|4| B: _een_ beetje eigenlijk _aan_ _in_ _het midden _van_ _de_ linkerkant_ 
+A|5| A: _ja_ 
+B|6| B: en _dan_ _net_ _onder_ _de_ deze _middellijn_ _zeggen_ _maar_ 
+B|7| B: _dus_ 
+A|8| A: _net eronder_ 
+B|9| B: [ja] 
+A|10| A: _oké_ _bij mij staan die_ _er_ volgens _mij_ _net iets_ _boven_ 
+A|11| A: of [in] ieder geval _net iets_ _boven_ [het midden [van] het scherm] laten [maar] [zeggen] 
+A|12| A: [dus] [dan] denken _ik_ _niet_ _dat_ ze [op] dezelfde plek [staan] 
+B|13| B: [ja] [bij mij zijn] [die] [net eronder] 
+A|14| A: _ik hebben_ weer _dat_ [ding] wat [op een op een] vierkant [staan] [met] [die] [twee] soort [van] _spiraalt_ [aan] beide kant 
+B|15| B: [ja] 
+B|16| B: _dat zijn_ J 
+A|17| A: _bij mij staan die_ helemaal rechtsonder [in] [de] hoek 
+B|18| B: _nee_ daar [staan die] _bij mij niet_ 
+B|19| B: _ik hebben die een_ _die op_ zo'n vlak [staan] en [twee] [van] [die] spiraalding _aan de zijkant_ [hebben] 
+A|20| A: [ja] 
+A|21| A: [dat zijn] [bij mij] nummer elf 
+B|22| B: en hij [staan] links [in] [het midden] ergens 
+B|23| B: en [net iets] _onder_ _de middellijn_ 
+A|24| A: [onder] 
+B|25| B: [ja] 
+A|26| A: _nee bij mij staan die_ Erboven 
+A|27| A: [ik hebben [die] op] [dat] vierkant [met] [die] [twee] _spiraalt_ 
+A|28| A: [aan de] beide [zijkant] 
+B|29| B: [ja] [dat zijn] P 
+A|30| A: _mij staan die_ [aan de] rechterkant [van het scherm] 
+A|31| A: [net] [rechts] [van [de] middellijn] 
+B|32| B: [nee bij mij staan die] wel echt [in] [het midden [van] de] rechterhelft 
+A|33| A: [nee] [zijn] [bij mij niet] 
+B|34| B: [oké] 
+B|35| B: [dat zijn] _die een_ [die [op] een] [ding] [staan] en [twee] spiral _aan de zijkant_ 
+A|36| A: [ja] nummer negen 
+B|37| B: hij [staan] [op] [de middellijn] en [dan] [boven] [de middellijn] 
+B|38| B: [er] past [er] geen veel [boven] 
+A|39| A: [nee] [dat] [hebben] [ik] [niet] 
+B|40| B: [maar] [het] [zijn] ook krap 
+A|41| A: [ik hebben die [een] op] [dat] plateau [met] [die] [twee] staaf [met] _die spiraalt_ [aan de zijkant] 
+B|42| B: [die spiraalt] 
+B|43| B: [dat zijn] L 
+A|44| A: [bij mij staan die] [aan de linkerkant van het scherm] 
+B|45| B: [nee] [staan die] [bij mij niet] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn die een met heel veel ding hij staan op een op een oppervlakte en hij hebben twee van die uitsteeksel rechts en link
+	Free: Pattern=twee, Pattern=rechts, Pattern=ding, Pattern=staan, Pattern=met, Pattern=die, Pattern=die een, Pattern=van, Pattern=zijn, Pattern=op een op een, Pattern=hebben
+	Constrained: Pattern=een op, Pattern=op, Pattern=een, Pattern=die, Pattern=op een
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : bij mij zijn het nummer vijf
+	Free: Pattern=bij mij zijn, Pattern=het
+	Constrained: Pattern=bij mij, Pattern=zijn, Pattern=mij
+Turn ID=3| B | B : hij staan aan de linkerkant van het scherm
+	Free: Pattern=aan de linkerkant van het scherm, Pattern=staan
+	Constrained: Pattern=van het scherm, Pattern=aan de, Pattern=de linkerkant, Pattern=het, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=4| B | B : een beetje eigenlijk aan in het midden van de linkerkant
+	Free: Pattern=aan, Pattern=van de, Pattern=een, Pattern=de linkerkant, Pattern=in, Pattern=het midden van
+	Constrained: Pattern=de, Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en dan net onder de deze middellijn zeggen maar
+	Free: Pattern=net, Pattern=de, Pattern=dan, Pattern=middellijn, Pattern=maar, Pattern=zeggen, Pattern=onder
+	Constrained: 
+Turn ID=7| B | B : dus
+	Free: Pattern=dus
+	Constrained: 
+Turn ID=8| A | A : net eronder
+	Free: Pattern=net eronder
+	Constrained: Pattern=net
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké bij mij staan die er volgens mij net iets boven
+	Free: Pattern=boven, Pattern=net iets, Pattern=oké, Pattern=er, Pattern=mij, Pattern=bij mij staan die
+	Constrained: Pattern=net, Pattern=staan die, Pattern=staan, Pattern=die, Pattern=mij, Pattern=bij mij, Pattern=mij staan die
+Turn ID=11| A | A : of in ieder geval net iets boven het midden van het scherm laten maar zeggen
+	Free: Pattern=van het scherm, Pattern=boven, Pattern=net iets, Pattern=zeggen, Pattern=in, Pattern=het midden van, Pattern=maar
+	Constrained: Pattern=net, Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=12| A | A : dus dan denken ik niet dat ze op dezelfde plek staan
+	Free: Pattern=dat, Pattern=dus, Pattern=op, Pattern=staan, Pattern=ik, Pattern=niet, Pattern=dan
+	Constrained: 
+Turn ID=13| B | B : ja bij mij zijn die net eronder
+	Free: Pattern=bij mij zijn, Pattern=net eronder, Pattern=ja, Pattern=die
+	Constrained: Pattern=mij, Pattern=bij mij, Pattern=zijn, Pattern=net
+Turn ID=14| A | A : ik hebben weer dat ding wat op een op een vierkant staan met die twee soort van spiraalt aan beide kant
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=twee, Pattern=aan, Pattern=ding, Pattern=staan, Pattern=op een op een, Pattern=met, Pattern=die, Pattern=van, Pattern=spiraalt
+	Constrained: Pattern=een op, Pattern=op, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=op een
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : bij mij staan die helemaal rechtsonder in de hoek
+	Free: Pattern=bij mij staan die, Pattern=de, Pattern=in
+	Constrained: Pattern=staan die, Pattern=staan, Pattern=die, Pattern=mij, Pattern=bij mij, Pattern=mij staan die
+Turn ID=18| B | B : nee daar staan die bij mij niet
+	Free: Pattern=bij mij niet, Pattern=staan die, Pattern=nee
+	Constrained: Pattern=niet, Pattern=staan, Pattern=die, Pattern=mij, Pattern=bij mij
+Turn ID=19| B | B : ik hebben die een die op zo'n vlak staan en twee van die spiraalding aan de zijkant hebben
+	Free: Pattern=twee, Pattern=ik hebben die een, Pattern=hebben, Pattern=die, Pattern=die op, Pattern=van, Pattern=aan de zijkant, Pattern=staan
+	Constrained: Pattern=ik hebben, Pattern=een, Pattern=hebben, Pattern=die een, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de, Pattern=die, Pattern=zijkant, Pattern=ik hebben die, Pattern=ik
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn bij mij nummer elf
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij
+Turn ID=22| B | B : en hij staan links in het midden ergens
+	Free: Pattern=het midden, Pattern=staan, Pattern=in
+	Constrained: Pattern=het
+Turn ID=23| B | B : en net iets onder de middellijn
+	Free: Pattern=de middellijn, Pattern=net iets, Pattern=onder
+	Constrained: Pattern=middellijn, Pattern=de, Pattern=net
+Turn ID=24| A | A : onder
+	Free: Pattern=onder
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nee bij mij staan die Erboven
+	Free: Pattern=nee bij mij staan die
+	Constrained: Pattern=staan die, Pattern=staan, Pattern=nee, Pattern=die, Pattern=mij, Pattern=mij staan die, Pattern=bij mij, Pattern=bij mij staan die
+Turn ID=27| A | A : ik hebben die op dat vierkant met die twee spiraalt
+	Free: Pattern=dat, Pattern=twee, Pattern=met, Pattern=die, Pattern=spiraalt, Pattern=ik hebben die, Pattern=die op
+	Constrained: Pattern=ik hebben, Pattern=op, Pattern=hebben, Pattern=die, Pattern=ik
+Turn ID=28| A | A : aan de beide zijkant
+	Free: Pattern=aan de, Pattern=zijkant
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=29| B | B : ja dat zijn P
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| A | A : mij staan die aan de rechterkant van het scherm
+	Free: Pattern=van het scherm, Pattern=mij staan die, Pattern=aan de
+	Constrained: Pattern=staan die, Pattern=staan, Pattern=het, Pattern=die, Pattern=mij, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=31| A | A : net rechts van de middellijn
+	Free: Pattern=van de, Pattern=de middellijn, Pattern=rechts, Pattern=net
+	Constrained: Pattern=middellijn, Pattern=van, Pattern=de
+Turn ID=32| B | B : nee bij mij staan die wel echt in het midden van de rechterhelft
+	Free: Pattern=nee bij mij staan die, Pattern=het midden van, Pattern=van de, Pattern=in
+	Constrained: Pattern=het midden, Pattern=de, Pattern=staan die, Pattern=staan, Pattern=nee, Pattern=het, Pattern=die, Pattern=mij, Pattern=van, Pattern=mij staan die, Pattern=bij mij, Pattern=bij mij staan die
+Turn ID=33| A | A : nee zijn bij mij niet
+	Free: Pattern=bij mij niet, Pattern=zijn, Pattern=nee
+	Constrained: Pattern=bij mij, Pattern=niet, Pattern=mij
+Turn ID=34| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=35| B | B : dat zijn die een die op een ding staan en twee spiral aan de zijkant
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=ding, Pattern=die een, Pattern=die op, Pattern=op een, Pattern=aan de zijkant, Pattern=staan
+	Constrained: Pattern=dat, Pattern=een, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de, Pattern=die, Pattern=zijkant
+Turn ID=36| A | A : ja nummer negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : hij staan op de middellijn en dan boven de middellijn
+	Free: Pattern=op, Pattern=staan, Pattern=de middellijn, Pattern=boven, Pattern=dan
+	Constrained: Pattern=middellijn, Pattern=de
+Turn ID=38| B | B : er past er geen veel boven
+	Free: Pattern=boven, Pattern=er
+	Constrained: 
+Turn ID=39| A | A : nee dat hebben ik niet
+	Free: Pattern=dat, Pattern=niet, Pattern=nee, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=40| B | B : maar het zijn ook krap
+	Free: Pattern=maar, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=41| A | A : ik hebben die een op dat plateau met die twee staaf met die spiraalt aan de zijkant
+	Free: Pattern=die spiraalt, Pattern=dat, Pattern=twee, Pattern=aan de zijkant, Pattern=met, Pattern=die, Pattern=ik hebben die een, Pattern=een op
+	Constrained: Pattern=ik hebben, Pattern=een, Pattern=hebben, Pattern=die een, Pattern=spiraalt, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de, Pattern=die, Pattern=zijkant, Pattern=ik hebben die, Pattern=ik
+Turn ID=42| B | B : die spiraalt
+	Free: Pattern=die spiraalt
+	Constrained: Pattern=spiraalt, Pattern=die
+Turn ID=43| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=44| A | A : bij mij staan die aan de linkerkant van het scherm
+	Free: Pattern=aan de linkerkant van het scherm, Pattern=bij mij staan die
+	Constrained: Pattern=van het scherm, Pattern=aan de, Pattern=staan die, Pattern=staan, Pattern=de linkerkant, Pattern=het, Pattern=die, Pattern=mij, Pattern=van, Pattern=bij mij, Pattern=mij staan die, Pattern=de, Pattern=aan
+Turn ID=45| B | B : nee staan die bij mij niet
+	Free: Pattern=bij mij niet, Pattern=staan die, Pattern=nee
+	Constrained: Pattern=niet, Pattern=staan, Pattern=die, Pattern=mij, Pattern=bij mij

@@ -1,0 +1,247 @@
+A|0| A: _ja_ nou moeten _ik_ weer _kop_ 
+A|1| A: _piramide erop_ 
+A|2| A: _soort_ van vierkantachtig _maar net _niet_ helemaal_ _ding_ zitten _er_ _een_ beetje aan vastgelijmen _rechts_ 
+B|3| B: ha 
+A|4| A: link _een_ _soort_ van _wijnflesje_ _die_ eruit opsteken _en linksonder_ _een_ cirkel 
+B|5| B: [ja] 
+B|6| B: _dat zijn_ J 
+A|7| A: _en hij staan bij mij_ [ja] _rechtsonder maar dan_ _de_ _twee_ rij van _rechts_ 
+B|8| B: [ja] 
+A|9| A: _maar_ wel _helemaal onderaan_ 
+B|10| B: [helemaal onderaan] [maar net niet] in [de] hoek [ja] 
+A|11| A: yes 
+B|12| B: [dan] [staan] ze _op dezelfde plek_ 
+B|13| B: dit _zijn_ _die met die_ [piramide] zullen [ik] [maar] _zeggen_ _op_ _het_ [kop] 
+A|14| A: [ja] 
+B|15| B: [en] [dan] [rechts] _dat_ [soort] vierkant _wat_ [niet helemaal] [een] vierkant _zijn_ [en] _links_ [die] fles wijn 
+B|16| B: [en linksonder] 
+A|17| A: [ja] 
+A|18| A: [dat zijn] nummer zes 
+B|19| B: [en hij] staat [rechtsonder maar dan] één omhoog [en] één _naar_ _links_ 
+A|20| A: _ja _ja_ [dat_ zijn] hetzelfde 
+B|21| B: [ja] 
+A|22| A: _dus_ [dat zijn] geel 
+A|23| A: [kop] [met] [de] [piramide] 
+A|24| A: [en] [de] [de] wijnfles aan [de] linkerkant 
+B|25| B: [ja ja] 
+A|26| A: [en] 
+B|27| B: [dat zijn] E 
+A|28| A: _en hij staan_ nou als _je_ van _boven_ [naar] onder kijken [wat] [naar] onder van [het] midden [en] van [links] [naar] [rechts] [wat] [rechts] van [het] midden _dus_ 
+A|29| A: beetje _zeggen maar_ [rechtsonder] van [het] middelpunt 
+A|30| A: _twee_ rij van onder [en] _twee_ rij van [het] middelpunt af [naar] [rechts] _zeggen maar_ 
+B|31| B: [ja] 
+B|32| B: [dan] [staan] ze _op dezelfde plek_ 
+B|33| B: [dat] [ding] [met] [dat] [piramide erop] 
+B|34| B: _op_ [het] [kop] [en] [dan] [rechts] [dat] vierkant armp [en] [links] [het] [wijnflesje] 
+A|35| A: [ja] nummer tien 
+B|36| B: [en hij staan bij mij] [linksonder] 
+A|37| A: [helemaal] [linksonder] 
+B|38| B: [ja] [je] zullen _er nog_ _iets_ _naast_ kunnen zetten [maar] [er] [staan] [niet] _echt_ _iets_ _naast_ 
+A|39| A: _oké_ _ja bij mij_ [staan] [die met die] [die] staaf aan [de] [die] zitten bekendstaan [er nog] [naast] _dus_ [dan] _denken ik_ [niet] [dat] [die] [op dezelfde plek] zitten 
+B|40| B: [oké] 
+A|41| A: _dus_ rood 
+A|42| A: [de] [piramide] aan [de] bovenkant [de] wijnfles aan [de] linkerkant 
+B|43| B: [ja] 
+A|44| A: [net niet] vierkantje 
+B|45| B: [dat zijn] G 
+A|46| A: [en] [helemaal] Linksboven 
+B|47| B: [ja dat] kloppen ook 
+B|48| B: [met] [het] driehoek [op] [het] [kop] [en] [links] [het] [wijnflesje] erin [en] [rechts] [het] vierkant [ding] 
+A|49| A: [ik] [zijn] hem aan [het] zoeken 
+A|50| A: [ja] hebbes 
+A|51| A: nummer tien 
+B|52| B: [en hij staan] 
+A|53| A: [bij mij] [staan] [die] [naast] [de] waterpomp 
+B|54| B: [ja] 
+A|55| A: [iets] [linksonder] ervan 
+B|56| B: [dus] [zeggen maar] [niet] één [naar] [links] vanuit [rechts] zien [en] [dan] ook [twee] [naar] [boven] [denken ik] vanuit beneden zien 
+A|57| A: nee [je] hebben [de] waterpomp [en] daar [staan] [die] [echt] bijna [helemaal] [naast] daar [staan] [die] [iets] onder [bij mij] 
+B|58| B: [ja] 
+B|59| B: [ja bij mij] ook 
+A|60| A: [oké] [dan] [zijn] [dat] [dezelfde] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja nou moeten ik weer kop
+	Free: Pattern=kop, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : piramide erop
+	Free: Pattern=piramide erop
+	Constrained: Pattern=piramide
+Turn ID=2| A | A : soort van vierkantachtig maar net niet helemaal ding zitten er een beetje aan vastgelijmen rechts
+	Free: Pattern=soort, Pattern=rechts, Pattern=niet helemaal, Pattern=maar net niet, Pattern=ding, Pattern=een, Pattern=er
+	Constrained: Pattern=net niet, Pattern=helemaal, Pattern=niet, Pattern=maar
+Turn ID=3| B | B : ha
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : link een soort van wijnflesje die eruit opsteken en linksonder een cirkel
+	Free: Pattern=soort, Pattern=een, Pattern=en linksonder, Pattern=wijnflesje, Pattern=die
+	Constrained: Pattern=en, Pattern=linksonder
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| A | A : en hij staan bij mij ja rechtsonder maar dan de twee rij van rechts
+	Free: Pattern=twee, Pattern=de, Pattern=rechts, Pattern=ja, Pattern=rechtsonder maar dan, Pattern=en hij staan bij mij
+	Constrained: Pattern=dan, Pattern=staan, Pattern=en hij staan, Pattern=en hij, Pattern=rechtsonder, Pattern=en, Pattern=maar, Pattern=bij mij
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : maar wel helemaal onderaan
+	Free: Pattern=helemaal onderaan, Pattern=maar
+	Constrained: Pattern=helemaal
+Turn ID=10| B | B : helemaal onderaan maar net niet in de hoek ja
+	Free: Pattern=maar net niet, Pattern=helemaal onderaan, Pattern=de, Pattern=ja
+	Constrained: Pattern=helemaal, Pattern=net niet, Pattern=niet, Pattern=maar
+Turn ID=11| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dan staan ze op dezelfde plek
+	Free: Pattern=op dezelfde plek, Pattern=dan, Pattern=staan
+	Constrained: Pattern=dezelfde, Pattern=op
+Turn ID=13| B | B : dit zijn die met die piramide zullen ik maar zeggen op het kop
+	Free: Pattern=die met die, Pattern=het, Pattern=ik, Pattern=piramide, Pattern=op, Pattern=kop, Pattern=zeggen, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=die, Pattern=met
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : en dan rechts dat soort vierkant wat niet helemaal een vierkant zijn en links die fles wijn
+	Free: Pattern=dat, Pattern=soort, Pattern=rechts, Pattern=niet helemaal, Pattern=dan, Pattern=een, Pattern=links, Pattern=die, Pattern=wat, Pattern=en, Pattern=zijn
+	Constrained: Pattern=helemaal, Pattern=niet
+Turn ID=16| B | B : en linksonder
+	Free: Pattern=en linksonder
+	Constrained: Pattern=en, Pattern=linksonder
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : en hij staat rechtsonder maar dan één omhoog en één naar links
+	Free: Pattern=links, Pattern=en hij, Pattern=en, Pattern=rechtsonder maar dan, Pattern=naar
+	Constrained: Pattern=dan, Pattern=maar, Pattern=rechtsonder, Pattern=en
+Turn ID=20| A | A : ja ja dat zijn hetzelfde
+	Free: Pattern=dat zijn, Pattern=ja dat, Pattern=ja ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dus dat zijn geel
+	Free: Pattern=dat zijn, Pattern=dus
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=23| A | A : kop met de piramide
+	Free: Pattern=piramide, Pattern=kop, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=24| A | A : en de de wijnfles aan de linkerkant
+	Free: Pattern=en, Pattern=de
+	Constrained: 
+Turn ID=25| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=26| A | A : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=27| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : en hij staan nou als je van boven naar onder kijken wat naar onder van het midden en van links naar rechts wat rechts van het midden dus
+	Free: Pattern=boven, Pattern=links, Pattern=het, Pattern=en hij staan, Pattern=wat, Pattern=en, Pattern=je, Pattern=naar, Pattern=rechts, Pattern=dus
+	Constrained: Pattern=en hij, Pattern=en, Pattern=staan
+Turn ID=29| A | A : beetje zeggen maar rechtsonder van het middelpunt
+	Free: Pattern=zeggen maar, Pattern=rechtsonder, Pattern=het
+	Constrained: Pattern=maar, Pattern=zeggen
+Turn ID=30| A | A : twee rij van onder en twee rij van het middelpunt af naar rechts zeggen maar
+	Free: Pattern=twee, Pattern=rechts, Pattern=zeggen maar, Pattern=het, Pattern=en, Pattern=naar
+	Constrained: Pattern=maar, Pattern=zeggen
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : dan staan ze op dezelfde plek
+	Free: Pattern=op dezelfde plek, Pattern=dan, Pattern=staan
+	Constrained: Pattern=dezelfde, Pattern=op
+Turn ID=33| B | B : dat ding met dat piramide erop
+	Free: Pattern=piramide erop, Pattern=dat, Pattern=met, Pattern=ding
+	Constrained: Pattern=piramide
+Turn ID=34| B | B : op het kop en dan rechts dat vierkant armp en links het wijnflesje
+	Free: Pattern=dat, Pattern=rechts, Pattern=op, Pattern=dan, Pattern=links, Pattern=het, Pattern=kop, Pattern=wijnflesje, Pattern=en
+	Constrained: 
+Turn ID=35| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : en hij staan bij mij linksonder
+	Free: Pattern=en hij staan bij mij, Pattern=linksonder
+	Constrained: Pattern=staan, Pattern=en hij staan, Pattern=en hij, Pattern=en, Pattern=bij mij
+Turn ID=37| A | A : helemaal linksonder
+	Free: Pattern=helemaal, Pattern=linksonder
+	Constrained: 
+Turn ID=38| B | B : ja je zullen er nog iets naast kunnen zetten maar er staan niet echt iets naast
+	Free: Pattern=niet, Pattern=staan, Pattern=er nog, Pattern=naast, Pattern=echt, Pattern=er, Pattern=maar, Pattern=je, Pattern=iets, Pattern=ja
+	Constrained: Pattern=er
+Turn ID=39| A | A : oké ja bij mij staan die met die die staaf aan de die zitten bekendstaan er nog naast dus dan denken ik niet dat die op dezelfde plek zitten
+	Free: Pattern=dat, Pattern=die met die, Pattern=naast, Pattern=die, Pattern=oké, Pattern=op dezelfde plek, Pattern=de, Pattern=dus, Pattern=niet, Pattern=dan, Pattern=staan, Pattern=denken ik, Pattern=ja bij mij, Pattern=er nog
+	Constrained: Pattern=dezelfde, Pattern=ja, Pattern=op, Pattern=met, Pattern=die, Pattern=er, Pattern=ik, Pattern=bij mij
+Turn ID=40| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=41| A | A : dus rood
+	Free: Pattern=dus
+	Constrained: 
+Turn ID=42| A | A : de piramide aan de bovenkant de wijnfles aan de linkerkant
+	Free: Pattern=piramide, Pattern=de
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : net niet vierkantje
+	Free: Pattern=net niet
+	Constrained: Pattern=niet
+Turn ID=45| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=46| A | A : en helemaal Linksboven
+	Free: Pattern=en, Pattern=helemaal
+	Constrained: 
+Turn ID=47| B | B : ja dat kloppen ook
+	Free: Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=48| B | B : met het driehoek op het kop en links het wijnflesje erin en rechts het vierkant ding
+	Free: Pattern=rechts, Pattern=op, Pattern=ding, Pattern=links, Pattern=het, Pattern=kop, Pattern=wijnflesje, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=49| A | A : ik zijn hem aan het zoeken
+	Free: Pattern=zijn, Pattern=ik, Pattern=het
+	Constrained: 
+Turn ID=50| A | A : ja hebbes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=52| B | B : en hij staan
+	Free: Pattern=en hij staan
+	Constrained: Pattern=en hij, Pattern=en, Pattern=staan
+Turn ID=53| A | A : bij mij staan die naast de waterpomp
+	Free: Pattern=de, Pattern=staan, Pattern=naast, Pattern=die, Pattern=bij mij
+	Constrained: 
+Turn ID=54| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| A | A : iets linksonder ervan
+	Free: Pattern=linksonder, Pattern=iets
+	Constrained: 
+Turn ID=56| B | B : dus zeggen maar niet één naar links vanuit rechts zien en dan ook twee naar boven denken ik vanuit beneden zien
+	Free: Pattern=twee, Pattern=denken ik, Pattern=en, Pattern=naar, Pattern=rechts, Pattern=dus, Pattern=niet, Pattern=boven, Pattern=dan, Pattern=zeggen maar, Pattern=links
+	Constrained: Pattern=maar, Pattern=ik, Pattern=zeggen
+Turn ID=57| A | A : nee je hebben de waterpomp en daar staan die echt bijna helemaal naast daar staan die iets onder bij mij
+	Free: Pattern=helemaal, Pattern=staan, Pattern=naast, Pattern=die, Pattern=echt, Pattern=en, Pattern=de, Pattern=iets, Pattern=bij mij, Pattern=je
+	Constrained: 
+Turn ID=58| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=59| B | B : ja bij mij ook
+	Free: Pattern=ja bij mij
+	Constrained: Pattern=bij mij, Pattern=ja
+Turn ID=60| A | A : oké dan zijn dat dezelfde
+	Free: Pattern=dat, Pattern=dezelfde, Pattern=dan, Pattern=oké, Pattern=zijn
+	Constrained: 

@@ -1,0 +1,127 @@
+B|0| B: hij _hebben een_ _haak_ aan _de_ linkerkant of _ja_ vanuit hem zien rechterkant van _zijn_ _hoofd_ 
+B|1| B: _en_ _een soort_ _rok_ om _zijn_ nek 
+B|2| B: met _een_ _lang neus_ _en twee_ klein punt aan _de_ bovenkant 
+A|3| A: [ja] 
+A|4| A: [lang neus] 
+A|5| A: [en] die [haak] [zijn] [een soort] l-vorm 
+B|6| B: [ja] 
+A|7| A: _okee_ 
+A|8| A: [twee] 
+A|9| A: _deze hebben het_ plateau zeggen maar dwars _door zijn_ body [en twee] stekel midden _op_ _het_ [hoofd] 
+B|10| B: [ja] 
+B|11| B: [ja] [okee] 
+B|12| B: _dat_ [zijn] d 
+B|13| B: [deze hebben] weer [het] platform [door zijn] lijf heen 
+A|14| A: [ja] 
+B|15| B: met _de_ [twee] punt bovenop [en] _de_ [haak] [en] _de_ [lang neus] 
+A|16| A: vijfteen 
+A|17| A: [deze [hebben] een] plateau [door zijn] die doorsnijden 
+B|18| B: [ja] 
+B|19| B: met [twee] klein pun [op] [zijn] [hoofd] 
+A|20| A: [twee] 
+A|21| A: [ja] 
+B|22| B: _dat_ [zijn] p 
+B|23| B: [deze hebben het] platform [door zijn] lijf heen met _de_ [twee] punt [op] [zijn] [hoofd] 
+A|24| A: [ja] elf 
+A|25| A: [de] 
+A|26| A: [het] plateau [dat] doorsnijden 
+A|27| A: [het] zullen _ook_ [een] [rok] kunnen [zijn] 
+B|28| B: [ja] 
+B|29| B: [ja] [dat] vinden ik [ook] 
+B|30| B: c 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hij hebben een haak aan de linkerkant of ja vanuit hem zien rechterkant van zijn hoofd
+	Free: Pattern=hebben een, Pattern=hoofd, Pattern=de, Pattern=ja, Pattern=haak, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=1| B | B : en een soort rok om zijn nek
+	Free: Pattern=een soort, Pattern=rok, Pattern=zijn, Pattern=en
+	Constrained: Pattern=een
+Turn ID=2| B | B : met een lang neus en twee klein punt aan de bovenkant
+	Free: Pattern=en twee, Pattern=lang neus, Pattern=een, Pattern=de
+	Constrained: Pattern=twee, Pattern=en
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : lang neus
+	Free: Pattern=lang neus
+	Constrained: 
+Turn ID=5| A | A : en die haak zijn een soort l-vorm
+	Free: Pattern=een soort, Pattern=zijn, Pattern=en, Pattern=haak
+	Constrained: Pattern=een
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=8| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=9| A | A : deze hebben het plateau zeggen maar dwars door zijn body en twee stekel midden op het hoofd
+	Free: Pattern=door zijn, Pattern=op, Pattern=het, Pattern=hoofd, Pattern=deze hebben het, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=het, Pattern=deze hebben, Pattern=en, Pattern=zijn
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : ja okee
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn d
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=13| B | B : deze hebben weer het platform door zijn lijf heen
+	Free: Pattern=door zijn, Pattern=deze hebben, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : met de twee punt bovenop en de haak en de lang neus
+	Free: Pattern=twee, Pattern=de, Pattern=lang neus, Pattern=en, Pattern=haak
+	Constrained: 
+Turn ID=16| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : deze hebben een plateau door zijn die doorsnijden
+	Free: Pattern=hebben een, Pattern=door zijn, Pattern=deze hebben
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : met twee klein pun op zijn hoofd
+	Free: Pattern=hoofd, Pattern=zijn, Pattern=twee, Pattern=op
+	Constrained: 
+Turn ID=20| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : dat zijn p
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=23| B | B : deze hebben het platform door zijn lijf heen met de twee punt op zijn hoofd
+	Free: Pattern=twee, Pattern=de, Pattern=door zijn, Pattern=op, Pattern=zijn, Pattern=hoofd, Pattern=deze hebben het
+	Constrained: Pattern=deze hebben, Pattern=zijn, Pattern=het
+Turn ID=24| A | A : ja elf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=26| A | A : het plateau dat doorsnijden
+	Free: Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=27| A | A : het zullen ook een rok kunnen zijn
+	Free: Pattern=ook, Pattern=een, Pattern=het, Pattern=zijn, Pattern=rok
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : ja dat vinden ik ook
+	Free: Pattern=ook, Pattern=ja, Pattern=dat
+	Constrained: 
+Turn ID=30| B | B : c
+	Free: 
+	Constrained: 

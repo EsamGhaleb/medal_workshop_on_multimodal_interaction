@@ -1,0 +1,127 @@
+B|0| B: _okee_ _dit_ _ding_ _zijn_ _door_ _een_ plat vierkant _zakken_ 
+B|1| B: _en_ _hebben_ _twee dezelfde_ haar boven _zeggen_ _maar_ 
+A|2| A: [twee] kuifjes hier 
+A|3| A: _ja_ hier 
+A|4| A: [en] _hij hebben_ zo'n _arm zo_ 
+B|5| B: [ja] 
+B|6| B: [ja] 
+A|7| A: [en] [een] langwerpig neus 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: [okee] [zijn] nummer [een] 
+A|11| A: _deze zijn_ half doorgezakt _door de_ _door de tafel_ laten we het _zo_ [maar] [zeggen] 
+A|12| A: [hebben] zo'n _arm_ _en twee_ [ding] hierzo uitsteken 
+B|13| B: [ja] _dat zijn_ n 
+B|14| B: [deze zijn] weer _door de tafel zakken_ 
+B|15| B: [hij hebben] links [een] kromme [arm zo] [en twee] stok omhoog 
+B|16| B: [twee] haar [zeggen] [maar] 
+A|17| A: [ja] [en] dan één zo'n raar neus die 
+B|18| B: [ja] 
+B|19| B: [ja] 
+A|20| A: [okee] [dat zijn] nummer zes 
+A|21| A: [deze] half _door de tafel zakken met_ zo'n [arm] [en] hier [twee] van diezelfde [ding] 
+B|22| B: [ja] l 
+A|23| A: [en] [een] neus 
+B|24| B: [deze zijn] [door de tafel zakken _met] twee dezelfde_ haar 
+A|25| A: [ja] [en] zo'n [arm] 
+B|26| B: [ja] 
+A|27| A: [dat zijn] vijfteen 
+A|28| A: [dit] [zijn] die [een] die half doorgezakt [zijn] [met twee dezelfde] [ding] hierboven [en] [zo] [ja] zo'n [arm] 
+A|29| A: [en] [een] soort van 
+B|30| B: [ja] [dat zijn] a 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee dit ding zijn door een plat vierkant zakken
+	Free: Pattern=zakken, Pattern=okee, Pattern=door, Pattern=ding, Pattern=een, Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : en hebben twee dezelfde haar boven zeggen maar
+	Free: Pattern=hebben, Pattern=zeggen, Pattern=twee dezelfde, Pattern=en, Pattern=maar
+	Constrained: Pattern=twee
+Turn ID=2| A | A : twee kuifjes hier
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=3| A | A : ja hier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en hij hebben zo'n arm zo
+	Free: Pattern=arm zo, Pattern=hij hebben, Pattern=en
+	Constrained: Pattern=zo, Pattern=arm, Pattern=hebben
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en een langwerpig neus
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : okee zijn nummer een
+	Free: Pattern=zijn, Pattern=een, Pattern=okee
+	Constrained: 
+Turn ID=11| A | A : deze zijn half doorgezakt door de door de tafel laten we het zo maar zeggen
+	Free: Pattern=deze zijn, Pattern=door de tafel, Pattern=maar, Pattern=door de, Pattern=zeggen, Pattern=zo
+	Constrained: Pattern=door, Pattern=door de, Pattern=zijn, Pattern=deze
+Turn ID=12| A | A : hebben zo'n arm en twee ding hierzo uitsteken
+	Free: Pattern=en twee, Pattern=arm, Pattern=hebben, Pattern=ding
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=13| B | B : ja dat zijn n
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=14| B | B : deze zijn weer door de tafel zakken
+	Free: Pattern=door de tafel zakken, Pattern=deze zijn
+	Constrained: Pattern=zakken, Pattern=door, Pattern=door de tafel, Pattern=zijn, Pattern=deze, Pattern=door de
+Turn ID=15| B | B : hij hebben links een kromme arm zo en twee stok omhoog
+	Free: Pattern=arm zo, Pattern=en twee, Pattern=hij hebben, Pattern=een
+	Constrained: Pattern=twee, Pattern=hebben, Pattern=zo, Pattern=arm, Pattern=en
+Turn ID=16| B | B : twee haar zeggen maar
+	Free: Pattern=maar, Pattern=twee, Pattern=zeggen
+	Constrained: 
+Turn ID=17| A | A : ja en dan één zo'n raar neus die
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : okee dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=zijn
+Turn ID=21| A | A : deze half door de tafel zakken met zo'n arm en hier twee van diezelfde ding
+	Free: Pattern=twee, Pattern=ding, Pattern=door de tafel zakken met, Pattern=deze, Pattern=arm, Pattern=en
+	Constrained: Pattern=zakken, Pattern=door, Pattern=door de tafel zakken, Pattern=door de tafel, Pattern=door de
+Turn ID=22| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en een neus
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=24| B | B : deze zijn door de tafel zakken met twee dezelfde haar
+	Free: Pattern=door de tafel zakken met, Pattern=met twee dezelfde, Pattern=deze zijn
+	Constrained: Pattern=zakken, Pattern=twee, Pattern=door, Pattern=door de tafel zakken, Pattern=door de tafel, Pattern=twee dezelfde, Pattern=zijn, Pattern=deze, Pattern=door de
+Turn ID=25| A | A : ja en zo'n arm
+	Free: Pattern=en, Pattern=arm, Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dat zijn vijfteen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=28| A | A : dit zijn die een die half doorgezakt zijn met twee dezelfde ding hierboven en zo ja zo'n arm
+	Free: Pattern=ja, Pattern=ding, Pattern=een, Pattern=met twee dezelfde, Pattern=zijn, Pattern=zo, Pattern=dit, Pattern=arm, Pattern=en
+	Constrained: Pattern=twee dezelfde, Pattern=twee
+Turn ID=29| A | A : en een soort van
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=30| B | B : ja dat zijn a
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn

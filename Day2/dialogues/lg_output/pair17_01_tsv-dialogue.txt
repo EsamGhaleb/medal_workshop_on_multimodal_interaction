@@ -1,0 +1,75 @@
+B|0| B: _deze hebben een_ soort van _twee_ uitlaten _vierkant_ uitlat _aan de linkerkant_ 
+B|1| B: dan voorop _een_ soort _vierkant_ 
+B|2| B: _en_ bovenop _een_ stok _met_ daarop _een_ rond 
+A|3| A: _ja_ [twee] 
+A|4| A: [deze hebben] [twee] uitsteeksel [aan de linkerkant] _die_ kubus _die_ zo _steeds klein worden_ 
+A|5| A: [en] voor [de] emmer zijn _een vierkant_ 
+B|6| B: [ja] n 
+B|7| B: [deze hebben] soort van [twee] uitlat [aan de linkerkant] _met_ blok [die] [steeds klein worden] 
+B|8| B: [en] voorop [een vierkant] 
+A|9| A: [ja] 
+A|10| A: twaalf 
+A|11| A: [deze hebben [een] vierkant] voor [de] emmer 
+A|12| A: [en] links daarvan zijn [twee] keer [die] uitsteeksel [met] [die] kubus 
+B|13| B: [ja] c 
+B|14| B: [deze hebben] [die] [twee] uitlaten [met] [de] blok [aan de linkerkant] [en] voorop [een vierkant] 
+A|15| A: dertien 
+A|16| A: [een vierkant] ervoor [en] [twee] kubusstaf [die] eruit komen [aan de linkerkant] 
+B|17| B: l 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een soort van twee uitlaten vierkant uitlat aan de linkerkant
+	Free: Pattern=deze hebben een, Pattern=aan de linkerkant, Pattern=twee, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=deze hebben, Pattern=een
+Turn ID=1| B | B : dan voorop een soort vierkant
+	Free: Pattern=een, Pattern=vierkant
+	Constrained: 
+Turn ID=2| B | B : en bovenop een stok met daarop een rond
+	Free: Pattern=een, Pattern=en, Pattern=met
+	Constrained: 
+Turn ID=3| A | A : ja twee
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=4| A | A : deze hebben twee uitsteeksel aan de linkerkant die kubus die zo steeds klein worden
+	Free: Pattern=steeds klein worden, Pattern=twee, Pattern=deze hebben, Pattern=die, Pattern=aan de linkerkant
+	Constrained: Pattern=de
+Turn ID=5| A | A : en voor de emmer zijn een vierkant
+	Free: Pattern=een vierkant, Pattern=en, Pattern=de
+	Constrained: Pattern=een, Pattern=vierkant
+Turn ID=6| B | B : ja n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : deze hebben soort van twee uitlat aan de linkerkant met blok die steeds klein worden
+	Free: Pattern=steeds klein worden, Pattern=twee, Pattern=deze hebben, Pattern=met, Pattern=die, Pattern=aan de linkerkant
+	Constrained: Pattern=de
+Turn ID=8| B | B : en voorop een vierkant
+	Free: Pattern=een vierkant, Pattern=en
+	Constrained: Pattern=een, Pattern=vierkant
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : deze hebben een vierkant voor de emmer
+	Free: Pattern=deze hebben een, Pattern=een vierkant, Pattern=de
+	Constrained: Pattern=deze hebben, Pattern=vierkant, Pattern=een
+Turn ID=12| A | A : en links daarvan zijn twee keer die uitsteeksel met die kubus
+	Free: Pattern=en, Pattern=die, Pattern=twee, Pattern=met
+	Constrained: 
+Turn ID=13| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : deze hebben die twee uitlaten met de blok aan de linkerkant en voorop een vierkant
+	Free: Pattern=twee, Pattern=de, Pattern=deze hebben, Pattern=met, Pattern=die, Pattern=en, Pattern=aan de linkerkant, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=de, Pattern=een
+Turn ID=15| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : een vierkant ervoor en twee kubusstaf die eruit komen aan de linkerkant
+	Free: Pattern=twee, Pattern=die, Pattern=en, Pattern=aan de linkerkant, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=de, Pattern=een
+Turn ID=17| B | B : l
+	Free: 
+	Constrained: 

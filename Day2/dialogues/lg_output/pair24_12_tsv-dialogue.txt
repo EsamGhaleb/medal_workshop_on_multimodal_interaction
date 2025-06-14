@@ -1,0 +1,127 @@
+A|0| A: _een_ bak weer _aan de_ _zijn_ _een_ _je_ _aan de linkerkant_ van _de_ bak _zijn_ eerst _een_ _een_ _een_ uitsteeksel _en_ daarop staan nog _een_ uitsteeksel 
+B|1| B: _ja_ 
+A|2| A: _en aan de rechterkant_ _zijn_ _een_ soort van _een_ _plank_ _waar_ _je_ hem 
+B|3| B: [een] beetje _rond plank_ of niet dan 
+A|4| A: _een [rond_ plank] , [ja] 
+B|5| B: _dat zijn_ L 
+B|6| B: worden hier goed in 
+B|7| B: [een] kop _met _aan de_ linkerkant een_ balk [waar] [een] _spijker_ uitsteken 
+B|8| B: op [zijn] timmeren 
+B|9| B: [en] [een rond] plateau 
+A|10| A: oké 
+B|11| B: [aan de] ander kant 
+A|12| A: [dat zijn] nummer zes 
+A|13| A: [de] bak [met _aan de] rechterkant een rond_ opzettafeltje , [plank] 
+A|14| A: [aan de linkerkant een] , nog [een] uitstulping , _met een_ groot uitstulping erop 
+B|15| B: H 
+B|16| B: kop [met [aan de] linkerkant een] staaf [met een] _spijker_ of jij noemen _het_ net iets ander 
+B|17| B: ik weten niet veel wat [je] zeggen 
+A|18| A: [met] [de] [spijker] 
+B|19| B: [ja] 
+B|20| B: [en [aan de rechterkant] een rond] plateau 
+A|21| A: [ja] 
+A|22| A: nummer drie 
+A|23| A: [aan de rechterkant] [zijn] [het] [rond plank] 
+A|24| A: opzettafel 
+A|25| A: [linkerkant een] uitstulping [met een] lang 
+B|26| B: A 
+B|27| B: [met] 
+B|28| B: ik hebben net [de] verkeerd kiezen 
+B|29| B: link [de] link namelijk [de] pilaar [met een] [spijker] eruit , rechts [een rond] plateau 
+A|30| A: [ja] [dat zijn] nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : een bak weer aan de zijn een je aan de linkerkant van de bak zijn eerst een een een uitsteeksel en daarop staan nog een uitsteeksel
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=zijn, Pattern=je, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en aan de rechterkant zijn een soort van een plank waar je hem
+	Free: Pattern=waar, Pattern=plank, Pattern=een, Pattern=en aan de rechterkant, Pattern=zijn, Pattern=je
+	Constrained: Pattern=de, Pattern=en, Pattern=aan de rechterkant, Pattern=aan de
+Turn ID=3| B | B : een beetje rond plank of niet dan
+	Free: Pattern=rond plank, Pattern=een
+	Constrained: Pattern=plank
+Turn ID=4| A | A : een rond plank , ja
+	Free: Pattern=rond plank, Pattern=een rond, Pattern=ja
+	Constrained: Pattern=plank, Pattern=een
+Turn ID=5| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=6| B | B : worden hier goed in
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : een kop met aan de linkerkant een balk waar een spijker uitsteken
+	Free: Pattern=met aan de, Pattern=waar, Pattern=een, Pattern=aan de linkerkant een, Pattern=spijker
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=linkerkant een, Pattern=aan de linkerkant
+Turn ID=8| B | B : op zijn timmeren
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=9| B | B : en een rond plateau
+	Free: Pattern=een rond, Pattern=en
+	Constrained: Pattern=een
+Turn ID=10| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : aan de ander kant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=12| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : de bak met aan de rechterkant een rond opzettafeltje , plank
+	Free: Pattern=aan de rechterkant een rond, Pattern=met aan de, Pattern=de, Pattern=plank
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=aan de rechterkant, Pattern=een rond
+Turn ID=14| A | A : aan de linkerkant een , nog een uitstulping , met een groot uitstulping erop
+	Free: Pattern=aan de linkerkant een, Pattern=met een, Pattern=een
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=linkerkant een, Pattern=aan de linkerkant
+Turn ID=15| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=16| B | B : kop met aan de linkerkant een staaf met een spijker of jij noemen het net iets ander
+	Free: Pattern=met aan de, Pattern=het, Pattern=aan de linkerkant een, Pattern=met een, Pattern=spijker
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=met, Pattern=linkerkant een, Pattern=aan de linkerkant
+Turn ID=17| B | B : ik weten niet veel wat je zeggen
+	Free: Pattern=je
+	Constrained: 
+Turn ID=18| A | A : met de spijker
+	Free: Pattern=de, Pattern=met, Pattern=spijker
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en aan de rechterkant een rond plateau
+	Free: Pattern=aan de rechterkant een rond, Pattern=en aan de rechterkant
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=aan de rechterkant, Pattern=en, Pattern=een rond
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : aan de rechterkant zijn het rond plank
+	Free: Pattern=aan de rechterkant, Pattern=rond plank, Pattern=het, Pattern=zijn
+	Constrained: Pattern=plank, Pattern=de, Pattern=aan de
+Turn ID=24| A | A : opzettafel
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : linkerkant een uitstulping met een lang
+	Free: Pattern=linkerkant een, Pattern=met een
+	Constrained: Pattern=met, Pattern=een
+Turn ID=26| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : met
+	Free: Pattern=met
+	Constrained: 
+Turn ID=28| B | B : ik hebben net de verkeerd kiezen
+	Free: Pattern=de
+	Constrained: 
+Turn ID=29| B | B : link de link namelijk de pilaar met een spijker eruit , rechts een rond plateau
+	Free: Pattern=een rond, Pattern=met een, Pattern=de, Pattern=spijker
+	Constrained: Pattern=met, Pattern=een
+Turn ID=30| A | A : ja dat zijn nummer tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn

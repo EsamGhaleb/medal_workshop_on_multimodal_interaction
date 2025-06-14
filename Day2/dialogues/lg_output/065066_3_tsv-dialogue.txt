@@ -1,0 +1,199 @@
+B|0| B: kijken dit _zijn_ die _met_ die voet 
+B|1| B: die _zo'n_ vierkant _op_ _het_ rand _hebben_ _staan_ 
+A|2| A: [op] _zo'n statief_ 
+B|3| B: _ja_ [zo'n statief] inderdaad 
+A|4| A: [ja] 
+B|5| B: _en_ _dan_ 
+A|6| A: [ja] 
+B|7| B: [ja] 
+A|8| A: _dan zijn_ [het] vier 
+B|9| B: die _staan_ helemaal _rechts_ _in_ _de_ hoek 
+A|10| A: _nee_ 
+A|11| A: deze [hebben] weer _een_ statiefje 
+A|12| A: _een_ driehoekig statiefje 
+B|13| B: [ja] die _met_ die blok aan _de_ bovenkant 
+A|14| A: [ja] 
+B|15| B: [ja] 
+B|16| B: A 
+A|17| A: _en _hij_ staan_ echt _in het midden van_ _link_ 
+B|18| B: [nee] 
+B|19| B: kijken dit [zijn] die _met_ _dat_ [statief] die voetensteun 
+A|20| A: [ja] 
+A|21| A: [dat] [zijn] tien 
+B|22| B: [en hij] _zitten_ _link onderin_ [in het midden] 
+A|23| A: [link onderin] 
+B|24| B: dus _als je_ [het] _linkerkant_ [van] [het] scherm [hebben] [onderin] [en] [dan] _zitten_ er _nog_ aan allebei _de_ kant één naast maar [dan] _zitten niks veel_ _onder_ 
+A|25| A: [hij] kunnen niet ver naar [onder] [in] ieder geval 
+B|26| B: [nee] 
+A|27| A: [en] [als je] _de linkerkant_ weer [in het midden] zullen doen 
+B|28| B: [dan zijn] die [in het] [in het midden van] [het midden] [in het midden van] [de linkerkant] [midden] 
+A|29| A: [ja] 
+B|30| B: [en] [dan] helemaal [onderin] 
+A|31| A: [nee] 
+A|32| A: [zijn] [dat] [het] [statief] weer 
+B|33| B: L 
+A|34| A: [en _hij] staan_ [rechts] ver [rechts] [van] hem [zitten niks veel] 
+B|35| B: [zijn] die helemaal bovenin [rechts] bovenin 
+A|36| A: [ja] 
+B|37| B: dit [zijn] _met_ die _met_ [dat] [statief] 
+B|38| B: voe 
+A|39| A: [ja] waar [zijn] jij nou ? hier 
+A|40| A: vier 
+B|41| B: [hij staan] bij [de] middellijn 
+B|42| B: [en] [dan] _nog_ [een] beetje aan [de] rechterkant [en] [dan] [zitten] er _nog_ boven [en] [onder] [zitten] _nog_ [van] alles 
+A|43| A: [nee] 
+A|44| A: [de] [het] [statief] 
+B|45| B: F 
+A|46| A: [en] precies [in het midden] 
+B|47| B: [nee] 
+A|48| A: [met] daarboven [nog] iets 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : kijken dit zijn die met die voet
+	Free: Pattern=zijn, Pattern=met
+	Constrained: 
+Turn ID=1| B | B : die zo'n vierkant op het rand hebben staan
+	Free: Pattern=zo'n, Pattern=op, Pattern=staan, Pattern=het, Pattern=hebben
+	Constrained: 
+Turn ID=2| A | A : op zo'n statief
+	Free: Pattern=zo'n statief, Pattern=op
+	Constrained: Pattern=zo'n, Pattern=statief
+Turn ID=3| B | B : ja zo'n statief inderdaad
+	Free: Pattern=zo'n statief, Pattern=ja
+	Constrained: Pattern=zo'n, Pattern=statief
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en dan
+	Free: Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : dan zijn het vier
+	Free: Pattern=dan zijn, Pattern=het
+	Constrained: Pattern=dan, Pattern=zijn
+Turn ID=9| B | B : die staan helemaal rechts in de hoek
+	Free: Pattern=de, Pattern=in, Pattern=rechts, Pattern=staan
+	Constrained: 
+Turn ID=10| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=11| A | A : deze hebben weer een statiefje
+	Free: Pattern=hebben, Pattern=een
+	Constrained: 
+Turn ID=12| A | A : een driehoekig statiefje
+	Free: Pattern=een
+	Constrained: 
+Turn ID=13| B | B : ja die met die blok aan de bovenkant
+	Free: Pattern=de, Pattern=ja, Pattern=met
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : en hij staan echt in het midden van link
+	Free: Pattern=in het midden van, Pattern=en hij, Pattern=hij staan, Pattern=link
+	Constrained: Pattern=het midden, Pattern=staan, Pattern=het, Pattern=in het, Pattern=hij, Pattern=in, Pattern=in het midden, Pattern=midden, Pattern=van, Pattern=en
+Turn ID=18| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=19| B | B : kijken dit zijn die met dat statief die voetensteun
+	Free: Pattern=dat, Pattern=zijn, Pattern=statief, Pattern=met
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dat zijn tien
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : en hij zitten link onderin in het midden
+	Free: Pattern=in het midden, Pattern=en hij, Pattern=link onderin, Pattern=zitten
+	Constrained: Pattern=het midden, Pattern=onderin, Pattern=het, Pattern=in het, Pattern=hij, Pattern=in, Pattern=link, Pattern=en, Pattern=midden
+Turn ID=23| A | A : link onderin
+	Free: Pattern=link onderin
+	Constrained: Pattern=link, Pattern=onderin
+Turn ID=24| B | B : dus als je het linkerkant van het scherm hebben onderin en dan zitten er nog aan allebei de kant één naast maar dan zitten niks veel onder
+	Free: Pattern=zitten niks veel, Pattern=nog, Pattern=de, Pattern=dan, Pattern=onderin, Pattern=het, Pattern=hebben, Pattern=onder, Pattern=als je, Pattern=zitten, Pattern=linkerkant, Pattern=van, Pattern=en
+	Constrained: Pattern=zitten
+Turn ID=25| A | A : hij kunnen niet ver naar onder in ieder geval
+	Free: Pattern=hij, Pattern=in, Pattern=onder
+	Constrained: 
+Turn ID=26| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=27| A | A : en als je de linkerkant weer in het midden zullen doen
+	Free: Pattern=in het midden, Pattern=als je, Pattern=de linkerkant, Pattern=en
+	Constrained: Pattern=het midden, Pattern=de, Pattern=het, Pattern=in het, Pattern=in, Pattern=linkerkant, Pattern=midden
+Turn ID=28| B | B : dan zijn die in het in het midden van het midden in het midden van de linkerkant midden
+	Free: Pattern=het midden, Pattern=in het midden van, Pattern=de linkerkant, Pattern=in het, Pattern=dan zijn, Pattern=midden
+	Constrained: Pattern=het midden, Pattern=de, Pattern=dan, Pattern=het, Pattern=in het, Pattern=in, Pattern=van, Pattern=zijn, Pattern=in het midden, Pattern=linkerkant, Pattern=midden
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : en dan helemaal onderin
+	Free: Pattern=dan, Pattern=en, Pattern=onderin
+	Constrained: 
+Turn ID=31| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=32| A | A : zijn dat het statief weer
+	Free: Pattern=dat, Pattern=zijn, Pattern=statief, Pattern=het
+	Constrained: 
+Turn ID=33| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : en hij staan rechts ver rechts van hem zitten niks veel
+	Free: Pattern=zitten niks veel, Pattern=rechts, Pattern=hij staan, Pattern=en hij, Pattern=van
+	Constrained: Pattern=hij, Pattern=staan, Pattern=zitten, Pattern=en
+Turn ID=35| B | B : zijn die helemaal bovenin rechts bovenin
+	Free: Pattern=zijn, Pattern=rechts
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : dit zijn met die met dat statief
+	Free: Pattern=dat, Pattern=zijn, Pattern=statief, Pattern=met
+	Constrained: 
+Turn ID=38| B | B : voe
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : ja waar zijn jij nou ? hier
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : hij staan bij de middellijn
+	Free: Pattern=hij staan, Pattern=de
+	Constrained: Pattern=hij, Pattern=staan
+Turn ID=42| B | B : en dan nog een beetje aan de rechterkant en dan zitten er nog boven en onder zitten nog van alles
+	Free: Pattern=nog, Pattern=de, Pattern=dan, Pattern=een, Pattern=onder, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=43| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=44| A | A : de het statief
+	Free: Pattern=statief, Pattern=de, Pattern=het
+	Constrained: 
+Turn ID=45| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : en precies in het midden
+	Free: Pattern=in het midden, Pattern=en
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in het, Pattern=in, Pattern=midden
+Turn ID=47| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=48| A | A : met daarboven nog iets
+	Free: Pattern=nog, Pattern=met
+	Constrained: 

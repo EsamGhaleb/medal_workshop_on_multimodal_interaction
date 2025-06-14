@@ -1,0 +1,179 @@
+A|0| A: _ja_ _dit zijn_ _met_ zo _ja_ _ik vinden_ _dat_ _op een_ _spijker_ _lijken_ 
+A|1| A: _die_ zo random in zo'n houtje _zijn_ slaan aan _de_ zijkant 
+A|2| A: _en dan_ hebben _die_ nog zo'n rond hier liggen 
+B|3| B: [ja] [ja] 
+B|4| B: [ik] weten _welk_ _het_ [zijn] 
+A|5| A: [ja] 
+B|6| B: [ik vinden] _het_ _een beetje_ [op een] vangrail [lijken] [lijken] _waar_ [die] 
+A|7| A: [ja] 
+B|8| B: [ja] 
+B|9| B: [dat] [zijn] L _bij mij_ 
+A|10| A: _en die_ _staan_ [bij mij] [ja] [het] veel linksonder 
+A|11| A: dus _helemaal_ onderin _en dan_ [een beetje] in [het] midden 
+B|12| B: [helemaal] onderaan 
+A|13| A: [ja] 
+B|14| B: [dan] [zijn] [het] niet hetzelfde 
+B|15| B: oké _dit zijn die met die_ vangrail _en die spijker erin_ 
+A|16| A: [ja] 
+A|17| A: [ja] nummer zeven 
+B|18| B: _hij staan_ heel iets _naar links_ [en] bijna [helemaal] boven 
+A|19| A: _nee_ [bij mij] [staan] [die] ergens ander 
+A|20| A: [dit zijn die _met die] spijker_ 
+A|21| A: [en] [dat] rond daarvoor 
+B|22| B: [ja] C 
+A|23| A: _en hij staan_ _rechts_ van [het] midden _en dan_ wat omhoog 
+B|24| B: [bij mij] _naar_ onderen 
+B|25| B: [die] vangrail [met die spijker] 
+A|26| A: [welk] ? [die] 
+B|27| B: [die] vangrail [met _die spijker] erin_ [en dan] [rechts] [dat] dienblad volgens [mij] 
+A|28| A: [ja] 
+A|29| A: nummer één 
+B|30| B: [en hij staan] even kijken redelijk ver _naar links_ bijna [helemaal] [en] misschien heel iets _naar_ onderen 
+A|31| A: [ja] 
+A|32| A: [dit zijn die met die] rail [en die spijker erin] 
+B|33| B: [ja] A 
+A|34| A: [en hij staan] in [het] midden ook echt [op] _de_ middellijn [en dan] [naar links] 
+B|35| B: halverwege [links] 
+A|36| A: [ja] 
+B|37| B: [de] vangrail [met] [de] [spijker] [en] [het] dienblad 
+A|38| A: [ja] [waar] [zijn die] 
+A|39| A: [ja] nummer dertien 
+B|40| B: even kijken [een] klein [beetje] [naar] beneden [en] redelijk ver [naar links] maar niet [helemaal] 
+A|41| A: [ja] [bij mij] [staan] [die] wel [helemaal] [links] echt [en] 
+B|42| B: zeggen maar 
+B|43| B: oké [nee] [dan] niet 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja dit zijn met zo ja ik vinden dat op een spijker lijken
+	Free: Pattern=dat, Pattern=ja, Pattern=ik vinden, Pattern=lijken, Pattern=met, Pattern=op een, Pattern=dit zijn, Pattern=spijker
+	Constrained: Pattern=een, Pattern=zijn, Pattern=op, Pattern=ik
+Turn ID=1| A | A : die zo random in zo'n houtje zijn slaan aan de zijkant
+	Free: Pattern=zijn, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : en dan hebben die nog zo'n rond hier liggen
+	Free: Pattern=en dan, Pattern=die
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=3| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : ik weten welk het zijn
+	Free: Pattern=zijn, Pattern=ik, Pattern=welk, Pattern=het
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ik vinden het een beetje op een vangrail lijken lijken waar die
+	Free: Pattern=lijken, Pattern=het, Pattern=die, Pattern=een beetje, Pattern=op een, Pattern=waar, Pattern=ik vinden
+	Constrained: Pattern=een, Pattern=beetje, Pattern=op, Pattern=ik
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : dat zijn L bij mij
+	Free: Pattern=bij mij, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=mij
+Turn ID=10| A | A : en die staan bij mij ja het veel linksonder
+	Free: Pattern=en die, Pattern=ja, Pattern=staan, Pattern=het, Pattern=bij mij
+	Constrained: Pattern=die, Pattern=mij, Pattern=en
+Turn ID=11| A | A : dus helemaal onderin en dan een beetje in het midden
+	Free: Pattern=een beetje, Pattern=en dan, Pattern=helemaal, Pattern=het
+	Constrained: Pattern=dan, Pattern=een, Pattern=en, Pattern=beetje
+Turn ID=12| B | B : helemaal onderaan
+	Free: Pattern=helemaal
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dan zijn het niet hetzelfde
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=15| B | B : oké dit zijn die met die vangrail en die spijker erin
+	Free: Pattern=dit zijn die met die, Pattern=en die spijker erin
+	Constrained: Pattern=en die, Pattern=zijn die, Pattern=die spijker erin, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=spijker
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja nummer zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : hij staan heel iets naar links en bijna helemaal boven
+	Free: Pattern=hij staan, Pattern=naar links, Pattern=en, Pattern=helemaal
+	Constrained: Pattern=links, Pattern=staan, Pattern=naar
+Turn ID=19| A | A : nee bij mij staan die ergens ander
+	Free: Pattern=bij mij, Pattern=nee, Pattern=staan, Pattern=die
+	Constrained: Pattern=mij
+Turn ID=20| A | A : dit zijn die met die spijker
+	Free: Pattern=dit zijn die met die, Pattern=met die spijker
+	Constrained: Pattern=zijn die, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=spijker
+Turn ID=21| A | A : en dat rond daarvoor
+	Free: Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=22| B | B : ja C
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en hij staan rechts van het midden en dan wat omhoog
+	Free: Pattern=en hij staan, Pattern=en dan, Pattern=rechts, Pattern=het
+	Constrained: Pattern=hij staan, Pattern=dan, Pattern=staan, Pattern=en
+Turn ID=24| B | B : bij mij naar onderen
+	Free: Pattern=bij mij, Pattern=naar
+	Constrained: Pattern=mij
+Turn ID=25| B | B : die vangrail met die spijker
+	Free: Pattern=met die spijker, Pattern=die
+	Constrained: Pattern=met, Pattern=die, Pattern=spijker
+Turn ID=26| A | A : welk ? die
+	Free: Pattern=die, Pattern=welk
+	Constrained: 
+Turn ID=27| B | B : die vangrail met die spijker erin en dan rechts dat dienblad volgens mij
+	Free: Pattern=dat, Pattern=rechts, Pattern=en dan, Pattern=die spijker erin, Pattern=die, Pattern=met die spijker, Pattern=mij
+	Constrained: Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=spijker
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : nummer één
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : en hij staan even kijken redelijk ver naar links bijna helemaal en misschien heel iets naar onderen
+	Free: Pattern=naar links, Pattern=helemaal, Pattern=en hij staan, Pattern=en, Pattern=naar
+	Constrained: Pattern=hij staan, Pattern=staan, Pattern=links, Pattern=en, Pattern=naar
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dit zijn die met die rail en die spijker erin
+	Free: Pattern=dit zijn die met die, Pattern=en die spijker erin
+	Constrained: Pattern=en die, Pattern=zijn die, Pattern=die spijker erin, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=spijker
+Turn ID=33| B | B : ja A
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : en hij staan in het midden ook echt op de middellijn en dan naar links
+	Free: Pattern=naar links, Pattern=de, Pattern=en dan, Pattern=op, Pattern=het, Pattern=en hij staan
+	Constrained: Pattern=dan, Pattern=hij staan, Pattern=staan, Pattern=links, Pattern=en, Pattern=naar
+Turn ID=35| B | B : halverwege links
+	Free: Pattern=links
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : de vangrail met de spijker en het dienblad
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=spijker
+	Constrained: 
+Turn ID=38| A | A : ja waar zijn die
+	Free: Pattern=zijn die, Pattern=waar, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=39| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : even kijken een klein beetje naar beneden en redelijk ver naar links maar niet helemaal
+	Free: Pattern=naar links, Pattern=helemaal, Pattern=beetje, Pattern=een, Pattern=en, Pattern=naar
+	Constrained: Pattern=links, Pattern=naar
+Turn ID=41| A | A : ja bij mij staan die wel helemaal links echt en
+	Free: Pattern=ja, Pattern=helemaal, Pattern=staan, Pattern=links, Pattern=die, Pattern=en, Pattern=bij mij
+	Constrained: Pattern=mij
+Turn ID=42| B | B : zeggen maar
+	Free: 
+	Constrained: 
+Turn ID=43| B | B : oké nee dan niet
+	Free: Pattern=dan, Pattern=nee
+	Constrained: 

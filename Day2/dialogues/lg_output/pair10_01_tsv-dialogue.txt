@@ -1,0 +1,83 @@
+B|0| B: _deze hebben_ _een plat vierkant_ _aan _de_ voorkant_ 
+B|1| B: _en_ _links_ staan _twee sterrenkijker_ 
+A|2| A: _ja_ [en] er zitten nog _een _spijker_ bovenop_ 
+B|3| B: [en] 
+B|4| B: [ja] [ja] 
+A|5| A: [ja] 
+A|6| A: okee _dat zijn_ nummer dertien 
+A|7| A: [deze hebben] [twee] van die [sterrenkijker] [aan de] linkerkant _en [een_ plat vierkant] op _de voorkant en_ nog _een spijker_ daar bovenin 
+B|8| B: [ja] 
+B|9| B: _en een spijker_ 
+B|10| B: [dat zijn] e 
+B|11| B: [deze hebben] één [de] [spijker] erin [en een] [vierkant] [aan [de] voorkant en] _link_ [twee] Verrekijers of [sterrenkijker] 
+A|12| A: yeslen _ja dat zijn_ nummer [twee] 
+A|13| A: dit [zijn] die met die [plat vierkant] voorop [en een _spijker] bovenop en_ [twee sterrenkijker] [link] 
+B|14| B: [ja dat zijn] c 
+B|15| B: [de] [spijker bovenop en] [link] [twee sterrenkijker] 
+A|16| A: yes nummer drie 
+A|17| A: dit [zijn] met die [twee sterrenkijker] [links] [en] die [spijker] erbovenop 
+B|18| B: [ja dat zijn] k 
+B|19| B: zeggen ik het goed ? [ja] k 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een plat vierkant aan de voorkant
+	Free: Pattern=een plat vierkant, Pattern=deze hebben, Pattern=aan de, Pattern=de voorkant
+	Constrained: Pattern=plat vierkant, Pattern=vierkant, Pattern=de
+Turn ID=1| B | B : en links staan twee sterrenkijker
+	Free: Pattern=twee sterrenkijker, Pattern=links, Pattern=en
+	Constrained: Pattern=sterrenkijker, Pattern=twee
+Turn ID=2| A | A : ja en er zitten nog een spijker bovenop
+	Free: Pattern=een spijker, Pattern=spijker bovenop, Pattern=ja, Pattern=en
+	Constrained: Pattern=spijker
+Turn ID=3| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : okee dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=7| A | A : deze hebben twee van die sterrenkijker aan de linkerkant en een plat vierkant op de voorkant en nog een spijker daar bovenin
+	Free: Pattern=twee, Pattern=aan de, Pattern=deze hebben, Pattern=een spijker, Pattern=en een, Pattern=sterrenkijker, Pattern=de voorkant en, Pattern=een plat vierkant
+	Constrained: Pattern=plat vierkant, Pattern=de, Pattern=de voorkant, Pattern=en, Pattern=vierkant, Pattern=spijker
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : en een spijker
+	Free: Pattern=en een spijker
+	Constrained: Pattern=en, Pattern=en een, Pattern=een spijker, Pattern=spijker
+Turn ID=10| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=11| B | B : deze hebben één de spijker erin en een vierkant aan de voorkant en link twee Verrekijers of sterrenkijker
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=deze hebben, Pattern=link, Pattern=en een, Pattern=vierkant, Pattern=de voorkant en, Pattern=spijker, Pattern=sterrenkijker
+	Constrained: Pattern=de, Pattern=de voorkant, Pattern=en
+Turn ID=12| A | A : yeslen ja dat zijn nummer twee
+	Free: Pattern=ja dat zijn, Pattern=twee
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn
+Turn ID=13| A | A : dit zijn die met die plat vierkant voorop en een spijker bovenop en twee sterrenkijker link
+	Free: Pattern=plat vierkant, Pattern=en een spijker, Pattern=link, Pattern=twee sterrenkijker, Pattern=zijn, Pattern=spijker bovenop en
+	Constrained: Pattern=twee, Pattern=spijker bovenop, Pattern=een spijker, Pattern=en, Pattern=en een, Pattern=vierkant, Pattern=spijker, Pattern=sterrenkijker
+Turn ID=14| B | B : ja dat zijn c
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn
+Turn ID=15| B | B : de spijker bovenop en link twee sterrenkijker
+	Free: Pattern=spijker bovenop en, Pattern=twee sterrenkijker, Pattern=link, Pattern=de
+	Constrained: Pattern=twee, Pattern=spijker bovenop, Pattern=en, Pattern=spijker, Pattern=sterrenkijker
+Turn ID=16| A | A : yes nummer drie
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dit zijn met die twee sterrenkijker links en die spijker erbovenop
+	Free: Pattern=links, Pattern=en, Pattern=twee sterrenkijker, Pattern=zijn, Pattern=spijker
+	Constrained: Pattern=sterrenkijker, Pattern=twee
+Turn ID=18| B | B : ja dat zijn k
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=zijn
+Turn ID=19| B | B : zeggen ik het goed ? ja k
+	Free: Pattern=ja
+	Constrained: 

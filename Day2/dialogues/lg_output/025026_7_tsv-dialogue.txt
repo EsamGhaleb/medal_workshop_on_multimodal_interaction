@@ -1,0 +1,203 @@
+B|0| B: _ok_ nou _dit zijn_ _dus_ _wel_ _de kruiwag_ weten _je_ _dan_ welk _ik_ bedoelen _zeggen maar_ 
+A|1| A: nn 
+B|2| B: _zeggen maar_ _er_ _zitten_ _een_ bak _op_ _en_ _er_ _zitten zeggen maar_ _zo'n_ _ja_ rand omheen _en_ _aan_ _die_ rand _zitten_ _twee_ _van_ _die_ balk 
+A|3| A: [ok] 
+A|4| A: [zijn] [die] _okan _ja_ dat zijn_ zestien 
+B|5| B: [ja] _hij zitten_ heel _iets_ _onder het midden_ _aan de rechterkant_ 
+B|6| B: _en_ _er past_ _één_ _zeggen maar_ _anderhalf_ _plaat_ ongeveer _naast_ 
+A|7| A: [onder het midden] [zeggen] [je] 
+B|8| B: [ja] _hij zitten net iets_ [onder het midden] 
+A|9| A: _nee_ _dat zijn_ sowieso niet 
+A|10| A: [dit zijn] _dat_ wat _dat_ vierkant wat richting [de] bovenkant _van het_ _kop_ [zitten] [en] [dan] [zitten] [er] [zo'n] soort kuip bovenop 
+A|11| A: [en] hebben [twee] poot zo naar beneden we hebben hem al hebben volgens mij 
+B|12| B: o [die] _kruiwag_ 
+A|13| A: [ja] volgens mij _zijn het_ [de kruiwag] 
+B|14| B: [okan _ja] ok dat zijn_ P 
+A|15| A: [hij zitten] _denken ik_ [op] [het midden] misschien [net iets] erboven bijna _helemaal_ [aan de rechterkant] _van het_ scherm kunnen _nog_ _één plaat_ rechts [naast] 
+B|16| B: passen [er] _zeggen maar _nog_ wel_ [net iets] _veel_ [dan] [één plaat] als in _anderhalf_ 
+A|17| A: _nee_ 
+A|18| A: [zitten [zeggen maar] nog] [dit] tussen 
+B|19| B: [ja] 
+A|20| A: [zitten] [hij] bij jou echt [zeggen maar] [wel] redelijk [op] [het midden] 
+B|21| B: [ja dat] [wel] 
+A|22| A: [ja] [het] [zijn] echt [dit] [zeggen maar] [dus] _denken_ [dat] _het wel_ hetzelfde [zijn] 
+B|23| B: wachten 
+A|24| A: [okan ja] [ik] vinden [dat] [dat] hetzelfde [zijn] 
+B|25| B: [okan] [dan] [zijn [het] wel] [op] _dezelfde_ plek 
+B|26| B: [okan _ja] dit zijn de kruiwag_ 
+A|27| A: [zijn] met [dat] met [die] [twee] poo naar beneden 
+B|28| B: [ja] [en] [dat] bak erop 
+A|29| A: [ja ok dat zijn] veertien 
+B|30| B: [en] _hij zitten helemaal_ _tegen de_ onderkant [aan] heel [iets] link [van [het] midden] 
+A|31| A: [ja] _zijn wel dezelfde_ 
+A|32| A: [ja dit zijn de kruiwag] 
+B|33| B: [dat zijn] N 
+A|34| A: [hij zitten net iets] _boven het midden_ kunnen [zijn het] [de] linkerkant [van het] scherm kunnen [er] [nog] [één] [anderhalf] [twee] [plaat] [naast] 
+B|35| B: [ja dat [zijn] wel dezelfde] 
+B|36| B: [de kruiwag] 
+A|37| A: [ja] [zijn] tien 
+B|38| B: [en] [hij [zitten] zeggen maar] [boven het midden] [en] [denken ik] [net iets] link [van [het] midden] 
+A|39| A: [en] hoever [zitten] [hij] [boven het midden] echt [net] [maar] [een] beetje 
+B|40| B: [ja] _er past nog wel een_ [kop] [boven] 
+A|41| A: [het] [zijn de kruiwag] 
+B|42| B: [ja dat zijn] D 
+A|43| A: [hij zitten helemaal] [aan de rechterkant] [van het] scherm [wel] zeker [boven het midden] 
+A|44| A: [er] kunnen geen [plaat] [veel] rechts [naast] [er] [zijn] [nog wel] wat ruimte [hij zitten] niet [tegen de] kant [aan] 
+B|45| B: [en] [boven] _past_ [helemaal] niks [veel] 
+A|46| A: [er past nog wel een] [plaat] 
+B|47| B: [boven] 
+A|48| A: [ja] 
+B|49| B: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok nou dit zijn dus wel de kruiwag weten je dan welk ik bedoelen zeggen maar
+	Free: Pattern=dus, Pattern=dan, Pattern=wel, Pattern=zeggen maar, Pattern=ok, Pattern=de kruiwag, Pattern=ik, Pattern=je, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=kruiwag, Pattern=zeggen, Pattern=dit, Pattern=zijn, Pattern=maar
+Turn ID=1| A | A : nn
+	Free: 
+	Constrained: 
+Turn ID=2| B | B : zeggen maar er zitten een bak op en er zitten zeggen maar zo'n ja rand omheen en aan die rand zitten twee van die balk
+	Free: Pattern=op, Pattern=zeggen maar, Pattern=er, Pattern=zo'n, Pattern=twee, Pattern=aan, Pattern=ja, Pattern=een, Pattern=zitten zeggen maar, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=zeggen maar, Pattern=zeggen, Pattern=maar, Pattern=zitten
+Turn ID=3| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=4| A | A : zijn die okan ja dat zijn zestien
+	Free: Pattern=ja dat zijn, Pattern=okan ja, Pattern=zijn, Pattern=die
+	Constrained: Pattern=ja, Pattern=okan, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=5| B | B : ja hij zitten heel iets onder het midden aan de rechterkant
+	Free: Pattern=onder het midden, Pattern=aan de rechterkant, Pattern=iets, Pattern=ja, Pattern=hij zitten
+	Constrained: Pattern=het midden, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=de, Pattern=aan
+Turn ID=6| B | B : en er past één zeggen maar anderhalf plaat ongeveer naast
+	Free: Pattern=er past, Pattern=zeggen maar, Pattern=en, Pattern=één, Pattern=plaat, Pattern=anderhalf, Pattern=naast
+	Constrained: Pattern=zeggen, Pattern=maar, Pattern=er, Pattern=past
+Turn ID=7| A | A : onder het midden zeggen je
+	Free: Pattern=onder het midden, Pattern=zeggen, Pattern=je
+	Constrained: Pattern=het midden, Pattern=het
+Turn ID=8| B | B : ja hij zitten net iets onder het midden
+	Free: Pattern=hij zitten net iets, Pattern=onder het midden, Pattern=ja
+	Constrained: Pattern=het midden, Pattern=net, Pattern=net iets, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=iets, Pattern=hij zitten
+Turn ID=9| A | A : nee dat zijn sowieso niet
+	Free: Pattern=dat zijn, Pattern=nee
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| A | A : dit zijn dat wat dat vierkant wat richting de bovenkant van het kop zitten en dan zitten er zo'n soort kuip bovenop
+	Free: Pattern=dat, Pattern=zo'n, Pattern=de, Pattern=dan, Pattern=kop, Pattern=zitten, Pattern=van het, Pattern=er, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=van, Pattern=het, Pattern=dit
+Turn ID=11| A | A : en hebben twee poot zo naar beneden we hebben hem al hebben volgens mij
+	Free: Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=12| B | B : o die kruiwag
+	Free: Pattern=kruiwag, Pattern=die
+	Constrained: 
+Turn ID=13| A | A : ja volgens mij zijn het de kruiwag
+	Free: Pattern=de kruiwag, Pattern=zijn het, Pattern=ja
+	Constrained: Pattern=de, Pattern=zijn, Pattern=kruiwag, Pattern=het
+Turn ID=14| B | B : okan ja ok dat zijn P
+	Free: Pattern=ja ok dat zijn, Pattern=okan ja
+	Constrained: Pattern=ja, Pattern=ok, Pattern=okan, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=15| A | A : hij zitten denken ik op het midden misschien net iets erboven bijna helemaal aan de rechterkant van het scherm kunnen nog één plaat rechts naast
+	Free: Pattern=het midden, Pattern=nog, Pattern=hij zitten, Pattern=één plaat, Pattern=denken ik, Pattern=net iets, Pattern=naast, Pattern=aan de rechterkant, Pattern=van het, Pattern=op, Pattern=helemaal
+	Constrained: Pattern=het, Pattern=hij, Pattern=zitten, Pattern=ik, Pattern=van, Pattern=één, Pattern=plaat, Pattern=denken, Pattern=net, Pattern=de, Pattern=aan, Pattern=iets
+Turn ID=16| B | B : passen er zeggen maar nog wel net iets veel dan één plaat als in anderhalf
+	Free: Pattern=nog wel, Pattern=zeggen maar nog, Pattern=één plaat, Pattern=dan, Pattern=veel, Pattern=net iets, Pattern=anderhalf, Pattern=er
+	Constrained: Pattern=nog, Pattern=net, Pattern=iets, Pattern=wel, Pattern=zeggen maar, Pattern=zeggen, Pattern=maar, Pattern=één, Pattern=plaat
+Turn ID=17| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=18| A | A : zitten zeggen maar nog dit tussen
+	Free: Pattern=zeggen maar nog, Pattern=zitten zeggen maar, Pattern=dit
+	Constrained: Pattern=nog, Pattern=zeggen maar, Pattern=zeggen, Pattern=zitten, Pattern=maar
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : zitten hij bij jou echt zeggen maar wel redelijk op het midden
+	Free: Pattern=het midden, Pattern=op, Pattern=wel, Pattern=zeggen maar, Pattern=hij, Pattern=zitten
+	Constrained: Pattern=zeggen, Pattern=maar, Pattern=het
+Turn ID=21| B | B : ja dat wel
+	Free: Pattern=ja dat, Pattern=wel
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=22| A | A : ja het zijn echt dit zeggen maar dus denken dat het wel hetzelfde zijn
+	Free: Pattern=dat, Pattern=denken, Pattern=het, Pattern=dit, Pattern=zijn, Pattern=dus, Pattern=ja, Pattern=het wel, Pattern=zeggen maar
+	Constrained: Pattern=zeggen, Pattern=maar, Pattern=wel, Pattern=het
+Turn ID=23| B | B : wachten
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : okan ja ik vinden dat dat hetzelfde zijn
+	Free: Pattern=okan ja, Pattern=ik, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=ja, Pattern=okan
+Turn ID=25| B | B : okan dan zijn het wel op dezelfde plek
+	Free: Pattern=zijn het, Pattern=dezelfde, Pattern=op, Pattern=dan, Pattern=het wel, Pattern=okan
+	Constrained: Pattern=zijn, Pattern=wel, Pattern=het
+Turn ID=26| B | B : okan ja dit zijn de kruiwag
+	Free: Pattern=ja dit zijn de kruiwag, Pattern=okan ja
+	Constrained: Pattern=dit, Pattern=zijn de kruiwag, Pattern=kruiwag, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=ja, Pattern=okan, Pattern=de kruiwag
+Turn ID=27| A | A : zijn met dat met die twee poo naar beneden
+	Free: Pattern=zijn, Pattern=twee, Pattern=die, Pattern=dat
+	Constrained: 
+Turn ID=28| B | B : ja en dat bak erop
+	Free: Pattern=ja, Pattern=dat, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : ja ok dat zijn veertien
+	Free: Pattern=ja ok dat zijn
+	Constrained: Pattern=ja, Pattern=ok, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=30| B | B : en hij zitten helemaal tegen de onderkant aan heel iets link van het midden
+	Free: Pattern=het midden, Pattern=tegen de, Pattern=hij zitten helemaal, Pattern=van het, Pattern=en, Pattern=aan, Pattern=iets
+	Constrained: Pattern=helemaal, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=van, Pattern=de, Pattern=hij zitten
+Turn ID=31| A | A : ja zijn wel dezelfde
+	Free: Pattern=zijn wel dezelfde, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=wel, Pattern=dezelfde
+Turn ID=32| A | A : ja dit zijn de kruiwag
+	Free: Pattern=ja dit zijn de kruiwag
+	Constrained: Pattern=dit, Pattern=de kruiwag, Pattern=zijn de kruiwag, Pattern=kruiwag, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=ja
+Turn ID=33| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=34| A | A : hij zitten net iets boven het midden kunnen zijn het de linkerkant van het scherm kunnen er nog één anderhalf twee plaat naast
+	Free: Pattern=zijn het, Pattern=nog, Pattern=twee, Pattern=de, Pattern=boven het midden, Pattern=van het, Pattern=er, Pattern=hij zitten net iets, Pattern=één, Pattern=plaat, Pattern=anderhalf, Pattern=naast
+	Constrained: Pattern=het midden, Pattern=net, Pattern=boven, Pattern=net iets, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=van, Pattern=zijn, Pattern=iets, Pattern=hij zitten
+Turn ID=35| B | B : ja dat zijn wel dezelfde
+	Free: Pattern=zijn wel dezelfde, Pattern=ja dat zijn
+	Constrained: Pattern=dezelfde, Pattern=ja, Pattern=wel, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=36| B | B : de kruiwag
+	Free: Pattern=de kruiwag
+	Constrained: Pattern=de, Pattern=kruiwag
+Turn ID=37| A | A : ja zijn tien
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : en hij zitten zeggen maar boven het midden en denken ik net iets link van het midden
+	Free: Pattern=het midden, Pattern=hij zitten, Pattern=net iets, Pattern=boven het midden, Pattern=van het, Pattern=en, Pattern=denken ik, Pattern=zitten zeggen maar
+	Constrained: Pattern=het midden, Pattern=iets, Pattern=boven, Pattern=zeggen maar, Pattern=het, Pattern=zitten, Pattern=ik, Pattern=van, Pattern=maar, Pattern=denken, Pattern=net, Pattern=zeggen, Pattern=hij
+Turn ID=39| A | A : en hoever zitten hij boven het midden echt net maar een beetje
+	Free: Pattern=net, Pattern=een, Pattern=hij, Pattern=boven het midden, Pattern=zitten, Pattern=en, Pattern=maar
+	Constrained: Pattern=het midden, Pattern=boven, Pattern=het
+Turn ID=40| B | B : ja er past nog wel een kop boven
+	Free: Pattern=er past nog wel een, Pattern=kop, Pattern=ja, Pattern=boven
+	Constrained: Pattern=er past, Pattern=er, Pattern=past, Pattern=nog, Pattern=nog wel, Pattern=een, Pattern=wel
+Turn ID=41| A | A : het zijn de kruiwag
+	Free: Pattern=zijn de kruiwag, Pattern=het
+	Constrained: Pattern=de kruiwag, Pattern=de, Pattern=zijn, Pattern=kruiwag
+Turn ID=42| B | B : ja dat zijn D
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=ja dat, Pattern=dat, Pattern=dat zijn
+Turn ID=43| A | A : hij zitten helemaal aan de rechterkant van het scherm wel zeker boven het midden
+	Free: Pattern=wel, Pattern=hij zitten helemaal, Pattern=boven het midden, Pattern=aan de rechterkant, Pattern=van het
+	Constrained: Pattern=het midden, Pattern=helemaal, Pattern=boven, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=van, Pattern=de, Pattern=aan, Pattern=hij zitten
+Turn ID=44| A | A : er kunnen geen plaat veel rechts naast er zijn nog wel wat ruimte hij zitten niet tegen de kant aan
+	Free: Pattern=nog wel, Pattern=tegen de, Pattern=veel, Pattern=naast, Pattern=er, Pattern=zijn, Pattern=plaat, Pattern=aan, Pattern=hij zitten
+	Constrained: Pattern=nog, Pattern=de, Pattern=wel, Pattern=hij, Pattern=zitten
+Turn ID=45| B | B : en boven past helemaal niks veel
+	Free: Pattern=helemaal, Pattern=boven, Pattern=veel, Pattern=en, Pattern=past
+	Constrained: 
+Turn ID=46| A | A : er past nog wel een plaat
+	Free: Pattern=er past nog wel een, Pattern=plaat
+	Constrained: Pattern=er past, Pattern=er, Pattern=past, Pattern=nog, Pattern=nog wel, Pattern=een, Pattern=wel
+Turn ID=47| B | B : boven
+	Free: Pattern=boven
+	Constrained: 
+Turn ID=48| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| B | B : nee
+	Free: Pattern=nee
+	Constrained: 

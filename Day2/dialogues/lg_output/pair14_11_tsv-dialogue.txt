@@ -1,0 +1,123 @@
+B|0| B: _deze zijn_ _een_ _een_ ei-achtig vorm vooraan 
+B|1| B: waarbij _dus_ _het_ _zijn_ twee object _dus_ vooraan _dat_ eivormig ding _en een_ _ja_ 
+B|2| B: _een_ soort van 
+A|3| A: _zo'n_ driehoekig staaf 
+B|4| B: _ja_ precies 
+A|5| A: [en] _dan_ _zo'n_ _kegel_ _bovenop_ [en] _dan_ _nog_ _een rechthoek_ 
+B|6| B: _ja_ 
+B|7| B: _ja_ 
+B|8| B: _ja_ 
+A|9| A: _okee dat zijn_ acht 
+A|10| A: [deze _zijn] met_ _zo'n_ _met de_ ei _met_ [het] ei _aan de voorkant_ maar _dan_ zonder _die_ stang erdoorheen 
+A|11| A: [dus] _met_ _zo'n_ _rechthoek_ erbovenop _en een kegel_ erbovenop 
+B|12| B: _ja_ [en] [aan de] zijkant steken [nog] [zo'n] [zo'n] ook _dinge uit_ 
+A|13| A: [ja] [zo'n] [dinge uit] [ja] 
+B|14| B: [ja] 
+B|15| B: [okee dat zijn] b 
+B|16| B: [deze zijn] [die] _die bal_ [aan de] [aan de voorkant] 
+A|17| A: [ja] 
+B|18| B: [dan] hebben je [bovenop] [een] [een] klein [rechthoek] staan [en een kegel] 
+A|19| A: [ja] [dat zijn] acht 
+B|20| B: [ja] 
+A|21| A: _dit zijn met_ [zo'n] [bal] ervoor maar [dan] niet [die] [een] waar [die] staaf doorheen gaan maar [dan] _met_ [zo'n] [rechthoek] [bovenop] [en] [die] [kegel] erbovenop 
+B|22| B: [ja] [ja] o 
+B|23| B: [dit zijn [met] de] bol [aan de voorkant] 
+B|24| B: _en een rechthoek_ [en een kegel] [aan de] bovenkant 
+A|25| A: [ja] [dat zijn] zeven 
+B|26| B: [ja] 
+A|27| A: [dat [zijn] met] [die] [met] [die bal] ervoor [en] [dan] [een kegel] [bovenop] [en een rechthoek] [bovenop] 
+B|28| B: [ja] 
+B|29| B: [dat zijn] b 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze zijn een een ei-achtig vorm vooraan
+	Free: Pattern=deze zijn, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=1| B | B : waarbij dus het zijn twee object dus vooraan dat eivormig ding en een ja
+	Free: Pattern=dat, Pattern=het, Pattern=dus, Pattern=ja, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=en, Pattern=een
+Turn ID=2| B | B : een soort van
+	Free: Pattern=een
+	Constrained: 
+Turn ID=3| A | A : zo'n driehoekig staaf
+	Free: Pattern=zo'n
+	Constrained: 
+Turn ID=4| B | B : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en dan zo'n kegel bovenop en dan nog een rechthoek
+	Free: Pattern=kegel, Pattern=bovenop, Pattern=zo'n, Pattern=dan, Pattern=en, Pattern=nog, Pattern=een rechthoek
+	Constrained: Pattern=een, Pattern=rechthoek
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : okee dat zijn acht
+	Free: Pattern=okee dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : deze zijn met zo'n met de ei met het ei aan de voorkant maar dan zonder die stang erdoorheen
+	Free: Pattern=zo'n, Pattern=dan, Pattern=het, Pattern=met, Pattern=aan de voorkant, Pattern=met de, Pattern=deze zijn, Pattern=zijn met, Pattern=die
+	Constrained: Pattern=zijn, Pattern=aan de, Pattern=met
+Turn ID=11| A | A : dus met zo'n rechthoek erbovenop en een kegel erbovenop
+	Free: Pattern=dus, Pattern=en een kegel, Pattern=met, Pattern=rechthoek, Pattern=zo'n
+	Constrained: Pattern=kegel, Pattern=een, Pattern=een kegel, Pattern=en, Pattern=en een
+Turn ID=12| B | B : ja en aan de zijkant steken nog zo'n zo'n ook dinge uit
+	Free: Pattern=nog, Pattern=zo'n, Pattern=ja, Pattern=aan de, Pattern=dinge uit, Pattern=en
+	Constrained: 
+Turn ID=13| A | A : ja zo'n dinge uit ja
+	Free: Pattern=dinge uit, Pattern=ja, Pattern=zo'n
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : okee dat zijn b
+	Free: Pattern=okee dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : deze zijn die die bal aan de aan de voorkant
+	Free: Pattern=deze zijn, Pattern=aan de, Pattern=die bal, Pattern=die, Pattern=aan de voorkant
+	Constrained: Pattern=bal, Pattern=zijn, Pattern=die, Pattern=aan de
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dan hebben je bovenop een een klein rechthoek staan en een kegel
+	Free: Pattern=bovenop, Pattern=rechthoek, Pattern=dan, Pattern=een, Pattern=en een kegel
+	Constrained: Pattern=kegel, Pattern=een, Pattern=een kegel, Pattern=en, Pattern=en een
+Turn ID=19| A | A : ja dat zijn acht
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dit zijn met zo'n bal ervoor maar dan niet die een waar die staaf doorheen gaan maar dan met zo'n rechthoek bovenop en die kegel erbovenop
+	Free: Pattern=kegel, Pattern=bovenop, Pattern=dan, Pattern=met, Pattern=die, Pattern=en, Pattern=rechthoek, Pattern=zo'n, Pattern=bal, Pattern=een, Pattern=dit zijn met
+	Constrained: Pattern=zijn met, Pattern=met, Pattern=zijn
+Turn ID=22| B | B : ja ja o
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dit zijn met de bol aan de voorkant
+	Free: Pattern=dit zijn met, Pattern=aan de voorkant, Pattern=met de
+	Constrained: Pattern=zijn, Pattern=aan de, Pattern=zijn met, Pattern=met
+Turn ID=24| B | B : en een rechthoek en een kegel aan de bovenkant
+	Free: Pattern=en een kegel, Pattern=en een rechthoek, Pattern=aan de
+	Constrained: Pattern=kegel, Pattern=een rechthoek, Pattern=rechthoek, Pattern=een, Pattern=een kegel, Pattern=en, Pattern=en een
+Turn ID=25| A | A : ja dat zijn zeven
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : dat zijn met die met die bal ervoor en dan een kegel bovenop en een rechthoek bovenop
+	Free: Pattern=dan, Pattern=die bal, Pattern=een kegel, Pattern=met, Pattern=en, Pattern=en een rechthoek, Pattern=dat zijn, Pattern=bovenop, Pattern=zijn met, Pattern=die
+	Constrained: Pattern=kegel, Pattern=dat, Pattern=een rechthoek, Pattern=een, Pattern=met, Pattern=die, Pattern=en, Pattern=rechthoek, Pattern=bal, Pattern=en een, Pattern=zijn
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

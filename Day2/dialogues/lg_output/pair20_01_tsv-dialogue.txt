@@ -1,0 +1,83 @@
+B|0| B: eens even kijken hoor _deze_ _hebben_ _aan de linkerkant_ _twee_ van _die_ _die_ _vier kubus_ eraan zitten _die_ zitten achter elkaar er zitten een vierkant voor _en_ een soort 
+A|1| A: _ja_ 
+A|2| A: _ja_ 
+A|3| A: _antenne_ erop 
+B|4| B: [ja] spijker [antenne] inderdaad 
+A|5| A: [ja] 
+A|6| A: _dat zijn_ nummer veertien 
+A|7| A: ik [hebben] nu [die] [twee] _met_ [die] [twee] _kubus aan de linkerkant en_ [die] [antenne] erop [en] _dat_ vierkantje [aan de] voorkant 
+B|8| B: [dat zijn] b 
+B|9| B: _deze_ [hebben] [twee] [de] [twee] _vier kubus_ achter elkaar als handvat [met] het vierkant _ervoor_ 
+A|10| A: okee 
+A|11| A: okee twaalf 
+A|12| A: [deze] [zijn] [met] [die] [antenne] [en] [die] [twee] _kubus aan_ [die] [twee] keer _vier kubus aan de linkerkant en_ [dat] 
+B|13| B: [met] het _vlak ervoor_ 
+A|14| A: [met] [dat] [vlak ervoor] [ja] 
+B|15| B: yes [dat zijn] i 
+B|16| B: [deze] [hebben] [de] [twee] maal [vier kubus aan de linkerkant en] het [en] [de] [antenne] [aan de] bovenkant 
+A|17| A: twaalf 
+A|18| A: dit [zijn] [met] [die] [twee] [twee] keer [vier kubus aan de linkerkant] [die] [antenne] [en] [dat] vierkantje [aan de] voorkant 
+B|19| B: yes [dat zijn] d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : eens even kijken hoor deze hebben aan de linkerkant twee van die die vier kubus eraan zitten die zitten achter elkaar er zitten een vierkant voor en een soort
+	Free: Pattern=twee, Pattern=hebben, Pattern=en, Pattern=deze, Pattern=aan de linkerkant, Pattern=vier kubus, Pattern=die
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : antenne erop
+	Free: Pattern=antenne
+	Constrained: 
+Turn ID=4| B | B : ja spijker antenne inderdaad
+	Free: Pattern=ja, Pattern=antenne
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| A | A : ik hebben nu die twee met die twee kubus aan de linkerkant en die antenne erop en dat vierkantje aan de voorkant
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=hebben, Pattern=met, Pattern=die, Pattern=antenne, Pattern=kubus aan de linkerkant en, Pattern=en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=kubus aan, Pattern=en, Pattern=aan de linkerkant
+Turn ID=8| B | B : dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=9| B | B : deze hebben twee de twee vier kubus achter elkaar als handvat met het vierkant ervoor
+	Free: Pattern=twee, Pattern=de, Pattern=ervoor, Pattern=hebben, Pattern=met, Pattern=vier kubus, Pattern=deze
+	Constrained: 
+Turn ID=10| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : okee twaalf
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : deze zijn met die antenne en die twee kubus aan die twee keer vier kubus aan de linkerkant en dat
+	Free: Pattern=dat, Pattern=twee, Pattern=kubus aan, Pattern=vier kubus aan de linkerkant en, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=de, Pattern=aan de, Pattern=kubus aan, Pattern=vier kubus aan de linkerkant, Pattern=vier kubus, Pattern=kubus aan de linkerkant en, Pattern=en, Pattern=aan de linkerkant
+Turn ID=13| B | B : met het vlak ervoor
+	Free: Pattern=vlak ervoor, Pattern=met
+	Constrained: Pattern=ervoor
+Turn ID=14| A | A : met dat vlak ervoor ja
+	Free: Pattern=vlak ervoor, Pattern=ja, Pattern=met, Pattern=dat
+	Constrained: Pattern=ervoor
+Turn ID=15| B | B : yes dat zijn i
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=16| B | B : deze hebben de twee maal vier kubus aan de linkerkant en het en de antenne aan de bovenkant
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=antenne, Pattern=en, Pattern=deze, Pattern=hebben, Pattern=vier kubus aan de linkerkant en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=kubus aan, Pattern=vier kubus aan de linkerkant, Pattern=vier kubus, Pattern=kubus aan de linkerkant en, Pattern=en, Pattern=aan de linkerkant
+Turn ID=17| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dit zijn met die twee twee keer vier kubus aan de linkerkant die antenne en dat vierkantje aan de voorkant
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=vier kubus aan de linkerkant, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan de, Pattern=kubus aan, Pattern=vier kubus, Pattern=aan de linkerkant
+Turn ID=19| B | B : yes dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

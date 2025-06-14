@@ -1,0 +1,191 @@
+A|0| A: _er_ _zitten_ _een soort_ _kwast_ _in_ _het_ beker _en_ _het_ hebben _aan de_ rechterzijde even kijken _een soort_ handvat _wat_ lijken op _een_ vierkantachtig _iets_ 
+A|1| A: _dan_ _aan de_ linkerzijde hebben _het_ _een soort_ armp 
+A|2| A: _en dan_ _aan de_ voorzijde veel link hebben _het_ _ook _een_ soort_ kwastachtig _iets_ _wat_ lijken ënsorteren _in_ _de_ mok 
+A|3| A: _zijn het_ daarmee duidelijk 
+B|4| B: wachten wachten 
+B|5| B: kunnen _je_ hem _nog_ 
+A|6| A: _ja _aan_ de_ bovenzijde _het_ lijken alsof [je] zeggen maar _een_ _kwast_ _in_ _een_ beker hebben laten liggen 
+B|7| B: _die_ 
+A|8| A: _en dan_ _aan de_ rechterzijde hebben _het_ _een soort_ handvat laten maar zeggen maar _dan_ horizontaal _wat_ op _een_ vierkantje eindigen 
+A|9| A: _aan de_ linkerzijde hebben _het_ _ook _een_ soort_ handvat zeggen maar 
+A|10| A: _en dan_ _aan de_ voorzijde hebben _het_ zelfde vorm _wat_ _aan de_ bovenkant uitsteken laten maar zeggen hebben _het_ _ook aan de_ voorzijde _een_ beetje _links_ 
+A|11| A: _en dan_ lijken _het_ alsof _het_ zeggen maar _in_ _de_ mok _zitten_ 
+B|12| B: [en] dat rechterhandvat bestaan dat uit drie _vierkant_ _één_ _klein_ [iets] _groot_ _groot_ 
+A|13| A: _ja_ exact 
+B|14| B: _okee_ 
+B|15| B: _dan zijn het_ i 
+B|16| B: hier [zitten] [ook _een] roerstaafje_ [in] [aan] [ja aan] beide zowel [links] [aan _de] zijkant_ _als_ bovenin hetzelfde 
+B|17| B: [en] _aan de rechterkant_ [een soort] _van_ houder _met_ _die vierkant_ drie _vierkant_ _van groot naar klein_ 
+B|18| B: [en] [aan de] linker daarachter _nog een_ hengsel 
+A|19| A: even kijken [een roerstaafje] 
+B|20| B: of [ja] _twee_ dezelfde 
+B|21| B: [wat] [er] bovenin [zitten] [zitten] [ook aan de] linkerkant 
+A|22| A: [ja] dus [een soort] _twee kwast_ [die] [er] zeggen maar _zo in_ [zitten] 
+B|23| B: [ja] 
+A|24| A: hand [aan de] linkerzijde [en] [die] [groot] blok [die] [naar klein] lopen [als] handvat 
+B|25| B: [ja] 
+A|26| A: [ja] [dan zijn het] nummer elf 
+A|27| A: dit [zijn] laten maar zeggen [die] _twee kwast één_ [die] erin [zitten] [en] [één] [van] [de zijkant] 
+A|28| A: dus laten maar zeggen [die] [twee] lepelt 
+B|29| B: [ja] 
+A|30| A: [en] [met] [een] _kubus_ [aan de rechterkant] [die] [van groot naar klein] lopen 
+A|31| A: [en] [nog een] hand [aan de] linkerzijde 
+B|32| B: [ja] dat [zijn] i 
+B|33| B: [met] [twee kwast één] [aan de] linkerkant [één] bovenin 
+B|34| B: precies hetzelfde 
+B|35| B: [en dan] [ja] rechts zo'n driehoekding [en] [links] [nog een] slurf 
+B|36| B: driehoek sorry 
+B|37| B: rechts drie [kubus] [van groot naar klein] 
+A|38| A: [ja] 
+A|39| A: [okee] nummer vier 
+A|40| A: [de] [twee kwast] [die] zeggen maar [één] _boven_ [één] link [met] [het] [soort] [ja] [die vierkant] [die] [van groot naar klein] lopen [en] [een] hand [links] 
+B|41| B: [ja] 
+B|42| B: [ja] dat [zijn] n 
+B|43| B: [twee kwast] [er] [zo in] 
+A|44| A: [ja] even zoeken hoor 
+B|45| B: [aan [de] zijkant] [en] [boven] 
+A|46| A: [ja] nummer dertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten een soort kwast in het beker en het hebben aan de rechterzijde even kijken een soort handvat wat lijken op een vierkantachtig iets
+	Free: Pattern=iets, Pattern=aan de, Pattern=een, Pattern=het, Pattern=kwast, Pattern=in, Pattern=zitten, Pattern=een soort, Pattern=en, Pattern=wat, Pattern=er
+	Constrained: Pattern=aan, Pattern=de, Pattern=soort, Pattern=een
+Turn ID=1| A | A : dan aan de linkerzijde hebben het een soort armp
+	Free: Pattern=aan de, Pattern=een soort, Pattern=het, Pattern=dan
+	Constrained: Pattern=aan, Pattern=de, Pattern=soort, Pattern=een
+Turn ID=2| A | A : en dan aan de voorzijde veel link hebben het ook een soort kwastachtig iets wat lijken ënsorteren in de mok
+	Free: Pattern=ook een, Pattern=en dan, Pattern=aan de, Pattern=het, Pattern=in, Pattern=wat, Pattern=een soort, Pattern=de, Pattern=iets
+	Constrained: Pattern=soort, Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=3| A | A : zijn het daarmee duidelijk
+	Free: Pattern=zijn het
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=4| B | B : wachten wachten
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : kunnen je hem nog
+	Free: Pattern=je, Pattern=nog
+	Constrained: 
+Turn ID=6| A | A : ja aan de bovenzijde het lijken alsof je zeggen maar een kwast in een beker hebben laten liggen
+	Free: Pattern=aan de, Pattern=het, Pattern=kwast, Pattern=in, Pattern=je, Pattern=ja aan, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=ja
+Turn ID=7| B | B : die
+	Free: Pattern=die
+	Constrained: 
+Turn ID=8| A | A : en dan aan de rechterzijde hebben het een soort handvat laten maar zeggen maar dan horizontaal wat op een vierkantje eindigen
+	Free: Pattern=en dan, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=wat, Pattern=een soort
+	Constrained: Pattern=soort, Pattern=dan, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=9| A | A : aan de linkerzijde hebben het ook een soort handvat zeggen maar
+	Free: Pattern=aan de, Pattern=een soort, Pattern=ook een, Pattern=het
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=soort
+Turn ID=10| A | A : en dan aan de voorzijde hebben het zelfde vorm wat aan de bovenkant uitsteken laten maar zeggen hebben het ook aan de voorzijde een beetje links
+	Free: Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=links, Pattern=het, Pattern=wat, Pattern=ook aan de
+	Constrained: Pattern=aan de, Pattern=dan, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=11| A | A : en dan lijken het alsof het zeggen maar in de mok zitten
+	Free: Pattern=de, Pattern=en dan, Pattern=het, Pattern=in, Pattern=zitten
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=12| B | B : en dat rechterhandvat bestaan dat uit drie vierkant één klein iets groot groot
+	Free: Pattern=iets, Pattern=groot, Pattern=klein, Pattern=en, Pattern=vierkant, Pattern=één
+	Constrained: 
+Turn ID=13| A | A : ja exact
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=15| B | B : dan zijn het i
+	Free: Pattern=dan zijn het
+	Constrained: Pattern=zijn het, Pattern=het, Pattern=zijn, Pattern=dan
+Turn ID=16| B | B : hier zitten ook een roerstaafje in aan ja aan beide zowel links aan de zijkant als bovenin hetzelfde
+	Free: Pattern=ook een, Pattern=aan, Pattern=aan de, Pattern=ja aan, Pattern=links, Pattern=in, Pattern=zitten, Pattern=de zijkant, Pattern=als, Pattern=een roerstaafje
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=ja
+Turn ID=17| B | B : en aan de rechterkant een soort van houder met die vierkant drie vierkant van groot naar klein
+	Free: Pattern=die vierkant, Pattern=van groot naar klein, Pattern=met, Pattern=aan de rechterkant, Pattern=een soort, Pattern=vierkant, Pattern=van, Pattern=en
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=naar klein, Pattern=een, Pattern=groot, Pattern=die, Pattern=klein, Pattern=van, Pattern=vierkant, Pattern=de, Pattern=aan
+Turn ID=18| B | B : en aan de linker daarachter nog een hengsel
+	Free: Pattern=aan de, Pattern=nog een, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=een, Pattern=nog
+Turn ID=19| A | A : even kijken een roerstaafje
+	Free: Pattern=een roerstaafje
+	Constrained: Pattern=een
+Turn ID=20| B | B : of ja twee dezelfde
+	Free: Pattern=ja, Pattern=twee
+	Constrained: 
+Turn ID=21| B | B : wat er bovenin zitten zitten ook aan de linkerkant
+	Free: Pattern=ook aan de, Pattern=wat, Pattern=zitten, Pattern=er
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=de
+Turn ID=22| A | A : ja dus een soort twee kwast die er zeggen maar zo in zitten
+	Free: Pattern=zo in, Pattern=ja, Pattern=twee kwast, Pattern=er, Pattern=een soort, Pattern=die, Pattern=zitten
+	Constrained: Pattern=soort, Pattern=twee, Pattern=een, Pattern=kwast, Pattern=in
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : hand aan de linkerzijde en die groot blok die naar klein lopen als handvat
+	Free: Pattern=aan de, Pattern=naar klein, Pattern=groot, Pattern=als, Pattern=die, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=klein
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja dan zijn het nummer elf
+	Free: Pattern=dan zijn het, Pattern=ja
+	Constrained: Pattern=zijn het, Pattern=het, Pattern=zijn, Pattern=dan
+Turn ID=27| A | A : dit zijn laten maar zeggen die twee kwast één die erin zitten en één van de zijkant
+	Free: Pattern=twee kwast één, Pattern=de zijkant, Pattern=zijn, Pattern=één, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=één, Pattern=twee kwast, Pattern=kwast
+Turn ID=28| A | A : dus laten maar zeggen die twee lepelt
+	Free: Pattern=die, Pattern=twee
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : en met een kubus aan de rechterkant die van groot naar klein lopen
+	Free: Pattern=een, Pattern=van groot naar klein, Pattern=met, Pattern=en, Pattern=kubus, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan de, Pattern=naar klein, Pattern=groot, Pattern=klein, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=31| A | A : en nog een hand aan de linkerzijde
+	Free: Pattern=aan de, Pattern=nog een, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=een, Pattern=nog
+Turn ID=32| B | B : ja dat zijn i
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : met twee kwast één aan de linkerkant één bovenin
+	Free: Pattern=twee kwast één, Pattern=aan de, Pattern=met, Pattern=één
+	Constrained: Pattern=twee, Pattern=één, Pattern=de, Pattern=aan, Pattern=twee kwast, Pattern=kwast
+Turn ID=34| B | B : precies hetzelfde
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : en dan ja rechts zo'n driehoekding en links nog een slurf
+	Free: Pattern=nog een, Pattern=ja, Pattern=en dan, Pattern=links, Pattern=en
+	Constrained: Pattern=en, Pattern=een, Pattern=nog, Pattern=dan
+Turn ID=36| B | B : driehoek sorry
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : rechts drie kubus van groot naar klein
+	Free: Pattern=van groot naar klein, Pattern=kubus
+	Constrained: Pattern=naar klein, Pattern=groot, Pattern=van, Pattern=klein
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : okee nummer vier
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=40| A | A : de twee kwast die zeggen maar één boven één link met het soort ja die vierkant die van groot naar klein lopen en een hand links
+	Free: Pattern=die vierkant, Pattern=soort, Pattern=boven, Pattern=een, Pattern=links, Pattern=het, Pattern=twee kwast, Pattern=van groot naar klein, Pattern=met, Pattern=die, Pattern=en, Pattern=één, Pattern=de, Pattern=ja
+	Constrained: Pattern=twee, Pattern=naar klein, Pattern=groot, Pattern=kwast, Pattern=die, Pattern=klein, Pattern=van, Pattern=vierkant
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : ja dat zijn n
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : twee kwast er zo in
+	Free: Pattern=zo in, Pattern=twee kwast, Pattern=er
+	Constrained: Pattern=kwast, Pattern=twee, Pattern=in
+Turn ID=44| A | A : ja even zoeken hoor
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : aan de zijkant en boven
+	Free: Pattern=aan de, Pattern=de zijkant, Pattern=boven, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=46| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 

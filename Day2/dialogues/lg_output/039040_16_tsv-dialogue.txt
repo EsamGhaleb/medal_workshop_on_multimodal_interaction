@@ -1,0 +1,211 @@
+A|0| A: _ik_ _hebben_ er één _die_ _hebben_ twee dezelfde vormp één recht _op_ _het midden_ _zo'n_ langwerpig _en_ één _aan de_ zijkant _ook_ _zo'n_ langwerpig 
+B|1| B: [die] _soort van_ _kegel_ _van_ bowling 
+A|2| A: _ja_ _ja_ 
+B|3| B: [ja] 
+A|4| A: _en nog_ _zo'n_ [soort van] _verrekijker_ tenminste zo _hebben_ _ik_ hem 
+A|5| A: _met_ [van] [die] vierkant 
+B|6| B: [ja] 
+B|7| B: [ja] _dat_ _zijn_ E 
+A|8| A: _oké_ 
+A|9| A: _en_ _die _bij_ mij zijn die_ helemaal _aan de_ rechterkant net iets _boven het midden_ 
+B|10| B: [bij mij zijn die] [op] _drie_ _vier_ [van] [het] totaal rechts 
+A|11| A: _dan [zijn_ die] omgedraaid _dan zijn het_ niet hetzelfde _denken ik_ 
+B|12| B: [oké] 
+A|13| A: tenminste net _zitten_ daar _ik_ _denken_ [dat] [het] [dat] [het] niet [op] dezelfde plek [zijn] 
+B|14| B: [en] hij [zitten] [ook] _een_ flink _stuk_ [boven het midden] 
+A|15| A: [bij mij] niet [een] heel klein [stuk] _maar_ 
+B|16| B: [ja] [dan zijn] [dan] weten [ik] [op] welk positie [die bij] jou [zitten] in ieder geval [maar] [dan zijn het] [een] _nee_ 
+B|17| B: [het] [zijn] [de] _kegel_ erbovenop _een kegel_ naar [die] kant richten [denken ik] _en dan hebben_ [die] _hier_ [zo'n] verrekijkerachtig ding 
+A|18| A: [ja] 
+B|19| B: _en dan_ [nog] [een] [soort van] bikinibroekachtig uitlaat [aan de] [die] kant 
+A|20| A: even kijken wachten [ik] [zijn] even [aan] [het] zoeken [ja] Bingo 
+A|21| A: elf 
+B|22| B: [en] hij staan in [die] _vier_ _en dan zijn het_ linksboven 
+A|23| A: [ja] 
+A|24| A: dit [zijn] degeen _met_ één _verrekijker_ [en] [zo'n] [kegel] [hier] _en een kegel_ [aan de] zijkant 
+B|25| B: [ja] J 
+A|26| A: [en dan hebben] je [die] _rij_ [die] twee [van] [drie] 
+B|27| B: [ja] 
+A|28| A: [en dan zijn het] niet [dan zijn het] degeen [die] daarboven [zijn] 
+A|29| A: niet helemaal bovenin 
+B|30| B: _nee bij mij_ [zitten] [die] wel in [die] acht 
+A|31| A: [oké] [nee] [dan zijn het] niet hetzelfde [dan] moeten jij 
+B|32| B: [het] [zijn die] [met] [een kegel] [op] [zijn] hoofd [en een kegel] als neus [en dan] [een] [verrekijker] 
+B|33| B: [en dan] [nog] [een] mormel 
+A|34| A: [ja] 
+A|35| A: negen 
+A|36| A: mormelt 
+B|37| B: _vier_ [drie] [rij] [en dan] [de] veel rechts 
+A|38| A: [nee] 
+A|39| A: dit [zijn] degeen [met] één [verrekijker] 
+A|40| A: [en] [die] twee [kegel] 
+B|41| B: god 
+B|42| B: [ja] B 
+B|43| B: [dat] [zijn] [bij mij] [de] veel rechts 
+A|44| A: [nee bij mij] niet 
+A|45| A: [dat] moeten jij doen 
+B|46| B: [het] [zijn die] [met] [een kegel] erop [kegel] als neus [en een] [verrekijker] 
+B|47| B: [en nog] [een] dinge 
+A|48| A: [ja] 
+A|49| A: [vier] 
+B|50| B: [en] [het] [zijn] [bij mij] [de] veel Linksboven 
+A|51| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben er één die hebben twee dezelfde vormp één recht op het midden zo'n langwerpig en één aan de zijkant ook zo'n langwerpig
+	Free: Pattern=het midden, Pattern=zo'n, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=en, Pattern=op, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=aan, Pattern=het, Pattern=de
+Turn ID=1| B | B : die soort van kegel van bowling
+	Free: Pattern=soort van, Pattern=van, Pattern=kegel, Pattern=die
+	Constrained: Pattern=van
+Turn ID=2| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en nog zo'n soort van verrekijker tenminste zo hebben ik hem
+	Free: Pattern=zo'n, Pattern=hebben, Pattern=ik, Pattern=verrekijker, Pattern=soort van, Pattern=en nog
+	Constrained: Pattern=van, Pattern=nog, Pattern=en
+Turn ID=5| A | A : met van die vierkant
+	Free: Pattern=van, Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja dat zijn E
+	Free: Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : en die bij mij zijn die helemaal aan de rechterkant net iets boven het midden
+	Free: Pattern=aan de, Pattern=bij mij zijn die, Pattern=boven het midden, Pattern=en, Pattern=die bij
+	Constrained: Pattern=het midden, Pattern=die, Pattern=zijn, Pattern=bij mij, Pattern=de, Pattern=aan, Pattern=het, Pattern=zijn die
+Turn ID=10| B | B : bij mij zijn die op drie vier van het totaal rechts
+	Free: Pattern=op, Pattern=van, Pattern=vier, Pattern=bij mij zijn die, Pattern=het, Pattern=drie
+	Constrained: Pattern=zijn, Pattern=die, Pattern=bij mij, Pattern=zijn die
+Turn ID=11| A | A : dan zijn die omgedraaid dan zijn het niet hetzelfde denken ik
+	Free: Pattern=dan zijn het, Pattern=dan zijn, Pattern=zijn die, Pattern=denken ik
+	Constrained: Pattern=denken, Pattern=dan, Pattern=het, Pattern=die, Pattern=dan zijn, Pattern=ik, Pattern=zijn
+Turn ID=12| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| A | A : tenminste net zitten daar ik denken dat het dat het niet op dezelfde plek zijn
+	Free: Pattern=dat, Pattern=denken, Pattern=op, Pattern=het, Pattern=zitten, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : en hij zitten ook een flink stuk boven het midden
+	Free: Pattern=ook, Pattern=een, Pattern=stuk, Pattern=boven het midden, Pattern=zitten, Pattern=en
+	Constrained: Pattern=het midden, Pattern=het
+Turn ID=15| A | A : bij mij niet een heel klein stuk maar
+	Free: Pattern=bij mij, Pattern=maar, Pattern=een, Pattern=stuk
+	Constrained: 
+Turn ID=16| B | B : ja dan zijn dan weten ik op welk positie die bij jou zitten in ieder geval maar dan zijn het een nee
+	Free: Pattern=op, Pattern=dan, Pattern=een, Pattern=nee, Pattern=zitten, Pattern=dan zijn, Pattern=ik, Pattern=maar, Pattern=die bij, Pattern=ja, Pattern=dan zijn het
+	Constrained: Pattern=dan, Pattern=het, Pattern=die, Pattern=dan zijn, Pattern=zijn
+Turn ID=17| B | B : het zijn de kegel erbovenop een kegel naar die kant richten denken ik en dan hebben die hier zo'n verrekijkerachtig ding
+	Free: Pattern=kegel, Pattern=zo'n, Pattern=de, Pattern=hier, Pattern=denken ik, Pattern=het, Pattern=een kegel, Pattern=die, Pattern=en dan hebben, Pattern=zijn
+	Constrained: Pattern=kegel, Pattern=denken, Pattern=en dan, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=en
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : en dan nog een soort van bikinibroekachtig uitlaat aan de die kant
+	Free: Pattern=nog, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=die, Pattern=soort van
+	Constrained: Pattern=dan, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=20| A | A : even kijken wachten ik zijn even aan het zoeken ja Bingo
+	Free: Pattern=het, Pattern=ik, Pattern=zijn, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=22| B | B : en hij staan in die vier en dan zijn het linksboven
+	Free: Pattern=en dan zijn het, Pattern=vier, Pattern=en, Pattern=die
+	Constrained: Pattern=dan zijn het, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=dan zijn, Pattern=en, Pattern=zijn
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dit zijn degeen met één verrekijker en zo'n kegel hier en een kegel aan de zijkant
+	Free: Pattern=kegel, Pattern=zo'n, Pattern=hier, Pattern=aan de, Pattern=en een kegel, Pattern=met, Pattern=zijn, Pattern=verrekijker, Pattern=en
+	Constrained: Pattern=kegel, Pattern=een, Pattern=een kegel, Pattern=en, Pattern=en een, Pattern=de, Pattern=aan
+Turn ID=25| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : en dan hebben je die rij die twee van drie
+	Free: Pattern=rij, Pattern=drie, Pattern=die, Pattern=van, Pattern=en dan hebben
+	Constrained: Pattern=dan, Pattern=en dan, Pattern=en, Pattern=hebben
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : en dan zijn het niet dan zijn het degeen die daarboven zijn
+	Free: Pattern=en dan zijn het, Pattern=dan zijn het, Pattern=zijn, Pattern=die
+	Constrained: Pattern=dan zijn het, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=dan zijn, Pattern=en, Pattern=zijn
+Turn ID=29| A | A : niet helemaal bovenin
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : nee bij mij zitten die wel in die acht
+	Free: Pattern=nee bij mij, Pattern=die, Pattern=zitten
+	Constrained: Pattern=bij mij, Pattern=nee
+Turn ID=31| A | A : oké nee dan zijn het niet hetzelfde dan moeten jij
+	Free: Pattern=dan zijn het, Pattern=dan, Pattern=nee, Pattern=oké
+	Constrained: Pattern=dan, Pattern=het, Pattern=dan zijn, Pattern=zijn
+Turn ID=32| B | B : het zijn die met een kegel op zijn hoofd en een kegel als neus en dan een verrekijker
+	Free: Pattern=en dan, Pattern=op, Pattern=een, Pattern=en een kegel, Pattern=een kegel, Pattern=met, Pattern=verrekijker, Pattern=zijn, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=kegel, Pattern=dan, Pattern=een, Pattern=een kegel, Pattern=die, Pattern=en, Pattern=en een, Pattern=zijn
+Turn ID=33| B | B : en dan nog een mormel
+	Free: Pattern=en dan, Pattern=nog, Pattern=een
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : mormelt
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : vier drie rij en dan de veel rechts
+	Free: Pattern=de, Pattern=en dan, Pattern=rij, Pattern=drie, Pattern=vier
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=38| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=39| A | A : dit zijn degeen met één verrekijker
+	Free: Pattern=zijn, Pattern=verrekijker, Pattern=met
+	Constrained: 
+Turn ID=40| A | A : en die twee kegel
+	Free: Pattern=en, Pattern=kegel, Pattern=die
+	Constrained: 
+Turn ID=41| B | B : god
+	Free: 
+	Constrained: 
+Turn ID=42| B | B : ja B
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : dat zijn bij mij de veel rechts
+	Free: Pattern=bij mij, Pattern=zijn, Pattern=dat, Pattern=de
+	Constrained: 
+Turn ID=44| A | A : nee bij mij niet
+	Free: Pattern=nee bij mij
+	Constrained: Pattern=bij mij, Pattern=nee
+Turn ID=45| A | A : dat moeten jij doen
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=46| B | B : het zijn die met een kegel erop kegel als neus en een verrekijker
+	Free: Pattern=kegel, Pattern=een kegel, Pattern=met, Pattern=verrekijker, Pattern=en een, Pattern=het, Pattern=zijn die
+	Constrained: Pattern=kegel, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=47| B | B : en nog een dinge
+	Free: Pattern=en nog, Pattern=een
+	Constrained: Pattern=nog, Pattern=en
+Turn ID=48| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| A | A : vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=50| B | B : en het zijn bij mij de veel Linksboven
+	Free: Pattern=de, Pattern=het, Pattern=en, Pattern=zijn, Pattern=bij mij
+	Constrained: 
+Turn ID=51| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

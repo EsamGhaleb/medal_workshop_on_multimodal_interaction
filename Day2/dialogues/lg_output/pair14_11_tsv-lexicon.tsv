@@ -1,0 +1,33 @@
+Freq.	Free Freq.	Size	Surface Form	Establishment turn	Spanning	Priming	First Speaker	Turns
+3	3	3	aan de voorkant	16	14	1	A	10, 16, 23
+3	3	3	en een kegel	18	14	1	A	11, 18, 24
+2	2	3	dit zijn met	23	3	1	A	21, 23
+2	2	3	en een rechthoek	27	4	1	B	24, 27
+2	2	3	okee dat zijn	15	7	1	A	9, 15
+6	4	2	dat zijn	19	21	1	A	9, 15, 19, 25, 27, 29
+5	3	2	aan de	12	15	1	A	10, 12, 16, 23, 24
+5	1	2	en een	11	27	1	B	1, 11, 18, 24, 27
+4	1	2	een kegel	27	17	1	A	11, 18, 24, 27
+4	2	2	zijn met	23	18	2	A	10, 21, 23, 27
+3	3	2	deze zijn	10	17	1	B	0, 10, 16
+3	1	2	een rechthoek	24	23	1	A	5, 24, 27
+2	2	2	die bal	27	12	1	B	16, 27
+2	2	2	dinge uit	13	2	1	B	12, 13
+2	2	2	met de	23	14	1	A	10, 23
+15	15	1	ja	13	28	6	B	1, 4, 6, 7, 8, 12, 13, 14, 17, 19, 20, 22, 25, 26, 28
+12	1	1	zijn	9	30	2	B	0, 1, 9, 10, 15, 16, 19, 21, 23, 25, 27, 29
+9	4	1	een	5	28	3	B	0, 1, 2, 5, 11, 18, 21, 24, 27
+8	4	1	en	5	27	1	B	1, 5, 11, 12, 18, 21, 24, 27
+7	1	1	dat	9	29	1	B	1, 9, 15, 19, 25, 27, 29
+7	7	1	zo'n	12	19	4	A	3, 5, 10, 11, 12, 13, 21
+6	2	1	kegel	18	23	2	A	5, 11, 18, 21, 24, 27
+6	3	1	rechthoek	18	23	2	A	5, 11, 18, 21, 24, 27
+5	5	1	dan	18	23	2	A	5, 10, 18, 21, 27
+5	4	1	met	23	18	3	A	10, 11, 21, 23, 27
+4	4	1	bovenop	18	23	1	A	5, 18, 21, 27
+4	4	1	die	16	18	1	A	10, 16, 21, 27
+3	1	1	bal	21	12	1	B	16, 21, 27
+2	2	1	dus	11	11	1	B	1, 11
+2	2	1	het	10	10	1	B	1, 10
+2	2	1	nog	12	8	1	A	5, 12
+

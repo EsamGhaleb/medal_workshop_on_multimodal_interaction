@@ -1,0 +1,111 @@
+A|0| A: okee hier zitten veel 
+A|1| A: onderop _de_ emmer _hebben_ _je_ _een_ uitsteeksel _die _naar_ jou_ toegericht gaan 
+A|2| A: rechts _hebben_ _je_ _ook_ één _die_ uitsteken _en dan_ _naar_ voor _komen_ 
+A|3| A: _en_ _een_ klein cilinderachtig balk _die_ net Erboven uitsteekt 
+A|4| A: _en_ _bovenop_ _hebben_ _je_ _twee ruit_ 
+A|5| A: _die_ _aan_ elkaar plakken _zijn_ 
+A|6| A: _en_ daaruit _aan_ beide _kant komen_ kubusas 
+B|7| B: _ja_ 
+B|8| B: o 
+B|9| B: _deze hebben_ [een] soort van staaf [die] eruit [komen] onderaan [die naar] [de] toe wijzen 
+B|10| B: [en] [aan] [de] zijkant [komen] er [ook] zoiets uit wat [aan] [de] rechterkant [ook] [naar] [je] toe wijzen 
+B|11| B: [bovenop] [zijn] er [twee ruit] [en dan] 
+A|12| A: [ja] 
+A|13| A: tien 
+B|14| B: [ja] 
+A|15| A: [deze hebben] [die] _twee _ruit bovenop_ met_ daaruit kubus 
+B|16| B: [ja] d 
+B|17| B: [deze hebben] _de [ruit bovenop_ met] [de] staaf eruit 
+B|18| B: [en] [aan] [de] onderkant [en] [aan] [de] rechterkant [komen] er [een] soort van iets uit wat [naar jou] toe wijzen 
+A|19| A: [de ruit bovenop] 
+B|20| B: [ja] daarachter soort van [twee ruit] 
+B|21| B: [en] [aan] [de] [een] [kant komen] er _die blok_ uit [en] [aan] [de] ander [kant] 
+A|22| A: [ja] drie 
+A|23| A: [die] [hebben] [die] _twee [ruit bovenop_ met] [die blok] 
+B|24| B: [ja] c 
+B|25| B: dit [zijn] [de] [met] [de] [twee ruit bovenop] [en] waar [de] [blok] uitkomen 
+A|26| A: [twee] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee hier zitten veel
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : onderop de emmer hebben je een uitsteeksel die naar jou toegericht gaan
+	Free: Pattern=een, Pattern=hebben, Pattern=je, Pattern=die naar, Pattern=de, Pattern=naar jou
+	Constrained: Pattern=naar, Pattern=die
+Turn ID=2| A | A : rechts hebben je ook één die uitsteken en dan naar voor komen
+	Free: Pattern=en dan, Pattern=ook, Pattern=komen, Pattern=hebben, Pattern=die, Pattern=je, Pattern=naar
+	Constrained: Pattern=en
+Turn ID=3| A | A : en een klein cilinderachtig balk die net Erboven uitsteekt
+	Free: Pattern=en, Pattern=een, Pattern=die
+	Constrained: 
+Turn ID=4| A | A : en bovenop hebben je twee ruit
+	Free: Pattern=hebben, Pattern=en, Pattern=je, Pattern=bovenop, Pattern=twee ruit
+	Constrained: Pattern=twee
+Turn ID=5| A | A : die aan elkaar plakken zijn
+	Free: Pattern=zijn, Pattern=aan, Pattern=die
+	Constrained: 
+Turn ID=6| A | A : en daaruit aan beide kant komen kubusas
+	Free: Pattern=kant komen, Pattern=aan, Pattern=en
+	Constrained: Pattern=komen, Pattern=kant
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : deze hebben een soort van staaf die eruit komen onderaan die naar de toe wijzen
+	Free: Pattern=de, Pattern=komen, Pattern=een, Pattern=deze hebben, Pattern=die, Pattern=die naar
+	Constrained: Pattern=naar, Pattern=die, Pattern=hebben
+Turn ID=10| B | B : en aan de zijkant komen er ook zoiets uit wat aan de rechterkant ook naar je toe wijzen
+	Free: Pattern=ook, Pattern=komen, Pattern=en, Pattern=je, Pattern=naar, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=11| B | B : bovenop zijn er twee ruit en dan
+	Free: Pattern=twee ruit, Pattern=en dan, Pattern=zijn, Pattern=bovenop
+	Constrained: Pattern=en, Pattern=twee
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : deze hebben die twee ruit bovenop met daaruit kubus
+	Free: Pattern=twee ruit bovenop, Pattern=ruit bovenop met, Pattern=deze hebben, Pattern=die
+	Constrained: Pattern=twee, Pattern=hebben, Pattern=met, Pattern=bovenop, Pattern=twee ruit
+Turn ID=16| B | B : ja d
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : deze hebben de ruit bovenop met de staaf eruit
+	Free: Pattern=ruit bovenop met, Pattern=de ruit bovenop, Pattern=deze hebben, Pattern=de
+	Constrained: Pattern=de, Pattern=met, Pattern=hebben, Pattern=bovenop
+Turn ID=18| B | B : en aan de onderkant en aan de rechterkant komen er een soort van iets uit wat naar jou toe wijzen
+	Free: Pattern=komen, Pattern=een, Pattern=en, Pattern=de, Pattern=naar jou, Pattern=aan
+	Constrained: Pattern=naar
+Turn ID=19| A | A : de ruit bovenop
+	Free: Pattern=de ruit bovenop
+	Constrained: Pattern=bovenop, Pattern=de
+Turn ID=20| B | B : ja daarachter soort van twee ruit
+	Free: Pattern=twee ruit, Pattern=ja
+	Constrained: Pattern=twee
+Turn ID=21| B | B : en aan de een kant komen er die blok uit en aan de ander kant
+	Free: Pattern=kant, Pattern=die blok, Pattern=een, Pattern=kant komen, Pattern=en, Pattern=de, Pattern=aan
+	Constrained: Pattern=blok, Pattern=die, Pattern=komen, Pattern=kant
+Turn ID=22| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : die hebben die twee ruit bovenop met die blok
+	Free: Pattern=hebben, Pattern=die, Pattern=ruit bovenop met, Pattern=twee ruit bovenop, Pattern=die blok
+	Constrained: Pattern=twee, Pattern=met, Pattern=die, Pattern=blok, Pattern=bovenop, Pattern=twee ruit
+Turn ID=24| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dit zijn de met de twee ruit bovenop en waar de blok uitkomen
+	Free: Pattern=twee ruit bovenop, Pattern=de, Pattern=met, Pattern=en, Pattern=blok, Pattern=zijn
+	Constrained: Pattern=twee, Pattern=twee ruit, Pattern=bovenop
+Turn ID=26| A | A : twee
+	Free: Pattern=twee
+	Constrained: 

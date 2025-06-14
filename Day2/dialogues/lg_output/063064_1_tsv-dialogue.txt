@@ -1,0 +1,175 @@
+B|0| B: hier _zitten_ _een_ _vierkant_ plaat tegen _het_ kop _aan_ drukken 
+B|1| B: _en_ _er_ steken _twee van die kubus die groot worden_ _aan de linkerkant_ uit _en_ _aan de bovenkant_ _zitten_ _ook_ nog _een_ plaat _met_ _een_ cirkel _erop_ 
+A|2| A: _ja_ _ja_ _ja_ _ja_ _ja_ 
+A|3| A: [twee] _zijn_ _dat_ 
+B|4| B: deze _zitten_ _op_ _de_ linkerschermhelft _in_ _het_ midden _van die_ verticaal lijn _en horizontaal_ _helemaal onderin_ 
+A|5| A: [helemaal onderin] 
+B|6| B: [ja] 
+A|7| A: _dan_ _denken ik_ niet _dat_ [het] zelfde _zijn_ 
+A|8| A: dit _zijn_ [met] _zo'n_ [vierkant] [er] zeggen _maar_ [er] voor _op plakken _en_ dan_ _weer_ [twee van die kubus die groot worden] [en] _zo'n_ paddenstoel [aan de bovenkant] _eruit_ 
+B|9| B: [ja] _dat zijn_ G 
+A|10| A: [en] als je _dan_ _het scherm_ [in] [twee] verdeellen staan [die] _net_ links 
+A|11| A: [en] veel [aan de] onderkant _dan_ [aan de bovenkant] 
+B|12| B: [ja] _dat zijn_ [denken ik] hetzelfde 
+B|13| B: deze hebben [die] [vierkant] plaat [er] zo [op plakken en] [de] [groot worden] _kubus _aan de_ linkerkant_ 
+B|14| B: [en] [aan de bovenkant] 
+A|15| A: negen [zijn] [dat] 
+B|16| B: deze staat echt _net aan de linkerkant_ [van] [het scherm] 
+A|17| A: [ja] 
+B|18| B: [en dan] [van] [de] onderste schermhelft ongeveer [in] [het] midden 
+A|19| A: [ja] 
+A|20| A: [ja] 
+A|21| A: dit [zijn] [met] _dat vierkant_ [erop] [plakken] 
+A|22| A: _en twee_ [groot] wordende [de] [kubus aan de] zijkant [en] [een] paddenstoel _eruit_ 
+B|23| B: [ja] _dat zijn_ D 
+A|24| A: [en] als je je [scherm] [dan] [in] [twee] verdeellen [dan] staan [die] [net aan de linkerkant] 
+A|25| A: _en horizontaal zien_ [zijn] [die] [ook] [een] _stuk_ _naar_ boven 
+B|26| B: [ja] [maar] echt [een] klein [stuk] toch 
+A|27| A: [ja] [ja] 
+B|28| B: [ja] 
+B|29| B: oké 
+B|30| B: bij deze _zitten_ [weer] [dat vierkant] ertegenaan [plakken] 
+B|31| B: [en [twee] van die [kubus] aan de] [groot worden] [kubus [aan de] linkerkant] 
+B|32| B: [en] nog [zo'n] kegel [eruit] steken 
+A|33| A: [ja] [ik] _zien_ hem 
+A|34| A: [dat zijn] één 
+B|35| B: deze _zitten_ bijna [in] [het] midden [van] [de] verticaal lijn [maar] wel duidelijk [net] iets [naar] rechts 
+B|36| B: [en horizontaal zien] [ook] [in] [het] midden 
+A|37| A: [dan] [zitten] [die] ergens ander [denken ik] 
+A|38| A: dit [zijn] [met] [dat vierkant] vlak [erop] [plakken en] [die] [twee] [kubus die] [er] steeds [groot worden] 
+B|39| B: [dat zijn] B 
+A|40| A: [en] [die] [zitten] [net aan de] rechterkant [van] je [scherm] 
+A|41| A: [en] vrijwel [onderin] 
+B|42| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hier zitten een vierkant plaat tegen het kop aan drukken
+	Free: Pattern=aan, Pattern=een, Pattern=het, Pattern=zitten, Pattern=vierkant
+	Constrained: 
+Turn ID=1| B | B : en er steken twee van die kubus die groot worden aan de linkerkant uit en aan de bovenkant zitten ook nog een plaat met een cirkel erop
+	Free: Pattern=erop, Pattern=ook, Pattern=een, Pattern=met, Pattern=zitten, Pattern=er, Pattern=twee van die kubus die groot worden, Pattern=aan de linkerkant, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=groot, Pattern=die, Pattern=groot worden, Pattern=twee van die kubus, Pattern=de, Pattern=aan, Pattern=van, Pattern=van die, Pattern=kubus die
+Turn ID=2| A | A : ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : twee zijn dat
+	Free: Pattern=dat, Pattern=zijn, Pattern=twee
+	Constrained: 
+Turn ID=4| B | B : deze zitten op de linkerschermhelft in het midden van die verticaal lijn en horizontaal helemaal onderin
+	Free: Pattern=op, Pattern=en horizontaal, Pattern=het, Pattern=in, Pattern=zitten, Pattern=van die, Pattern=de, Pattern=helemaal onderin
+	Constrained: Pattern=van, Pattern=en, Pattern=onderin, Pattern=die
+Turn ID=5| A | A : helemaal onderin
+	Free: Pattern=helemaal onderin
+	Constrained: Pattern=onderin
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dan denken ik niet dat het zelfde zijn
+	Free: Pattern=dat, Pattern=dan, Pattern=denken ik, Pattern=het, Pattern=zijn
+	Constrained: Pattern=ik
+Turn ID=8| A | A : dit zijn met zo'n vierkant er zeggen maar er voor op plakken en dan weer twee van die kubus die groot worden en zo'n paddenstoel aan de bovenkant eruit
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=eruit, Pattern=op plakken en, Pattern=met, Pattern=er, Pattern=aan de bovenkant, Pattern=en, Pattern=zijn, Pattern=maar, Pattern=vierkant, Pattern=weer, Pattern=twee van die kubus die groot worden
+	Constrained: Pattern=twee, Pattern=dan, Pattern=groot, Pattern=plakken en, Pattern=die, Pattern=groot worden, Pattern=twee van die kubus, Pattern=plakken, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de, Pattern=van, Pattern=kubus die, Pattern=van die, Pattern=en
+Turn ID=9| B | B : ja dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| A | A : en als je dan het scherm in twee verdeellen staan die net links
+	Free: Pattern=dan, Pattern=in, Pattern=die, Pattern=het scherm, Pattern=en, Pattern=net, Pattern=twee
+	Constrained: Pattern=het, Pattern=scherm
+Turn ID=11| A | A : en veel aan de onderkant dan aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=aan de, Pattern=en, Pattern=dan
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=12| B | B : ja dat zijn denken ik hetzelfde
+	Free: Pattern=denken ik, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=ik, Pattern=dat, Pattern=zijn
+Turn ID=13| B | B : deze hebben die vierkant plaat er zo op plakken en de groot worden kubus aan de linkerkant
+	Free: Pattern=de, Pattern=op plakken en, Pattern=die, Pattern=er, Pattern=groot worden, Pattern=vierkant, Pattern=aan de linkerkant, Pattern=kubus aan de
+	Constrained: Pattern=groot, Pattern=plakken en, Pattern=en, Pattern=plakken, Pattern=de, Pattern=aan, Pattern=op, Pattern=aan de
+Turn ID=14| B | B : en aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=15| A | A : negen zijn dat
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=16| B | B : deze staat echt net aan de linkerkant van het scherm
+	Free: Pattern=net aan de linkerkant, Pattern=het scherm, Pattern=van
+	Constrained: Pattern=net, Pattern=aan de, Pattern=net aan de, Pattern=het, Pattern=scherm, Pattern=aan de linkerkant, Pattern=de, Pattern=aan
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en dan van de onderste schermhelft ongeveer in het midden
+	Free: Pattern=de, Pattern=en dan, Pattern=het, Pattern=in, Pattern=van
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : dit zijn met dat vierkant erop plakken
+	Free: Pattern=erop, Pattern=dat vierkant, Pattern=met, Pattern=zijn, Pattern=plakken
+	Constrained: Pattern=vierkant, Pattern=dat
+Turn ID=22| A | A : en twee groot wordende de kubus aan de zijkant en een paddenstoel eruit
+	Free: Pattern=de, Pattern=een, Pattern=en, Pattern=groot, Pattern=eruit, Pattern=kubus aan de, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=23| B | B : ja dat zijn D
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| A | A : en als je je scherm dan in twee verdeellen dan staan die net aan de linkerkant
+	Free: Pattern=twee, Pattern=dan, Pattern=net aan de linkerkant, Pattern=in, Pattern=en, Pattern=scherm, Pattern=die
+	Constrained: Pattern=net, Pattern=aan de, Pattern=net aan de, Pattern=aan de linkerkant, Pattern=de, Pattern=aan
+Turn ID=25| A | A : en horizontaal zien zijn die ook een stuk naar boven
+	Free: Pattern=ook, Pattern=een, Pattern=stuk, Pattern=en horizontaal zien, Pattern=die, Pattern=zijn, Pattern=naar
+	Constrained: Pattern=en, Pattern=en horizontaal, Pattern=zien
+Turn ID=26| B | B : ja maar echt een klein stuk toch
+	Free: Pattern=stuk, Pattern=ja, Pattern=een, Pattern=maar
+	Constrained: 
+Turn ID=27| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : bij deze zitten weer dat vierkant ertegenaan plakken
+	Free: Pattern=dat vierkant, Pattern=plakken, Pattern=zitten, Pattern=weer
+	Constrained: Pattern=vierkant, Pattern=dat
+Turn ID=31| B | B : en twee van die kubus aan de groot worden kubus aan de linkerkant
+	Free: Pattern=groot worden, Pattern=twee van die kubus, Pattern=aan de linkerkant, Pattern=kubus aan de, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=aan de, Pattern=groot, Pattern=die, Pattern=de, Pattern=aan, Pattern=van, Pattern=van die, Pattern=en
+Turn ID=32| B | B : en nog zo'n kegel eruit steken
+	Free: Pattern=en, Pattern=eruit, Pattern=zo'n
+	Constrained: 
+Turn ID=33| A | A : ja ik zien hem
+	Free: Pattern=ik, Pattern=ja, Pattern=zien
+	Constrained: 
+Turn ID=34| A | A : dat zijn één
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : deze zitten bijna in het midden van de verticaal lijn maar wel duidelijk net iets naar rechts
+	Free: Pattern=net, Pattern=de, Pattern=het, Pattern=in, Pattern=zitten, Pattern=van, Pattern=maar, Pattern=naar
+	Constrained: 
+Turn ID=36| B | B : en horizontaal zien ook in het midden
+	Free: Pattern=en horizontaal zien, Pattern=ook, Pattern=in, Pattern=het
+	Constrained: Pattern=en, Pattern=en horizontaal, Pattern=zien
+Turn ID=37| A | A : dan zitten die ergens ander denken ik
+	Free: Pattern=denken ik, Pattern=zitten, Pattern=die, Pattern=dan
+	Constrained: Pattern=ik
+Turn ID=38| A | A : dit zijn met dat vierkant vlak erop plakken en die twee kubus die er steeds groot worden
+	Free: Pattern=twee, Pattern=erop, Pattern=dat vierkant, Pattern=die, Pattern=er, Pattern=kubus die, Pattern=groot worden, Pattern=zijn, Pattern=plakken en, Pattern=met
+	Constrained: Pattern=dat, Pattern=groot, Pattern=die, Pattern=en, Pattern=vierkant, Pattern=plakken
+Turn ID=39| B | B : dat zijn B
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=40| A | A : en die zitten net aan de rechterkant van je scherm
+	Free: Pattern=net aan de, Pattern=scherm, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=aan, Pattern=de, Pattern=net
+Turn ID=41| A | A : en vrijwel onderin
+	Free: Pattern=onderin, Pattern=en
+	Constrained: 
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

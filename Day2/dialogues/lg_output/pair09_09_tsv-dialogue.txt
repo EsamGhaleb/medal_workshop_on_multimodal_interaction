@@ -1,0 +1,211 @@
+B|0| B: okee _dit zijn_ _het_ kop _met_ _links een arm_ 
+B|1| B: _en_ rechtsboven _zijn_ _een_ soort ovaal _zo_ _op_ _deze_ manier 
+A|2| A: dus [links een arm] 
+B|3| B: _zo_ _ja_ _zo_ 
+B|4| B: _op_ _deze_ vorm 
+B|5| B: _die_ _zitten_ rechtsboven 
+B|6| B: _maar_ _zijn_ wel langwerpig wel hoor omhoog _maar_ 
+B|7| B: soort traan _maar_ dan uitgerekt 
+A|8| A: even kijken 
+B|9| B: uitrekken uitgerekte traan rechtsboven 
+B|10| B: _en_ [links een arm] 
+A|11| A: hebben _hij_ nog _ook_ eraan [zitten] 
+B|12| B: _ja_ linksachter [een] _plat rond_ 
+A|13| A: [plat rond] 
+A|14| A: ah [en] [zijn] [zijn] [arm] [rond] [maar] _ook_ [een] beetje [met] hoek 
+B|15| B: _ja_ 
+A|16| A: [en] hebben _hij_ onder _ook_ nog _iets_ [zitten] 
+B|17| B: _ja_ _ja_ [een] [een] verhoginkje 
+A|18| A: _hij staan op_ zo'n zo'n ding 
+A|19| A: [ja] _ik_ denken _dat_ _ik_ [het] weten 
+B|20| B: okee 
+A|21| A: _dat zijn_ nummer dertien 
+B|22| B: okee 
+A|23| A: denken _ik_ 
+B|24| B: [en] dan mogen _moeten ik of_ _jij_ _moeten jij_ duwen toch 
+A|25| A: [moeten ik of] 
+A|26| A: volgens mij [moeten jij] 
+A|27| A: weten niet 
+A|28| A: [en] [deze] hebben [ja] je kunnen zeggen [een] neus [of] [arm] _dat_ [zo] uitsteken 
+A|29| A: _aan de_ linkerkant 
+A|30| A: [en] [die] hebben [een] je kunnen zeggen _dat_ [het] _een lepeltje_ [zijn] _dat_ er [zo] in vallen 
+A|31| A: _en een_ [rond] _iets_ daarachter 
+B|32| B: [ja] 
+A|33| A: _en hij staan op_ zo'n 
+B|34| B: _ja dat zijn_ o 
+B|35| B: [deze] [zijn] [ook] [met] _een lepeltje en_ dan [een] [plat rond] [aan de] achterkant 
+B|36| B: [en] [links een arm] [die] [rond] [zijn] [en hij staan op] [iets] 
+A|37| A: [zo] 
+A|38| A: [ja dat zijn] nummer vier 
+B|39| B: [ja] 
+A|40| A: [deze] [dit] [dit] [staan op] zo'n zo'n ding weten je 
+A|41| A: [en] [die] hebben hier [een lepeltje en] hier [iets] [dat] uitsteken 
+A|42| A: _en een_ [rond] daarachter 
+B|43| B: [ja] m 
+B|44| B: _dit zijn_ _met het_ [lepeltje] rechts [en een] [plat rond] linksachter [en [een] arm] [links] [en hij staan op] [iets] 
+A|45| A: [en hij staan] 
+B|46| B: [ja] 
+A|47| A: [dat zijn] zestien 
+A|48| A: [dit zijn] [die] [een] [met het] lepel hier 
+A|49| A: hierzo [dat] er [iets] uitsteken [het] [rond] achter [en] daar [staan] hier nog [iets] 
+B|50| B: [ja] 
+B|51| B: [dat zijn] d 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee dit zijn het kop met links een arm
+	Free: Pattern=links een arm, Pattern=dit zijn, Pattern=het, Pattern=met
+	Constrained: Pattern=een, Pattern=links, Pattern=een arm, Pattern=dit, Pattern=arm, Pattern=zijn
+Turn ID=1| B | B : en rechtsboven zijn een soort ovaal zo op deze manier
+	Free: Pattern=op, Pattern=een, Pattern=zo, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=2| A | A : dus links een arm
+	Free: Pattern=links een arm
+	Constrained: Pattern=een arm, Pattern=arm, Pattern=een, Pattern=links
+Turn ID=3| B | B : zo ja zo
+	Free: Pattern=zo, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : op deze vorm
+	Free: Pattern=deze, Pattern=op
+	Constrained: 
+Turn ID=5| B | B : die zitten rechtsboven
+	Free: Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=6| B | B : maar zijn wel langwerpig wel hoor omhoog maar
+	Free: Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=7| B | B : soort traan maar dan uitgerekt
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=8| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : uitrekken uitgerekte traan rechtsboven
+	Free: 
+	Constrained: 
+Turn ID=10| B | B : en links een arm
+	Free: Pattern=links een arm, Pattern=en
+	Constrained: Pattern=een arm, Pattern=arm, Pattern=een, Pattern=links
+Turn ID=11| A | A : hebben hij nog ook eraan zitten
+	Free: Pattern=ook, Pattern=hij, Pattern=zitten
+	Constrained: 
+Turn ID=12| B | B : ja linksachter een plat rond
+	Free: Pattern=plat rond, Pattern=ja, Pattern=een
+	Constrained: Pattern=rond
+Turn ID=13| A | A : plat rond
+	Free: Pattern=plat rond
+	Constrained: Pattern=rond
+Turn ID=14| A | A : ah en zijn zijn arm rond maar ook een beetje met hoek
+	Free: Pattern=ook, Pattern=een, Pattern=met, Pattern=rond, Pattern=arm, Pattern=en, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en hebben hij onder ook nog iets zitten
+	Free: Pattern=iets, Pattern=ook, Pattern=hij, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : ja ja een een verhoginkje
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=18| A | A : hij staan op zo'n zo'n ding
+	Free: Pattern=hij staan op
+	Constrained: Pattern=hij, Pattern=staan op, Pattern=op, Pattern=staan
+Turn ID=19| A | A : ja ik denken dat ik het weten
+	Free: Pattern=dat, Pattern=het, Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=20| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : denken ik
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=24| B | B : en dan mogen moeten ik of jij moeten jij duwen toch
+	Free: Pattern=moeten ik of, Pattern=moeten jij, Pattern=en, Pattern=jij
+	Constrained: Pattern=jij, Pattern=ik, Pattern=of
+Turn ID=25| A | A : moeten ik of
+	Free: Pattern=moeten ik of
+	Constrained: Pattern=of, Pattern=ik
+Turn ID=26| A | A : volgens mij moeten jij
+	Free: Pattern=moeten jij
+	Constrained: Pattern=jij
+Turn ID=27| A | A : weten niet
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : en deze hebben ja je kunnen zeggen een neus of arm dat zo uitsteken
+	Free: Pattern=dat, Pattern=of, Pattern=ja, Pattern=een, Pattern=zo, Pattern=deze, Pattern=arm, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: 
+Turn ID=30| A | A : en die hebben een je kunnen zeggen dat het een lepeltje zijn dat er zo in vallen
+	Free: Pattern=dat, Pattern=een lepeltje, Pattern=een, Pattern=het, Pattern=zo, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: Pattern=lepeltje, Pattern=een
+Turn ID=31| A | A : en een rond iets daarachter
+	Free: Pattern=en een, Pattern=iets, Pattern=rond
+	Constrained: Pattern=en, Pattern=een
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : en hij staan op zo'n
+	Free: Pattern=en hij staan op
+	Constrained: Pattern=op, Pattern=en, Pattern=staan op, Pattern=staan, Pattern=hij staan op, Pattern=en hij staan, Pattern=hij
+Turn ID=34| B | B : ja dat zijn o
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=35| B | B : deze zijn ook met een lepeltje en dan een plat rond aan de achterkant
+	Free: Pattern=een, Pattern=met, Pattern=plat rond, Pattern=zijn, Pattern=deze, Pattern=een lepeltje en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=een lepeltje, Pattern=een, Pattern=rond, Pattern=en, Pattern=lepeltje
+Turn ID=36| B | B : en links een arm die rond zijn en hij staan op iets
+	Free: Pattern=iets, Pattern=links een arm, Pattern=en hij staan op, Pattern=die, Pattern=en, Pattern=rond, Pattern=zijn
+	Constrained: Pattern=op, Pattern=links, Pattern=een arm, Pattern=staan op, Pattern=een, Pattern=staan, Pattern=hij staan op, Pattern=en hij staan, Pattern=hij, Pattern=arm, Pattern=en
+Turn ID=37| A | A : zo
+	Free: Pattern=zo
+	Constrained: 
+Turn ID=38| A | A : ja dat zijn nummer vier
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=dat, Pattern=zijn, Pattern=ja
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : deze dit dit staan op zo'n zo'n ding weten je
+	Free: Pattern=staan op, Pattern=dit, Pattern=deze
+	Constrained: Pattern=staan, Pattern=op
+Turn ID=41| A | A : en die hebben hier een lepeltje en hier iets dat uitsteken
+	Free: Pattern=dat, Pattern=iets, Pattern=een lepeltje en, Pattern=die, Pattern=en
+	Constrained: Pattern=lepeltje, Pattern=een lepeltje, Pattern=een, Pattern=en
+Turn ID=42| A | A : en een rond daarachter
+	Free: Pattern=en een, Pattern=rond
+	Constrained: Pattern=en, Pattern=een
+Turn ID=43| B | B : ja m
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : dit zijn met het lepeltje rechts en een plat rond linksachter en een arm links en hij staan op iets
+	Free: Pattern=iets, Pattern=een arm, Pattern=lepeltje, Pattern=en een, Pattern=dit zijn, Pattern=en hij staan op, Pattern=links, Pattern=plat rond, Pattern=met het
+	Constrained: Pattern=op, Pattern=het, Pattern=met, Pattern=rond, Pattern=zijn, Pattern=staan op, Pattern=een, Pattern=staan, Pattern=hij staan op, Pattern=en hij staan, Pattern=hij, Pattern=dit, Pattern=arm, Pattern=en
+Turn ID=45| A | A : en hij staan
+	Free: Pattern=en hij staan
+	Constrained: Pattern=hij, Pattern=en, Pattern=staan
+Turn ID=46| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : dat zijn zestien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=48| A | A : dit zijn die een met het lepel hier
+	Free: Pattern=met het, Pattern=dit zijn, Pattern=die, Pattern=een
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=het, Pattern=met
+Turn ID=49| A | A : hierzo dat er iets uitsteken het rond achter en daar staan hier nog iets
+	Free: Pattern=dat, Pattern=iets, Pattern=staan, Pattern=het, Pattern=en, Pattern=rond
+	Constrained: 
+Turn ID=50| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn

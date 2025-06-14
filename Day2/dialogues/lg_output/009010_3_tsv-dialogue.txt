@@ -1,0 +1,227 @@
+B|0| B: _even_ kijken 
+B|1| B: _deze_ _lijken_ _op een_ _één_ _kelk_ _eigenlijk_ 
+B|2| B: _een_ _een_ heel erg experimenteel _kelk_ _die_ _niet_ zullen blijven staan _in het_ _echt_ _maar_ hij hij rust _op een_ 
+B|3| B: wat _zijn dat_ ? _een_ driehoek _en dan_ zo'n soort kronkelsteel _zitten_ eraan 
+A|4| A: _ja_ 
+B|5| B: _met_ _dan_ raar garnitur voor _de cocktail_ of zo 
+A|6| A: jij zien er zoveel _ander_ ding [in] [dan] ik 
+A|7| A: ik zien hier [een] pirouette [in] namelijk [maar] 
+B|8| B: _oké_ 
+A|9| A: _dat zijn_ vier 
+B|10| B: [dat zijn] _bij mij_ _helemaal rechts_ bovenaan 
+A|11| A: [helemaal] 
+A|12| A: _zijn het_ 
+B|13| B: [ja] _het zijn_ _de_ _het zijn_ _de_ veel _rechts_ uiterst _rechts_ bovenaan voorwerp 
+A|14| A: [dan] 
+A|15| A: _nee dan zijn het_ _wel_ _een ander plek_ want _bij mij zitten die_ namelijk [één] daar _link_ onder _van_ 
+B|16| B: _oké_ 
+B|17| B: _oké_ 
+A|18| A: _dit _zijn_ die_ [die] jij [op een] [kelk] vinden [lijken] 
+A|19| A: [die] [met] [die] draaien 
+B|20| B: _ja de_ _de cocktail_ _eigenlijk_ 
+A|21| A: [ja [de] cocktail] 
+B|22| B: [dat zijn] dus A 
+A|23| A: [en] [bij mij] [zijn dat] [even] nadenken horen 
+A|24| A: als je _naar_ _links_ gaan _van het_ scherm 
+A|25| A: [en dan] [eigenlijk] _in het midden_ 
+B|26| B: [ja] _helemaal links_ 
+B|27| B: [een] klein beetje [naar] boven [maar] toch [wel] redelijk [in het midden] 
+A|28| A: _nee_ want [het zijn] [niet] [helemaal links] 
+B|29| B: [ja] 
+A|30| A: er [zitten] er [zitten] er nog [één] naast 
+B|31| B: [bij mij] [wel] [nee dan zijn het] [een ander plek] 
+A|32| A: [oké] 
+B|33| B: _dit zijn weer_ [het] _cocktailglas_ 
+A|34| A: zoeken zoeken zoeken 
+A|35| A: [ja] [dat zijn] tien 
+B|36| B: [en] [die] [zitten] [bij mij] [op] [de] onderste rij 
+B|37| B: [link] [en dan] [de] middel [van] [de] onderste rij zeggen [maar] 
+A|38| A: [ja] 
+A|39| A: [ja] [dat zijn] _dezelfde plek_ 
+A|40| A: [dit zijn weer] [die] [cocktailglas] 
+B|41| B: [dat zijn] L 
+A|42| A: [en] _bij mij zitten die_ [helemaal rechts] bovenin 
+B|43| B: [ja] [op] [dezelfde plek] 
+B|44| B: [dit [zijn] het] [cocktailglas] 
+A|45| A: zoeken zoeken zoeken 
+A|46| A: [ja] [dat zijn] vier 
+B|47| B: [bij mij zitten die] [eigenlijk] [één] [van] [de] veel [in het midden] [maar] [dan] [een] beetje linksonder [van [het] midden] 
+A|48| A: [ja] 
+A|49| A: [ja] [dat zijn] hetzelfde 
+B|50| B: licht 
+A|51| A: [dit zijn weer] [die] [cocktailglas] 
+B|52| B: waar [zijn die] ? F [zijn dat] 
+A|53| A: [en] [deze] [zijn] vanuit [het midden] [en dan] [echt] rechtsboven daarvan 
+A|54| A: meteen rechtsboven 
+B|55| B: [nee] [bij mij zitten die] linksboven ervan 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : even kijken
+	Free: Pattern=even
+	Constrained: 
+Turn ID=1| B | B : deze lijken op een één kelk eigenlijk
+	Free: Pattern=lijken, Pattern=eigenlijk, Pattern=kelk, Pattern=op een, Pattern=deze, Pattern=één
+	Constrained: Pattern=een, Pattern=op
+Turn ID=2| B | B : een een heel erg experimenteel kelk die niet zullen blijven staan in het echt maar hij hij rust op een
+	Free: Pattern=niet, Pattern=een, Pattern=in het, Pattern=die, Pattern=echt, Pattern=kelk, Pattern=maar, Pattern=op een
+	Constrained: Pattern=een, Pattern=het, Pattern=in, Pattern=op
+Turn ID=3| B | B : wat zijn dat ? een driehoek en dan zo'n soort kronkelsteel zitten eraan
+	Free: Pattern=zijn dat, Pattern=en dan, Pattern=een, Pattern=zitten
+	Constrained: Pattern=en, Pattern=dan, Pattern=zijn
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : met dan raar garnitur voor de cocktail of zo
+	Free: Pattern=de cocktail, Pattern=met, Pattern=dan
+	Constrained: Pattern=de
+Turn ID=6| A | A : jij zien er zoveel ander ding in dan ik
+	Free: Pattern=dan, Pattern=ander, Pattern=in
+	Constrained: 
+Turn ID=7| A | A : ik zien hier een pirouette in namelijk maar
+	Free: Pattern=een, Pattern=maar, Pattern=in
+	Constrained: 
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : dat zijn bij mij helemaal rechts bovenaan
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=helemaal rechts
+	Constrained: Pattern=helemaal, Pattern=rechts, Pattern=zijn
+Turn ID=11| A | A : helemaal
+	Free: Pattern=helemaal
+	Constrained: 
+Turn ID=12| A | A : zijn het
+	Free: Pattern=zijn het
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=13| B | B : ja het zijn de het zijn de veel rechts uiterst rechts bovenaan voorwerp
+	Free: Pattern=het zijn, Pattern=ja, Pattern=rechts, Pattern=de
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=14| A | A : dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=15| A | A : nee dan zijn het wel een ander plek want bij mij zitten die namelijk één daar link onder van
+	Free: Pattern=wel, Pattern=bij mij zitten die, Pattern=nee dan zijn het, Pattern=van, Pattern=één, Pattern=link, Pattern=een ander plek
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=een, Pattern=nee, Pattern=het, Pattern=ander, Pattern=zijn, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : dit zijn die die jij op een kelk vinden lijken
+	Free: Pattern=lijken, Pattern=zijn die, Pattern=die, Pattern=kelk, Pattern=op een, Pattern=dit zijn
+	Constrained: Pattern=een, Pattern=die, Pattern=op, Pattern=zijn
+Turn ID=19| A | A : die met die draaien
+	Free: Pattern=met, Pattern=die
+	Constrained: 
+Turn ID=20| B | B : ja de de cocktail eigenlijk
+	Free: Pattern=ja de, Pattern=de cocktail, Pattern=eigenlijk
+	Constrained: Pattern=ja, Pattern=de
+Turn ID=21| A | A : ja de cocktail
+	Free: Pattern=ja de, Pattern=de cocktail
+	Constrained: Pattern=ja, Pattern=de
+Turn ID=22| B | B : dat zijn dus A
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=23| A | A : en bij mij zijn dat even nadenken horen
+	Free: Pattern=bij mij, Pattern=zijn dat, Pattern=even, Pattern=en
+	Constrained: Pattern=zijn
+Turn ID=24| A | A : als je naar links gaan van het scherm
+	Free: Pattern=van het, Pattern=naar, Pattern=links
+	Constrained: Pattern=het, Pattern=van
+Turn ID=25| A | A : en dan eigenlijk in het midden
+	Free: Pattern=in het midden, Pattern=en dan, Pattern=eigenlijk
+	Constrained: Pattern=het midden, Pattern=dan, Pattern=het, Pattern=in het, Pattern=in, Pattern=en
+Turn ID=26| B | B : ja helemaal links
+	Free: Pattern=helemaal links, Pattern=ja
+	Constrained: Pattern=links, Pattern=helemaal
+Turn ID=27| B | B : een klein beetje naar boven maar toch wel redelijk in het midden
+	Free: Pattern=maar, Pattern=in het midden, Pattern=naar, Pattern=een, Pattern=wel
+	Constrained: Pattern=in, Pattern=in het, Pattern=het, Pattern=het midden
+Turn ID=28| A | A : nee want het zijn niet helemaal links
+	Free: Pattern=helemaal links, Pattern=het zijn, Pattern=niet, Pattern=nee
+	Constrained: Pattern=links, Pattern=het, Pattern=zijn, Pattern=helemaal
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : er zitten er zitten er nog één naast
+	Free: Pattern=zitten, Pattern=één
+	Constrained: 
+Turn ID=31| B | B : bij mij wel nee dan zijn het een ander plek
+	Free: Pattern=nee dan zijn het, Pattern=een ander plek, Pattern=bij mij, Pattern=wel
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=een, Pattern=nee, Pattern=het, Pattern=ander, Pattern=zijn
+Turn ID=32| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=33| B | B : dit zijn weer het cocktailglas
+	Free: Pattern=dit zijn weer, Pattern=cocktailglas, Pattern=het
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=34| A | A : zoeken zoeken zoeken
+	Free: 
+	Constrained: 
+Turn ID=35| A | A : ja dat zijn tien
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=36| B | B : en die zitten bij mij op de onderste rij
+	Free: Pattern=de, Pattern=op, Pattern=en, Pattern=bij mij, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=37| B | B : link en dan de middel van de onderste rij zeggen maar
+	Free: Pattern=de, Pattern=en dan, Pattern=link, Pattern=van, Pattern=maar
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : ja dat zijn dezelfde plek
+	Free: Pattern=dat zijn, Pattern=dezelfde plek, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=40| A | A : dit zijn weer die cocktailglas
+	Free: Pattern=dit zijn weer, Pattern=cocktailglas, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=41| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=42| A | A : en bij mij zitten die helemaal rechts bovenin
+	Free: Pattern=bij mij zitten die, Pattern=helemaal rechts, Pattern=en
+	Constrained: Pattern=rechts, Pattern=helemaal, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=43| B | B : ja op dezelfde plek
+	Free: Pattern=dezelfde plek, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=44| B | B : dit zijn het cocktailglas
+	Free: Pattern=zijn het, Pattern=dit zijn, Pattern=cocktailglas
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=45| A | A : zoeken zoeken zoeken
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : ja dat zijn vier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=47| B | B : bij mij zitten die eigenlijk één van de veel in het midden maar dan een beetje linksonder van het midden
+	Free: Pattern=het midden, Pattern=de, Pattern=dan, Pattern=een, Pattern=bij mij zitten die, Pattern=eigenlijk, Pattern=van het, Pattern=van, Pattern=maar, Pattern=één, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in het, Pattern=in, Pattern=van, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=48| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| A | A : ja dat zijn hetzelfde
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=50| B | B : licht
+	Free: 
+	Constrained: 
+Turn ID=51| A | A : dit zijn weer die cocktailglas
+	Free: Pattern=dit zijn weer, Pattern=cocktailglas, Pattern=die
+	Constrained: Pattern=dit zijn, Pattern=zijn
+Turn ID=52| B | B : waar zijn die ? F zijn dat
+	Free: Pattern=zijn die, Pattern=zijn dat
+	Constrained: Pattern=die, Pattern=zijn
+Turn ID=53| A | A : en deze zijn vanuit het midden en dan echt rechtsboven daarvan
+	Free: Pattern=het midden, Pattern=en dan, Pattern=echt, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=en, Pattern=het, Pattern=dan
+Turn ID=54| A | A : meteen rechtsboven
+	Free: 
+	Constrained: 
+Turn ID=55| B | B : nee bij mij zitten die linksboven ervan
+	Free: Pattern=bij mij zitten die, Pattern=nee
+	Constrained: Pattern=bij mij, Pattern=die, Pattern=zitten

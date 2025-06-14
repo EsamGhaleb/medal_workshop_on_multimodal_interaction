@@ -1,0 +1,127 @@
+A|0| A: _oké_ _dit zijn_ diegene _met_ _een half_ _ja_ zo noemen ik _half_ kegel erbovenop 
+B|1| B: [een half] 
+A|2| A: _en_ _zo'n_ gek dinge in _de_ _aan de_ zijkant _dat_ uitsteken 
+B|3| B: [oké] 
+B|4| B: [ja] 
+B|5| B: [met] [zo'n] dik vierkantig uitsteeksel rechts 
+A|6| A: [ja] precies 
+A|7| A: _en_ links _dan_ nog [zo'n] schijf klein rond schijf 
+B|8| B: [ja] 
+B|9| B: _ja _ja_ oké_ _dat zijn_ H 
+B|10| B: _ja dit zijn_ _met die_ soort van piramide op [zijn] hoofd , of cilinder 
+A|11| A: [ja [ja] [ja] ja] 
+B|12| B: [en] [dan] [met] [dat] _groot_ _blok _aan de_ voorkant_ zegmaar 
+A|13| A: [ja _ja] ja dat zijn_ elf 
+A|14| A: [ja _dit zijn] weer_ [met _die] half_ kegel _aan de bovenkant_ [en] [dat] gek [blok aan de] rechterkant 
+B|15| B: [ja ja dat zijn] M 
+B|16| B: [dit zijn weer] [die half] cilinder [aan de bovenkant] [met] [dat] [blok _aan de] voorkant_ 
+A|17| A: [ja] waar [zijn] hij 
+A|18| A: [ja oké] 
+A|19| A: [een] 
+A|20| A: [dit zijn weer] [met die] kegel Erboven , [half] kegel Erboven , [en] [dat] gek [blok] in [de] rechterkant 
+B|21| B: [ja] 
+B|22| B: [oké] [ja dat zijn] I 
+B|23| B: [ja dit zijn] echt [met die] cilinder [aan de bovenkant] 
+B|24| B: [met die] _groot balk aan de voorkant_ 
+B|25| B: of [blok] 
+A|26| A: [ja] [groot balk aan de voorkant] 
+A|27| A: zoeken waar [zijn] hij 
+A|28| A: [ja ja] [aan de] rechterkant toch 
+B|29| B: [ja ja] 
+A|30| A: [ja oké] drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké dit zijn diegene met een half ja zo noemen ik half kegel erbovenop
+	Free: Pattern=ja, Pattern=met, Pattern=oké, Pattern=half, Pattern=een half, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=een, Pattern=half
+Turn ID=1| B | B : een half
+	Free: Pattern=een half
+	Constrained: Pattern=een, Pattern=half
+Turn ID=2| A | A : en zo'n gek dinge in de aan de zijkant dat uitsteken
+	Free: Pattern=dat, Pattern=zo'n, Pattern=de, Pattern=aan de, Pattern=en
+	Constrained: Pattern=de
+Turn ID=3| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : met zo'n dik vierkantig uitsteeksel rechts
+	Free: Pattern=zo'n, Pattern=met
+	Constrained: 
+Turn ID=6| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : en links dan nog zo'n schijf klein rond schijf
+	Free: Pattern=zo'n, Pattern=dan, Pattern=en
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja oké dat zijn H
+	Free: Pattern=dat zijn, Pattern=ja oké, Pattern=ja ja
+	Constrained: Pattern=zijn, Pattern=oké, Pattern=dat, Pattern=ja
+Turn ID=10| B | B : ja dit zijn met die soort van piramide op zijn hoofd , of cilinder
+	Free: Pattern=ja dit zijn, Pattern=met die, Pattern=zijn
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met, Pattern=ja
+Turn ID=11| A | A : ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=12| B | B : en dan met dat groot blok aan de voorkant zegmaar
+	Free: Pattern=dat, Pattern=dan, Pattern=groot, Pattern=met, Pattern=en, Pattern=aan de voorkant, Pattern=blok aan de
+	Constrained: Pattern=de, Pattern=blok, Pattern=aan de
+Turn ID=13| A | A : ja ja ja dat zijn elf
+	Free: Pattern=ja ja dat zijn, Pattern=ja ja
+	Constrained: Pattern=ja dat zijn, Pattern=zijn, Pattern=dat, Pattern=dat zijn, Pattern=ja, Pattern=ja ja
+Turn ID=14| A | A : ja dit zijn weer met die half kegel aan de bovenkant en dat gek blok aan de rechterkant
+	Free: Pattern=die half, Pattern=ja dit zijn, Pattern=dat, Pattern=met die, Pattern=aan de bovenkant, Pattern=en, Pattern=dit zijn weer, Pattern=blok aan de
+	Constrained: Pattern=aan de, Pattern=met, Pattern=blok, Pattern=zijn, Pattern=half, Pattern=dit zijn, Pattern=de, Pattern=ja
+Turn ID=15| B | B : ja ja dat zijn M
+	Free: Pattern=ja ja dat zijn
+	Constrained: Pattern=ja dat zijn, Pattern=zijn, Pattern=dat, Pattern=dat zijn, Pattern=ja, Pattern=ja ja
+Turn ID=16| B | B : dit zijn weer die half cilinder aan de bovenkant met dat blok aan de voorkant
+	Free: Pattern=dat, Pattern=die half, Pattern=met, Pattern=aan de bovenkant, Pattern=aan de voorkant, Pattern=dit zijn weer, Pattern=blok aan de
+	Constrained: Pattern=de, Pattern=aan de, Pattern=blok, Pattern=zijn, Pattern=half, Pattern=dit zijn
+Turn ID=17| A | A : ja waar zijn hij
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja oké
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=19| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| A | A : dit zijn weer met die kegel Erboven , half kegel Erboven , en dat gek blok in de rechterkant
+	Free: Pattern=de, Pattern=en, Pattern=blok, Pattern=half, Pattern=dit zijn weer, Pattern=dat, Pattern=met die
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=met
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : oké ja dat zijn I
+	Free: Pattern=ja dat zijn, Pattern=oké
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=dat, Pattern=ja
+Turn ID=23| B | B : ja dit zijn echt met die cilinder aan de bovenkant
+	Free: Pattern=ja dit zijn, Pattern=aan de bovenkant, Pattern=met die
+	Constrained: Pattern=aan de, Pattern=met, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=ja
+Turn ID=24| B | B : met die groot balk aan de voorkant
+	Free: Pattern=groot balk aan de voorkant, Pattern=met die
+	Constrained: Pattern=de, Pattern=aan de, Pattern=groot, Pattern=met, Pattern=aan de voorkant
+Turn ID=25| B | B : of blok
+	Free: Pattern=blok
+	Constrained: 
+Turn ID=26| A | A : ja groot balk aan de voorkant
+	Free: Pattern=groot balk aan de voorkant, Pattern=ja
+	Constrained: Pattern=groot, Pattern=de, Pattern=aan de, Pattern=aan de voorkant
+Turn ID=27| A | A : zoeken waar zijn hij
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=28| A | A : ja ja aan de rechterkant toch
+	Free: Pattern=ja ja, Pattern=aan de
+	Constrained: Pattern=de, Pattern=ja
+Turn ID=29| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=30| A | A : ja oké drie
+	Free: Pattern=ja oké
+	Constrained: Pattern=oké, Pattern=ja

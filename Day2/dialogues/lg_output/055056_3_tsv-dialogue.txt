@@ -1,0 +1,299 @@
+B|0| B: goed _de_ volgen hebben _ik_ omschrijven als _een ijscoupe_ 
+B|1| B: _die_ vinden _ik_ _het_ veel lijk _op_ _een ijscoupe_ _of_ _één_ _of_ _een_ cocktailglas 
+B|2| B: _met een_ _een_ rie erin _en_ ijsblok _die_ _er_ _een_ beetje _boven_ zweven 
+A|3| A: _en een_ 
+B|4| B: [en _een] gedraaide_ hals 
+A|5| A: [het] waar [die] [op] staat _zijn_ [een] soort _driehoek_ soort taartpunt 
+B|6| B: _ja_ 
+B|7| B: [een] [driehoek] _ja_ 
+A|8| A: [met [een] gedraaide] steel 
+B|9| B: _ja_ 
+B|10| B: [en] daarboven [het] kop [met] toebehoar 
+A|11| A: _de ijscoupe_ 
+A|12| A: [met] twee blok ijs 
+B|13| B: _ja_ 
+A|14| A: [ja] 
+A|15| A: _dat zijn_ nummer vier 
+B|16| B: [ja] [het] [zijn] _bij mij_ [het] veel _rechts_ [het] [het] plaat [een] [het] veel _rechtsboven_ _van_ [het] _heel_ _scherm_ 
+A|17| A: oké 
+B|18| B: dus [het] staan _in_ [de] hoek 
+A|19| A: _nee dat zijn_ [die] [bij mij] _niet_ 
+A|20| A: wel hetzelfde _kwadrant_ _maar_ _niet_ helemaal [rechts] bovenin 
+B|21| B: [maar] _er_ passen niks veel langs 
+A|22| A: _nee_ _nee_ [en] dan _zijn het_ rood 
+A|23| A: [en] _de ijscoupe_ 
+B|24| B: [de ijscoupe] [dat zijn] letter A 
+A|25| A: pakken _het kwadrant_ _linksonder_ 
+A|26| A: [en] _daar_ 
+B|27| B: [linksonder] 
+A|28| A: [ja] 
+B|29| B: [nee] [bij mij] staan [die] Linksboven 
+A|30| A: [nee] dan [zijn] [dat] _nee dat_ kunnen [ik] [er] _niet_ [van] maken 
+B|31| B: [dat [zijn] het] echt [niet] 
+B|32| B: [nee] 
+A|33| A: [nee] 
+B|34| B: [de ijscoupe] 
+A|35| A: [ijscoupe] waar [zijn] je ? ah 
+A|36| A: [ja] 
+A|37| A: nummer tien 
+B|38| B: hij staan [bij mij] zoveel mogelijk onderaan [het] _scherm_ [het] Linkerkwadrant 
+A|39| A: check 
+B|40| B: [een] beetje midden [van] [het kwadrant] qua horizontaal 
+A|41| A: [ja] 
+A|42| A: [ja] 
+B|43| B: [ja] 
+A|44| A: [de ijscoupe] 
+B|45| B: [de ijscoupe] 
+B|46| B: letter L 
+A|47| A: [ja] 
+A|48| A: [en] jij zitten [heel] erg naar [rechts] te kijken [in] je [scherm] 
+B|49| B: [ja] 
+A|50| A: ook [rechtsboven] 
+B|51| B: [ja] 
+B|52| B: staan [die] [daar] [bij] jou 
+A|53| A: [er] past [niet] nog [een ijscoupe] naast [of] [boven] [maar] 
+B|54| B: [nee] 
+A|55| A: [nee] 
+B|56| B: [nee dat zijn] hem 
+B|57| B: [de ijscoupe] 
+A|58| A: check 
+A|59| A: nummer vier 
+B|60| B: hij staan [in] [het] linksonderkwadrant [en] bijna tegen [het] midden [van] [het] [scherm] aan 
+A|61| A: _ja van beide lijn_ 
+B|62| B: [ja van beide lijn] 
+A|63| A: [ja] 
+A|64| A: [dat] kunnen [er] [maar] [één] [zijn] 
+A|65| A: [de ijscoupe] 
+B|66| B: [de ijscoupe] 
+B|67| B: letter F 
+A|68| A: [ik] zullen zeggen [kwadrant] [rechtsboven] 
+B|69| B: [nee] hij staan sowieso Linksboven 
+B|70| B: [bij mij] 
+A|71| A: [nee] 
+A|72| A: [nee] [nee] 
+B|73| B: geen twijfel 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : goed de volgen hebben ik omschrijven als een ijscoupe
+	Free: Pattern=een ijscoupe, Pattern=de, Pattern=ik
+	Constrained: Pattern=een, Pattern=ijscoupe
+Turn ID=1| B | B : die vinden ik het veel lijk op een ijscoupe of één of een cocktailglas
+	Free: Pattern=of, Pattern=op, Pattern=een, Pattern=die, Pattern=ik, Pattern=één, Pattern=het, Pattern=een ijscoupe
+	Constrained: Pattern=een, Pattern=ijscoupe
+Turn ID=2| B | B : met een een rie erin en ijsblok die er een beetje boven zweven
+	Free: Pattern=boven, Pattern=een, Pattern=die, Pattern=met een, Pattern=er, Pattern=en
+	Constrained: Pattern=een, Pattern=met
+Turn ID=3| A | A : en een
+	Free: Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=4| B | B : en een gedraaide hals
+	Free: Pattern=een gedraaide, Pattern=en een
+	Constrained: Pattern=een, Pattern=en
+Turn ID=5| A | A : het waar die op staat zijn een soort driehoek soort taartpunt
+	Free: Pattern=driehoek, Pattern=op, Pattern=een, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : een driehoek ja
+	Free: Pattern=driehoek, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=8| A | A : met een gedraaide steel
+	Free: Pattern=een gedraaide, Pattern=met een
+	Constrained: Pattern=een, Pattern=met
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en daarboven het kop met toebehoar
+	Free: Pattern=het, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=11| A | A : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=12| A | A : met twee blok ijs
+	Free: Pattern=met
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : ja het zijn bij mij het veel rechts het het plaat een het veel rechtsboven van het heel scherm
+	Free: Pattern=heel, Pattern=rechtsboven, Pattern=een, Pattern=het, Pattern=scherm, Pattern=van, Pattern=zijn, Pattern=bij mij, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=bij
+Turn ID=17| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=18| B | B : dus het staan in de hoek
+	Free: Pattern=in, Pattern=het, Pattern=de
+	Constrained: 
+Turn ID=19| A | A : nee dat zijn die bij mij niet
+	Free: Pattern=nee dat zijn, Pattern=bij mij, Pattern=die, Pattern=niet
+	Constrained: Pattern=nee dat, Pattern=nee, Pattern=bij, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=20| A | A : wel hetzelfde kwadrant maar niet helemaal rechts bovenin
+	Free: Pattern=maar, Pattern=kwadrant, Pattern=rechts, Pattern=niet
+	Constrained: 
+Turn ID=21| B | B : maar er passen niks veel langs
+	Free: Pattern=maar, Pattern=er
+	Constrained: 
+Turn ID=22| A | A : nee nee en dan zijn het rood
+	Free: Pattern=zijn het, Pattern=nee, Pattern=en
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=23| A | A : en de ijscoupe
+	Free: Pattern=de ijscoupe, Pattern=en
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=24| B | B : de ijscoupe dat zijn letter A
+	Free: Pattern=dat zijn, Pattern=de ijscoupe
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=de, Pattern=ijscoupe
+Turn ID=25| A | A : pakken het kwadrant linksonder
+	Free: Pattern=het kwadrant, Pattern=linksonder
+	Constrained: Pattern=het, Pattern=kwadrant
+Turn ID=26| A | A : en daar
+	Free: Pattern=daar, Pattern=en
+	Constrained: 
+Turn ID=27| B | B : linksonder
+	Free: Pattern=linksonder
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : nee bij mij staan die Linksboven
+	Free: Pattern=bij mij, Pattern=nee, Pattern=die
+	Constrained: Pattern=bij
+Turn ID=30| A | A : nee dan zijn dat nee dat kunnen ik er niet van maken
+	Free: Pattern=dat, Pattern=nee dat, Pattern=niet, Pattern=nee, Pattern=er, Pattern=ik, Pattern=van, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=nee
+Turn ID=31| B | B : dat zijn het echt niet
+	Free: Pattern=dat zijn, Pattern=zijn het, Pattern=niet
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=het
+Turn ID=32| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=33| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=34| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=35| A | A : ijscoupe waar zijn je ? ah
+	Free: Pattern=zijn, Pattern=ijscoupe
+	Constrained: 
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=38| B | B : hij staan bij mij zoveel mogelijk onderaan het scherm het Linkerkwadrant
+	Free: Pattern=bij mij, Pattern=het, Pattern=scherm
+	Constrained: Pattern=bij
+Turn ID=39| A | A : check
+	Free: 
+	Constrained: 
+Turn ID=40| B | B : een beetje midden van het kwadrant qua horizontaal
+	Free: Pattern=het kwadrant, Pattern=van, Pattern=een
+	Constrained: Pattern=het, Pattern=kwadrant
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=45| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=46| B | B : letter L
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : en jij zitten heel erg naar rechts te kijken in je scherm
+	Free: Pattern=heel, Pattern=rechts, Pattern=in, Pattern=scherm, Pattern=en
+	Constrained: 
+Turn ID=49| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| A | A : ook rechtsboven
+	Free: Pattern=rechtsboven
+	Constrained: 
+Turn ID=51| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| B | B : staan die daar bij jou
+	Free: Pattern=daar, Pattern=die, Pattern=bij
+	Constrained: 
+Turn ID=53| A | A : er past niet nog een ijscoupe naast of boven maar
+	Free: Pattern=of, Pattern=een ijscoupe, Pattern=er, Pattern=maar, Pattern=niet, Pattern=boven
+	Constrained: Pattern=een, Pattern=ijscoupe
+Turn ID=54| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=55| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=56| B | B : nee dat zijn hem
+	Free: Pattern=nee dat zijn
+	Constrained: Pattern=nee dat, Pattern=nee, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=57| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=58| A | A : check
+	Free: 
+	Constrained: 
+Turn ID=59| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=60| B | B : hij staan in het linksonderkwadrant en bijna tegen het midden van het scherm aan
+	Free: Pattern=het, Pattern=in, Pattern=scherm, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=61| A | A : ja van beide lijn
+	Free: Pattern=ja van beide lijn
+	Constrained: Pattern=van, Pattern=ja
+Turn ID=62| B | B : ja van beide lijn
+	Free: Pattern=ja van beide lijn
+	Constrained: Pattern=van, Pattern=ja
+Turn ID=63| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=64| A | A : dat kunnen er maar één zijn
+	Free: Pattern=dat, Pattern=er, Pattern=één, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=65| A | A : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=66| B | B : de ijscoupe
+	Free: Pattern=de ijscoupe
+	Constrained: Pattern=de, Pattern=ijscoupe
+Turn ID=67| B | B : letter F
+	Free: 
+	Constrained: 
+Turn ID=68| A | A : ik zullen zeggen kwadrant rechtsboven
+	Free: Pattern=rechtsboven, Pattern=kwadrant, Pattern=ik
+	Constrained: 
+Turn ID=69| B | B : nee hij staan sowieso Linksboven
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=70| B | B : bij mij
+	Free: Pattern=bij mij
+	Constrained: Pattern=bij
+Turn ID=71| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=72| A | A : nee nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=73| B | B : geen twijfel
+	Free: 
+	Constrained: 

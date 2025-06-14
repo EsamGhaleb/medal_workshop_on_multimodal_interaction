@@ -1,0 +1,147 @@
+A|0| A: okee nou zien _ik_ inderdaad _een_ vierkant 
+A|1| A: _ik hebben_ _dus_ _die_ hoofdbak weer gewoon 
+A|2| A: _die_ _je_ _op_ elk plaat zien 
+A|3| A: _dan_ _hebben_ _ik_ _een soort_ rond neus _op_ _de voorkant_ _en_ _daar_ _ja_ _dat_ noemen _ik_ maar even _een_ piercing _zitten_ _een staaf_ _doorheen_ 
+B|4| B: [ja] 
+A|5| A: _en_ _aan de_ rechterkant _van die staaf_ _zitten_ _een_ cirkelt 
+B|6| B: [je] _hebben een_ cirkelplateau _aan de voorkant_ 
+A|7| A: nee _ik hebben_ geen plateau 
+A|8| A: _ik hebben_ _dus_ gewoon [de] [de] bak 
+B|9| B: [ja] 
+A|10| A: _met een_ rond neus [een] rond _een soort_ _ei_ _eigenlijk_ 
+B|11| B: [ja] 
+A|12| A: [aan de voorkant] _van die_ bak 
+B|13| B: [ja] 
+A|14| A: _en_ door _dat _ei_ zitten_ _een staaf_ gewoon [een] [ja] [een] _een staaf_ erdoorheen 
+B|15| B: [ja] 
+A|16| A: _en dan_ [aan de] rechterkant _van die staaf_ _zitten_ [een] cirkelt opgeplakt 
+B|17| B: [ja] [ik hebben] _het_ 
+B|18| B: f 
+B|19| B: _de hoofdvorm_ [en dan] [eigenlijk] lijken _het_ alsof er [een soort] [van] zuignap [aan] vast [zitten] [dus] _een ei_ [aan de voorkant] [met [een] staaf] er [doorheen] [en dan] [een] _cirkel_ [aan] _het_ uiteinde [van die staaf] 
+A|20| A: [ja] 
+B|21| B: [en dan] [daar] bovenop [zitten] _zo'n_ schuin _zo'n_ kegel [op] _zijn_ kop 
+A|22| A: [ja] 
+A|23| A: nummer drie 
+A|24| A: ook bij deze [hoofdvorm] [zitten] [een _ei] voorop_ [die] [hebben [een] staaf] door _het ei_ heen 
+A|25| A: [aan de] rechterkant worden _de staaf_ afsluiten [met [een] soort] [cirkel] 
+B|26| B: [ja] 
+B|27| B: o 
+B|28| B: _dit zijn de hoofdvorm_ [dat] [aan de voorkant] [het [ei] zitten] [met [een] staaf] ertussen [en] [een] cirkelplateau [aan de] zijkant [en] [een] schuin kegel bovenop 
+A|29| A: [ja] 
+A|30| A: nummer zestien 
+A|31| A: _dit zijn de hoofdvorm [met_ [een] ei] [en] [daar] [een] [een _ei] voorop_ [en] [daar] [een] vierkant [staaf] [doorheen] [met] [aan de] uiteind [zo'n] rond dinge 
+B|32| B: [ja] b 
+B|33| B: [dit zijn de hoofdvorm met] [eigenlijk] [een soort] [van] [een] zuignap [dus] [dat [ei] voorop] [met [een] staaf] er [doorheen] [en] [een] cirkelplateau [aan] [het] uiteinde [van] [de staaf] 
+A|34| A: [ja] 
+A|35| A: nummer tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee nou zien ik inderdaad een vierkant
+	Free: Pattern=ik, Pattern=een
+	Constrained: 
+Turn ID=1| A | A : ik hebben dus die hoofdbak weer gewoon
+	Free: Pattern=ik hebben, Pattern=dus, Pattern=die
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=2| A | A : die je op elk plaat zien
+	Free: Pattern=je, Pattern=op, Pattern=die
+	Constrained: 
+Turn ID=3| A | A : dan hebben ik een soort rond neus op de voorkant en daar ja dat noemen ik maar even een piercing zitten een staaf doorheen
+	Free: Pattern=dat, Pattern=op, Pattern=dan, Pattern=een, Pattern=hebben, Pattern=daar, Pattern=ja, Pattern=doorheen, Pattern=de voorkant, Pattern=zitten, Pattern=ik, Pattern=een soort, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=de, Pattern=een, Pattern=staaf
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : en aan de rechterkant van die staaf zitten een cirkelt
+	Free: Pattern=van die staaf, Pattern=aan de, Pattern=een, Pattern=zitten, Pattern=en
+	Constrained: Pattern=staaf, Pattern=die, Pattern=de, Pattern=aan, Pattern=van, Pattern=van die
+Turn ID=6| B | B : je hebben een cirkelplateau aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=hebben een, Pattern=je
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=de voorkant, Pattern=de, Pattern=aan
+Turn ID=7| A | A : nee ik hebben geen plateau
+	Free: Pattern=ik hebben
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=8| A | A : ik hebben dus gewoon de de bak
+	Free: Pattern=ik hebben, Pattern=dus, Pattern=de
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : met een rond neus een rond een soort ei eigenlijk
+	Free: Pattern=ei, Pattern=een, Pattern=eigenlijk, Pattern=met een, Pattern=een soort
+	Constrained: Pattern=met, Pattern=een
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : aan de voorkant van die bak
+	Free: Pattern=aan de voorkant, Pattern=van die
+	Constrained: Pattern=aan de, Pattern=van, Pattern=de, Pattern=aan, Pattern=de voorkant, Pattern=die
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en door dat ei zitten een staaf gewoon een ja een een staaf erdoorheen
+	Free: Pattern=ja, Pattern=een, Pattern=dat ei, Pattern=ei zitten, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=dat, Pattern=ei, Pattern=staaf, Pattern=een, Pattern=zitten
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en dan aan de rechterkant van die staaf zitten een cirkelt opgeplakt
+	Free: Pattern=van die staaf, Pattern=en dan, Pattern=aan de, Pattern=een, Pattern=zitten
+	Constrained: Pattern=staaf, Pattern=dan, Pattern=die, Pattern=de, Pattern=aan, Pattern=van, Pattern=van die, Pattern=en
+Turn ID=17| B | B : ja ik hebben het
+	Free: Pattern=ik hebben, Pattern=het, Pattern=ja
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=18| B | B : f
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : de hoofdvorm en dan eigenlijk lijken het alsof er een soort van zuignap aan vast zitten dus een ei aan de voorkant met een staaf er doorheen en dan een cirkel aan het uiteinde van die staaf
+	Free: Pattern=en dan, Pattern=een, Pattern=het, Pattern=zitten, Pattern=met een, Pattern=een soort, Pattern=aan de voorkant, Pattern=de hoofdvorm, Pattern=cirkel, Pattern=van die staaf, Pattern=aan, Pattern=dus, Pattern=doorheen, Pattern=eigenlijk, Pattern=een ei, Pattern=van, Pattern=een staaf
+	Constrained: Pattern=ei, Pattern=staaf, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=hoofdvorm, Pattern=met, Pattern=de, Pattern=aan, Pattern=de voorkant, Pattern=die, Pattern=van, Pattern=van die, Pattern=en
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : en dan daar bovenop zitten zo'n schuin zo'n kegel op zijn kop
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=op, Pattern=zitten, Pattern=zijn, Pattern=daar
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : ook bij deze hoofdvorm zitten een ei voorop die hebben een staaf door het ei heen
+	Free: Pattern=hebben een, Pattern=een ei, Pattern=hoofdvorm, Pattern=het ei, Pattern=die, Pattern=zitten, Pattern=ei voorop, Pattern=een staaf
+	Constrained: Pattern=ei, Pattern=staaf, Pattern=een, Pattern=het, Pattern=hebben
+Turn ID=25| A | A : aan de rechterkant worden de staaf afsluiten met een soort cirkel
+	Free: Pattern=cirkel, Pattern=aan de, Pattern=de staaf, Pattern=met een, Pattern=een soort
+	Constrained: Pattern=staaf, Pattern=een, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : dit zijn de hoofdvorm dat aan de voorkant het ei zitten met een staaf ertussen en een cirkelplateau aan de zijkant en een schuin kegel bovenop
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=met een, Pattern=ei zitten, Pattern=aan de voorkant, Pattern=dit zijn de hoofdvorm, Pattern=het ei, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=de hoofdvorm, Pattern=ei, Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=het, Pattern=hoofdvorm, Pattern=met, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=de voorkant, Pattern=zitten
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : nummer zestien
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : dit zijn de hoofdvorm met een ei en daar een een ei voorop en daar een vierkant staaf doorheen met aan de uiteind zo'n rond dinge
+	Free: Pattern=zo'n, Pattern=doorheen, Pattern=staaf, Pattern=een, Pattern=een ei, Pattern=met, Pattern=met een, Pattern=daar, Pattern=aan de, Pattern=dit zijn de hoofdvorm met, Pattern=ei voorop, Pattern=en
+	Constrained: Pattern=de hoofdvorm, Pattern=ei, Pattern=een, Pattern=hoofdvorm, Pattern=met, Pattern=zijn, Pattern=dit zijn de hoofdvorm, Pattern=de, Pattern=aan
+Turn ID=32| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dit zijn de hoofdvorm met eigenlijk een soort van een zuignap dus dat ei voorop met een staaf er doorheen en een cirkelplateau aan het uiteinde van de staaf
+	Free: Pattern=dit zijn de hoofdvorm met, Pattern=een, Pattern=het, Pattern=eigenlijk, Pattern=de staaf, Pattern=dat ei, Pattern=met een, Pattern=een soort, Pattern=aan, Pattern=dus, Pattern=doorheen, Pattern=van, Pattern=ei voorop, Pattern=en, Pattern=een staaf
+	Constrained: Pattern=de hoofdvorm, Pattern=dat, Pattern=ei, Pattern=de, Pattern=staaf, Pattern=een, Pattern=hoofdvorm, Pattern=met, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : nummer tien
+	Free: 
+	Constrained: 

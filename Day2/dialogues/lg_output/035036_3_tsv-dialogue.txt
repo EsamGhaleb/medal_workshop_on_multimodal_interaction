@@ -1,0 +1,167 @@
+B|0| B: _dit_ vinden _ik_ _een soort_ _wasbak_ _met_ _de_ afvoer _die_ draaien _zijn_ 
+B|1| B: _en_ _die_ afvoer komen uit _in_ _een soort_ driehoek 
+A|2| A: _ja_ 
+A|3| A: [ik] noemen _het_ [een] _trofee_ 
+B|4| B: _ja dat_ _dat_ _ja dat_ zien [ik] ook wel nu erin 
+A|5| A: kunnen je [zijn] [dat] vergelijkbaar 
+A|6| A: _oké_ [met] zo'n [met] zo'n vierkant blok _dan_ [een] beetje _rechts_ bovenin 
+B|7| B: [ja] [ja] [ja] 
+A|8| A: _oké_ 
+B|9| B: precies 
+A|10| A: _dat zijn_ vier 
+B|11| B: _en_ hij _staan_ bij mij _helemaal rechts_ _in de hoek_ _boven_ 
+A|12| A: [helemaal rechts] 
+B|13| B: [ja] _of_ tenminste _er_ _staan_ niks veel naast 
+A|14| A: _oké_ [ja] _nee_ _dan zijn het_ _niet_ dezelfde 
+A|15| A: _dit zijn de trofee_ _of de_ gek [wasbak] 
+B|16| B: [ja] 
+B|17| B: [dat zijn] A bij mij 
+A|18| A: _en dan_ [staan] [die] je hebben [er] _helemaal links_ hebben je [er] één _en dan_ 
+A|19| A: daarnaast [zijn] [een soort] _van_ _drie_ [die] [er] zeggen maar [boven] elkaar zitten 
+B|20| B: [ja] 
+A|21| A: ongeveer 
+A|22| A: [en] daarvan _de middel_ 
+B|23| B: [oké] [en] bij mij [staan] hij [helemaal links] _dus_ [dan zijn het] anders 
+B|24| B: [dit zijn] [die] draaien afvoer [of [de] trofee] 
+A|25| A: [dat zijn] tien 
+B|26| B: [en] [dat zijn] [niet] [de] onderste rij [en dan] [de middel] [van] [die] [drie] 
+A|27| A: [ja [dat] zijn] gelijk 
+A|28| A: [de trofee] 
+B|29| B: [ja] 
+B|30| B: [dat zijn] L 
+A|31| A: rechtsbof [in de hoek] 
+B|32| B: [ja] 
+B|33| B: [dit zijn de trofee] 
+A|34| A: [dat zijn] vier 
+B|35| B: [in] [het] driehoek [in] _het midden_ [de] linksonder 
+A|36| A: [dat zijn] gelijk 
+A|37| A: [dit zijn de trofee] 
+B|38| B: [ja] F 
+A|39| A: [die] [staan] [dan] [rechts] daarvan [die] we net hebben [dus] net [rechts] [van] [het midden] 
+B|40| B: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit vinden ik een soort wasbak met de afvoer die draaien zijn
+	Free: Pattern=de, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn, Pattern=wasbak, Pattern=ik, Pattern=een soort
+	Constrained: Pattern=een
+Turn ID=1| B | B : en die afvoer komen uit in een soort driehoek
+	Free: Pattern=een soort, Pattern=en, Pattern=die, Pattern=in
+	Constrained: Pattern=een
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : ik noemen het een trofee
+	Free: Pattern=trofee, Pattern=een, Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=4| B | B : ja dat dat ja dat zien ik ook wel nu erin
+	Free: Pattern=ja dat, Pattern=dat, Pattern=ik
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=5| A | A : kunnen je zijn dat vergelijkbaar
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : oké met zo'n met zo'n vierkant blok dan een beetje rechts bovenin
+	Free: Pattern=rechts, Pattern=dan, Pattern=een, Pattern=met, Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : precies
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=11| B | B : en hij staan bij mij helemaal rechts in de hoek boven
+	Free: Pattern=boven, Pattern=staan, Pattern=in de hoek, Pattern=helemaal rechts, Pattern=en
+	Constrained: Pattern=in, Pattern=rechts, Pattern=de
+Turn ID=12| A | A : helemaal rechts
+	Free: Pattern=helemaal rechts
+	Constrained: Pattern=rechts
+Turn ID=13| B | B : ja of tenminste er staan niks veel naast
+	Free: Pattern=ja, Pattern=of, Pattern=staan, Pattern=er
+	Constrained: 
+Turn ID=14| A | A : oké ja nee dan zijn het niet dezelfde
+	Free: Pattern=niet, Pattern=nee, Pattern=oké, Pattern=ja, Pattern=dan zijn het
+	Constrained: Pattern=dan, Pattern=zijn, Pattern=het
+Turn ID=15| A | A : dit zijn de trofee of de gek wasbak
+	Free: Pattern=dit zijn de trofee, Pattern=of de, Pattern=wasbak
+	Constrained: Pattern=of, Pattern=de, Pattern=dit, Pattern=de trofee, Pattern=zijn, Pattern=trofee, Pattern=dit zijn
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn A bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : en dan staan die je hebben er helemaal links hebben je er één en dan
+	Free: Pattern=en dan, Pattern=die, Pattern=er, Pattern=staan, Pattern=helemaal links
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=19| A | A : daarnaast zijn een soort van drie die er zeggen maar boven elkaar zitten
+	Free: Pattern=boven, Pattern=drie, Pattern=die, Pattern=er, Pattern=een soort, Pattern=van, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ongeveer
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : en daarvan de middel
+	Free: Pattern=de middel, Pattern=en
+	Constrained: Pattern=de
+Turn ID=23| B | B : oké en bij mij staan hij helemaal links dus dan zijn het anders
+	Free: Pattern=oké, Pattern=en, Pattern=dus, Pattern=dan zijn het, Pattern=staan, Pattern=helemaal links
+	Constrained: Pattern=dan, Pattern=het, Pattern=zijn
+Turn ID=24| B | B : dit zijn die draaien afvoer of de trofee
+	Free: Pattern=de trofee, Pattern=of de, Pattern=dit zijn, Pattern=die
+	Constrained: Pattern=of, Pattern=de, Pattern=dit, Pattern=zijn, Pattern=trofee
+Turn ID=25| A | A : dat zijn tien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : en dat zijn niet de onderste rij en dan de middel van die drie
+	Free: Pattern=dat zijn, Pattern=en dan, Pattern=niet, Pattern=drie, Pattern=die, Pattern=de, Pattern=de middel, Pattern=van, Pattern=en
+	Constrained: Pattern=dat, Pattern=de, Pattern=dan, Pattern=en, Pattern=zijn
+Turn ID=27| A | A : ja dat zijn gelijk
+	Free: Pattern=dat zijn, Pattern=ja dat
+	Constrained: Pattern=dat, Pattern=ja, Pattern=zijn
+Turn ID=28| A | A : de trofee
+	Free: Pattern=de trofee
+	Constrained: Pattern=de, Pattern=trofee
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=31| A | A : rechtsbof in de hoek
+	Free: Pattern=in de hoek
+	Constrained: Pattern=de, Pattern=in
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : dit zijn de trofee
+	Free: Pattern=dit zijn de trofee
+	Constrained: Pattern=de, Pattern=dit, Pattern=de trofee, Pattern=zijn, Pattern=trofee, Pattern=dit zijn
+Turn ID=34| A | A : dat zijn vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : in het driehoek in het midden de linksonder
+	Free: Pattern=het midden, Pattern=de, Pattern=het, Pattern=in
+	Constrained: Pattern=het
+Turn ID=36| A | A : dat zijn gelijk
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=37| A | A : dit zijn de trofee
+	Free: Pattern=dit zijn de trofee
+	Constrained: Pattern=de, Pattern=dit, Pattern=de trofee, Pattern=zijn, Pattern=trofee, Pattern=dit zijn
+Turn ID=38| B | B : ja F
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : die staan dan rechts daarvan die we net hebben dus net rechts van het midden
+	Free: Pattern=het midden, Pattern=dan, Pattern=staan, Pattern=die, Pattern=van, Pattern=rechts, Pattern=dus
+	Constrained: Pattern=het
+Turn ID=40| B | B : nee
+	Free: Pattern=nee
+	Constrained: 

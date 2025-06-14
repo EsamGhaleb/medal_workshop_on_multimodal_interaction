@@ -1,0 +1,91 @@
+A|0| A: _dit zijn_ _een_ komme _met aan_ _de_ _beide kant een_ uitstulpsel _aan_ _de een_ _kant_ _lang_ _dan_ _aan_ _de ander_ _kant_ die uitstulpsels zitten _een_ beetje onderin _en_ die _hebben_ als uiteinde ook _een_ soort _ei_ 
+B|1| B: _ja_ 
+A|2| A: _en_ er _zijn_ _een_ soort plank _dat_ omhoog lopen _met_ ook _weer_ _een_ soort _van_ steun eronder 
+B|3| B: _ja_ _ja_ _ja_ 
+B|4| B: _okee_ 
+B|5| B: [dat] [zijn] o 
+A|6| A: [okee] 
+A|7| A: [okee] 
+B|8| B: deze [hebben] [aan] [beide kant een] _uitsteeksel_ waarvan [de een] _wat lang_ [zijn] [dan] [de ander] [met aan] [beide kant] [van] [de] _uitsteeksel_ [weer] [dat] eivorm 
+A|9| A: [ja] [met] [dat] plank 
+B|10| B: [ja] 
+A|11| A: dertien 
+A|12| A: _dit zijn_ degeen [met] die _twee_ [uitsteeksel] die waarbij [de een] [lang] [met] [dat] _ei_ [met] die _ei aan_ [de] uiteinde 
+B|13| B: [ja] [ja] [dat] [zijn] g 
+A|14| A: [okee] 
+B|15| B: deze [hebben] [weer] [de] ongelijk [uitsteeksel] [met] [ei aan] [beide kant] 
+B|16| B: [en] het schuin plateau 
+A|17| A: [okee] vier 
+A|18| A: ik [hebben] nu [met] die _twee_ uitsteelsel die allebei die die [een] [zijn] [wat lang] [met] die _twee_ eit [aan] [de] uiteind 
+B|19| B: [ja] [dat] [zijn] f 
+B|20| B: [dit zijn] [de] [twee] ongelijk [uitsteeksel] [met] [ei aan] [beide kant] 
+A|21| A: [ja] nummer elf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn een komme met aan de beide kant een uitstulpsel aan de een kant lang dan aan de ander kant die uitstulpsels zitten een beetje onderin en die hebben als uiteinde ook een soort ei
+	Free: Pattern=kant, Pattern=met aan, Pattern=ei, Pattern=dan, Pattern=een, Pattern=beide kant een, Pattern=hebben, Pattern=de een, Pattern=lang, Pattern=en, Pattern=de ander, Pattern=dit zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=kant, Pattern=beide kant, Pattern=een, Pattern=met, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en er zijn een soort plank dat omhoog lopen met ook weer een soort van steun eronder
+	Free: Pattern=dat, Pattern=een, Pattern=met, Pattern=zijn, Pattern=weer, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=5| B | B : dat zijn o
+	Free: Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=6| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=7| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=8| B | B : deze hebben aan beide kant een uitsteeksel waarvan de een wat lang zijn dan de ander met aan beide kant van de uitsteeksel weer dat eivorm
+	Free: Pattern=dat, Pattern=met aan, Pattern=beide kant, Pattern=beide kant een, Pattern=hebben, Pattern=de een, Pattern=van, Pattern=de, Pattern=aan, Pattern=uitsteeksel, Pattern=dan, Pattern=zijn, Pattern=wat lang, Pattern=weer, Pattern=de ander
+	Constrained: Pattern=kant, Pattern=beide kant, Pattern=een, Pattern=met, Pattern=lang, Pattern=de, Pattern=aan
+Turn ID=9| A | A : ja met dat plank
+	Free: Pattern=ja, Pattern=dat, Pattern=met
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : dit zijn degeen met die twee uitsteeksel die waarbij de een lang met dat ei met die ei aan de uiteinde
+	Free: Pattern=dat, Pattern=ei, Pattern=twee, Pattern=de, Pattern=uitsteeksel, Pattern=ei aan, Pattern=lang, Pattern=dit zijn, Pattern=de een, Pattern=met
+	Constrained: Pattern=ei, Pattern=een, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=13| B | B : ja ja dat zijn g
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=14| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=15| B | B : deze hebben weer de ongelijk uitsteeksel met ei aan beide kant
+	Free: Pattern=de, Pattern=uitsteeksel, Pattern=beide kant, Pattern=ei aan, Pattern=hebben, Pattern=met, Pattern=weer
+	Constrained: Pattern=kant, Pattern=ei, Pattern=aan
+Turn ID=16| B | B : en het schuin plateau
+	Free: Pattern=en
+	Constrained: 
+Turn ID=17| A | A : okee vier
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=18| A | A : ik hebben nu met die twee uitsteelsel die allebei die die een zijn wat lang met die twee eit aan de uiteind
+	Free: Pattern=twee, Pattern=een, Pattern=hebben, Pattern=met, Pattern=de, Pattern=aan, Pattern=zijn, Pattern=wat lang
+	Constrained: Pattern=lang
+Turn ID=19| B | B : ja dat zijn f
+	Free: Pattern=ja, Pattern=zijn, Pattern=dat
+	Constrained: 
+Turn ID=20| B | B : dit zijn de twee ongelijk uitsteeksel met ei aan beide kant
+	Free: Pattern=twee, Pattern=de, Pattern=uitsteeksel, Pattern=beide kant, Pattern=ei aan, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=kant, Pattern=ei, Pattern=aan
+Turn ID=21| A | A : ja nummer elf
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,111 @@
+A|0| A: _deze hebben_ _twee_ dezelfde rechthoeken _aan de rechterkant_ zitten _die_ eruit steken 
+A|1| A: _en_ er zitten dus maar _een_ _lampenkap bovenop_ het _kop_ 
+B|2| B: _ja_ _ja_ 
+A|3| A: _en_ nog _een_ _twee_ ding _aan de_ _de_ _de_ linkerkant _een_ stok _en_ _een_ poo 
+B|4| B: _ja_ 
+B|5| B: _dat zijn_ bij mij n 
+B|6| B: [deze hebben] [aan de rechterkant] [twee] staaf onder _elkaar_ [bovenop] [een] [een] kom [die] op _zijn_ [kop] staan 
+A|7| A: [ja] zo'n lampenkapding 
+B|8| B: of [lampenkap] [ja] [ja] 
+A|9| A: [ja] 
+A|10| A: _en_ dan links nog [twee] 
+B|11| B: [ja] 
+A|12| A: [ja] 
+B|13| B: [ja] 
+A|14| A: okee [dat zijn] nummer twaalf 
+A|15| A: [deze hebben] [twee] rechthoeak [aan de] zijkant identiek _boven elkaar en_ [een] [lampenkap] erbovenopen nog [twee] uitsteeksel [aan de] linkerkant [een] poo _en_ [een] stok 
+B|16| B: [ja] 
+B|17| B: [ja] 
+B|18| B: _zoiets_ 
+A|19| A: [zoiets] 
+B|20| B: [dat zijn] e 
+B|21| B: rechts [twee] staaf [boven elkaar en] [de] op [zijn] [kop] of _de lampenkap_ _de lampenkap_ 
+A|22| A: yes nummer zes 
+A|23| A: [deze hebben] [twee] van [die] rechthoekstokjes [boven elkaar] [aan de rechterkant] met _de lampenkap bovenop_ 
+B|24| B: [ja] [dat zijn] m 
+B|25| B: [de] [twee] staaf rechts [en] [de lampenkap bovenop] 
+A|26| A: yes [dat zijn] elf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben twee dezelfde rechthoeken aan de rechterkant zitten die eruit steken
+	Free: Pattern=aan de rechterkant, Pattern=deze hebben, Pattern=die, Pattern=twee
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=1| A | A : en er zitten dus maar een lampenkap bovenop het kop
+	Free: Pattern=lampenkap bovenop, Pattern=en, Pattern=een, Pattern=kop
+	Constrained: Pattern=bovenop, Pattern=lampenkap
+Turn ID=2| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en nog een twee ding aan de de de linkerkant een stok en een poo
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : dat zijn bij mij n
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=6| B | B : deze hebben aan de rechterkant twee staaf onder elkaar bovenop een een kom die op zijn kop staan
+	Free: Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=elkaar, Pattern=zijn, Pattern=kop, Pattern=deze hebben, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=7| A | A : ja zo'n lampenkapding
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : of lampenkap ja ja
+	Free: Pattern=lampenkap, Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en dan links nog twee
+	Free: Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : okee dat zijn nummer twaalf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=15| A | A : deze hebben twee rechthoeak aan de zijkant identiek boven elkaar en een lampenkap erbovenopen nog twee uitsteeksel aan de linkerkant een poo en een stok
+	Free: Pattern=twee, Pattern=lampenkap, Pattern=aan de, Pattern=een, Pattern=deze hebben, Pattern=en, Pattern=boven elkaar en
+	Constrained: Pattern=boven elkaar, Pattern=en, Pattern=elkaar, Pattern=de
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : zoiets
+	Free: Pattern=zoiets
+	Constrained: 
+Turn ID=19| A | A : zoiets
+	Free: Pattern=zoiets
+	Constrained: 
+Turn ID=20| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : rechts twee staaf boven elkaar en de op zijn kop of de lampenkap de lampenkap
+	Free: Pattern=twee, Pattern=de, Pattern=kop, Pattern=de lampenkap, Pattern=boven elkaar en, Pattern=zijn
+	Constrained: Pattern=boven elkaar, Pattern=elkaar, Pattern=en, Pattern=de, Pattern=lampenkap
+Turn ID=22| A | A : yes nummer zes
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : deze hebben twee van die rechthoekstokjes boven elkaar aan de rechterkant met de lampenkap bovenop
+	Free: Pattern=twee, Pattern=boven elkaar, Pattern=de lampenkap bovenop, Pattern=deze hebben, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=bovenop, Pattern=aan de, Pattern=elkaar, Pattern=lampenkap bovenop, Pattern=de lampenkap, Pattern=de, Pattern=lampenkap
+Turn ID=24| B | B : ja dat zijn m
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=25| B | B : de twee staaf rechts en de lampenkap bovenop
+	Free: Pattern=de lampenkap bovenop, Pattern=en, Pattern=twee, Pattern=de
+	Constrained: Pattern=bovenop, Pattern=lampenkap bovenop, Pattern=de lampenkap, Pattern=de, Pattern=lampenkap
+Turn ID=26| A | A : yes dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn

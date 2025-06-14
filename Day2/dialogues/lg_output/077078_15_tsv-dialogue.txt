@@ -1,0 +1,307 @@
+B|0| B: _het_ _zijn_ _een_ bak _en hij_ bevinden zich _in_ _een_ vierkant _in_ _een_ plat vierkant _een beetje_ alsof _die een_ glitch _hebben_ 
+A|1| A: _oké_ _ja_ 
+B|2| B: [ja] _dat_ _zijn_ geloven _ik_ _de_ _enig_ _maar_ _hij_ _hebben_ _ook_ _nog_ _een_ soort _van_ _slurf_ 
+B|3| B: _en_ _een_ hoek hier _en_ _twee_ _van_ _die_ antennet 
+A|4| A: [ja] [ja] [ja] _oké_ 
+B|5| B: [ja] 
+A|6| A: [ja] 
+A|7| A: nummer zes 
+B|8| B: _bij mij staan die_ _net_ _iets_ _een beetje_ _rechts van het midden_ _en dan_ helemaal _bovenaan_ 
+A|9| A: [hebben] [ik] [ook] 
+B|10| B: [oké] 
+A|11| A: _tegen de rand_ of [iets] daaronder 
+B|12| B: [ja] [iets] _onder_ _de rand maar_ _er_ _staan_ geen ander figuur boven 
+A|13| A: nee [oké] 
+A|14| A: [dan] [hebben] we dezelfde plek 
+A|15| A: geel 
+A|16| A: dit [zijn] [die een] zeggen [maar] [die [een] beetje] door [de] grond glitchten [zijn] 
+A|17| A: [en dan] _zitten_ [er] zeggen [maar] [dat] [slurf] _aan de_ voorkant 
+B|18| B: [ja] 
+B|19| B: [ja] 
+A|20| A: _met_ stok _aan de_ zijkant 
+A|21| A: [en] [die] punt [ja] 
+B|22| B: [ja] 
+B|23| B: letter C 
+A|24| A: _hij staan_ [rechts van het midden] 
+A|25| A: [in] [het midden] [bovenaan] 
+B|26| B: [ja] 
+B|27| B: _best wel_ dicht [tegen de rand] 
+A|28| A: [best wel] [ja] [best wel] vlak _bij [de_ rand] 
+B|29| B: [ja] 
+B|30| B: [hij] [hebben] _twee_ horent [hij] [zitten] [hij] glitcht [in] [dat] vierkantje 
+A|31| A: [ja] 
+A|32| A: [ik] [zijn] half blind _met_ [dat] [slurf] 
+B|33| B: [ja] [hij] [hebben] [een] slurfje 
+A|34| A: [ja] 
+A|35| A: nummer dertien 
+B|36| B: [hij staan] links [aan [de] rand] [en] boven [aan [de] rand] 
+B|37| B: [hij staan] [iets] veel _naar_ boven [dan] [dat] [die] _naar_ links [staan] 
+A|38| A: [ja] [maar] jij bedoelen [de] bovenrand 
+B|39| B: [ja] 
+A|40| A: nee [bij mij staan die] zeggen [maar] [nog] ongeveer halverwege 
+B|41| B: [oké] 
+A|42| A: dit [zijn] [die een] zeggen [maar] [die] door [die] grond heen geglitcht [zijn] _met_ [dat] [slurf] [aan de] voorkant 
+B|43| B: [ja] 
+A|44| A: [en] [die] [twee] punt erop 
+A|45| A: [en] [dat] armp 
+B|46| B: moeten ze [nog] _even_ zoeken 
+B|47| B: [ja] 
+B|48| B: letter J 
+A|49| A: [en] [die] [staan] als je [het midden] [van het] scherm [hebben] echt [net] _heel_ [iets] [naar] [rechts] 
+A|50| A: [maar] [wel] _dus_ onderaan 
+A|51| A: niet [tegen [de rand] maar] [wel] als [enig] voor [mij] daar 
+B|52| B: [ja] [en] [een] [heel] klein [beetje] _rechts van [de_ rand] [dus] 
+A|53| A: [ja] 
+B|54| B: [ja] 
+B|55| B: [de] glitch _met het slurf_ 
+A|56| A: [ja] 
+A|57| A: nummer negen 
+B|58| B: [hij staan] boven [het midden] 
+A|59| A: [ik] [hebben] [onder] [het midden] 
+B|60| B: [oké] 
+A|61| A: _wel rechts_ 
+B|62| B: [ja] [wel rechts] 
+A|63| A: [even] kijken dit [zijn] [die een] [die] door [de] plank [zijn] glitchten [met het slurf] 
+B|64| B: yes 
+A|65| A: [en] [de] [twee] stokkie 
+B|66| B: letter N 
+A|67| A: [en hij] staat [wel] [bovenaan] zeggen [maar] zo'n stuk vanaf [de] bovenrand 
+A|68| A: [maar] [dan] [ook] [ja] vijfenvijftig procent ongeveer vanaf [het] zeggen [maar] 
+B|69| B: [ja] precies hetzelfde 
+A|70| A: [oké] 
+B|71| B: [dus] [heel] erg dicht [bij _de] middellijn_ [en] [heel] erg dicht [bij de] bovenkant 
+A|72| A: [ja] 
+A|73| A: [maar] [wel] echt [rechts van [de] middellijn] 
+B|74| B: [ja] 
+A|75| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het zijn een bak en hij bevinden zich in een vierkant in een plat vierkant een beetje alsof die een glitch hebben
+	Free: Pattern=een, Pattern=het, Pattern=hebben, Pattern=in, Pattern=die een, Pattern=en hij, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een, Pattern=hij, Pattern=die, Pattern=en
+Turn ID=1| A | A : oké ja
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja dat zijn geloven ik de enig maar hij hebben ook nog een soort van slurf
+	Free: Pattern=dat, Pattern=nog, Pattern=ook, Pattern=slurf, Pattern=een, Pattern=hebben, Pattern=ik, Pattern=van, Pattern=de, Pattern=ja, Pattern=hij, Pattern=enig, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=3| B | B : en een hoek hier en twee van die antennet
+	Free: Pattern=twee, Pattern=een, Pattern=die, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : ja ja ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : bij mij staan die net iets een beetje rechts van het midden en dan helemaal bovenaan
+	Free: Pattern=net, Pattern=iets, Pattern=en dan, Pattern=rechts van het midden, Pattern=bovenaan, Pattern=een beetje, Pattern=bij mij staan die
+	Constrained: Pattern=het midden, Pattern=rechts, Pattern=het, Pattern=die, Pattern=van het, Pattern=mij, Pattern=beetje, Pattern=dan, Pattern=een, Pattern=staan, Pattern=van, Pattern=en
+Turn ID=9| A | A : hebben ik ook
+	Free: Pattern=ik, Pattern=hebben, Pattern=ook
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : tegen de rand of iets daaronder
+	Free: Pattern=tegen de rand, Pattern=iets
+	Constrained: Pattern=de rand, Pattern=de
+Turn ID=12| B | B : ja iets onder de rand maar er staan geen ander figuur boven
+	Free: Pattern=staan, Pattern=er, Pattern=iets, Pattern=ja, Pattern=de rand maar, Pattern=onder
+	Constrained: Pattern=de rand, Pattern=de, Pattern=maar
+Turn ID=13| A | A : nee oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=14| A | A : dan hebben we dezelfde plek
+	Free: Pattern=hebben, Pattern=dan
+	Constrained: 
+Turn ID=15| A | A : geel
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : dit zijn die een zeggen maar die een beetje door de grond glitchten zijn
+	Free: Pattern=de, Pattern=die een, Pattern=een beetje, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=die, Pattern=beetje, Pattern=een
+Turn ID=17| A | A : en dan zitten er zeggen maar dat slurf aan de voorkant
+	Free: Pattern=dat, Pattern=en dan, Pattern=aan de, Pattern=slurf, Pattern=zitten, Pattern=er, Pattern=maar
+	Constrained: Pattern=de, Pattern=en, Pattern=dan
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : met stok aan de zijkant
+	Free: Pattern=aan de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=21| A | A : en die punt ja
+	Free: Pattern=die, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : letter C
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : hij staan rechts van het midden
+	Free: Pattern=rechts van het midden, Pattern=hij staan
+	Constrained: Pattern=het midden, Pattern=rechts, Pattern=staan, Pattern=het, Pattern=hij, Pattern=van het, Pattern=van
+Turn ID=25| A | A : in het midden bovenaan
+	Free: Pattern=het midden, Pattern=bovenaan, Pattern=in
+	Constrained: Pattern=het
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : best wel dicht tegen de rand
+	Free: Pattern=tegen de rand, Pattern=best wel
+	Constrained: Pattern=de rand, Pattern=de, Pattern=wel
+Turn ID=28| A | A : best wel ja best wel vlak bij de rand
+	Free: Pattern=de rand, Pattern=bij de, Pattern=best wel, Pattern=ja
+	Constrained: Pattern=de, Pattern=wel
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : hij hebben twee horent hij zitten hij glitcht in dat vierkantje
+	Free: Pattern=dat, Pattern=twee, Pattern=hebben, Pattern=hij, Pattern=in, Pattern=zitten
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ik zijn half blind met dat slurf
+	Free: Pattern=dat, Pattern=slurf, Pattern=met, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=33| B | B : ja hij hebben een slurfje
+	Free: Pattern=hebben, Pattern=hij, Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : hij staan links aan de rand en boven aan de rand
+	Free: Pattern=aan de, Pattern=de rand, Pattern=hij staan, Pattern=en
+	Constrained: Pattern=de, Pattern=staan, Pattern=hij
+Turn ID=37| B | B : hij staan iets veel naar boven dan dat die naar links staan
+	Free: Pattern=dat, Pattern=iets, Pattern=dan, Pattern=hij staan, Pattern=staan, Pattern=die, Pattern=naar
+	Constrained: Pattern=staan, Pattern=hij
+Turn ID=38| A | A : ja maar jij bedoelen de bovenrand
+	Free: Pattern=maar, Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : nee bij mij staan die zeggen maar nog ongeveer halverwege
+	Free: Pattern=bij mij staan die, Pattern=maar, Pattern=nog
+	Constrained: Pattern=mij, Pattern=die, Pattern=staan
+Turn ID=41| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=42| A | A : dit zijn die een zeggen maar die door die grond heen geglitcht zijn met dat slurf aan de voorkant
+	Free: Pattern=dat, Pattern=aan de, Pattern=slurf, Pattern=met, Pattern=die, Pattern=die een, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=die, Pattern=de, Pattern=een
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : en die twee punt erop
+	Free: Pattern=die, Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=45| A | A : en dat armp
+	Free: Pattern=en, Pattern=dat
+	Constrained: 
+Turn ID=46| B | B : moeten ze nog even zoeken
+	Free: Pattern=nog, Pattern=even
+	Constrained: 
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=49| A | A : en die staan als je het midden van het scherm hebben echt net heel iets naar rechts
+	Free: Pattern=het midden, Pattern=heel, Pattern=net, Pattern=staan, Pattern=hebben, Pattern=die, Pattern=van het, Pattern=en, Pattern=naar, Pattern=rechts, Pattern=iets
+	Constrained: Pattern=het, Pattern=van
+Turn ID=50| A | A : maar wel dus onderaan
+	Free: Pattern=maar, Pattern=dus, Pattern=wel
+	Constrained: 
+Turn ID=51| A | A : niet tegen de rand maar wel als enig voor mij daar
+	Free: Pattern=wel, Pattern=tegen de rand, Pattern=mij, Pattern=de rand maar, Pattern=enig
+	Constrained: Pattern=de rand, Pattern=de, Pattern=maar
+Turn ID=52| B | B : ja en een heel klein beetje rechts van de rand dus
+	Free: Pattern=de rand, Pattern=heel, Pattern=beetje, Pattern=een, Pattern=en, Pattern=rechts van de, Pattern=dus, Pattern=ja
+	Constrained: Pattern=van, Pattern=rechts, Pattern=de
+Turn ID=53| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : de glitch met het slurf
+	Free: Pattern=met het slurf, Pattern=de
+	Constrained: Pattern=het, Pattern=slurf, Pattern=met
+Turn ID=56| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=58| B | B : hij staan boven het midden
+	Free: Pattern=het midden, Pattern=hij staan
+	Constrained: Pattern=het, Pattern=staan, Pattern=hij
+Turn ID=59| A | A : ik hebben onder het midden
+	Free: Pattern=het midden, Pattern=ik, Pattern=hebben, Pattern=onder
+	Constrained: Pattern=het
+Turn ID=60| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=61| A | A : wel rechts
+	Free: Pattern=wel rechts
+	Constrained: Pattern=rechts, Pattern=wel
+Turn ID=62| B | B : ja wel rechts
+	Free: Pattern=wel rechts, Pattern=ja
+	Constrained: Pattern=rechts, Pattern=wel
+Turn ID=63| A | A : even kijken dit zijn die een die door de plank zijn glitchten met het slurf
+	Free: Pattern=de, Pattern=even, Pattern=met het slurf, Pattern=die, Pattern=die een, Pattern=zijn
+	Constrained: Pattern=slurf, Pattern=een, Pattern=het, Pattern=met, Pattern=die
+Turn ID=64| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=65| A | A : en de twee stokkie
+	Free: Pattern=de, Pattern=en, Pattern=twee
+	Constrained: 
+Turn ID=66| B | B : letter N
+	Free: 
+	Constrained: 
+Turn ID=67| A | A : en hij staat wel bovenaan zeggen maar zo'n stuk vanaf de bovenrand
+	Free: Pattern=de, Pattern=wel, Pattern=en hij, Pattern=bovenaan, Pattern=maar
+	Constrained: Pattern=en, Pattern=hij
+Turn ID=68| A | A : maar dan ook ja vijfenvijftig procent ongeveer vanaf het zeggen maar
+	Free: Pattern=ja, Pattern=ook, Pattern=dan, Pattern=het, Pattern=maar
+	Constrained: 
+Turn ID=69| B | B : ja precies hetzelfde
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=70| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=71| B | B : dus heel erg dicht bij de middellijn en heel erg dicht bij de bovenkant
+	Free: Pattern=heel, Pattern=dus, Pattern=bij de, Pattern=en, Pattern=de middellijn
+	Constrained: Pattern=de
+Turn ID=72| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=73| A | A : maar wel echt rechts van de middellijn
+	Free: Pattern=rechts van de, Pattern=de middellijn, Pattern=maar, Pattern=wel
+	Constrained: Pattern=van, Pattern=rechts, Pattern=de
+Turn ID=74| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=75| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

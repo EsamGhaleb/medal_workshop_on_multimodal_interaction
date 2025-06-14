@@ -1,0 +1,207 @@
+A|0| A: _en dan_ klik _ik_ 
+A|1| A: _dan_ komen _die_ 
+A|2| A: _ja_ _een_ emmer met _een ja_ _het_ _uiteinde_ _van_ _een_ pollepel zullen _ik_ zeggen 
+B|3| B: _waar_ zitten [die] [uiteinde] op 
+A|4| A: in _de_ emmer dus _dat zijn_ helemaal erbovenop 
+A|5| A: _aan de_ bovenkant 
+A|6| A: _en daarvoor_ komen _een_ _een rond_ _stuk_ eruit 
+A|7| A: _en_ horizontaal door _dat_ door [die] _rond_ uitstulping _zijn_ er _een_ vierkant _staaf_ [die] met één [die] _een_ [uiteinde] _hebben_ _dat_ uitmonden in _een rond_ _cirkel_ 
+B|8| B: oké [ik] denken [dat] [ik] misschien weten 
+B|9| B: [hebben] _hij_ _bovenop_ ook iets 
+A|10| A: _ja_ [bovenop] _zijn_ dus [die] [die] [die] pollepel [die] er zo uitsteken 
+A|11| A: _een_ _een_ één 
+B|12| B: oké [een] beetje [aan de] _linkerkant van het midden_ 
+A|13| A: _ja_ 
+A|14| A: [linkerkant van het midden] _ja_ 
+B|15| B: [ja] [en daarvoor] [hebben] _hij_ zegmaar _een bal_ 
+A|16| A: [ja] [een bal] 
+B|17| B: [ja] [en dan] links _een stuk staaf_ 
+A|18| A: [ja] 
+A|19| A: link [een stuk staaf] , _rechts een stuk staaf_ [en] 
+B|20| B: [rechts een stuk staaf] 
+B|21| B: [en] [een rond] _aan de rechterkant_ 
+A|22| A: [ja] [aan] [het] [uiteinde] [van] [die] [staaf] _zijn_ [aan de rechterkant] inderdaad _een ja_ _een cirkel_ [een rond] 
+B|23| B: [ja] oké 
+A|24| A: [ja] 
+B|25| B: [ja] [dat zijn] P 
+B|26| B: _deze_ [hebben] [een] balle rechtsvoor 
+B|27| B: [en] links [en] [rechts] zitten daar [een] [staaf] [aan] 
+B|28| B: [en] [aan de rechterkant] [een cirkel] 
+B|29| B: [en] [bovenop] [hebben] _hij_ [een ja] _soort_ stok appel iets 
+A|30| A: [ja] 
+A|31| A: [ja] 
+A|32| A: met [een] [soort] _zuignap_ lijken [het] wel , [ik] vinden [die] [staaf] [en] [dat] [dat] cirkelt zo _zuignap_ [dat] je zo tegen [de] muur kunnen drukken 
+B|33| B: [ja] 
+B|34| B: [ja] 
+B|35| B: [ja] [ja] 
+A|36| A: nummer negen 
+A|37| A: [deze] [zijn] met _de zuignap_ 
+A|38| A: [die] je zo vast kunnen maken 
+B|39| B: [ja] 
+B|40| B: [dat zijn] H 
+B|41| B: _dit zijn_ [die] [zuignap] 
+A|42| A: [ja] 
+A|43| A: [waar] [zijn] [hij] 
+A|44| A: [ja] nummer zes 
+A|45| A: [dit zijn] met [het] [zuignap] 
+B|46| B: [ja] [ik] zoeken hem 
+B|47| B: [ja] [dat zijn] C 
+B|48| B: [dit zijn] [de zuignap] 
+A|49| A: [ja] 
+A|50| A: nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : en dan klik ik
+	Free: Pattern=en dan, Pattern=ik
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=1| A | A : dan komen die
+	Free: Pattern=dan, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : ja een emmer met een ja het uiteinde van een pollepel zullen ik zeggen
+	Free: Pattern=ja, Pattern=het, Pattern=ik, Pattern=een, Pattern=uiteinde, Pattern=van, Pattern=een ja
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=3| B | B : waar zitten die uiteinde op
+	Free: Pattern=uiteinde, Pattern=waar, Pattern=die
+	Constrained: 
+Turn ID=4| A | A : in de emmer dus dat zijn helemaal erbovenop
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=5| A | A : aan de bovenkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| A | A : en daarvoor komen een een rond stuk eruit
+	Free: Pattern=en daarvoor, Pattern=een rond, Pattern=een, Pattern=stuk
+	Constrained: Pattern=rond, Pattern=een, Pattern=en
+Turn ID=7| A | A : en horizontaal door dat door die rond uitstulping zijn er een vierkant staaf die met één die een uiteinde hebben dat uitmonden in een rond cirkel
+	Free: Pattern=cirkel, Pattern=dat, Pattern=staaf, Pattern=hebben, Pattern=die, Pattern=en, Pattern=zijn, Pattern=een, Pattern=uiteinde, Pattern=een rond, Pattern=rond
+	Constrained: Pattern=rond, Pattern=een
+Turn ID=8| B | B : oké ik denken dat ik misschien weten
+	Free: Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=9| B | B : hebben hij bovenop ook iets
+	Free: Pattern=hij, Pattern=hebben, Pattern=bovenop
+	Constrained: 
+Turn ID=10| A | A : ja bovenop zijn dus die die die pollepel die er zo uitsteken
+	Free: Pattern=zijn, Pattern=ja, Pattern=bovenop, Pattern=die
+	Constrained: 
+Turn ID=11| A | A : een een één
+	Free: Pattern=een
+	Constrained: 
+Turn ID=12| B | B : oké een beetje aan de linkerkant van het midden
+	Free: Pattern=linkerkant van het midden, Pattern=aan de, Pattern=een
+	Constrained: Pattern=aan, Pattern=de, Pattern=van, Pattern=het
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : linkerkant van het midden ja
+	Free: Pattern=linkerkant van het midden, Pattern=ja
+	Constrained: Pattern=van, Pattern=het
+Turn ID=15| B | B : ja en daarvoor hebben hij zegmaar een bal
+	Free: Pattern=ja, Pattern=en daarvoor, Pattern=hebben, Pattern=hij, Pattern=een bal
+	Constrained: Pattern=een, Pattern=en
+Turn ID=16| A | A : ja een bal
+	Free: Pattern=een bal, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=17| B | B : ja en dan links een stuk staaf
+	Free: Pattern=een stuk staaf, Pattern=en dan, Pattern=ja
+	Constrained: Pattern=staaf, Pattern=dan, Pattern=een, Pattern=stuk, Pattern=en
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : link een stuk staaf , rechts een stuk staaf en
+	Free: Pattern=rechts een stuk staaf, Pattern=een stuk staaf, Pattern=en
+	Constrained: Pattern=rechts, Pattern=staaf, Pattern=een, Pattern=stuk, Pattern=een stuk staaf
+Turn ID=20| B | B : rechts een stuk staaf
+	Free: Pattern=rechts een stuk staaf
+	Constrained: Pattern=rechts, Pattern=staaf, Pattern=een, Pattern=stuk, Pattern=een stuk staaf
+Turn ID=21| B | B : en een rond aan de rechterkant
+	Free: Pattern=aan de rechterkant, Pattern=een rond, Pattern=en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=rond, Pattern=de, Pattern=aan
+Turn ID=22| A | A : ja aan het uiteinde van die staaf zijn aan de rechterkant inderdaad een ja een cirkel een rond
+	Free: Pattern=staaf, Pattern=het, Pattern=een rond, Pattern=zijn, Pattern=aan, Pattern=ja, Pattern=een cirkel, Pattern=uiteinde, Pattern=aan de rechterkant, Pattern=die, Pattern=van, Pattern=een ja
+	Constrained: Pattern=cirkel, Pattern=aan de, Pattern=een, Pattern=rond, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=23| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja dat zijn P
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=26| B | B : deze hebben een balle rechtsvoor
+	Free: Pattern=deze, Pattern=een, Pattern=hebben
+	Constrained: 
+Turn ID=27| B | B : en links en rechts zitten daar een staaf aan
+	Free: Pattern=staaf, Pattern=een, Pattern=en, Pattern=rechts, Pattern=aan
+	Constrained: 
+Turn ID=28| B | B : en aan de rechterkant een cirkel
+	Free: Pattern=aan de rechterkant, Pattern=een cirkel, Pattern=en
+	Constrained: Pattern=cirkel, Pattern=aan de, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=29| B | B : en bovenop hebben hij een ja soort stok appel iets
+	Free: Pattern=bovenop, Pattern=soort, Pattern=hebben, Pattern=hij, Pattern=en, Pattern=een ja
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : met een soort zuignap lijken het wel , ik vinden die staaf en dat dat cirkelt zo zuignap dat je zo tegen de muur kunnen drukken
+	Free: Pattern=dat, Pattern=soort, Pattern=de, Pattern=staaf, Pattern=een, Pattern=het, Pattern=die, Pattern=ik, Pattern=en, Pattern=zuignap
+	Constrained: 
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : deze zijn met de zuignap
+	Free: Pattern=de zuignap, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=zuignap, Pattern=de
+Turn ID=38| A | A : die je zo vast kunnen maken
+	Free: Pattern=die
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : dat zijn H
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=41| B | B : dit zijn die zuignap
+	Free: Pattern=dit zijn, Pattern=zuignap, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : waar zijn hij
+	Free: Pattern=zijn, Pattern=hij, Pattern=waar
+	Constrained: 
+Turn ID=44| A | A : ja nummer zes
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| A | A : dit zijn met het zuignap
+	Free: Pattern=dit zijn, Pattern=zuignap, Pattern=het
+	Constrained: Pattern=zijn
+Turn ID=46| B | B : ja ik zoeken hem
+	Free: Pattern=ja, Pattern=ik
+	Constrained: 
+Turn ID=47| B | B : ja dat zijn C
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=48| B | B : dit zijn de zuignap
+	Free: Pattern=de zuignap, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=zuignap, Pattern=de
+Turn ID=49| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| A | A : nummer zes
+	Free: 
+	Constrained: 

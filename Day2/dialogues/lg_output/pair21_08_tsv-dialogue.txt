@@ -1,0 +1,175 @@
+A|0| A: bovenop _het kop_ hebben _je_ _een_ soort driehoek of eigenlijk _zijn het_ _een_ vierkantje maar _je_ zien niet helemaal veel _het_ punt ervan _en_ daar doorheen _zitten er_ iets doorheen steken 
+A|1| A: _een_ soort staaf _met_ vierkant 
+A|2| A: _en_ onder _het kop_ _zijn_ eigenlijk hij hebben _een_ soort _van_ één pootje 
+B|3| B: _ja_ dus op _de_ bovenkant [zitten] _zo'n_ ruitvormig 
+A|4| A: [ja] 
+B|5| B: [ja] _dan_ [zijn het] N 
+A|6| A: _oké_ 
+B|7| B: _oké hier_ [zitten] [een] _ruit_ op [het kop] [met] twee _van die_ _schroef_ erin 
+B|8| B: dus _van _die blok_ die steeds klein worden_ 
+A|9| A: [ja] 
+A|10| A: [ja] _en_ [dan] hebben hij [zo'n] plat vierkant _aan de_ voorkant 
+B|11| B: nee 
+A|12| A: of [zijn] _dat_ weer _een ander_ 
+B|13| B: nee _dat zijn_ [dan] toch [een ander] 
+A|14| A: [oké] 
+A|15| A: _je_ zeggen [met] [die blok die steeds klein worden] 
+B|16| B: [ja] 
+A|17| A: _en_ wat hebben _je_ nog veel 
+B|18| B: dus [aan de] bovenkant [zitten er] [een] _ruit_ [die] gaan voor [de] helft [het kop] in 
+A|19| A: [ja] _en_ daar onder hebben _je_ [een] soort poo 
+B|20| B: [en] [er] [zitten] 
+B|21| B: [ja] 
+A|22| A: [oké] nummer vijf 
+A|23| A: [oké hier] hebben [dat] [kop] hebben [een] poo [aan de] onderkant 
+A|24| A: als enig [dat zijn] [zo'n] krulle beetje [zo'n] 
+B|25| B: [ja] 
+A|26| A: [en] daar boven hebben hij [zo'n] vierkant wat half [van die blok] , vierkant [blok] , [dat] door [een] soort driehoek of [een] vierkant lopen 
+B|27| B: _die ruit_ bedoelen [je] 
+A|28| A: [ja] [die ruit] 
+B|29| B: [ja] [dat zijn] F 
+B|30| B: [en] dit [zijn] [met] _de ruit_ op [het kop] [met] [de] _schroef_ eraan 
+A|31| A: even kijken 
+A|32| A: [de ruit] , [ja] 
+A|33| A: nummer negen 
+A|34| A: [oké] [die] hebben [dat] poo [aan de] onderkant 
+A|35| A: daar boven hebben hij [dan] [zo'n] [ruit] waar [dat] [schroef] doorheen [zitten] 
+B|36| B: [ja] [dat zijn] E 
+B|37| B: [de ruit] [de ruit] [met] [de] twee [schroef] [aan] allebei [de] kant 
+A|38| A: even kijken 
+B|39| B: op [het kop] 
+A|40| A: [ja] [met] [een] soort poo eronder 
+B|41| B: [ja] 
+A|42| A: nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : bovenop het kop hebben je een soort driehoek of eigenlijk zijn het een vierkantje maar je zien niet helemaal veel het punt ervan en daar doorheen zitten er iets doorheen steken
+	Free: Pattern=zijn het, Pattern=het kop, Pattern=een, Pattern=het, Pattern=en, Pattern=zitten er, Pattern=je
+	Constrained: Pattern=het, Pattern=kop, Pattern=zitten, Pattern=er, Pattern=zijn
+Turn ID=1| A | A : een soort staaf met vierkant
+	Free: Pattern=met, Pattern=een
+	Constrained: 
+Turn ID=2| A | A : en onder het kop zijn eigenlijk hij hebben een soort van één pootje
+	Free: Pattern=het kop, Pattern=een, Pattern=zijn, Pattern=van, Pattern=en
+	Constrained: Pattern=het, Pattern=kop
+Turn ID=3| B | B : ja dus op de bovenkant zitten zo'n ruitvormig
+	Free: Pattern=zitten, Pattern=ja, Pattern=zo'n, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja dan zijn het N
+	Free: Pattern=zijn het, Pattern=ja, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=6| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : oké hier zitten een ruit op het kop met twee van die schroef erin
+	Free: Pattern=ruit, Pattern=het kop, Pattern=een, Pattern=met, Pattern=zitten, Pattern=schroef, Pattern=van die, Pattern=oké hier
+	Constrained: Pattern=het, Pattern=kop, Pattern=die, Pattern=oké, Pattern=van
+Turn ID=8| B | B : dus van die blok die steeds klein worden
+	Free: Pattern=die blok die steeds klein worden, Pattern=van die blok
+	Constrained: Pattern=die, Pattern=van, Pattern=blok, Pattern=van die
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja en dan hebben hij zo'n plat vierkant aan de voorkant
+	Free: Pattern=zo'n, Pattern=ja, Pattern=aan de, Pattern=dan, Pattern=en
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=11| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : of zijn dat weer een ander
+	Free: Pattern=een ander, Pattern=zijn, Pattern=dat
+	Constrained: Pattern=een
+Turn ID=13| B | B : nee dat zijn dan toch een ander
+	Free: Pattern=een ander, Pattern=dat zijn, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=een, Pattern=dat
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : je zeggen met die blok die steeds klein worden
+	Free: Pattern=die blok die steeds klein worden, Pattern=met, Pattern=je
+	Constrained: Pattern=die, Pattern=blok
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : en wat hebben je nog veel
+	Free: Pattern=je, Pattern=en
+	Constrained: 
+Turn ID=18| B | B : dus aan de bovenkant zitten er een ruit die gaan voor de helft het kop in
+	Free: Pattern=ruit, Pattern=de, Pattern=aan de, Pattern=het kop, Pattern=een, Pattern=die, Pattern=zitten er
+	Constrained: Pattern=het, Pattern=kop, Pattern=zitten, Pattern=er, Pattern=de, Pattern=aan
+Turn ID=19| A | A : ja en daar onder hebben je een soort poo
+	Free: Pattern=je, Pattern=ja, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=20| B | B : en er zitten
+	Free: Pattern=er, Pattern=zitten, Pattern=en
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : oké nummer vijf
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=23| A | A : oké hier hebben dat kop hebben een poo aan de onderkant
+	Free: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=kop, Pattern=oké hier
+	Constrained: Pattern=aan, Pattern=de, Pattern=oké
+Turn ID=24| A | A : als enig dat zijn zo'n krulle beetje zo'n
+	Free: Pattern=dat zijn, Pattern=zo'n
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : en daar boven hebben hij zo'n vierkant wat half van die blok , vierkant blok , dat door een soort driehoek of een vierkant lopen
+	Free: Pattern=dat, Pattern=zo'n, Pattern=en, Pattern=blok, Pattern=een, Pattern=van die blok
+	Constrained: Pattern=die, Pattern=van, Pattern=blok, Pattern=van die
+Turn ID=27| B | B : die ruit bedoelen je
+	Free: Pattern=die ruit, Pattern=je
+	Constrained: Pattern=die, Pattern=ruit
+Turn ID=28| A | A : ja die ruit
+	Free: Pattern=die ruit, Pattern=ja
+	Constrained: Pattern=die, Pattern=ruit
+Turn ID=29| B | B : ja dat zijn F
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=30| B | B : en dit zijn met de ruit op het kop met de schroef eraan
+	Free: Pattern=de, Pattern=de ruit, Pattern=het kop, Pattern=met, Pattern=schroef, Pattern=en, Pattern=zijn
+	Constrained: Pattern=ruit, Pattern=het, Pattern=kop, Pattern=de
+Turn ID=31| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : de ruit , ja
+	Free: Pattern=de ruit, Pattern=ja
+	Constrained: Pattern=ruit, Pattern=de
+Turn ID=33| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : oké die hebben dat poo aan de onderkant
+	Free: Pattern=aan de, Pattern=die, Pattern=oké, Pattern=dat
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=35| A | A : daar boven hebben hij dan zo'n ruit waar dat schroef doorheen zitten
+	Free: Pattern=dat, Pattern=ruit, Pattern=zo'n, Pattern=dan, Pattern=zitten, Pattern=schroef
+	Constrained: 
+Turn ID=36| B | B : ja dat zijn E
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=37| B | B : de ruit de ruit met de twee schroef aan allebei de kant
+	Free: Pattern=de ruit, Pattern=met, Pattern=schroef, Pattern=de, Pattern=aan
+	Constrained: Pattern=ruit, Pattern=de
+Turn ID=38| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=39| B | B : op het kop
+	Free: Pattern=het kop
+	Constrained: Pattern=het, Pattern=kop
+Turn ID=40| A | A : ja met een soort poo eronder
+	Free: Pattern=met, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : nummer drie
+	Free: 
+	Constrained: 

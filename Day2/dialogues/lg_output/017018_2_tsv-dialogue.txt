@@ -1,0 +1,215 @@
+A|0| A: _deze hebben_ _een_ _driehoek bovenop_ _een beetje_ _naar de_ achterkant 
+A|1| A: _helemaal_ voorop _hebben_ _die_ _ja_ wat _zijn_ _het_ ? _soort_ trapeziumen maar _niet_ _helemaal_ recht 
+A|2| A: _en_ _aan de_ onderkant _zitten_ _een_ cirkel _ja_ _die_ 
+B|3| B: [een] rond 
+B|4| B: [ja] _links_ zo'n [soort] uitschuiftelescoop 
+A|5| A: _ook_ _nog_ _iets_ [ja] 
+B|6| B: [ja] 
+B|7| B: _dat zijn_ [de] letter J 
+A|8| A: _die_ _zitten_ _voor mij_ _in het vak_ _rechtsonder en dan_ _in het_ _midden_ 
+B|9| B: [ja] [voor mij] [ook] 
+B|10| B: _er_ [zitten] _bij_ [mij] ver [ook] niks _veel_ omheen 
+A|11| A: _nee_ _daar_ [zitten] _niet_ _echt_ _iets_ _in de_ buurt 
+B|12| B: [nee] 
+B|13| B: [dan] [hebben] we [het] over _dezelfde_ 
+B|14| B: even kijken [deze hebben] _dat_ plat of [driehoek] _boven_ uitsteken _en de telescoop_ [aan de] zijkant [aan de] linkerkant 
+B|15| B: [de] 
+A|16| A: [ja] check [dat zijn] zes [voor mij] 
+B|17| B: [die] vinden we [aan de] rechterkant onderste [vak] 
+B|18| B: [en dan] ergens halverwege 
+A|19| A: [ja] 
+B|20| B: _en _daar_ staan_ [rechtsonder] [nog] [en] linksonder [nog] [een] figuurt 
+A|21| A: [ja] 
+B|22| B: oké 
+A|23| A: [dat zijn] moeten drukken [dat zijn] [dezelfde] denken _ik_ 
+B|24| B: oké 
+A|25| A: _dit zijn die _met_ de_ [driehoek] _een beetje_ [boven] [aan de] achterkant [en de telescoop] [links] 
+B|26| B: _ja dat zijn_ E [voor mij] 
+A|27| A: _die staan voor mij_ _in de_ rechteronderhelft 
+A|28| A: [en daar] [dan] [ja] [daar staan] [er] maar twee [dan] [de] [links] 
+A|29| A: [die] _een beetje_ [nee] [bij] jou _niet_ 
+B|30| B: _veel_ rechts onderin 
+A|31| A: [nee] [het] [veel] linksboven _in de_ Rechteronderkant [dat] _wel_ maar _in_ [dat] [vak] Linksboven 
+B|32| B: oké [nee] [dan] [hebben] we [het] [niet] over [dezelfde] want _hij staan_ [bij] [mij] [wel] [een beetje] eenzaam [ook] 
+A|33| A: [ja] al [die] rechter [staan] [een beetje] 
+B|34| B: [dit zijn die met] [het] [het] plat _driehoek bovenop en de telescoop_ [aan de] linkerkant 
+A|35| A: yes [dat zijn] tien [voor mij] 
+B|36| B: [en] [die _staan voor mij] helemaal_ linksonder [in de] hoek 
+A|37| A: [nee] [nee] [daar] [hebben] _ik_ [nog] [wel] wat naast 
+B|38| B: oké 
+A|39| A: [dit zijn die _met] de_ [driehoek bovenop en de telescoop] [links] 
+B|40| B: [ik] weten welk je bedoelen 
+B|41| B: [ja] 
+B|42| B: [dat zijn] G 
+A|43| A: [hij [staan] voor mij helemaal] linksboven [in] [zijn] één 
+B|44| B: [ja] heel eenzaam 
+A|45| A: [beetje] zielig 
+B|46| B: [het] plat [driehoek] [met [de] telescoop] 
+A|47| A: [die] [zijn] [ja dat zijn] nummer tien [voor mij] 
+B|48| B: [rechtsonder en dan] [echt] [midden] [in het vak] 
+B|49| B: [ja] [iets] [veel] [naar] [boven] [naar de] horizontaal lijn 
+A|50| A: [ja] 
+A|51| A: [ja] 
+A|52| A: [daar] [hebben] [ik] hem [ook] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben een driehoek bovenop een beetje naar de achterkant
+	Free: Pattern=een, Pattern=naar de, Pattern=driehoek bovenop, Pattern=deze hebben, Pattern=een beetje
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=beetje, Pattern=een, Pattern=hebben, Pattern=naar
+Turn ID=1| A | A : helemaal voorop hebben die ja wat zijn het ? soort trapeziumen maar niet helemaal recht
+	Free: Pattern=soort, Pattern=ja, Pattern=helemaal, Pattern=niet, Pattern=het, Pattern=hebben, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=2| A | A : en aan de onderkant zitten een cirkel ja die
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=en, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de
+Turn ID=3| B | B : een rond
+	Free: Pattern=een
+	Constrained: 
+Turn ID=4| B | B : ja links zo'n soort uitschuiftelescoop
+	Free: Pattern=ja, Pattern=soort, Pattern=links
+	Constrained: 
+Turn ID=5| A | A : ook nog iets ja
+	Free: Pattern=ook, Pattern=iets, Pattern=ja, Pattern=nog
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dat zijn de letter J
+	Free: Pattern=dat zijn, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| A | A : die zitten voor mij in het vak rechtsonder en dan in het midden
+	Free: Pattern=rechtsonder en dan, Pattern=in het, Pattern=in het vak, Pattern=voor mij, Pattern=midden, Pattern=die, Pattern=zitten
+	Constrained: Pattern=vak, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=in het, Pattern=in, Pattern=en, Pattern=mij, Pattern=rechtsonder
+Turn ID=9| B | B : ja voor mij ook
+	Free: Pattern=voor mij, Pattern=ook, Pattern=ja
+	Constrained: Pattern=mij
+Turn ID=10| B | B : er zitten bij mij ver ook niks veel omheen
+	Free: Pattern=ook, Pattern=veel, Pattern=zitten, Pattern=mij, Pattern=bij, Pattern=er
+	Constrained: 
+Turn ID=11| A | A : nee daar zitten niet echt iets in de buurt
+	Free: Pattern=iets, Pattern=niet, Pattern=nee, Pattern=in de, Pattern=zitten, Pattern=echt, Pattern=daar
+	Constrained: Pattern=de, Pattern=in
+Turn ID=12| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=13| B | B : dan hebben we het over dezelfde
+	Free: Pattern=dezelfde, Pattern=hebben, Pattern=dan, Pattern=het
+	Constrained: 
+Turn ID=14| B | B : even kijken deze hebben dat plat of driehoek boven uitsteken en de telescoop aan de zijkant aan de linkerkant
+	Free: Pattern=driehoek, Pattern=dat, Pattern=aan de, Pattern=boven, Pattern=deze hebben, Pattern=en de telescoop
+	Constrained: Pattern=de telescoop, Pattern=de, Pattern=en, Pattern=hebben
+Turn ID=15| B | B : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=16| A | A : ja check dat zijn zes voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij
+Turn ID=17| B | B : die vinden we aan de rechterkant onderste vak
+	Free: Pattern=aan de, Pattern=vak, Pattern=die
+	Constrained: Pattern=de
+Turn ID=18| B | B : en dan ergens halverwege
+	Free: Pattern=en dan
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en daar staan rechtsonder nog en linksonder nog een figuurt
+	Free: Pattern=en daar, Pattern=nog, Pattern=een, Pattern=daar staan, Pattern=rechtsonder, Pattern=en
+	Constrained: Pattern=daar, Pattern=en, Pattern=staan
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dat zijn moeten drukken dat zijn dezelfde denken ik
+	Free: Pattern=dat zijn, Pattern=dezelfde, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=24| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : dit zijn die met de driehoek een beetje boven aan de achterkant en de telescoop links
+	Free: Pattern=driehoek, Pattern=met de, Pattern=aan de, Pattern=boven, Pattern=links, Pattern=dit zijn die met, Pattern=en de telescoop, Pattern=een beetje
+	Constrained: Pattern=de, Pattern=de telescoop, Pattern=beetje, Pattern=een, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=26| B | B : ja dat zijn E voor mij
+	Free: Pattern=ja dat zijn, Pattern=voor mij
+	Constrained: Pattern=ja, Pattern=mij, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=27| A | A : die staan voor mij in de rechteronderhelft
+	Free: Pattern=die staan voor mij, Pattern=in de
+	Constrained: Pattern=de, Pattern=staan, Pattern=in, Pattern=voor mij, Pattern=die, Pattern=mij
+Turn ID=28| A | A : en daar dan ja daar staan er maar twee dan de links
+	Free: Pattern=en daar, Pattern=dan, Pattern=links, Pattern=daar staan, Pattern=er, Pattern=de, Pattern=ja
+	Constrained: Pattern=daar, Pattern=en, Pattern=staan
+Turn ID=29| A | A : die een beetje nee bij jou niet
+	Free: Pattern=niet, Pattern=nee, Pattern=die, Pattern=bij, Pattern=een beetje
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=30| B | B : veel rechts onderin
+	Free: Pattern=veel
+	Constrained: 
+Turn ID=31| A | A : nee het veel linksboven in de Rechteronderkant dat wel maar in dat vak Linksboven
+	Free: Pattern=dat, Pattern=vak, Pattern=veel, Pattern=wel, Pattern=nee, Pattern=het, Pattern=in, Pattern=in de
+	Constrained: Pattern=de, Pattern=in
+Turn ID=32| B | B : oké nee dan hebben we het niet over dezelfde want hij staan bij mij wel een beetje eenzaam ook
+	Free: Pattern=dezelfde, Pattern=ook, Pattern=hij staan, Pattern=wel, Pattern=nee, Pattern=het, Pattern=hebben, Pattern=bij, Pattern=mij, Pattern=een beetje, Pattern=niet, Pattern=dan
+	Constrained: Pattern=beetje, Pattern=een, Pattern=staan
+Turn ID=33| A | A : ja al die rechter staan een beetje
+	Free: Pattern=een beetje, Pattern=die, Pattern=ja, Pattern=staan
+	Constrained: Pattern=beetje, Pattern=een
+Turn ID=34| B | B : dit zijn die met het het plat driehoek bovenop en de telescoop aan de linkerkant
+	Free: Pattern=driehoek bovenop en de telescoop, Pattern=dit zijn die met, Pattern=aan de, Pattern=het
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=de telescoop, Pattern=driehoek bovenop, Pattern=en de telescoop, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=35| A | A : yes dat zijn tien voor mij
+	Free: Pattern=dat zijn, Pattern=voor mij
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=mij
+Turn ID=36| B | B : en die staan voor mij helemaal linksonder in de hoek
+	Free: Pattern=die staan voor mij, Pattern=staan voor mij helemaal, Pattern=in de, Pattern=en
+	Constrained: Pattern=de, Pattern=helemaal, Pattern=staan, Pattern=in, Pattern=voor mij, Pattern=die, Pattern=mij
+Turn ID=37| A | A : nee nee daar hebben ik nog wel wat naast
+	Free: Pattern=nog, Pattern=wel, Pattern=nee, Pattern=hebben, Pattern=ik, Pattern=daar
+	Constrained: 
+Turn ID=38| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=39| A | A : dit zijn die met de driehoek bovenop en de telescoop links
+	Free: Pattern=driehoek bovenop en de telescoop, Pattern=dit zijn die met, Pattern=met de, Pattern=links
+	Constrained: Pattern=driehoek, Pattern=de, Pattern=de telescoop, Pattern=driehoek bovenop, Pattern=en de telescoop, Pattern=die, Pattern=en, Pattern=zijn
+Turn ID=40| B | B : ik weten welk je bedoelen
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=43| A | A : hij staan voor mij helemaal linksboven in zijn één
+	Free: Pattern=staan voor mij helemaal, Pattern=hij staan, Pattern=zijn, Pattern=in
+	Constrained: Pattern=helemaal, Pattern=voor mij, Pattern=mij, Pattern=staan
+Turn ID=44| B | B : ja heel eenzaam
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| A | A : beetje zielig
+	Free: Pattern=beetje
+	Constrained: 
+Turn ID=46| B | B : het plat driehoek met de telescoop
+	Free: Pattern=de telescoop, Pattern=met de, Pattern=driehoek, Pattern=het
+	Constrained: Pattern=de
+Turn ID=47| A | A : die zijn ja dat zijn nummer tien voor mij
+	Free: Pattern=ja dat zijn, Pattern=voor mij, Pattern=zijn, Pattern=die
+	Constrained: Pattern=ja, Pattern=mij, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=48| B | B : rechtsonder en dan echt midden in het vak
+	Free: Pattern=in het vak, Pattern=rechtsonder en dan, Pattern=midden, Pattern=echt
+	Constrained: Pattern=vak, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=in het, Pattern=in, Pattern=rechtsonder, Pattern=en
+Turn ID=49| B | B : ja iets veel naar boven naar de horizontaal lijn
+	Free: Pattern=boven, Pattern=veel, Pattern=naar de, Pattern=naar, Pattern=iets, Pattern=ja
+	Constrained: Pattern=naar, Pattern=de
+Turn ID=50| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=51| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| A | A : daar hebben ik hem ook
+	Free: Pattern=ook, Pattern=daar, Pattern=hebben, Pattern=ik
+	Constrained: 

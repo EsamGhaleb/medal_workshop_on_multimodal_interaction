@@ -1,0 +1,91 @@
+A|0| A: deze _zijn_ met _de_ eigenlijk _de_ _driehoek_ _of_ _pyramide aan de bovenkant_ van 
+B|1| B: _die wiskundig [pyramide aan de_ bovenkant] 
+A|2| A: _ja_ 
+B|3| B: [ja] 
+A|4| A: en [aan de] onderkant zitten _een_ soort rond link zitten _een_ soort [ja] pin [ja] 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: yes dat [zijn] e 
+B|8| B: [de] _wiskundig [pyramide aan de_ bovenkant] 
+A|9| A: zestien 
+A|10| A: dit [zijn] [de] [pyramide aan de bovenkant] 
+B|11| B: _ja die wiskundig [pyramide aan de_ bovenkant] 
+A|12| A: [ja] [ja] 
+B|13| B: [ja] dat [zijn] d 
+B|14| B: _wiskundig_ [driehoek] [aan de bovenkant] 
+A|15| A: [ja] nummer vier 
+A|16| A: [ja die wiskundig pyramide aan de] 
+B|17| B: yes dat [zijn] h 
+B|18| B: driehoekig [pyramide] 
+B|19| B: [of] [een] wat zeggen ik nou driehoekig [zijn] [een] [wiskundig pyramide] driehoekig 
+A|20| A: [ja] 
+A|21| A: vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze zijn met de eigenlijk de driehoek of pyramide aan de bovenkant van
+	Free: Pattern=driehoek, Pattern=of, Pattern=de, Pattern=pyramide aan de bovenkant, Pattern=zijn
+	Constrained: Pattern=pyramide, Pattern=aan de bovenkant, Pattern=de, Pattern=aan de
+Turn ID=1| B | B : die wiskundig pyramide aan de bovenkant
+	Free: Pattern=die wiskundig pyramide aan de, Pattern=pyramide aan de bovenkant
+	Constrained: Pattern=wiskundig pyramide, Pattern=de, Pattern=aan de, Pattern=wiskundig, Pattern=wiskundig pyramide aan de, Pattern=aan de bovenkant, Pattern=pyramide
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en aan de onderkant zitten een soort rond link zitten een soort ja pin ja
+	Free: Pattern=aan de, Pattern=ja, Pattern=een
+	Constrained: Pattern=de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : yes dat zijn e
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : de wiskundig pyramide aan de bovenkant
+	Free: Pattern=pyramide aan de bovenkant, Pattern=wiskundig pyramide aan de, Pattern=de
+	Constrained: Pattern=wiskundig pyramide, Pattern=de, Pattern=aan de, Pattern=wiskundig, Pattern=aan de bovenkant, Pattern=pyramide
+Turn ID=9| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : dit zijn de pyramide aan de bovenkant
+	Free: Pattern=pyramide aan de bovenkant, Pattern=zijn, Pattern=de
+	Constrained: Pattern=pyramide, Pattern=aan de bovenkant, Pattern=de, Pattern=aan de
+Turn ID=11| B | B : ja die wiskundig pyramide aan de bovenkant
+	Free: Pattern=ja die wiskundig pyramide aan de, Pattern=pyramide aan de bovenkant
+	Constrained: Pattern=die wiskundig pyramide aan de, Pattern=wiskundig pyramide, Pattern=aan de, Pattern=wiskundig, Pattern=wiskundig pyramide aan de, Pattern=aan de bovenkant, Pattern=pyramide, Pattern=de, Pattern=ja
+Turn ID=12| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dat zijn d
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : wiskundig driehoek aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=driehoek, Pattern=wiskundig
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=15| A | A : ja nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja die wiskundig pyramide aan de
+	Free: Pattern=ja die wiskundig pyramide aan de
+	Constrained: Pattern=die wiskundig pyramide aan de, Pattern=wiskundig pyramide, Pattern=aan de, Pattern=wiskundig, Pattern=wiskundig pyramide aan de, Pattern=pyramide, Pattern=de, Pattern=ja
+Turn ID=17| B | B : yes dat zijn h
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=18| B | B : driehoekig pyramide
+	Free: Pattern=pyramide
+	Constrained: 
+Turn ID=19| B | B : of een wat zeggen ik nou driehoekig zijn een wiskundig pyramide driehoekig
+	Free: Pattern=wiskundig pyramide, Pattern=zijn, Pattern=of, Pattern=een
+	Constrained: Pattern=pyramide, Pattern=wiskundig
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : vijf
+	Free: 
+	Constrained: 

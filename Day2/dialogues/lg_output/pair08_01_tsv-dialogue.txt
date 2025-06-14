@@ -1,0 +1,127 @@
+B|0| B: _deze hebben een _vierkant_ beetje_ _aan de voorkant_ _beetje_ naar _rechts_ toe 
+B|1| B: _en_ links _twee_ _van_ _die_ staven _met_ _vierkant_ _die steeds groot worden_ 
+A|2| A: _ja_ 
+B|3| B: _en_ [ja] 
+A|4| A: [en] [en] _bovenop_ [een] [een] staaf [met] [een] [met] [een] plat 
+B|5| B: [ja] 
+B|6| B: _soort_ paddenstoel [ja] 
+A|7| A: [ja] 
+A|8| A: zeven 
+A|9| A: [ja] [deze hebben een] [ja] [soort] handvat [aan de] bovenkant [met] [een] plat plat top 
+A|10| A: [en] [aan de voorkant] _zijn_ _er_ [een vierkant] 
+B|11| B: _en twee_ link 
+A|12| A: [ja] 
+B|13| B: [ja] dat [zijn] O 
+B|14| B: _deze hebben een vierkant_ rechtsvoor [en] [een] [soort] paddestoel [er] [bovenop] 
+A|15| A: [ja] [en twee] kubus [die steeds groot worden] 
+B|16| B: [ja] 
+A|17| A: [ja] nummer tien 
+A|18| A: [deze hebben] [vierkant beetje] [rechts] [van] het midden [en twee] kubusvormig uitsteeksel [aan de] linkerkant [die steeds groot worden] 
+B|19| B: link [ja] 
+B|20| B: G 
+B|21| B: _deze hebben een vierkant_ [aan de voorkant] [en] [een] paddenstoel [er] [bovenop] 
+B|22| B: [en] 
+A|23| A: [ja] 
+A|24| A: [en twee] kubusvorm [ja] 
+B|25| B: [ja] 
+A|26| A: nummer drie 
+A|27| A: [deze hebben een vierkant] [rechts] [aan de voorkant] [een] [beetje] 
+A|28| A: [en] [er] [zijn] [twee] uitsteeksel [met] [die] kubus [die steeds groot worden] 
+B|29| B: [ja] 
+B|30| B: K 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een vierkant beetje aan de voorkant beetje naar rechts toe
+	Free: Pattern=rechts, Pattern=beetje, Pattern=deze hebben een vierkant, Pattern=vierkant beetje, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=deze hebben, Pattern=vierkant, Pattern=een vierkant, Pattern=beetje, Pattern=deze hebben een
+Turn ID=1| B | B : en links twee van die staven met vierkant die steeds groot worden
+	Free: Pattern=twee, Pattern=die steeds groot worden, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=van, Pattern=en
+	Constrained: Pattern=die
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en ja
+	Free: Pattern=ja, Pattern=en
+	Constrained: 
+Turn ID=4| A | A : en en bovenop een een staaf met een met een plat
+	Free: Pattern=met, Pattern=een, Pattern=en, Pattern=bovenop
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : soort paddenstoel ja
+	Free: Pattern=soort, Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : zeven
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja deze hebben een ja soort handvat aan de bovenkant met een plat plat top
+	Free: Pattern=soort, Pattern=ja, Pattern=aan de, Pattern=deze hebben een, Pattern=een, Pattern=met
+	Constrained: Pattern=deze hebben, Pattern=een
+Turn ID=10| A | A : en aan de voorkant zijn er een vierkant
+	Free: Pattern=er, Pattern=en, Pattern=zijn, Pattern=aan de voorkant, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=aan de
+Turn ID=11| B | B : en twee link
+	Free: Pattern=en twee
+	Constrained: Pattern=twee, Pattern=en
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dat zijn O
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=14| B | B : deze hebben een vierkant rechtsvoor en een soort paddestoel er bovenop
+	Free: Pattern=bovenop, Pattern=soort, Pattern=een, Pattern=deze hebben een vierkant, Pattern=er, Pattern=en
+	Constrained: Pattern=deze hebben een, Pattern=een, Pattern=deze hebben, Pattern=vierkant, Pattern=een vierkant
+Turn ID=15| A | A : ja en twee kubus die steeds groot worden
+	Free: Pattern=die steeds groot worden, Pattern=en twee, Pattern=ja
+	Constrained: Pattern=die, Pattern=en, Pattern=twee
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : deze hebben vierkant beetje rechts van het midden en twee kubusvormig uitsteeksel aan de linkerkant die steeds groot worden
+	Free: Pattern=rechts, Pattern=aan de, Pattern=deze hebben, Pattern=die steeds groot worden, Pattern=van, Pattern=vierkant beetje, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=beetje, Pattern=die, Pattern=en, Pattern=vierkant
+Turn ID=19| B | B : link ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : deze hebben een vierkant aan de voorkant en een paddenstoel er bovenop
+	Free: Pattern=bovenop, Pattern=een, Pattern=deze hebben een vierkant, Pattern=er, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=deze hebben een, Pattern=een, Pattern=deze hebben, Pattern=vierkant, Pattern=een vierkant
+Turn ID=22| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : en twee kubusvorm ja
+	Free: Pattern=en twee, Pattern=ja
+	Constrained: Pattern=twee, Pattern=en
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer drie
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : deze hebben een vierkant rechts aan de voorkant een beetje
+	Free: Pattern=rechts, Pattern=beetje, Pattern=een, Pattern=deze hebben een vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=deze hebben een, Pattern=een, Pattern=deze hebben, Pattern=vierkant, Pattern=een vierkant
+Turn ID=28| A | A : en er zijn twee uitsteeksel met die kubus die steeds groot worden
+	Free: Pattern=twee, Pattern=die steeds groot worden, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn
+	Constrained: Pattern=die
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : K
+	Free: 
+	Constrained: 

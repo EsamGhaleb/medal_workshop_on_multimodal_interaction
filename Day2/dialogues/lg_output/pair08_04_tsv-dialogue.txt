@@ -1,0 +1,195 @@
+A|0| A: _hebben_ ik er weer één natuurlijk 
+A|1| A: als ik die de één keer zien lijken het voor mij _een_ beetje op _een_ raket op _een_ bepalen manier 
+A|2| A: aan de rechterkant _hebben hij twee_ rechthoekig uitsteeksel 
+A|3| A: boven elkaar 
+A|4| A: op de top _hebben hij_ _een een_ stompe _driehoek_ dus denken ik _dan_ _een_ prisma 
+A|5| A: _en_ aan de linkerkant _zijn_ er _een_ uitstulpink 
+A|6| A: _en_ aan de linker onderkant ook , _dat_ wel _een_ beetje _een_ _ja een_ horentje lijken of _een_ kraan ik 
+B|7| B: [ja] 
+A|8| A: ik weten niet 
+B|9| B: [ja] 
+B|10| B: [en] _rechts_ [dan] [twee] recht staf 
+A|11| A: precies [ja] 
+B|12| B: _ja ja_ 
+B|13| B: _dat zijn_ J 
+B|14| B: _deze hebben _twee_ staaf rechts_ 
+B|15| B: [en] [ja] klein pootje link 
+A|16| A: [en] _bovenop_ _een_ afgesneden _driehoek_ 
+B|17| B: [ja] 
+A|18| A: [ja] nummer acht 
+A|19| A: [deze hebben twee] rechthoekig uitsteeksel aan de rechterkant 
+A|20| A: [en] aan de onderkant _een_ soort haak , aan de linkerkant [zijn] [dat] 
+A|21| A: [en] in het midden aan de linkerkant zitten één , [ja] , zitten _een_ uh , [ja] ovaal [zijn] het niet echt , _een_ één , puntig aan beide kant _en een_ beetje langwerpig vorm , [en] _bovenop_ [zijn] er _een_ afgestompt _driehoek_ , [dat zijn] veel makkelijk , er zitten _bovenop_ _een afgestompte driehoek_ 
+B|22| B: [hebben hij _twee] staaf rechts_ 
+A|23| A: _ja _twee staaf rechts_ en een afgestompte driehoek bovenop_ 
+B|24| B: [bovenop] 
+B|25| B: [ja] [en een] pootje linksonder _ja ja_ 
+A|26| A: [ja] 
+A|27| A: [ja ja] 
+B|28| B: [dat zijn] M 
+B|29| B: [deze hebben [twee] staaf rechts en een afgestompte driehoek bovenop] 
+A|30| A: [ja] 
+A|31| A: moeten we [een] ander woord voor vinden 
+A|32| A: [en] aan de onderkant ook _een een_ soort handvat 
+B|33| B: [ja [een] _een] poo_ 
+A|34| A: [ja [een] poo] 
+A|35| A: [ja] 
+B|36| B: [en] daarboven _nog_ [een] ding 
+A|37| A: [en] daar boven [nog] iets [ja] 
+A|38| A: nummer [een] 
+B|39| B: [ja] 
+A|40| A: dit [zijn] [een afgestompte driehoek bovenop] 
+B|41| B: [ja twee staaf rechts] 
+A|42| A: [ja] 
+B|43| B: d 
+B|44| B: [deze hebben [twee] staaf rechts en een afgestompte driehoek bovenop] 
+A|45| A: de [afgestompte driehoek] [ja] 
+B|46| B: klein pootje link 
+A|47| A: nummer vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hebben ik er weer één natuurlijk
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=1| A | A : als ik die de één keer zien lijken het voor mij een beetje op een raket op een bepalen manier
+	Free: Pattern=een
+	Constrained: 
+Turn ID=2| A | A : aan de rechterkant hebben hij twee rechthoekig uitsteeksel
+	Free: Pattern=hebben hij twee
+	Constrained: Pattern=twee, Pattern=hebben hij, Pattern=hebben
+Turn ID=3| A | A : boven elkaar
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : op de top hebben hij een een stompe driehoek dus denken ik dan een prisma
+	Free: Pattern=driehoek, Pattern=hebben hij, Pattern=dan, Pattern=een, Pattern=een een
+	Constrained: Pattern=hebben, Pattern=een
+Turn ID=5| A | A : en aan de linkerkant zijn er een uitstulpink
+	Free: Pattern=en, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=6| A | A : en aan de linker onderkant ook , dat wel een beetje een ja een horentje lijken of een kraan ik
+	Free: Pattern=ja een, Pattern=en, Pattern=dat, Pattern=een
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ik weten niet
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en rechts dan twee recht staf
+	Free: Pattern=en, Pattern=twee, Pattern=rechts, Pattern=dan
+	Constrained: 
+Turn ID=11| A | A : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=13| B | B : dat zijn J
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : deze hebben twee staaf rechts
+	Free: Pattern=deze hebben twee, Pattern=twee staaf rechts
+	Constrained: Pattern=twee, Pattern=rechts, Pattern=hebben
+Turn ID=15| B | B : en ja klein pootje link
+	Free: Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : en bovenop een afgesneden driehoek
+	Free: Pattern=en, Pattern=bovenop, Pattern=driehoek, Pattern=een
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja nummer acht
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : deze hebben twee rechthoekig uitsteeksel aan de rechterkant
+	Free: Pattern=deze hebben twee
+	Constrained: Pattern=twee, Pattern=hebben
+Turn ID=20| A | A : en aan de onderkant een soort haak , aan de linkerkant zijn dat
+	Free: Pattern=en, Pattern=dat, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=21| A | A : en in het midden aan de linkerkant zitten één , ja , zitten een uh , ja ovaal zijn het niet echt , een één , puntig aan beide kant en een beetje langwerpig vorm , en bovenop zijn er een afgestompt driehoek , dat zijn veel makkelijk , er zitten bovenop een afgestompte driehoek
+	Free: Pattern=driehoek, Pattern=ja, Pattern=een, Pattern=en, Pattern=een afgestompte driehoek, Pattern=dat zijn, Pattern=bovenop, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=driehoek, Pattern=dat, Pattern=een, Pattern=en, Pattern=zijn, Pattern=afgestompte driehoek
+Turn ID=22| B | B : hebben hij twee staaf rechts
+	Free: Pattern=hebben hij twee, Pattern=twee staaf rechts
+	Constrained: Pattern=twee, Pattern=hebben hij, Pattern=rechts, Pattern=hebben
+Turn ID=23| A | A : ja twee staaf rechts en een afgestompte driehoek bovenop
+	Free: Pattern=twee staaf rechts en een afgestompte driehoek bovenop, Pattern=ja twee staaf rechts
+	Constrained: Pattern=driehoek, Pattern=bovenop, Pattern=twee, Pattern=een, Pattern=een afgestompte driehoek bovenop, Pattern=en, Pattern=een afgestompte driehoek, Pattern=afgestompte driehoek, Pattern=rechts, Pattern=ja, Pattern=twee staaf rechts, Pattern=en een
+Turn ID=24| B | B : bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=25| B | B : ja en een pootje linksonder ja ja
+	Free: Pattern=ja ja, Pattern=en een, Pattern=ja
+	Constrained: Pattern=en, Pattern=ja, Pattern=een
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=28| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| B | B : deze hebben twee staaf rechts en een afgestompte driehoek bovenop
+	Free: Pattern=twee staaf rechts en een afgestompte driehoek bovenop, Pattern=deze hebben twee
+	Constrained: Pattern=driehoek, Pattern=bovenop, Pattern=twee, Pattern=rechts, Pattern=een, Pattern=hebben, Pattern=een afgestompte driehoek bovenop, Pattern=en, Pattern=een afgestompte driehoek, Pattern=afgestompte driehoek, Pattern=twee staaf rechts, Pattern=en een
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : moeten we een ander woord voor vinden
+	Free: Pattern=een
+	Constrained: 
+Turn ID=32| A | A : en aan de onderkant ook een een soort handvat
+	Free: Pattern=een een, Pattern=en
+	Constrained: Pattern=een
+Turn ID=33| B | B : ja een een poo
+	Free: Pattern=een een, Pattern=ja een, Pattern=een poo
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=34| A | A : ja een poo
+	Free: Pattern=ja een, Pattern=een poo
+	Constrained: Pattern=ja, Pattern=een
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : en daarboven nog een ding
+	Free: Pattern=nog, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=37| A | A : en daar boven nog iets ja
+	Free: Pattern=nog, Pattern=en, Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : nummer een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : dit zijn een afgestompte driehoek bovenop
+	Free: Pattern=een afgestompte driehoek bovenop, Pattern=zijn
+	Constrained: Pattern=driehoek, Pattern=bovenop, Pattern=een, Pattern=een afgestompte driehoek, Pattern=afgestompte driehoek
+Turn ID=41| B | B : ja twee staaf rechts
+	Free: Pattern=ja twee staaf rechts
+	Constrained: Pattern=twee, Pattern=rechts, Pattern=twee staaf rechts, Pattern=ja
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=44| B | B : deze hebben twee staaf rechts en een afgestompte driehoek bovenop
+	Free: Pattern=twee staaf rechts en een afgestompte driehoek bovenop, Pattern=deze hebben twee
+	Constrained: Pattern=driehoek, Pattern=bovenop, Pattern=twee, Pattern=rechts, Pattern=een, Pattern=hebben, Pattern=een afgestompte driehoek bovenop, Pattern=en, Pattern=een afgestompte driehoek, Pattern=afgestompte driehoek, Pattern=twee staaf rechts, Pattern=en een
+Turn ID=45| A | A : de afgestompte driehoek ja
+	Free: Pattern=afgestompte driehoek, Pattern=ja
+	Constrained: Pattern=driehoek
+Turn ID=46| B | B : klein pootje link
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : nummer vier
+	Free: 
+	Constrained: 

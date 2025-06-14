@@ -1,0 +1,99 @@
+B|0| B: _oké_ _dit zijn_ _wel_ waar we het net over hebben 
+B|1| B: _met die_ ook _met die_ _poot_ aan benedenkant 
+A|2| A: [oké] nou [die] 
+B|3| B: _met_ _draaien_ op _een_ _driehoek_ 
+A|4| A: _ja_ [met die] 
+A|5| A: _ja_ sure 
+B|6| B: [ja] 
+A|7| A: _dat zijn_ veertien 
+B|8| B: [oké] 
+A|9| A: _oké _ja_ dit zijn weer die_ [wel] _de_ _gedraaide [met_ die] [driehoek] zegmaar daaronder 
+B|10| B: [ja] [oké ja] dus G [zijn] [dat] [ja] 
+A|11| A: [ja] 
+A|12| A: [ja] 
+B|13| B: _ja dit zijn weer die gedraaide met_ het [driehoek] 
+A|14| A: [oké ja] twee 
+A|15| A: [ja dit zijn weer die gedraaide met] _de driehoek_ 
+B|16| B: [ja] [ja] _oké dat zijn_ C 
+B|17| B: [ja dit zijn weer] [met] [dat] _draaien_ poo op [de driehoek] 
+A|18| A: [ja] 
+A|19| A: [een] 
+A|20| A: [oké dat zijn] één [ja dit zijn] [met die] [draaien] [poot] [weer] 
+A|21| A: [met die] [driehoek] 
+B|22| B: [ja] [oké] 
+B|23| B: [ja] [zijn] M 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit zijn wel waar we het net over hebben
+	Free: Pattern=dit zijn, Pattern=oké, Pattern=wel
+	Constrained: Pattern=zijn
+Turn ID=1| B | B : met die ook met die poot aan benedenkant
+	Free: Pattern=met die, Pattern=poot
+	Constrained: Pattern=die, Pattern=met
+Turn ID=2| A | A : oké nou die
+	Free: Pattern=die, Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : met draaien op een driehoek
+	Free: Pattern=met, Pattern=driehoek, Pattern=een, Pattern=draaien
+	Constrained: 
+Turn ID=4| A | A : ja met die
+	Free: Pattern=met die, Pattern=ja
+	Constrained: Pattern=die, Pattern=met
+Turn ID=5| A | A : ja sure
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : oké ja dit zijn weer die wel de gedraaide met die driehoek zegmaar daaronder
+	Free: Pattern=driehoek, Pattern=met die, Pattern=de, Pattern=wel, Pattern=oké ja, Pattern=gedraaide met, Pattern=ja dit zijn weer die
+	Constrained: Pattern=ja, Pattern=ja dit zijn, Pattern=met, Pattern=die, Pattern=oké, Pattern=weer, Pattern=dit zijn, Pattern=ja dit zijn weer, Pattern=zijn
+Turn ID=10| B | B : ja oké ja dus G zijn dat ja
+	Free: Pattern=oké ja, Pattern=zijn, Pattern=dat, Pattern=ja
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dit zijn weer die gedraaide met het driehoek
+	Free: Pattern=ja dit zijn weer die gedraaide met, Pattern=driehoek
+	Constrained: Pattern=ja, Pattern=ja dit zijn, Pattern=die, Pattern=weer, Pattern=dit zijn, Pattern=ja dit zijn weer die, Pattern=gedraaide met, Pattern=met, Pattern=ja dit zijn weer, Pattern=zijn
+Turn ID=14| A | A : oké ja twee
+	Free: Pattern=oké ja
+	Constrained: Pattern=oké, Pattern=ja
+Turn ID=15| A | A : ja dit zijn weer die gedraaide met de driehoek
+	Free: Pattern=ja dit zijn weer die gedraaide met, Pattern=de driehoek
+	Constrained: Pattern=driehoek, Pattern=ja dit zijn, Pattern=die, Pattern=weer, Pattern=dit zijn, Pattern=ja dit zijn weer die, Pattern=de, Pattern=ja, Pattern=gedraaide met, Pattern=met, Pattern=ja dit zijn weer, Pattern=zijn
+Turn ID=16| B | B : ja ja oké dat zijn C
+	Free: Pattern=oké dat zijn, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=oké, Pattern=zijn, Pattern=dat
+Turn ID=17| B | B : ja dit zijn weer met dat draaien poo op de driehoek
+	Free: Pattern=dat, Pattern=draaien, Pattern=de driehoek, Pattern=met, Pattern=ja dit zijn weer
+	Constrained: Pattern=driehoek, Pattern=ja dit zijn, Pattern=zijn, Pattern=weer, Pattern=dit zijn, Pattern=de, Pattern=ja
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=20| A | A : oké dat zijn één ja dit zijn met die draaien poot weer
+	Free: Pattern=met die, Pattern=ja dit zijn, Pattern=oké dat zijn, Pattern=weer, Pattern=draaien, Pattern=poot
+	Constrained: Pattern=ja, Pattern=met, Pattern=die, Pattern=oké, Pattern=zijn, Pattern=dit zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=21| A | A : met die driehoek
+	Free: Pattern=met die, Pattern=driehoek
+	Constrained: Pattern=die, Pattern=met
+Turn ID=22| B | B : ja oké
+	Free: Pattern=oké, Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja zijn M
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 

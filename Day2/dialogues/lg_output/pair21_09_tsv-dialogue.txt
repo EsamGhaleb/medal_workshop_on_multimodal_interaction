@@ -1,0 +1,163 @@
+B|0| B: nou _ik_ _zien_ _een_ rood vierkant 
+A|1| A: _ja_ 
+B|2| B: _en_ _ik_ _zien_ _een_ ovaalvormig ding _op het kop_ 
+A|3| A: [op het] plat [kop] daarboven 
+B|4| B: [ja] 
+A|5| A: _ovaal_ 
+B|6| B: _en_ daar achter _zitten_ _zien je_ _één ja_ _een_ _cirkel_ _maar_ _dan_ _voor de helft_ 
+A|7| A: even kijken 
+A|8| A: _een ovaal_ [kop] _zijn_ _dat_ _een soort_ _zijn_ _dat_ _aan de rechterkant_ 
+B|9| B: [ja] 
+A|10| A: _en aan de linkerkant_ _hebben_ [je] _een half cirkel_ 
+B|11| B: _en dan_ _zitten er_ [aan de linkerkant] ook nog [een soort] _van_ paal 
+A|12| A: [ja] precies die opsteken helemaal naar links uit 
+B|13| B: [ja] 
+B|14| B: [ja] 
+A|15| A: _oké_ [ik] _hebben_ hem nummer zestien 
+A|16| A: bij mij 
+B|17| B: [oké] 
+A|18| A: [oké] 
+A|19| A: [aan de] bovenkant [zitten er] [een] plat _cirkel en_ die [zien je] eigenlijk [maar] [voor de helft] 
+A|20| A: die [zitten] [aan de linkerkant] [op] [de] [op het kop] laten [maar] zeggen 
+A|21| A: _en _aan de_ rechterkant_ [van] [het kop] [zitten] [één ja] [soort] _ovaal_ vormp 
+B|22| B: [ja] [en aan de linkerkant] ook weer zo'n [soort] paaltje 
+A|23| A: [ja] 
+A|24| A: die _steken_ inderdaad uit 
+B|25| B: _dan_ [zijn] [het] I 
+A|26| A: top 
+B|27| B: [oké] dit _kop hebben_ [een ovaal] [ovaal] noemen [ik] [het] _dan_ [maar] [aan de rechterkant] omhoog [steken] 
+B|28| B: [een half [cirkel] _en] een_ paal [aan de linkerkant] 
+A|29| A: [ja] nummer vier 
+A|30| A: [oké] [dan] [hebben] [je] [het kop] , [aan de linkerkant] [hebben] [je] [een] uitstulpsel , daarboven [hebben] [je] [een] plat [cirkel] die [je] [maar] [voor de helft] [zien] 
+A|31| A: [en [een] soort] [ovaal] vormp 
+B|32| B: [ja] [dat] [zijn] H 
+B|33| B: [oké] deze [hebben] [een] [een] [cirkel] achter [het kop] want [je] [zien] [maar] [de helft] 
+B|34| B: [en] nog [een] kegel ernaast 
+B|35| B: [en] nog _een staaf_ [aan de linkerkant] 
+A|36| A: link 
+A|37| A: [ja] nummer dertien 
+A|38| A: [aan de linkerkant] bovenop [het [kop] hebben] [je] [een] plat [cirkel] die [je] [maar] [voor de helft] [zien] , [en dan] [hebben] [je] [een soort] [ovaal] vormp [aan de rechterkant] , [en [een] staaf] 
+B|39| B: [ja] [zijn] E 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : nou ik zien een rood vierkant
+	Free: Pattern=ik, Pattern=een, Pattern=zien
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en ik zien een ovaalvormig ding op het kop
+	Free: Pattern=een, Pattern=zien, Pattern=ik, Pattern=en, Pattern=op het kop
+	Constrained: Pattern=op, Pattern=het kop, Pattern=het, Pattern=kop, Pattern=op het
+Turn ID=3| A | A : op het plat kop daarboven
+	Free: Pattern=op het, Pattern=kop
+	Constrained: Pattern=het, Pattern=op
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ovaal
+	Free: Pattern=ovaal
+	Constrained: 
+Turn ID=6| B | B : en daar achter zitten zien je één ja een cirkel maar dan voor de helft
+	Free: Pattern=cirkel, Pattern=zien je, Pattern=dan, Pattern=één ja, Pattern=een, Pattern=voor de helft, Pattern=zitten, Pattern=en, Pattern=maar
+	Constrained: Pattern=zien, Pattern=je, Pattern=de, Pattern=de helft, Pattern=ja
+Turn ID=7| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : een ovaal kop zijn dat een soort zijn dat aan de rechterkant
+	Free: Pattern=dat, Pattern=kop, Pattern=aan de rechterkant, Pattern=een soort, Pattern=een ovaal, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=een, Pattern=ovaal
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en aan de linkerkant hebben je een half cirkel
+	Free: Pattern=en aan de linkerkant, Pattern=een half cirkel, Pattern=hebben, Pattern=je
+	Constrained: Pattern=cirkel, Pattern=de, Pattern=aan de, Pattern=een, Pattern=en, Pattern=en aan de, Pattern=aan de linkerkant
+Turn ID=11| B | B : en dan zitten er aan de linkerkant ook nog een soort van paal
+	Free: Pattern=en dan, Pattern=een soort, Pattern=van, Pattern=zitten er, Pattern=aan de linkerkant
+	Constrained: Pattern=soort, Pattern=de, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=en
+Turn ID=12| A | A : ja precies die opsteken helemaal naar links uit
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : oké ik hebben hem nummer zestien
+	Free: Pattern=ik, Pattern=oké, Pattern=hebben
+	Constrained: 
+Turn ID=16| A | A : bij mij
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : aan de bovenkant zitten er een plat cirkel en die zien je eigenlijk maar voor de helft
+	Free: Pattern=cirkel en, Pattern=zien je, Pattern=aan de, Pattern=een, Pattern=voor de helft, Pattern=maar, Pattern=zitten er
+	Constrained: Pattern=cirkel, Pattern=en, Pattern=je, Pattern=de, Pattern=de helft, Pattern=zien, Pattern=zitten
+Turn ID=20| A | A : die zitten aan de linkerkant op de op het kop laten maar zeggen
+	Free: Pattern=de, Pattern=op, Pattern=zitten, Pattern=maar, Pattern=op het kop, Pattern=aan de linkerkant
+	Constrained: Pattern=de, Pattern=het kop, Pattern=het, Pattern=kop, Pattern=op het, Pattern=op, Pattern=aan de
+Turn ID=21| A | A : en aan de rechterkant van het kop zitten één ja soort ovaal vormp
+	Free: Pattern=soort, Pattern=ovaal, Pattern=van, Pattern=en aan de, Pattern=het kop, Pattern=één ja, Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=het, Pattern=kop, Pattern=en, Pattern=de, Pattern=ja
+Turn ID=22| B | B : ja en aan de linkerkant ook weer zo'n soort paaltje
+	Free: Pattern=en aan de linkerkant, Pattern=ja, Pattern=soort
+	Constrained: Pattern=de, Pattern=aan de, Pattern=en, Pattern=en aan de, Pattern=aan de linkerkant
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : die steken inderdaad uit
+	Free: Pattern=steken
+	Constrained: 
+Turn ID=25| B | B : dan zijn het I
+	Free: Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=26| A | A : top
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : oké dit kop hebben een ovaal ovaal noemen ik het dan maar aan de rechterkant omhoog steken
+	Free: Pattern=dan, Pattern=aan de rechterkant, Pattern=oké, Pattern=ovaal, Pattern=ik, Pattern=steken, Pattern=het, Pattern=kop hebben, Pattern=een ovaal, Pattern=maar
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=kop, Pattern=ovaal
+Turn ID=28| B | B : een half cirkel en een paal aan de linkerkant
+	Free: Pattern=een half cirkel, Pattern=aan de linkerkant, Pattern=en een, Pattern=cirkel en
+	Constrained: Pattern=cirkel, Pattern=de, Pattern=aan de, Pattern=een, Pattern=en
+Turn ID=29| A | A : ja nummer vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : oké dan hebben je het kop , aan de linkerkant hebben je een uitstulpsel , daarboven hebben je een plat cirkel die je maar voor de helft zien
+	Free: Pattern=cirkel, Pattern=dan, Pattern=het kop, Pattern=een, Pattern=hebben, Pattern=voor de helft, Pattern=zien, Pattern=oké, Pattern=maar, Pattern=je, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=het, Pattern=kop, Pattern=de, Pattern=de helft
+Turn ID=31| A | A : en een soort ovaal vormp
+	Free: Pattern=en een, Pattern=een soort, Pattern=ovaal
+	Constrained: Pattern=een, Pattern=en, Pattern=soort
+Turn ID=32| B | B : ja dat zijn H
+	Free: Pattern=dat, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=33| B | B : oké deze hebben een een cirkel achter het kop want je zien maar de helft
+	Free: Pattern=cirkel, Pattern=de helft, Pattern=het kop, Pattern=een, Pattern=hebben, Pattern=zien, Pattern=oké, Pattern=maar, Pattern=je
+	Constrained: Pattern=kop, Pattern=het, Pattern=de
+Turn ID=34| B | B : en nog een kegel ernaast
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=35| B | B : en nog een staaf aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=een staaf, Pattern=en
+	Constrained: Pattern=de, Pattern=aan de, Pattern=een
+Turn ID=36| A | A : link
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : ja nummer dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : aan de linkerkant bovenop het kop hebben je een plat cirkel die je maar voor de helft zien , en dan hebben je een soort ovaal vormp aan de rechterkant , en een staaf
+	Free: Pattern=cirkel, Pattern=en dan, Pattern=het kop, Pattern=een, Pattern=kop hebben, Pattern=hebben, Pattern=voor de helft, Pattern=ovaal, Pattern=een soort, Pattern=een staaf, Pattern=je, Pattern=aan de linkerkant, Pattern=aan de rechterkant, Pattern=zien, Pattern=en een, Pattern=maar
+	Constrained: Pattern=soort, Pattern=aan de, Pattern=dan, Pattern=een, Pattern=het, Pattern=hebben, Pattern=kop, Pattern=en, Pattern=de, Pattern=de helft
+Turn ID=39| B | B : ja zijn E
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 

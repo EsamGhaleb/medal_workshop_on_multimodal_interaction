@@ -1,0 +1,171 @@
+A|0| A: nou we _hebben_ _weer_ _de hoofdvorm_ 
+A|1| A: hier _staan_ _ook_ _een soort_ _feestmutsje_ 
+A|2| A: _zo'n_ figuur _bovenop_ _de_ bak 
+A|3| A: _aan de voorkant_ beetje rechtsvoor _hebben je een soort van_ _vierkant_ _yoghurtbak_ die _eraan_ vastgeplakken _zijn_ 
+A|4| A: _link_ _hebben_ hij _een_ uitsteeksel _en_ _linksonder_ nog _soort van_ _rond_ 
+B|5| B: _ja_ 
+B|6| B: _dat zijn_ h 
+B|7| B: _op_ [de hoofdvorm] [staan] [een] pyramide 
+B|8| B: [en] [aan de voorkant] [zo'n] [yoghurtbak] [eraan] vastgeplakt _rechts_ 
+B|9| B: [link] [staan] [een soort van] half kegel tegen het tegen [de hoofdvorm] [aan] 
+B|10| B: [en] [de hoofdvorm] zelf [staan] eigenlijk _op_ [een soort van] _schuin_ _schuin_ _cirkel_ 
+B|11| B: dus echt _op_ _de hoofdvorm [hebben_ je een soort van] pyramide zo [rond] 
+A|12| A: even kijken hoor 
+B|13| B: [een] _ja_ 
+B|14| B: [ook] [weer] [soort van] kegel [soort van] tentvorm 
+A|15| A: wachten [ja] 
+B|16| B: [een] ronde tentvorm 
+B|17| B: [en] _dan_ _zitten_ er _een yoghurtbak_ [soort van] [aan] vastgeplakt [een] [vierkant] _schuin_ 
+A|18| A: [ja] 
+A|19| A: [ja] 
+B|20| B: [en] 
+A|21| A: [schuin] [rechts] denken ik 
+B|22| B: [ja] 
+A|23| A: [en] _linksonder_ [dan] [een] [cirkel] 
+B|24| B: [en] [dan] links 
+B|25| B: [ja] 
+A|26| A: [ja] okee [dat zijn] nummer [een] 
+A|27| A: [de hoofdvorm hebben] [een] [weer] _feestmutsje op_ 
+A|28| A: rechtsvoor [hebben] hij [een] yoghurtbeker [op] zich plakken 
+A|29| A: linksvoor onderaan [zitten] [een] cirkelt 
+B|30| B: [ja] 
+B|31| B: h 
+B|32| B: dit [zijn] [de hoofdvorm] [dat] er [een] [dat] er [soort van] [feestmutsje op] [de] [op] [de hoofdvorm] [staan] 
+B|33| B: [een] kegel of [een] cirkelplateau [linksonder] [aan de] zijkant [een] half kegel [en] voor _een yoghurtbak_ 
+A|34| A: [ja] nummer drie 
+A|35| A: deze [hoofdvorm hebben] [een yoghurtbak] erop plakken rechtsvoor 
+A|36| A: [en] [hebben] [een] [feestmutsje op] 
+B|37| B: [ja] 
+A|38| A: linksvoor [en] [een] [cirkel] 
+B|39| B: n 
+B|40| B: dit [zijn] [de hoofdvorm] met het feesthoed [bovenop] 
+A|41| A: okee nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou we hebben weer de hoofdvorm
+	Free: Pattern=de hoofdvorm, Pattern=hebben, Pattern=weer
+	Constrained: Pattern=de
+Turn ID=1| A | A : hier staan ook een soort feestmutsje
+	Free: Pattern=een soort, Pattern=ook, Pattern=feestmutsje, Pattern=staan
+	Constrained: Pattern=een
+Turn ID=2| A | A : zo'n figuur bovenop de bak
+	Free: Pattern=de, Pattern=bovenop, Pattern=zo'n
+	Constrained: 
+Turn ID=3| A | A : aan de voorkant beetje rechtsvoor hebben je een soort van vierkant yoghurtbak die eraan vastgeplakken zijn
+	Free: Pattern=yoghurtbak, Pattern=eraan, Pattern=zijn, Pattern=hebben je een soort van, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=hebben, Pattern=een soort van, Pattern=een soort, Pattern=soort van, Pattern=de, Pattern=aan
+Turn ID=4| A | A : link hebben hij een uitsteeksel en linksonder nog soort van rond
+	Free: Pattern=een, Pattern=hebben, Pattern=link, Pattern=en, Pattern=soort van, Pattern=rond, Pattern=linksonder
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn h
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=7| B | B : op de hoofdvorm staan een pyramide
+	Free: Pattern=de hoofdvorm, Pattern=op, Pattern=een, Pattern=staan
+	Constrained: Pattern=de
+Turn ID=8| B | B : en aan de voorkant zo'n yoghurtbak eraan vastgeplakt rechts
+	Free: Pattern=zo'n, Pattern=rechts, Pattern=yoghurtbak, Pattern=eraan, Pattern=en, Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=9| B | B : link staan een soort van half kegel tegen het tegen de hoofdvorm aan
+	Free: Pattern=de hoofdvorm, Pattern=aan, Pattern=staan, Pattern=een soort van, Pattern=link
+	Constrained: Pattern=een soort, Pattern=een, Pattern=de, Pattern=soort van
+Turn ID=10| B | B : en de hoofdvorm zelf staan eigenlijk op een soort van schuin schuin cirkel
+	Free: Pattern=op, Pattern=staan, Pattern=een soort van, Pattern=schuin, Pattern=en, Pattern=de hoofdvorm, Pattern=cirkel
+	Constrained: Pattern=een soort, Pattern=een, Pattern=de, Pattern=soort van
+Turn ID=11| B | B : dus echt op de hoofdvorm hebben je een soort van pyramide zo rond
+	Free: Pattern=hebben je een soort van, Pattern=de hoofdvorm hebben, Pattern=op, Pattern=rond
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=een, Pattern=hebben, Pattern=hoofdvorm hebben, Pattern=een soort van, Pattern=een soort, Pattern=soort van
+Turn ID=12| A | A : even kijken hoor
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : een ja
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=14| B | B : ook weer soort van kegel soort van tentvorm
+	Free: Pattern=soort van, Pattern=ook, Pattern=weer
+	Constrained: 
+Turn ID=15| A | A : wachten ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : een ronde tentvorm
+	Free: Pattern=een
+	Constrained: 
+Turn ID=17| B | B : en dan zitten er een yoghurtbak soort van aan vastgeplakt een vierkant schuin
+	Free: Pattern=aan, Pattern=dan, Pattern=een, Pattern=een yoghurtbak, Pattern=zitten, Pattern=schuin, Pattern=en, Pattern=soort van, Pattern=vierkant
+	Constrained: Pattern=yoghurtbak, Pattern=een
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=21| A | A : schuin rechts denken ik
+	Free: Pattern=schuin, Pattern=rechts
+	Constrained: 
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en linksonder dan een cirkel
+	Free: Pattern=cirkel, Pattern=dan, Pattern=een, Pattern=en, Pattern=linksonder
+	Constrained: 
+Turn ID=24| B | B : en dan links
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja okee dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : de hoofdvorm hebben een weer feestmutsje op
+	Free: Pattern=de hoofdvorm hebben, Pattern=feestmutsje op, Pattern=een, Pattern=weer
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=op, Pattern=hebben, Pattern=hoofdvorm hebben, Pattern=feestmutsje
+Turn ID=28| A | A : rechtsvoor hebben hij een yoghurtbeker op zich plakken
+	Free: Pattern=hebben, Pattern=op, Pattern=een
+	Constrained: 
+Turn ID=29| A | A : linksvoor onderaan zitten een cirkelt
+	Free: Pattern=zitten, Pattern=een
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dit zijn de hoofdvorm dat er een dat er soort van feestmutsje op de op de hoofdvorm staan
+	Free: Pattern=de hoofdvorm, Pattern=dat, Pattern=de, Pattern=feestmutsje op, Pattern=op, Pattern=een, Pattern=staan, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=de, Pattern=feestmutsje, Pattern=op
+Turn ID=33| B | B : een kegel of een cirkelplateau linksonder aan de zijkant een half kegel en voor een yoghurtbak
+	Free: Pattern=aan de, Pattern=een, Pattern=een yoghurtbak, Pattern=en, Pattern=linksonder
+	Constrained: Pattern=de, Pattern=aan, Pattern=yoghurtbak, Pattern=een
+Turn ID=34| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : deze hoofdvorm hebben een yoghurtbak erop plakken rechtsvoor
+	Free: Pattern=een yoghurtbak, Pattern=hoofdvorm hebben
+	Constrained: Pattern=hebben, Pattern=yoghurtbak, Pattern=een
+Turn ID=36| A | A : en hebben een feestmutsje op
+	Free: Pattern=feestmutsje op, Pattern=en, Pattern=hebben, Pattern=een
+	Constrained: Pattern=op, Pattern=feestmutsje
+Turn ID=37| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : linksvoor en een cirkel
+	Free: Pattern=en, Pattern=cirkel, Pattern=een
+	Constrained: 
+Turn ID=39| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=40| B | B : dit zijn de hoofdvorm met het feesthoed bovenop
+	Free: Pattern=de hoofdvorm, Pattern=bovenop, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=41| A | A : okee nummer veertien
+	Free: 
+	Constrained: 

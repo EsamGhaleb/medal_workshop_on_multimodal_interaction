@@ -1,0 +1,195 @@
+A|0| A: _er zitten een_ lang _staaf doorheen_ _een beetje_ _aan_ _de_ _onderkant_ 
+A|1| A: _die_ _van_ dik _naar_ dun gaan _en_ _aan het_ einde _twee bollet_ hebben 
+B|2| B: [staaf] [onderkant] 
+A|3| A: _en er zitten_ _aan_ _de_ _achterkant_ nog _een _soort_ van_ tafel 
+A|4| A: of _niet_ _een_ tafel veel gewoon _een_ plank _met een_ _dinge_ eraan 
+B|5| B: even kijken ik vinden hem [niet] 
+A|6| A: _er_ _zijn_ _een_ dik [staaf] _aan_ _de_ _achterkant_ _onderkant achterkant_ 
+B|7| B: [onderkant achterkant] _ja_ oké 
+A|8| A: _en_ _twee_ _aan_ _die_ uiteind _van_ _die_ dik [staaf] _zitten_ _twee bollet_ 
+B|9| B: ah oké _ja_ 
+B|10| B: [en [er zitten] een] schuin vierkant 
+A|11| A: [ja] 
+A|12| A: [ja] 
+B|13| B: [ja] oké 
+B|14| B: I 
+B|15| B: [een beetje] _achter_ [zitten] [de] [staaf _doorheen] met_ [soort] _met [twee_ bollet] [aan het] uiteinde [en] [een] vierkant _achter_ [het] kop [met een] staart eruit 
+A|16| A: [ja] 
+A|17| A: [ja] 
+A|18| A: twaalf 
+A|19| A: [er zitten een] dik _balk_ [aan] [de] [onderkant] [doorheen [met] _twee] rond aan_ [de] zijkant [en] [aan] [de] [achterkant] dat tafel 
+B|20| B: [ja] even kijken 
+A|21| A: of zo'n plank [achter] 
+B|22| B: waar [zijn] je 
+B|23| B: ah [en] [een] _lepeltje_ erachter 
+A|24| A: nee geen [lepeltje] 
+A|25| A: [de] [aan] [de] [achterkant] [zitten een] dat tafel [met] zo'n uh , of zo'n plank zeggen maar 
+B|26| B: [ja] 
+A|27| A: wat zo _naar_ beneden gaan [en] [aan] [de] [onderkant] [zitten] [twee] _van_ zo'n dik staf [met] _die_ _rond_ eraan 
+B|28| B: [ja] [ja] [ja] [die] dan [soort van] vast kunnen houden [ja] 
+A|29| A: [ja] 
+A|30| A: [ja] 
+B|31| B: K 
+B|32| B: [een] [staaf] door [het] midden heen , [twee rond [aan] het] uiteinde [en] daar [achter] [zitten een] vierkantje [beetje] verstopt [met een] staart erachter 
+A|33| A: [met] tafel 
+A|34| A: [ja] 
+A|35| A: negen 
+A|36| A: zo'n dik [staaf] [aan] [de] [achterkant] [onderkant] [met twee] bollen [aan] [de] zijkant 
+A|37| A: [en] dat tafel [aan] [de] [achterkant] [met] zo'n nog [een] _dinge_ eraan zeggen maar 
+A|38| A: [aan] dat tafel [aan] [de] [achterkant] 
+B|39| B: [ja] [en] [een soort] vierkant [dinge] 
+A|40| A: [ja] 
+B|41| B: [ja] 
+B|42| B: N 
+B|43| B: vierkant [naar] [achter] [soort] tafelachtig ding [achter] [met een] staart eruit 
+A|44| A: [en] [die] _twee balk_ 
+B|45| B: [twee balk] 
+A|46| A: [ja] 
+A|47| A: tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : er zitten een lang staaf doorheen een beetje aan de onderkant
+	Free: Pattern=er zitten een, Pattern=onderkant, Pattern=staaf doorheen, Pattern=een beetje, Pattern=de, Pattern=aan
+	Constrained: Pattern=staaf, Pattern=beetje, Pattern=een, Pattern=zitten, Pattern=er, Pattern=zitten een
+Turn ID=1| A | A : die van dik naar dun gaan en aan het einde twee bollet hebben
+	Free: Pattern=aan het, Pattern=die, Pattern=twee bollet, Pattern=naar, Pattern=van, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan, Pattern=het
+Turn ID=2| B | B : staaf onderkant
+	Free: Pattern=staaf, Pattern=onderkant
+	Constrained: 
+Turn ID=3| A | A : en er zitten aan de achterkant nog een soort van tafel
+	Free: Pattern=en er zitten, Pattern=een soort, Pattern=soort van, Pattern=achterkant, Pattern=de, Pattern=aan
+	Constrained: Pattern=soort, Pattern=een, Pattern=zitten, Pattern=er, Pattern=van, Pattern=en
+Turn ID=4| A | A : of niet een tafel veel gewoon een plank met een dinge eraan
+	Free: Pattern=met een, Pattern=niet, Pattern=dinge, Pattern=een
+	Constrained: Pattern=een, Pattern=met
+Turn ID=5| B | B : even kijken ik vinden hem niet
+	Free: Pattern=niet
+	Constrained: 
+Turn ID=6| A | A : er zijn een dik staaf aan de achterkant onderkant achterkant
+	Free: Pattern=onderkant achterkant, Pattern=staaf, Pattern=een, Pattern=er, Pattern=zijn, Pattern=achterkant, Pattern=de, Pattern=aan
+	Constrained: Pattern=achterkant, Pattern=onderkant
+Turn ID=7| B | B : onderkant achterkant ja oké
+	Free: Pattern=onderkant achterkant, Pattern=ja
+	Constrained: Pattern=achterkant, Pattern=onderkant
+Turn ID=8| A | A : en twee aan die uiteind van die dik staaf zitten twee bollet
+	Free: Pattern=twee, Pattern=aan, Pattern=staaf, Pattern=twee bollet, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: Pattern=twee
+Turn ID=9| B | B : ah oké ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en er zitten een schuin vierkant
+	Free: Pattern=en er zitten, Pattern=er zitten een
+	Constrained: Pattern=een, Pattern=zitten, Pattern=er, Pattern=zitten een, Pattern=en
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : I
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : een beetje achter zitten de staaf doorheen met soort met twee bollet aan het uiteinde en een vierkant achter het kop met een staart eruit
+	Free: Pattern=aan het, Pattern=soort, Pattern=de, Pattern=een, Pattern=achter, Pattern=met twee, Pattern=zitten, Pattern=met een, Pattern=staaf doorheen, Pattern=en, Pattern=een beetje, Pattern=twee bollet, Pattern=het, Pattern=doorheen met
+	Constrained: Pattern=twee, Pattern=aan, Pattern=staaf, Pattern=beetje, Pattern=een, Pattern=het, Pattern=met
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : er zitten een dik balk aan de onderkant doorheen met twee rond aan de zijkant en aan de achterkant dat tafel
+	Free: Pattern=twee rond aan, Pattern=doorheen met, Pattern=er zitten een, Pattern=met twee, Pattern=balk, Pattern=onderkant, Pattern=en, Pattern=achterkant, Pattern=de, Pattern=aan
+	Constrained: Pattern=twee, Pattern=aan, Pattern=een, Pattern=met, Pattern=zitten, Pattern=er, Pattern=zitten een, Pattern=rond
+Turn ID=20| B | B : ja even kijken
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : of zo'n plank achter
+	Free: Pattern=achter
+	Constrained: 
+Turn ID=22| B | B : waar zijn je
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : ah en een lepeltje erachter
+	Free: Pattern=en, Pattern=lepeltje, Pattern=een
+	Constrained: 
+Turn ID=24| A | A : nee geen lepeltje
+	Free: Pattern=lepeltje
+	Constrained: 
+Turn ID=25| A | A : de aan de achterkant zitten een dat tafel met zo'n uh , of zo'n plank zeggen maar
+	Free: Pattern=met, Pattern=zitten een, Pattern=achterkant, Pattern=de, Pattern=aan
+	Constrained: Pattern=zitten, Pattern=een
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : wat zo naar beneden gaan en aan de onderkant zitten twee van zo'n dik staf met die rond eraan
+	Free: Pattern=twee, Pattern=met, Pattern=onderkant, Pattern=rond, Pattern=naar, Pattern=de, Pattern=aan, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=28| B | B : ja ja ja die dan soort van vast kunnen houden ja
+	Free: Pattern=soort van, Pattern=ja, Pattern=die
+	Constrained: Pattern=soort, Pattern=van
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : een staaf door het midden heen , twee rond aan het uiteinde en daar achter zitten een vierkantje beetje verstopt met een staart erachter
+	Free: Pattern=aan het, Pattern=twee rond aan, Pattern=staaf, Pattern=beetje, Pattern=een, Pattern=het, Pattern=achter, Pattern=met een, Pattern=zitten een, Pattern=en
+	Constrained: Pattern=twee, Pattern=aan, Pattern=een, Pattern=het, Pattern=met, Pattern=zitten, Pattern=rond
+Turn ID=33| A | A : met tafel
+	Free: Pattern=met
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : zo'n dik staaf aan de achterkant onderkant met twee bollen aan de zijkant
+	Free: Pattern=staaf, Pattern=met twee, Pattern=onderkant, Pattern=achterkant, Pattern=de, Pattern=aan
+	Constrained: Pattern=twee, Pattern=met
+Turn ID=37| A | A : en dat tafel aan de achterkant met zo'n nog een dinge eraan zeggen maar
+	Free: Pattern=een, Pattern=met, Pattern=dinge, Pattern=en, Pattern=achterkant, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=38| A | A : aan dat tafel aan de achterkant
+	Free: Pattern=achterkant, Pattern=aan, Pattern=de
+	Constrained: 
+Turn ID=39| B | B : ja en een soort vierkant dinge
+	Free: Pattern=een soort, Pattern=ja, Pattern=en, Pattern=dinge
+	Constrained: Pattern=soort, Pattern=een
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : N
+	Free: 
+	Constrained: 
+Turn ID=43| B | B : vierkant naar achter soort tafelachtig ding achter met een staart eruit
+	Free: Pattern=met een, Pattern=soort, Pattern=achter, Pattern=naar
+	Constrained: Pattern=een, Pattern=met
+Turn ID=44| A | A : en die twee balk
+	Free: Pattern=twee balk, Pattern=en, Pattern=die
+	Constrained: Pattern=twee, Pattern=balk
+Turn ID=45| B | B : twee balk
+	Free: Pattern=twee balk
+	Constrained: Pattern=twee, Pattern=balk
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : tien
+	Free: 
+	Constrained: 

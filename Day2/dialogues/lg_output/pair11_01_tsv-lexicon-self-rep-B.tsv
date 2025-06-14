@@ -1,0 +1,21 @@
+Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+3	5	vierkant schijf aan de voorkant	16	B	0, 12, 15
+3	4	joystick aan de bovenkant	17	B	15, 25, 31
+4	3	aan de bovenkant	29	B	3, 15, 25, 31
+4	3	aan de voorkant	31	B	0, 12, 15, 30
+2	3	aan de linkerkant	30	B	1, 30
+4	2	dat zijn	37	B	1, 13, 26, 37
+2	2	soort van	13	B	3, 15
+2	2	twee identiek	17	B	15, 31
+8	1	de	32	B	0, 1, 3, 12, 15, 25, 30, 31
+7	1	ja	37	B	1, 6, 12, 20, 23, 29, 37
+5	1	en	31	B	1, 3, 10, 15, 31
+4	1	die	36	B	1, 12, 31, 36
+4	1	vierkant	31	B	0, 12, 15, 30
+3	1	twee	31	B	1, 15, 31
+3	1	van	15	B	1, 3, 15
+2	1	een	4	B	0, 3
+2	1	hebben	4	B	0, 3
+2	1	klein	31	B	1, 31
+2	1	yes	12	B	25, 36
+

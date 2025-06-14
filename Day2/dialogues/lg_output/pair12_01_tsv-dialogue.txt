@@ -1,0 +1,67 @@
+B|0| B: deze hebben _een_ groot _vierkant vlak_ aan _de_ voorkant 
+B|1| B: _en een_ soort _verrekijker_ links 
+A|2| A: ja zes 
+A|3| A: hier zijn _het vierkant vlak_ voorop [en] [de] [verrekijker] 
+B|4| B: l 
+B|5| B: _een_ _verrekijker en_ [het vierkant vlak] 
+A|6| A: [een] 
+A|7| A: [verrekijker [en] een] plat [vlak] [vierkant vlak] 
+B|8| B: h 
+B|9| B: [verrekijker] link 
+B|10| B: rechtervlak aan [de] voorkant 
+A|11| A: twaalf 
+A|12| A: [vlak] [en] [de] [verrekijker] 
+A|13| A: [verrekijker] 
+A|14| A: [en] [de] [vierkant vlak] rechts 
+B|15| B: j 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een groot vierkant vlak aan de voorkant
+	Free: Pattern=vierkant vlak, Pattern=de, Pattern=een
+	Constrained: Pattern=vlak
+Turn ID=1| B | B : en een soort verrekijker links
+	Free: Pattern=en een, Pattern=verrekijker
+	Constrained: Pattern=en, Pattern=een
+Turn ID=2| A | A : ja zes
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : hier zijn het vierkant vlak voorop en de verrekijker
+	Free: Pattern=het vierkant vlak, Pattern=de, Pattern=en, Pattern=verrekijker
+	Constrained: Pattern=vierkant vlak, Pattern=vlak
+Turn ID=4| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : een verrekijker en het vierkant vlak
+	Free: Pattern=het vierkant vlak, Pattern=verrekijker en, Pattern=een
+	Constrained: Pattern=vierkant vlak, Pattern=en, Pattern=verrekijker, Pattern=vlak
+Turn ID=6| A | A : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=7| A | A : verrekijker en een plat vlak vierkant vlak
+	Free: Pattern=verrekijker en, Pattern=vierkant vlak, Pattern=en een, Pattern=vlak
+	Constrained: Pattern=en, Pattern=een, Pattern=verrekijker, Pattern=vlak
+Turn ID=8| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : verrekijker link
+	Free: Pattern=verrekijker
+	Constrained: 
+Turn ID=10| B | B : rechtervlak aan de voorkant
+	Free: Pattern=de
+	Constrained: 
+Turn ID=11| A | A : twaalf
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : vlak en de verrekijker
+	Free: Pattern=de, Pattern=en, Pattern=verrekijker, Pattern=vlak
+	Constrained: 
+Turn ID=13| A | A : verrekijker
+	Free: Pattern=verrekijker
+	Constrained: 
+Turn ID=14| A | A : en de vierkant vlak rechts
+	Free: Pattern=vierkant vlak, Pattern=de, Pattern=en
+	Constrained: Pattern=vlak
+Turn ID=15| B | B : j
+	Free: 
+	Constrained: 

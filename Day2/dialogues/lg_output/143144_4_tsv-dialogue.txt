@@ -1,0 +1,683 @@
+A|0| A: _dit zijn_ _één_ _ja_ _ik_ willen _ik_ willen deze _het_ feesthoed noemen _maar_ _dan_ _met een_ _met een_ afstolping laten _maar_ _zeggen_ 
+A|1| A: _dus_ _het zijn_ _niet helemaal_ feest 
+B|2| B: _met een gek neus erop_ 
+A|3| A: _ja_ [met een gek neus erop] _wat_ _naar_ _één_ kant wijzen 
+B|4| B: [ja] 
+B|5| B: [naar] _de rechterkant_ kijken _die dan_ 
+A|6| A: [ja] _en_ _hij hebben_ laten _maar_ _zeggen_ _aan_ _aan_ _één_ arm _hebben die twee_ plaat _zitten_ 
+B|7| B: [ja] 
+A|8| A: [ja] 
+B|9| B: _een rond_ _en een_ [ja] 
+A|10| A: _wat_ ? [een rond] 
+B|11| B: [ja] 
+A|12| A: [ja] 
+A|13| A: _nee_ _het zijn een_ 
+B|14| B: [het zijn] lijken [het] _op_ [een] vogel 
+A|15| A: _dat_ _zullen_ _je_ _zo_ 
+B|16| B: [hebben die twee] _van die_ _stok_ [zeggen] [maar] [twee] _van die_ 
+A|17| A: _twee stok_ [ja] 
+B|18| B: _ik vinden_ [het] _op_ _het Twittervogeltje_ lijken 
+A|19| A: _dat_ _zullen_ _ook_ _kunnen_ 
+A|20| A: _ja maar_ [ik vinden] hem _ja in ieder geval_ _dat zijn_ hem _denken ik_ [met] zo'n [met] zo'n [neus] _wat_ [naar] _één_ kant wijzen _een beetje_ raar neusje [hebben die] 
+B|21| B: [ja] 
+B|22| B: precies [ja] 
+A|23| A: [en een] soort [van] raar staart _wat [die_ _dan] nog_ ver [hebben] 
+B|24| B: precies [dus] [hij hebben] vier uitstulping 
+A|25| A: [ja] 
+A|26| A: [ja] 
+B|27| B: waarvan _er_ [twee] [zo] 
+A|28| A: [ja] 
+A|29| A: _als je de_ _hoed_ meetelen [dan] _zijn het_ [er] _vijf_ 
+B|30| B: [ja] _oké_ [dan] [vijf] inderdaad 
+A|31| A: [ja] 
+B|32| B: [maar] [de] [twee stok] _dat die_ lopen _parallel_ [aan] elkaar 
+A|33| A: [ja] 
+A|34| A: [ja] 
+B|35| B: kijken 
+A|36| A: [ik] _denken_ [dat] [ja] 
+B|37| B: oeh [dan] [hebben] _we_ [niet] [dan] [hebben] _we_ [de] I 
+B|38| B: [het zijn] [de] I 
+B|39| B: [ik] [zitten] even te kijken _of_ [het] [de] hoofdletter [maar] [het zijn een] hoofdletter 
+A|40| A: _bij mij staan die_ _als je de_ _als je _de_ B_ _van _het_ beeldscherm_ [naar] _boven_ trekken 
+A|41| A: [en] _net_ _aan de linkerkant_ _bovenin_ 
+B|42| B: [ja] 
+B|43| B: _bij mij ook_ _er zullen_ [in] principe [een] klein [nog] Erboven [kunnen] 
+A|44| A: [ja] 
+B|45| B: [die] vorig [die] _we_ [net] [hebben] [dat] uilt [zeggen] [maar] 
+A|46| A: [ja] 
+B|47| B: [die] [zullen] [dan nog] _op_ [de] lijn [van] [de B] _vallen_ [en] degeen [die] [het] [dan] [niet] raken _dat zijn dan_ I 
+A|48| A: [ja] [ja] 
+A|49| A: [ja] 
+B|50| B: _oké_ 
+A|51| A: [bij mij ook] 
+B|52| B: [dan] [en] naast [aan de linkerkant] [kunnen] [er] [nog] _drie_ ongeveer 
+A|53| A: [ja] [bij mij ook] 
+B|54| B: [dan] [denken ik] [dat] _we_ _dezelfde_ [hebben] [dus] [dat zijn] geel 
+A|55| A: [oké] _top_ 
+B|56| B: [dit [zijn] het] vogel [zeggen] [maar] [met] [het] feestmutsje [dat] [niet helemaal] af [zijn] 
+A|57| A: [ja] 
+B|58| B: _met die twee_ _parallel_ blok 
+A|59| A: [ja] 
+A|60| A: [ja] [dat zijn dan] Numero [twee] 
+B|61| B: [bij mij] [zitten] [die] [aan de linkerkant] 
+A|62| A: [ja] [bij mij ook] 
+B|63| B: [als] jij [het beeldscherm] [in] [zo] [zullen] _gaan_ verdelen [zeggen] _maar in_ vierkant _dan vallen die link onderin_ [net] _onder_ [die] streep 
+B|64| B: _er zullen_ daaronder _zullen er_ _nog één_ [kunnen] 
+A|65| A: [ja] 
+B|66| B: _link_ 
+A|67| A: daarnaast [bij mij] _links_ daarvan _ook [nog_ één] 
+B|68| B: [één] _en _aan de_ rechterkant_ _zullen er_ [dus] [ook nog] [wat] [kunnen] _en aan de_ bovenkant [één] _twee drie_ 
+A|69| A: [twee drie] [ja] 
+A|70| A: _dan staan die op dezelfde plek_ 
+B|71| B: [ja] ? [top] 
+A|72| A: [dit zijn] [die] Pinokkio [met die twee] uitstellingen _en een _half_ hoed_ 
+A|73| A: [dat] _half hoed_ 
+B|74| B: _het half hoed_ _of_ [het] 
+A|75| A: [het half hoed] [en] [die] [neus] [aan de] zijkant 
+B|76| B: [naar] rechts 
+A|77| A: [ja] [en] [van [die] twee] [twee] plank 
+B|78| B: [ja maar] [het [zijn] het] _heel_ [hoed] [wat die] [hebben] volgens [hebben] 
+A|79| A: [en] [en] [die twee] plank 
+A|80| A: hoe noemen [we] [die] [ook] alweer eens 
+B|81| B: [nee] _de Twittervogel_ zeker 
+A|82| A: [de Twittervogel] [ja] 
+B|83| B: [oké] [dan] misgaan [het] [dus] _met die parallel_ staafjes 
+A|84| A: [ja] [met die parallel] plank [ja] 
+B|85| B: [dan] _gaan_ [het] om M [de] driepoot M 
+A|86| A: _hij staan_ [bij mij] [aan de linkerkant] 
+B|87| B: [ja] 
+A|88| A: vrij onderaan 
+B|89| B: [ja] 
+A|90| A: [er [zullen] er] misschien [nog één] [helemaal] _links_ [kunnen] 
+A|91| A: [zullen] misschien [net] _passen_ [bij mij] 
+B|92| B: [bij mij] [zullen] [dan] [zeggen] [maar] [het] toren [het] uitstulpsel [van het] toren [zullen] daar [dan] [net] [een beetje] _tussen_ [kunnen] 
+B|93| B: ongeveer [ik] [hebben] ongeveer _zoveel ruimte_ 
+A|94| A: [ja] [ik] weten [niet] [of] _je_ [dat] _mogen_ doen _eigenlijk_ [ja] [dat] [hebben] [ik] [ja] [dat] weten [ik] [niet] 
+B|95| B: [mogen] [dat] [niet] 
+A|96| A: [maar _in] ieder geval_ [zoveel ruimte] [hebben] [ik] [denken ik] [ook nog] wel 
+A|97| A: [ja] [het] moeten geen [heel] groot [zijn] [nee] [als] [het] kanon ertussen [gaan] [dan] past [het] [niet] 
+B|98| B: [nee] 
+B|99| B: [nee] [en] [bij mij] [passen] [er] _niks veel onder_ 
+A|100| A: [nee] [bij mij ook] [niet] 
+B|101| B: [en] [ja] [hij staan] [zeggen] [maar _in] het_ _als je het_ beelscherm [in] vier [zullen] delen [of] vijven [dan] [zullen] [die] _in het_ [één] gedeelte _vallen_ 
+A|102| A: [maar] [ik] [denken] [dat _die] op dezelfde plek_ [staan] [dan] 
+A|103| A: [ja] [bij mij ook] 
+B|104| B: ongeveer voor _jou_ 
+B|105| B: [dan staan die op dezelfde plek] 
+B|106| B: [dit [zijn] het] vogel _Twittervogeltje_ 
+A|107| A: [het Twittervogeltje] 
+B|108| B: [met] [de] [parallel] [stok] 
+A|109| A: [ja] [dat zijn] Numero negen 
+B|110| B: [bij mij staan _die] link_ [bovenin] [of] nou [ja in ieder geval] [boven] _en dan_ [links] 
+A|111| A: [ja] 
+A|112| A: [ja] 
+B|113| B: stellen [dat] [je] 
+B|114| B: [B] omhoogtrekt [de] lijn [naar] [links] daartussen _kunnen niks veel_ daar komen [het] vogel [zitten] [dan] ongeveer [nog] [drie] vingerlengte daarboven [drie] vingerlengte _aan de rechterkant_ 
+B|115| B: eronder [kunnen] [er] _een stuk of_ [drie] [en een half] vier 
+A|116| A: [ja] 
+A|117| A: [ja] [boven] [niks veel] 
+B|118| B: [aan de linkerkant] 
+B|119| B: [nee] [ja] [de] _je hebben_ [drie] vingerlengte ongeveer 
+A|120| A: [je hebben] wel [wat] [ruimte] [maar] _er kunnen niks veel_ 
+A|121| A: [ja] 
+A|122| A: [en [aan de] linkerkant] [een stuk of] _twee en een half_ [ja] 
+B|123| B: [twee en een half] 
+B|124| B: [ja] 
+B|125| B: [staan die op dezelfde plek] 
+A|126| A: [ja] 
+A|127| A: [jou] [Twittervogeltje] 
+B|128| B: [ja] [dan] [gaan] [het] om F 
+A|129| A: [hij staan] [bij mij] [als je het] midden [hebben] vrij _snel_ [aan de rechterkant] 
+B|130| B: [ja] 
+B|131| B: [er _kunnen niks veel] onder_ 
+A|132| A: [kunnen niks veel onder] 
+B|133| B: [drie] vingerlengte ongeveer [als je de] Q omhoogtrekken _dan vallen die_ [bij mij] [zeggen] [maar] [naar] rechts _vallen die_ daar [eigenlijk] vrijwel [snel] daarna 
+A|134| A: [ja] 
+A|135| A: [ja] 
+A|136| A: [je hebben] [de] [ja] [er kunnen niks veel] [tussen] laat [maar] [zeggen] 
+B|137| B: [nee] 
+A|138| A: [en dan] vrij onderaan 
+B|139| B: [ja] 
+A|140| A: [ja] 
+B|141| B: [staan die op dezelfde plek] 
+B|142| B: [het] [nee] stoppen [het] vogel 
+A|143| A: [jou] [jou] [Twittervogeltje] 
+B|144| B: [ja] 
+A|145| A: [dat zijn] Numero zes 
+B|146| B: [als je] 
+B|147| B: stellen [je] [zullen] [het] scherm [in] vier delen [en] [je] [zullen] [dan] delen vanaf [B] omhoog [met] [de] rood pin 
+A|148| A: [ja] 
+B|149| B: [dan] _in het_ rechterhoek 
+B|150| B: [van] _link_ [zeggen] [maar] [links] _onderin_ 
+B|151| B: [dus] [je] creëren [je] creërt vak 
+A|152| A: [maar] [bij mij staan die] vrij [eigenlijk] [in het] midden 
+B|153| B: [je] creëren [ja maar] [hij] _vallen_ namelijk precies [op] [die] lijn 
+B|154| B: [als je] [B] omhoogtrekt 
+A|155| A: [ja] 
+B|156| B: [en] [je] nemen [de] rood pin neem [je] [zeggen] [maar] [die] [dat] kruisen elkaar [zo] 
+A|157| A: [ja] 
+B|158| B: [dan] [hebben] [je] vier vak [en dan] [hebben] [je] Linksboven rechtsboven _linksonder_ 
+A|159| A: [dan] [dan vallen die] 
+A|160| A: [ja] 
+A|161| A: [en [dan] vallen die link onderin] 
+B|162| B: _linksonder_ [en dan] echt [in het] hoek 
+A|163| A: _van linksonder_ [ja] 
+B|164| B: [het] [het] [het] vakje [van linksonder] rechts [bovenin] 
+A|165| A: [ja] 
+B|166| B: snapan [je] [wat] [ik] _bedoelen_ 
+A|167| A: [ja] [ja] [ja] [ik] snapen [wat] [je] [bedoelen] 
+B|168| B: daar [vallen die] precies mooi [in] 
+A|169| A: [dan staan die] [denken] [op dezelfde plek] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : dit zijn één ja ik willen ik willen deze het feesthoed noemen maar dan met een met een afstolping laten maar zeggen
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=zeggen, Pattern=met een, Pattern=ik, Pattern=maar, Pattern=één, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=een, Pattern=met
+Turn ID=1| A | A : dus het zijn niet helemaal feest
+	Free: Pattern=het zijn, Pattern=niet helemaal, Pattern=dus
+	Constrained: Pattern=niet, Pattern=zijn, Pattern=helemaal, Pattern=het
+Turn ID=2| B | B : met een gek neus erop
+	Free: Pattern=met een gek neus erop
+	Constrained: Pattern=neus, Pattern=een, Pattern=met, Pattern=met een
+Turn ID=3| A | A : ja met een gek neus erop wat naar één kant wijzen
+	Free: Pattern=ja, Pattern=met een gek neus erop, Pattern=wat, Pattern=één, Pattern=naar
+	Constrained: Pattern=neus, Pattern=een, Pattern=met, Pattern=met een
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : naar de rechterkant kijken die dan
+	Free: Pattern=de rechterkant, Pattern=die dan, Pattern=naar
+	Constrained: Pattern=de, Pattern=die, Pattern=dan
+Turn ID=6| A | A : ja en hij hebben laten maar zeggen aan aan één arm hebben die twee plaat zitten
+	Free: Pattern=zeggen, Pattern=hij hebben, Pattern=zitten, Pattern=en, Pattern=maar, Pattern=één, Pattern=hebben die twee, Pattern=aan, Pattern=ja
+	Constrained: Pattern=twee, Pattern=die twee, Pattern=hebben, Pattern=hij, Pattern=die, Pattern=hebben die
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : een rond en een ja
+	Free: Pattern=een rond, Pattern=en een, Pattern=ja
+	Constrained: Pattern=een, Pattern=en
+Turn ID=10| A | A : wat ? een rond
+	Free: Pattern=een rond, Pattern=wat
+	Constrained: Pattern=een
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : nee het zijn een
+	Free: Pattern=het zijn een, Pattern=nee
+	Constrained: Pattern=een, Pattern=zijn, Pattern=het, Pattern=het zijn
+Turn ID=14| B | B : het zijn lijken het op een vogel
+	Free: Pattern=het zijn, Pattern=een, Pattern=het, Pattern=op
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=15| A | A : dat zullen je zo
+	Free: Pattern=zullen, Pattern=dat, Pattern=je, Pattern=zo
+	Constrained: 
+Turn ID=16| B | B : hebben die twee van die stok zeggen maar twee van die
+	Free: Pattern=twee, Pattern=zeggen, Pattern=stok, Pattern=van die, Pattern=maar, Pattern=hebben die twee
+	Constrained: Pattern=twee, Pattern=die twee, Pattern=hebben, Pattern=die, Pattern=van, Pattern=hebben die
+Turn ID=17| A | A : twee stok ja
+	Free: Pattern=twee stok, Pattern=ja
+	Constrained: Pattern=twee, Pattern=stok
+Turn ID=18| B | B : ik vinden het op het Twittervogeltje lijken
+	Free: Pattern=ik vinden, Pattern=het Twittervogeltje, Pattern=het, Pattern=op
+	Constrained: Pattern=Twittervogeltje, Pattern=het, Pattern=ik
+Turn ID=19| A | A : dat zullen ook kunnen
+	Free: Pattern=zullen, Pattern=dat, Pattern=ook, Pattern=kunnen
+	Constrained: 
+Turn ID=20| A | A : ja maar ik vinden hem ja in ieder geval dat zijn hem denken ik met zo'n met zo'n neus wat naar één kant wijzen een beetje raar neusje hebben die
+	Free: Pattern=dat zijn, Pattern=denken ik, Pattern=neus, Pattern=met, Pattern=wat, Pattern=hebben die, Pattern=ja maar, Pattern=ik vinden, Pattern=één, Pattern=een beetje, Pattern=naar, Pattern=ja in ieder geval
+	Constrained: Pattern=dat, Pattern=denken, Pattern=ja, Pattern=een, Pattern=hebben, Pattern=in, Pattern=die, Pattern=ik, Pattern=in ieder geval, Pattern=zijn, Pattern=maar
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| B | B : precies ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en een soort van raar staart wat die dan nog ver hebben
+	Free: Pattern=hebben, Pattern=die dan, Pattern=van, Pattern=en een, Pattern=wat die, Pattern=dan nog
+	Constrained: Pattern=nog, Pattern=dan, Pattern=een, Pattern=die, Pattern=wat, Pattern=en
+Turn ID=24| B | B : precies dus hij hebben vier uitstulping
+	Free: Pattern=hij hebben, Pattern=dus
+	Constrained: Pattern=hij, Pattern=hebben
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : waarvan er twee zo
+	Free: Pattern=twee, Pattern=zo, Pattern=er
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : als je de hoed meetelen dan zijn het er vijf
+	Free: Pattern=zijn het, Pattern=hoed, Pattern=vijf, Pattern=dan, Pattern=als je de, Pattern=er
+	Constrained: Pattern=de, Pattern=het, Pattern=zijn, Pattern=je, Pattern=als, Pattern=als je
+Turn ID=30| B | B : ja oké dan vijf inderdaad
+	Free: Pattern=vijf, Pattern=ja, Pattern=dan, Pattern=oké
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : maar de twee stok dat die lopen parallel aan elkaar
+	Free: Pattern=twee stok, Pattern=parallel, Pattern=dat die, Pattern=maar, Pattern=de, Pattern=aan
+	Constrained: Pattern=dat, Pattern=die, Pattern=twee, Pattern=stok
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : kijken
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : ik denken dat ja
+	Free: Pattern=ja, Pattern=denken, Pattern=dat, Pattern=ik
+	Constrained: 
+Turn ID=37| B | B : oeh dan hebben we niet dan hebben we de I
+	Free: Pattern=de, Pattern=hebben, Pattern=we, Pattern=niet, Pattern=dan
+	Constrained: 
+Turn ID=38| B | B : het zijn de I
+	Free: Pattern=het zijn, Pattern=de
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=39| B | B : ik zitten even te kijken of het de hoofdletter maar het zijn een hoofdletter
+	Free: Pattern=of, Pattern=de, Pattern=het zijn een, Pattern=het, Pattern=zitten, Pattern=ik, Pattern=maar
+	Constrained: Pattern=een, Pattern=zijn, Pattern=het, Pattern=het zijn
+Turn ID=40| A | A : bij mij staan die als je de als je de B van het beeldscherm naar boven trekken
+	Free: Pattern=boven, Pattern=als je de, Pattern=van het, Pattern=het beeldscherm, Pattern=de B, Pattern=bij mij staan die, Pattern=naar
+	Constrained: Pattern=de, Pattern=B, Pattern=staan, Pattern=het, Pattern=die, Pattern=van, Pattern=als, Pattern=als je, Pattern=bij mij, Pattern=je
+Turn ID=41| A | A : en net aan de linkerkant bovenin
+	Free: Pattern=aan de linkerkant, Pattern=net, Pattern=bovenin, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : bij mij ook er zullen in principe een klein nog Erboven kunnen
+	Free: Pattern=er zullen, Pattern=nog, Pattern=kunnen, Pattern=een, Pattern=in, Pattern=bij mij ook
+	Constrained: Pattern=zullen, Pattern=bij mij, Pattern=ook, Pattern=er
+Turn ID=44| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : die vorig die we net hebben dat uilt zeggen maar
+	Free: Pattern=dat, Pattern=net, Pattern=hebben, Pattern=zeggen, Pattern=maar, Pattern=we, Pattern=die
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| B | B : die zullen dan nog op de lijn van de B vallen en degeen die het dan niet raken dat zijn dan I
+	Free: Pattern=zullen, Pattern=de, Pattern=op, Pattern=het, Pattern=dat zijn dan, Pattern=vallen, Pattern=die, Pattern=dan nog, Pattern=niet, Pattern=dan, Pattern=van, Pattern=de B, Pattern=en
+	Constrained: Pattern=nog, Pattern=de, Pattern=B, Pattern=dan, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=48| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=51| A | A : bij mij ook
+	Free: Pattern=bij mij ook
+	Constrained: Pattern=bij mij, Pattern=ook
+Turn ID=52| B | B : dan en naast aan de linkerkant kunnen er nog drie ongeveer
+	Free: Pattern=nog, Pattern=kunnen, Pattern=dan, Pattern=drie, Pattern=er, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=53| A | A : ja bij mij ook
+	Free: Pattern=bij mij ook, Pattern=ja
+	Constrained: Pattern=bij mij, Pattern=ook
+Turn ID=54| B | B : dan denken ik dat we dezelfde hebben dus dat zijn geel
+	Free: Pattern=dezelfde, Pattern=dus, Pattern=dan, Pattern=denken ik, Pattern=hebben, Pattern=we, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=denken, Pattern=dat, Pattern=ik
+Turn ID=55| A | A : oké top
+	Free: Pattern=oké, Pattern=top
+	Constrained: 
+Turn ID=56| B | B : dit zijn het vogel zeggen maar met het feestmutsje dat niet helemaal af zijn
+	Free: Pattern=dat, Pattern=zijn het, Pattern=niet helemaal, Pattern=het, Pattern=zeggen, Pattern=met, Pattern=dit zijn, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=niet, Pattern=zijn, Pattern=helemaal, Pattern=het
+Turn ID=57| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=58| B | B : met die twee parallel blok
+	Free: Pattern=met die twee, Pattern=parallel
+	Constrained: Pattern=met, Pattern=die, Pattern=twee, Pattern=die twee
+Turn ID=59| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=60| A | A : ja dat zijn dan Numero twee
+	Free: Pattern=dat zijn dan, Pattern=ja, Pattern=twee
+	Constrained: Pattern=dan, Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=61| B | B : bij mij zitten die aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=bij mij, Pattern=die, Pattern=zitten
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=62| A | A : ja bij mij ook
+	Free: Pattern=bij mij ook, Pattern=ja
+	Constrained: Pattern=bij mij, Pattern=ook
+Turn ID=63| B | B : als jij het beeldscherm in zo zullen gaan verdelen zeggen maar in vierkant dan vallen die link onderin net onder die streep
+	Free: Pattern=zullen, Pattern=net, Pattern=in, Pattern=als, Pattern=die, Pattern=maar in, Pattern=het beeldscherm, Pattern=gaan, Pattern=dan vallen die link onderin, Pattern=zeggen, Pattern=zo, Pattern=onder
+	Constrained: Pattern=die link, Pattern=vallen die, Pattern=onderin, Pattern=het, Pattern=vallen, Pattern=in, Pattern=die, Pattern=link, Pattern=maar, Pattern=dan vallen die, Pattern=dan
+Turn ID=64| B | B : er zullen daaronder zullen er nog één kunnen
+	Free: Pattern=zullen er, Pattern=er zullen, Pattern=nog één, Pattern=kunnen
+	Constrained: Pattern=zullen, Pattern=er, Pattern=één, Pattern=nog
+Turn ID=65| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=66| B | B : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=67| A | A : daarnaast bij mij links daarvan ook nog één
+	Free: Pattern=ook nog, Pattern=bij mij, Pattern=nog één, Pattern=links
+	Constrained: Pattern=ook, Pattern=één, Pattern=nog
+Turn ID=68| B | B : één en aan de rechterkant zullen er dus ook nog wat kunnen en aan de bovenkant één twee drie
+	Free: Pattern=ook nog, Pattern=kunnen, Pattern=aan de rechterkant, Pattern=wat, Pattern=twee drie, Pattern=één, Pattern=en aan de, Pattern=dus, Pattern=zullen er
+	Constrained: Pattern=twee, Pattern=de rechterkant, Pattern=drie, Pattern=er, Pattern=en, Pattern=nog, Pattern=zullen, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=ook
+Turn ID=69| A | A : twee drie ja
+	Free: Pattern=twee drie, Pattern=ja
+	Constrained: Pattern=twee, Pattern=drie
+Turn ID=70| A | A : dan staan die op dezelfde plek
+	Free: Pattern=dan staan die op dezelfde plek
+	Constrained: Pattern=staan die op dezelfde plek, Pattern=dezelfde, Pattern=die op dezelfde plek, Pattern=op, Pattern=dan, Pattern=staan, Pattern=die, Pattern=op dezelfde plek, Pattern=dan staan die
+Turn ID=71| B | B : ja ? top
+	Free: Pattern=ja, Pattern=top
+	Constrained: 
+Turn ID=72| A | A : dit zijn die Pinokkio met die twee uitstellingen en een half hoed
+	Free: Pattern=met die twee, Pattern=half hoed, Pattern=en een half, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=hoed, Pattern=een, Pattern=die twee, Pattern=met, Pattern=die, Pattern=en, Pattern=en een, Pattern=zijn
+Turn ID=73| A | A : dat half hoed
+	Free: Pattern=half hoed, Pattern=dat
+	Constrained: Pattern=hoed
+Turn ID=74| B | B : het half hoed of het
+	Free: Pattern=het half hoed, Pattern=het, Pattern=of
+	Constrained: Pattern=half hoed, Pattern=het, Pattern=hoed
+Turn ID=75| A | A : het half hoed en die neus aan de zijkant
+	Free: Pattern=aan de, Pattern=die, Pattern=en, Pattern=neus, Pattern=het half hoed
+	Constrained: Pattern=het, Pattern=half hoed, Pattern=de, Pattern=hoed, Pattern=aan
+Turn ID=76| B | B : naar rechts
+	Free: Pattern=naar
+	Constrained: 
+Turn ID=77| A | A : ja en van die twee twee plank
+	Free: Pattern=twee, Pattern=ja, Pattern=die twee, Pattern=van die, Pattern=en
+	Constrained: Pattern=van, Pattern=die, Pattern=twee
+Turn ID=78| B | B : ja maar het zijn het heel hoed wat die hebben volgens hebben
+	Free: Pattern=zijn het, Pattern=heel, Pattern=hoed, Pattern=ja maar, Pattern=hebben, Pattern=het zijn, Pattern=wat die
+	Constrained: Pattern=ja, Pattern=het, Pattern=die, Pattern=wat, Pattern=zijn, Pattern=maar
+Turn ID=79| A | A : en en die twee plank
+	Free: Pattern=die twee, Pattern=en
+	Constrained: Pattern=die, Pattern=twee
+Turn ID=80| A | A : hoe noemen we die ook alweer eens
+	Free: Pattern=die, Pattern=ook, Pattern=we
+	Constrained: 
+Turn ID=81| B | B : nee de Twittervogel zeker
+	Free: Pattern=de Twittervogel, Pattern=nee
+	Constrained: Pattern=de
+Turn ID=82| A | A : de Twittervogel ja
+	Free: Pattern=de Twittervogel, Pattern=ja
+	Constrained: Pattern=de
+Turn ID=83| B | B : oké dan misgaan het dus met die parallel staafjes
+	Free: Pattern=dus, Pattern=dan, Pattern=het, Pattern=oké, Pattern=met die parallel
+	Constrained: Pattern=met, Pattern=die, Pattern=parallel
+Turn ID=84| A | A : ja met die parallel plank ja
+	Free: Pattern=met die parallel, Pattern=ja
+	Constrained: Pattern=met, Pattern=die, Pattern=parallel
+Turn ID=85| B | B : dan gaan het om M de driepoot M
+	Free: Pattern=de, Pattern=dan, Pattern=het, Pattern=gaan
+	Constrained: 
+Turn ID=86| A | A : hij staan bij mij aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=bij mij, Pattern=hij staan
+	Constrained: Pattern=aan de, Pattern=staan, Pattern=hij, Pattern=de, Pattern=aan
+Turn ID=87| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=88| A | A : vrij onderaan
+	Free: 
+	Constrained: 
+Turn ID=89| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=90| A | A : er zullen er misschien nog één helemaal links kunnen
+	Free: Pattern=er zullen, Pattern=kunnen, Pattern=zullen er, Pattern=helemaal, Pattern=links, Pattern=nog één
+	Constrained: Pattern=zullen, Pattern=er, Pattern=één, Pattern=nog
+Turn ID=91| A | A : zullen misschien net passen bij mij
+	Free: Pattern=bij mij, Pattern=net, Pattern=zullen, Pattern=passen
+	Constrained: 
+Turn ID=92| B | B : bij mij zullen dan zeggen maar het toren het uitstulpsel van het toren zullen daar dan net een beetje tussen kunnen
+	Free: Pattern=zullen, Pattern=dan, Pattern=het, Pattern=zeggen, Pattern=van het, Pattern=maar, Pattern=tussen, Pattern=net, Pattern=kunnen, Pattern=bij mij, Pattern=een beetje
+	Constrained: Pattern=een, Pattern=van, Pattern=het
+Turn ID=93| B | B : ongeveer ik hebben ongeveer zoveel ruimte
+	Free: Pattern=zoveel ruimte, Pattern=ik, Pattern=hebben
+	Constrained: Pattern=ruimte
+Turn ID=94| A | A : ja ik weten niet of je dat mogen doen eigenlijk ja dat hebben ik ja dat weten ik niet
+	Free: Pattern=dat, Pattern=of, Pattern=ja, Pattern=niet, Pattern=eigenlijk, Pattern=ik, Pattern=je, Pattern=mogen, Pattern=hebben
+	Constrained: 
+Turn ID=95| B | B : mogen dat niet
+	Free: Pattern=niet, Pattern=dat, Pattern=mogen
+	Constrained: 
+Turn ID=96| A | A : maar in ieder geval zoveel ruimte hebben ik denken ik ook nog wel
+	Free: Pattern=ook nog, Pattern=zoveel ruimte, Pattern=denken ik, Pattern=hebben, Pattern=maar in, Pattern=ik, Pattern=in ieder geval
+	Constrained: Pattern=nog, Pattern=denken, Pattern=ook, Pattern=in, Pattern=ik, Pattern=maar, Pattern=ruimte
+Turn ID=97| A | A : ja het moeten geen heel groot zijn nee als het kanon ertussen gaan dan past het niet
+	Free: Pattern=heel, Pattern=ja, Pattern=nee, Pattern=het, Pattern=als, Pattern=niet, Pattern=dan, Pattern=zijn, Pattern=gaan
+	Constrained: 
+Turn ID=98| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=99| B | B : nee en bij mij passen er niks veel onder
+	Free: Pattern=nee, Pattern=passen, Pattern=niks veel onder, Pattern=er, Pattern=en, Pattern=bij mij
+	Constrained: Pattern=onder, Pattern=niks veel
+Turn ID=100| A | A : nee bij mij ook niet
+	Free: Pattern=bij mij ook, Pattern=niet, Pattern=nee
+	Constrained: Pattern=bij mij, Pattern=ook
+Turn ID=101| B | B : en ja hij staan zeggen maar in het als je het beelscherm in vier zullen delen of vijven dan zullen die in het één gedeelte vallen
+	Free: Pattern=of, Pattern=zullen, Pattern=ja, Pattern=dan, Pattern=hij staan, Pattern=in het, Pattern=in, Pattern=die, Pattern=maar in, Pattern=en, Pattern=één, Pattern=zeggen, Pattern=als je het, Pattern=vallen
+	Constrained: Pattern=staan, Pattern=het, Pattern=hij, Pattern=in, Pattern=maar, Pattern=je, Pattern=als, Pattern=als je
+Turn ID=102| A | A : maar ik denken dat die op dezelfde plek staan dan
+	Free: Pattern=denken, Pattern=die op dezelfde plek, Pattern=dan, Pattern=staan, Pattern=ik, Pattern=dat die, Pattern=maar
+	Constrained: Pattern=dat, Pattern=dezelfde, Pattern=op, Pattern=die, Pattern=op dezelfde plek
+Turn ID=103| A | A : ja bij mij ook
+	Free: Pattern=bij mij ook, Pattern=ja
+	Constrained: Pattern=bij mij, Pattern=ook
+Turn ID=104| B | B : ongeveer voor jou
+	Free: Pattern=jou
+	Constrained: 
+Turn ID=105| B | B : dan staan die op dezelfde plek
+	Free: Pattern=dan staan die op dezelfde plek
+	Constrained: Pattern=staan die op dezelfde plek, Pattern=dezelfde, Pattern=die op dezelfde plek, Pattern=op, Pattern=dan, Pattern=staan, Pattern=die, Pattern=op dezelfde plek, Pattern=dan staan die
+Turn ID=106| B | B : dit zijn het vogel Twittervogeltje
+	Free: Pattern=zijn het, Pattern=dit zijn, Pattern=Twittervogeltje
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=107| A | A : het Twittervogeltje
+	Free: Pattern=het Twittervogeltje
+	Constrained: Pattern=Twittervogeltje, Pattern=het
+Turn ID=108| B | B : met de parallel stok
+	Free: Pattern=de, Pattern=met, Pattern=parallel, Pattern=stok
+	Constrained: 
+Turn ID=109| A | A : ja dat zijn Numero negen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=110| B | B : bij mij staan die link bovenin of nou ja in ieder geval boven en dan links
+	Free: Pattern=die link, Pattern=of, Pattern=en dan, Pattern=boven, Pattern=links, Pattern=bij mij staan die, Pattern=bovenin, Pattern=ja in ieder geval
+	Constrained: Pattern=ja, Pattern=dan, Pattern=staan, Pattern=in, Pattern=die, Pattern=link, Pattern=bij mij, Pattern=in ieder geval, Pattern=en
+Turn ID=111| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=112| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=113| B | B : stellen dat je
+	Free: Pattern=dat, Pattern=je
+	Constrained: 
+Turn ID=114| B | B : B omhoogtrekt de lijn naar links daartussen kunnen niks veel daar komen het vogel zitten dan ongeveer nog drie vingerlengte daarboven drie vingerlengte aan de rechterkant
+	Free: Pattern=nog, Pattern=de, Pattern=B, Pattern=dan, Pattern=links, Pattern=het, Pattern=drie, Pattern=aan de rechterkant, Pattern=zitten, Pattern=naar, Pattern=kunnen niks veel
+	Constrained: Pattern=kunnen, Pattern=de rechterkant, Pattern=aan de, Pattern=niks veel, Pattern=de, Pattern=aan
+Turn ID=115| B | B : eronder kunnen er een stuk of drie en een half vier
+	Free: Pattern=kunnen, Pattern=drie, Pattern=en een half, Pattern=er, Pattern=een stuk of
+	Constrained: Pattern=een, Pattern=en, Pattern=en een, Pattern=of
+Turn ID=116| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=117| A | A : ja boven niks veel
+	Free: Pattern=niks veel, Pattern=ja, Pattern=boven
+	Constrained: 
+Turn ID=118| B | B : aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=119| B | B : nee ja de je hebben drie vingerlengte ongeveer
+	Free: Pattern=drie, Pattern=de, Pattern=ja, Pattern=je hebben, Pattern=nee
+	Constrained: Pattern=je, Pattern=hebben
+Turn ID=120| A | A : je hebben wel wat ruimte maar er kunnen niks veel
+	Free: Pattern=je hebben, Pattern=er kunnen niks veel, Pattern=wat, Pattern=maar, Pattern=ruimte
+	Constrained: Pattern=kunnen, Pattern=niks veel, Pattern=hebben, Pattern=er, Pattern=je, Pattern=kunnen niks veel
+Turn ID=121| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=122| A | A : en aan de linkerkant een stuk of twee en een half ja
+	Free: Pattern=ja, Pattern=twee en een half, Pattern=een stuk of, Pattern=en aan de, Pattern=aan de linkerkant
+	Constrained: Pattern=of, Pattern=twee, Pattern=aan de, Pattern=een, Pattern=en een half, Pattern=en, Pattern=en een, Pattern=de, Pattern=aan
+Turn ID=123| B | B : twee en een half
+	Free: Pattern=twee en een half
+	Constrained: Pattern=twee, Pattern=een, Pattern=en een half, Pattern=en, Pattern=en een
+Turn ID=124| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=125| B | B : staan die op dezelfde plek
+	Free: Pattern=staan die op dezelfde plek
+	Constrained: Pattern=dezelfde, Pattern=die op dezelfde plek, Pattern=op, Pattern=staan, Pattern=die, Pattern=op dezelfde plek
+Turn ID=126| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=127| A | A : jou Twittervogeltje
+	Free: Pattern=Twittervogeltje, Pattern=jou
+	Constrained: 
+Turn ID=128| B | B : ja dan gaan het om F
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=gaan
+	Constrained: 
+Turn ID=129| A | A : hij staan bij mij als je het midden hebben vrij snel aan de rechterkant
+	Free: Pattern=hij staan, Pattern=snel, Pattern=hebben, Pattern=als je het, Pattern=aan de rechterkant, Pattern=bij mij
+	Constrained: Pattern=de rechterkant, Pattern=aan de, Pattern=staan, Pattern=het, Pattern=hij, Pattern=je, Pattern=de, Pattern=aan, Pattern=als, Pattern=als je
+Turn ID=130| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=131| B | B : er kunnen niks veel onder
+	Free: Pattern=kunnen niks veel onder, Pattern=er kunnen niks veel
+	Constrained: Pattern=kunnen, Pattern=niks veel, Pattern=onder, Pattern=niks veel onder, Pattern=er, Pattern=kunnen niks veel
+Turn ID=132| A | A : kunnen niks veel onder
+	Free: Pattern=kunnen niks veel onder
+	Constrained: Pattern=kunnen, Pattern=niks veel, Pattern=onder, Pattern=niks veel onder, Pattern=kunnen niks veel
+Turn ID=133| B | B : drie vingerlengte ongeveer als je de Q omhoogtrekken dan vallen die bij mij zeggen maar naar rechts vallen die daar eigenlijk vrijwel snel daarna
+	Free: Pattern=vallen die, Pattern=dan vallen die, Pattern=snel, Pattern=drie, Pattern=maar, Pattern=bij mij, Pattern=naar, Pattern=zeggen, Pattern=als je de, Pattern=eigenlijk
+	Constrained: Pattern=vallen die, Pattern=de, Pattern=dan, Pattern=vallen, Pattern=die, Pattern=je, Pattern=als, Pattern=als je
+Turn ID=134| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=135| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=136| A | A : je hebben de ja er kunnen niks veel tussen laat maar zeggen
+	Free: Pattern=je hebben, Pattern=zeggen, Pattern=er kunnen niks veel, Pattern=maar, Pattern=tussen, Pattern=de, Pattern=ja
+	Constrained: Pattern=kunnen, Pattern=niks veel, Pattern=hebben, Pattern=er, Pattern=je, Pattern=kunnen niks veel
+Turn ID=137| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=138| A | A : en dan vrij onderaan
+	Free: Pattern=en dan
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=139| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=140| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=141| B | B : staan die op dezelfde plek
+	Free: Pattern=staan die op dezelfde plek
+	Constrained: Pattern=dezelfde, Pattern=die op dezelfde plek, Pattern=op, Pattern=staan, Pattern=die, Pattern=op dezelfde plek
+Turn ID=142| B | B : het nee stoppen het vogel
+	Free: Pattern=nee, Pattern=het
+	Constrained: 
+Turn ID=143| A | A : jou jou Twittervogeltje
+	Free: Pattern=Twittervogeltje, Pattern=jou
+	Constrained: 
+Turn ID=144| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=145| A | A : dat zijn Numero zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=146| B | B : als je
+	Free: Pattern=als je
+	Constrained: Pattern=je, Pattern=als
+Turn ID=147| B | B : stellen je zullen het scherm in vier delen en je zullen dan delen vanaf B omhoog met de rood pin
+	Free: Pattern=zullen, Pattern=de, Pattern=B, Pattern=dan, Pattern=het, Pattern=in, Pattern=met, Pattern=en, Pattern=je
+	Constrained: 
+Turn ID=148| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=149| B | B : dan in het rechterhoek
+	Free: Pattern=in het, Pattern=dan
+	Constrained: Pattern=in, Pattern=het
+Turn ID=150| B | B : van link zeggen maar links onderin
+	Free: Pattern=onderin, Pattern=links, Pattern=zeggen, Pattern=link, Pattern=van, Pattern=maar
+	Constrained: 
+Turn ID=151| B | B : dus je creëren je creërt vak
+	Free: Pattern=je, Pattern=dus
+	Constrained: 
+Turn ID=152| A | A : maar bij mij staan die vrij eigenlijk in het midden
+	Free: Pattern=bij mij staan die, Pattern=in het, Pattern=eigenlijk, Pattern=maar
+	Constrained: Pattern=staan, Pattern=het, Pattern=in, Pattern=die, Pattern=bij mij
+Turn ID=153| B | B : je creëren ja maar hij vallen namelijk precies op die lijn
+	Free: Pattern=ja maar, Pattern=op, Pattern=die, Pattern=je, Pattern=hij, Pattern=vallen
+	Constrained: Pattern=ja, Pattern=maar
+Turn ID=154| B | B : als je B omhoogtrekt
+	Free: Pattern=als je, Pattern=B
+	Constrained: Pattern=je, Pattern=als
+Turn ID=155| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=156| B | B : en je nemen de rood pin neem je zeggen maar die dat kruisen elkaar zo
+	Free: Pattern=dat, Pattern=de, Pattern=die, Pattern=en, Pattern=maar, Pattern=je, Pattern=zeggen, Pattern=zo
+	Constrained: 
+Turn ID=157| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=158| B | B : dan hebben je vier vak en dan hebben je Linksboven rechtsboven linksonder
+	Free: Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=linksonder, Pattern=je
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=159| A | A : dan dan vallen die
+	Free: Pattern=dan vallen die, Pattern=dan
+	Constrained: Pattern=vallen die, Pattern=die, Pattern=dan, Pattern=vallen
+Turn ID=160| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=161| A | A : en dan vallen die link onderin
+	Free: Pattern=dan vallen die link onderin, Pattern=en dan
+	Constrained: Pattern=die link, Pattern=vallen die, Pattern=onderin, Pattern=vallen, Pattern=die, Pattern=link, Pattern=en, Pattern=dan vallen die, Pattern=dan
+Turn ID=162| B | B : linksonder en dan echt in het hoek
+	Free: Pattern=in het, Pattern=en dan, Pattern=linksonder
+	Constrained: Pattern=in, Pattern=dan, Pattern=het, Pattern=en
+Turn ID=163| A | A : van linksonder ja
+	Free: Pattern=van linksonder, Pattern=ja
+	Constrained: Pattern=van, Pattern=linksonder
+Turn ID=164| B | B : het het het vakje van linksonder rechts bovenin
+	Free: Pattern=van linksonder, Pattern=bovenin, Pattern=het
+	Constrained: Pattern=van, Pattern=linksonder
+Turn ID=165| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=166| B | B : snapan je wat ik bedoelen
+	Free: Pattern=je, Pattern=bedoelen, Pattern=ik, Pattern=wat
+	Constrained: 
+Turn ID=167| A | A : ja ja ja ik snapen wat je bedoelen
+	Free: Pattern=ja, Pattern=bedoelen, Pattern=wat, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=168| B | B : daar vallen die precies mooi in
+	Free: Pattern=vallen die, Pattern=in
+	Constrained: Pattern=die, Pattern=vallen
+Turn ID=169| A | A : dan staan die denken op dezelfde plek
+	Free: Pattern=dan staan die, Pattern=op dezelfde plek, Pattern=denken
+	Constrained: Pattern=dezelfde, Pattern=op, Pattern=dan, Pattern=staan, Pattern=die

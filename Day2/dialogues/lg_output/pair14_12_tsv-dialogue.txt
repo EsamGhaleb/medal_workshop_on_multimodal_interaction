@@ -1,0 +1,191 @@
+B|0| B: _ja_ 
+A|1| A: _deze_ _hebben_ _aan de_ rechtkant _een een_ _cirkel_ _die_ er zo recht _op_ staat zo 
+A|2| A: gewoon verticaal 
+B|3| B: _ja_ 
+A|4| A: _en_ _aan de_ linkerkant _zo'n_ staaf _met_ nog _zo'n_ 
+B|5| B: soort van [een] soort 
+A|6| A: [een] _spijker_ erin _ja een_ _spijker_ 
+B|7| B: [zo'n] [zo'n] [zo'n] [zo'n] _zo'n beitel_ 
+A|8| A: [ja] [zo'n beitel] _ja dat_ bedoelen ik [ja] 
+B|9| B: [ja] _okee_ 
+B|10| B: [ja] 
+B|11| B: [dat] _zijn_ p 
+B|12| B: [ja] _deze zijn_ [die] [de] [de] [een] soort van [ja [een] [een] een] liggen [cirkel] laten maar zeggen of platgedruken [cirkel] [aan de] zijkant steken [die] uit 
+B|13| B: waarbij dus 
+A|14| A: _ah ja_ ik zien _hem al_ [ja] 
+B|15| B: [ja] 
+B|16| B: [hebben] je [hem al] 
+A|17| A: _aan de rechterkant_ _en dan_ links [zijn] weer _die spijker_ 
+B|18| B: [aan de rechterkant] 
+B|19| B: [ja] [die spijker] [ja] 
+A|20| A: [okee] 
+B|21| B: [ja] 
+A|22| A: dertien 
+A|23| A: _deze zijn met_ _dat cirkelt_ rechts _en dan_ links [die] staaf _met die spijker_ erop 
+B|24| B: [okee] [dat] [zijn] niet heel veel [cirkel] 
+B|25| B: [okee] wachten even [en] [de] [de] 
+A|26| A: [aan de rechterkant] _zitten_ [dat] [cirkel] zo horizontaal 
+B|27| B: [ja] 
+B|28| B: [ja] [ja] [ja] 
+A|29| A: _en dan_ links _met die spijker_ waar we het over [hebben] 
+B|30| B: [ah ja] [ja] [en] [de] daar [die] staan [die spijker] staan [op] [zo'n] ding 
+A|31| A: [ja] 
+B|32| B: [ja] [okee] 
+B|33| B: [ja dat] [zijn] j 
+B|34| B: [deze zijn [met] die spijker] 
+A|35| A: [aan de] linkerkant 
+B|36| B: [ja] 
+A|37| A: [ja] vijfteen 
+A|38| A: dit [zijn met] _dat cirkelt_ rechtsvoor _en dan_ links [met] [dat] [met die spijker] erop 
+B|39| B: [okee] [dat] [dat cirkelt] [zitten] [aan de] voorkant [aan de] 
+A|40| A: [aan de rechterkant] 
+B|41| B: [ja] [ja] precies [en dan] [hebben] je [dat] rechthoek [en] [dat] [dat] kegel 
+A|42| A: [ja] 
+A|43| A: [ja] 
+B|44| B: [okee] [dat] [zijn] a 
+B|45| B: [spijker] 
+A|46| A: drie 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : deze hebben aan de rechtkant een een cirkel die er zo recht op staat zo
+	Free: Pattern=cirkel, Pattern=hebben, Pattern=een een, Pattern=die, Pattern=deze, Pattern=op, Pattern=aan de
+	Constrained: Pattern=de, Pattern=een
+Turn ID=2| A | A : gewoon verticaal
+	Free: 
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en aan de linkerkant zo'n staaf met nog zo'n
+	Free: Pattern=aan de, Pattern=zo'n, Pattern=en, Pattern=met
+	Constrained: Pattern=de
+Turn ID=5| B | B : soort van een soort
+	Free: Pattern=een
+	Constrained: 
+Turn ID=6| A | A : een spijker erin ja een spijker
+	Free: Pattern=ja een, Pattern=spijker, Pattern=een
+	Constrained: Pattern=een, Pattern=ja
+Turn ID=7| B | B : zo'n zo'n zo'n zo'n zo'n beitel
+	Free: Pattern=zo'n beitel, Pattern=zo'n
+	Constrained: Pattern=zo'n
+Turn ID=8| A | A : ja zo'n beitel ja dat bedoelen ik ja
+	Free: Pattern=ja dat, Pattern=zo'n beitel, Pattern=ja
+	Constrained: Pattern=zo'n, Pattern=dat, Pattern=ja
+Turn ID=9| B | B : ja okee
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dat zijn p
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=12| B | B : ja deze zijn die de de een soort van ja een een een liggen cirkel laten maar zeggen of platgedruken cirkel aan de zijkant steken die uit
+	Free: Pattern=cirkel, Pattern=aan de, Pattern=een, Pattern=die, Pattern=de, Pattern=ja, Pattern=deze zijn, Pattern=een een, Pattern=ja een
+	Constrained: Pattern=een, Pattern=zijn, Pattern=deze, Pattern=de, Pattern=ja
+Turn ID=13| B | B : waarbij dus
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ah ja ik zien hem al ja
+	Free: Pattern=ah ja, Pattern=hem al, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : hebben je hem al
+	Free: Pattern=hem al, Pattern=hebben
+	Constrained: 
+Turn ID=17| A | A : aan de rechterkant en dan links zijn weer die spijker
+	Free: Pattern=aan de rechterkant, Pattern=die spijker, Pattern=en dan, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan de, Pattern=die, Pattern=en, Pattern=spijker
+Turn ID=18| B | B : aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=19| B | B : ja die spijker ja
+	Free: Pattern=die spijker, Pattern=ja
+	Constrained: Pattern=die, Pattern=spijker
+Turn ID=20| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dertien
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : deze zijn met dat cirkelt rechts en dan links die staaf met die spijker erop
+	Free: Pattern=deze zijn met, Pattern=en dan, Pattern=die, Pattern=met die spijker, Pattern=dat cirkelt
+	Constrained: Pattern=dat, Pattern=deze zijn, Pattern=die spijker, Pattern=met, Pattern=en, Pattern=zijn, Pattern=deze, Pattern=spijker, Pattern=zijn met, Pattern=die
+Turn ID=24| B | B : okee dat zijn niet heel veel cirkel
+	Free: Pattern=dat, Pattern=cirkel, Pattern=okee, Pattern=zijn
+	Constrained: 
+Turn ID=25| B | B : okee wachten even en de de
+	Free: Pattern=de, Pattern=en, Pattern=okee
+	Constrained: 
+Turn ID=26| A | A : aan de rechterkant zitten dat cirkel zo horizontaal
+	Free: Pattern=aan de rechterkant, Pattern=dat, Pattern=cirkel, Pattern=zitten
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : en dan links met die spijker waar we het over hebben
+	Free: Pattern=met die spijker, Pattern=en dan, Pattern=hebben
+	Constrained: Pattern=die spijker, Pattern=met, Pattern=die, Pattern=en, Pattern=spijker
+Turn ID=30| B | B : ah ja ja en de daar die staan die spijker staan op zo'n ding
+	Free: Pattern=zo'n, Pattern=op, Pattern=die spijker, Pattern=die, Pattern=en, Pattern=de, Pattern=ja, Pattern=ah ja
+	Constrained: Pattern=die, Pattern=spijker, Pattern=ja
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja okee
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja dat zijn j
+	Free: Pattern=ja dat, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=ja
+Turn ID=34| B | B : deze zijn met die spijker
+	Free: Pattern=deze zijn met, Pattern=met die spijker
+	Constrained: Pattern=deze zijn, Pattern=die spijker, Pattern=met, Pattern=zijn, Pattern=deze, Pattern=spijker, Pattern=zijn met, Pattern=die
+Turn ID=35| A | A : aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : ja vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| A | A : dit zijn met dat cirkelt rechtsvoor en dan links met dat met die spijker erop
+	Free: Pattern=dat, Pattern=en dan, Pattern=met, Pattern=zijn met, Pattern=met die spijker, Pattern=dat cirkelt
+	Constrained: Pattern=dat, Pattern=die spijker, Pattern=met, Pattern=die, Pattern=en, Pattern=zijn, Pattern=spijker
+Turn ID=39| B | B : okee dat dat cirkelt zitten aan de voorkant aan de
+	Free: Pattern=dat, Pattern=okee, Pattern=aan de, Pattern=zitten, Pattern=dat cirkelt
+	Constrained: Pattern=de, Pattern=dat
+Turn ID=40| A | A : aan de rechterkant
+	Free: Pattern=aan de rechterkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=41| B | B : ja ja precies en dan hebben je dat rechthoek en dat dat kegel
+	Free: Pattern=dat, Pattern=ja, Pattern=en dan, Pattern=hebben, Pattern=en
+	Constrained: Pattern=en
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : okee dat zijn a
+	Free: Pattern=dat, Pattern=okee, Pattern=zijn
+	Constrained: 
+Turn ID=45| B | B : spijker
+	Free: Pattern=spijker
+	Constrained: 
+Turn ID=46| A | A : drie
+	Free: 
+	Constrained: 

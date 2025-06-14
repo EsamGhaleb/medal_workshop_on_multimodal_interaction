@@ -1,0 +1,83 @@
+A|0| A: _ik hebben_ links _aan de_ bovenkant _een_ bol _erop_ zitten 
+A|1| A: _en_ _aan de_ rechterkant komen _een_ klein _staaf_ uit _aan de_ _linkerkant_ _een_ lang _die_ _naar je toe_ buigen 
+B|2| B: _ja_ [ik] weten hem 
+B|3| B: g 
+B|4| B: okee [ik hebben] [een] [een] balle _dat_ _bovenop_ liggen met niks niks erin [en] dan [een] [een] langwerpig rechthoekig [staaf] [aan de] voorkant 
+A|5| A: [ja] 
+A|6| A: vijf 
+A|7| A: [ik hebben] _die_ bol [bovenop] [en] _die_ [staaf] _die_ _naar je toe wijzen_ 
+B|8| B: [ja] 
+A|9| A: [aan de] _linkerkant_ 
+B|10| B: d 
+B|11| B: [ik hebben] [bovenop] [een] bal met niks [erop] [en] dan [linkerkant] zo'n dinge [naar je toe wijzen] weten [je] wel [die] hoek [naar je toe wijzen] 
+A|12| A: [ja] 
+A|13| A: zestien 
+A|14| A: [ik hebben] [de] bol [bovenop] [en] [dat] ding waar [naar je toe wijzen] 
+B|15| B: [ja] 
+B|16| B: a 
+B|17| B: [de] [de] bolle [bovenop] met niks eraan [en] dan [dat] dinge [linkerkant] [dat] [naar je toe wijzen] weten [je] [die] draaien 
+A|18| A: [ja] 
+A|19| A: drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben links aan de bovenkant een bol erop zitten
+	Free: Pattern=ik hebben, Pattern=aan de, Pattern=erop, Pattern=een
+	Constrained: Pattern=ik, Pattern=de
+Turn ID=1| A | A : en aan de rechterkant komen een klein staaf uit aan de linkerkant een lang die naar je toe buigen
+	Free: Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=die, Pattern=en, Pattern=naar je toe, Pattern=linkerkant
+	Constrained: Pattern=je, Pattern=de
+Turn ID=2| B | B : ja ik weten hem
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : okee ik hebben een een balle dat bovenop liggen met niks niks erin en dan een een langwerpig rechthoekig staaf aan de voorkant
+	Free: Pattern=ik hebben, Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=en, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=ik, Pattern=de
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ik hebben die bol bovenop en die staaf die naar je toe wijzen
+	Free: Pattern=ik hebben, Pattern=bovenop, Pattern=die, Pattern=en, Pattern=staaf, Pattern=naar je toe wijzen
+	Constrained: Pattern=naar je toe, Pattern=je, Pattern=ik
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : aan de linkerkant
+	Free: Pattern=aan de, Pattern=linkerkant
+	Constrained: Pattern=de
+Turn ID=10| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : ik hebben bovenop een bal met niks erop en dan linkerkant zo'n dinge naar je toe wijzen weten je wel die hoek naar je toe wijzen
+	Free: Pattern=ik hebben, Pattern=bovenop, Pattern=een, Pattern=die, Pattern=en, Pattern=je, Pattern=linkerkant, Pattern=naar je toe wijzen, Pattern=erop
+	Constrained: Pattern=naar je toe, Pattern=je, Pattern=ik
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : ik hebben de bol bovenop en dat ding waar naar je toe wijzen
+	Free: Pattern=ik hebben, Pattern=de, Pattern=naar je toe wijzen, Pattern=en, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=naar je toe, Pattern=je, Pattern=ik
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : a
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : de de bolle bovenop met niks eraan en dan dat dinge linkerkant dat naar je toe wijzen weten je die draaien
+	Free: Pattern=de, Pattern=naar je toe wijzen, Pattern=die, Pattern=en, Pattern=je, Pattern=linkerkant, Pattern=dat, Pattern=bovenop
+	Constrained: Pattern=naar je toe, Pattern=je
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : drie
+	Free: 
+	Constrained: 

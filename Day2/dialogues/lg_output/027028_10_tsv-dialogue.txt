@@ -1,0 +1,271 @@
+A|0| A: _het_ lijken _een_ beetje op _een_ _rugtas_ _met_ _een_ boek zeggen _maar_ zo half eruit _maar_ _wel_ _een_ _rugtas_ _met_ _twee_ arm 
+B|1| B: _die_ _ja_ 
+B|2| B: _ja_ _dat_ _zijn_ K 
+A|3| A: _en_ _hij staan_ links _de_ _twee_ _van_ _boven_ _en_ _de_ _twee_ _van_ link zeggen _maar_ 
+B|4| B: [twee] _dus_ _dus er_ vaststaan _nog wel_ één ding [boven] _of_ [het] _zijn_ gewoon [de] 
+A|5| A: _nee_ _nee_ [er] _staan_ niks [boven] _maar_ qua hoogte ergens ander _staan_ [nog wel] wat zeggen _maar_ 
+B|6| B: _ja_ _ja_ _ja_ kloppen _ja_ 
+B|7| B: _dan_ _zijn_ _die_ [het] _ja_ 
+B|8| B: _dan_ _zijn_ _die_ [wel] hetzelfde 
+B|9| B: _ja_ _hier_ _zijn_ [het] eigenlijk weer _die_ [rugtas] niet _die_ _dat_ klein [rugtas] [maar] _die_ _groot met_ _die_ _uitsteeksel_ 
+A|10| A: [groot met] [de] [uitsteeksel] _en_ [dat] _een_ flap daarachter toch ? [die] schuin achter 
+B|11| B: _ja_ _ja_ 
+A|12| A: [ja] negen 
+B|13| B: [en] bij mij _staan die_ [ja] [ja] vrij _rechts_ _misschien_ [twee] rij [van] _rechts en éénnaboven_ 
+A|14| A: _ik denken_ gelijk 
+A|15| A: [hier] _ook_ [rechts en éénnaboven] 
+A|16| A: [ja] [of] [misschien] [het] _deze_ _zitten er_ _een_ beetje tussenin zullen [misschien] 
+B|17| B: [er] [zitten] 
+B|18| B: bij mij [zitten er] _in_ ieder geval [nog] één ding [dat] _er nog_ [boven] _zijn_ 
+A|19| A: [en] zullen [er nog] iets tussen _kunnen_ _denken_ je 
+B|20| B: [nee] 
+A|21| A: [nee] 
+B|22| B: bij mij niet 
+A|23| A: [dan] gaan _ik_ [er] [wel] [van] uit _oké_ 
+A|24| A: _dit zijn _de groot_ rugtas_ 
+B|25| B: [groot rugtas] [dat] [zijn] F 
+A|26| A: [en] _hij staan_ [van] [ja] iets veel _naar_ links [maar] qua hoogte [staan die] ongeveer _in het midden_ 
+A|27| A: [maar] [wel] _een_ stuk veel _naar_ links [dan] echt _in het midden_ zelf 
+A|28| A: [er] past [nog] als je _het midden_ _hebben_ past [er [nog] wel] iets tussen _en dan_ daarnaast [staan die] 
+B|29| B: [ja] 
+A|30| A: [en] qua hoogte [staan die] _in het midden_ 
+B|31| B: _ik denken wel_ [dat] [dat] kloppen 
+B|32| B: [de groot rugtas] 
+A|33| A: [groot rugtas] [ja] 
+A|34| A: drie 
+B|35| B: [deze] [ja] eigenlijk _waar_ zonet [ja] [ook] weer helemaal onderaan _waar_ zonet [die] trofee [staan] eigenlijk 
+A|36| A: [dus er] zullen heel [misschien] [nog] iets _naar_ [misschien] niks veel onder _kunnen_ [maar] aan [de] zijkant [nog wel] links zeggen [maar] 
+B|37| B: [nee] 
+B|38| B: [ja] [er] [kunnen] [twee] ding [ja] [ja] 
+A|39| A: [ja] 
+A|40| A: [ik denken wel] gelijk [dan] 
+A|41| A: _dit zijn _de groot_ tas_ 
+B|42| B: [de groot tas] 
+A|43| A: [groot rugtas] 
+B|44| B: [nee] [ik] [hebben] alleen [de] klein zien 
+B|45| B: _waar_ ? ah daar 
+B|46| B: L 
+A|47| A: _in het midden_ [ook] qua hoogte ongeveer [dan] [maar] iets veel [rechts] 
+A|48| A: [misschien] 
+B|49| B: [een] [maar] [naar] [boven] [of] 
+A|50| A: _in het midden en dan_ [rechts _en] dan_ qua hoogte ongeveer _ja ik denken_ ongeveer _in het midden_ 
+B|51| B: [oké] [dan] [zijn] [het] niet 
+B|52| B: [dit zijn de _groot] boekentas_ 
+A|53| A: [groot boekentas] [waar] [staan] je nou ? 
+A|54| A: [ja] 
+A|55| A: vijf 
+B|56| B: [en] [ja] [hij staan] [ja] vrij [in het midden en _dan] naar_ onderen 
+B|57| B: [maar] niet helemaal onderaan 
+A|58| A: [nee] [er] zullen [nog wel] [een] vol iets 
+B|59| B: [ja] [ja] 
+A|60| A: [ja] 
+A|61| A: [en dan] iets veel [naar] links [dan naar] [rechts] 
+B|62| B: _denken het_ [ja] 
+A|63| A: [of] scheel [ja] 
+B|64| B: net [ja _ik denken] het_ net [wel] [ja] 
+A|65| A: [ik denken het] [ook] 
+A|66| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : het lijken een beetje op een rugtas met een boek zeggen maar zo half eruit maar wel een rugtas met twee arm
+	Free: Pattern=rugtas, Pattern=twee, Pattern=het, Pattern=met, Pattern=maar, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=1| B | B : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja dat zijn K
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : en hij staan links de twee van boven en de twee van link zeggen maar
+	Free: Pattern=twee, Pattern=de, Pattern=boven, Pattern=hij staan, Pattern=maar, Pattern=van, Pattern=en
+	Constrained: Pattern=staan
+Turn ID=4| B | B : twee dus dus er vaststaan nog wel één ding boven of het zijn gewoon de
+	Free: Pattern=of, Pattern=nog wel, Pattern=twee, Pattern=boven, Pattern=het, Pattern=dus er, Pattern=zijn, Pattern=de, Pattern=dus
+	Constrained: Pattern=nog, Pattern=wel, Pattern=dus, Pattern=er
+Turn ID=5| A | A : nee nee er staan niks boven maar qua hoogte ergens ander staan nog wel wat zeggen maar
+	Free: Pattern=nog wel, Pattern=boven, Pattern=staan, Pattern=nee, Pattern=er, Pattern=maar
+	Constrained: Pattern=nog, Pattern=wel
+Turn ID=6| B | B : ja ja ja kloppen ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dan zijn die het ja
+	Free: Pattern=ja, Pattern=dan, Pattern=het, Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : dan zijn die wel hetzelfde
+	Free: Pattern=die, Pattern=wel, Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=9| B | B : ja hier zijn het eigenlijk weer die rugtas niet die dat klein rugtas maar die groot met die uitsteeksel
+	Free: Pattern=ja, Pattern=hier, Pattern=uitsteeksel, Pattern=het, Pattern=die, Pattern=groot met, Pattern=dat, Pattern=rugtas, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=met
+Turn ID=10| A | A : groot met de uitsteeksel en dat een flap daarachter toch ? die schuin achter
+	Free: Pattern=dat, Pattern=de, Pattern=uitsteeksel, Pattern=een, Pattern=die, Pattern=groot met, Pattern=en
+	Constrained: Pattern=met
+Turn ID=11| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : en bij mij staan die ja ja vrij rechts misschien twee rij van rechts en éénnaboven
+	Free: Pattern=twee, Pattern=rechts en éénnaboven, Pattern=staan die, Pattern=misschien, Pattern=rechts, Pattern=ja, Pattern=van, Pattern=en
+	Constrained: Pattern=rechts en, Pattern=rechts, Pattern=staan, Pattern=die, Pattern=en
+Turn ID=14| A | A : ik denken gelijk
+	Free: Pattern=ik denken
+	Constrained: Pattern=ik, Pattern=denken
+Turn ID=15| A | A : hier ook rechts en éénnaboven
+	Free: Pattern=rechts en éénnaboven, Pattern=hier, Pattern=ook
+	Constrained: Pattern=rechts en, Pattern=rechts, Pattern=en
+Turn ID=16| A | A : ja of misschien het deze zitten er een beetje tussenin zullen misschien
+	Free: Pattern=of, Pattern=ja, Pattern=een, Pattern=het, Pattern=zitten er, Pattern=deze, Pattern=misschien
+	Constrained: Pattern=zitten, Pattern=er
+Turn ID=17| B | B : er zitten
+	Free: Pattern=zitten, Pattern=er
+	Constrained: 
+Turn ID=18| B | B : bij mij zitten er in ieder geval nog één ding dat er nog boven zijn
+	Free: Pattern=dat, Pattern=nog, Pattern=boven, Pattern=er nog, Pattern=in, Pattern=zijn, Pattern=zitten er
+	Constrained: Pattern=nog, Pattern=zitten, Pattern=er
+Turn ID=19| A | A : en zullen er nog iets tussen kunnen denken je
+	Free: Pattern=er nog, Pattern=kunnen, Pattern=denken, Pattern=en
+	Constrained: Pattern=nog, Pattern=er
+Turn ID=20| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=21| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=22| B | B : bij mij niet
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : dan gaan ik er wel van uit oké
+	Free: Pattern=dan, Pattern=wel, Pattern=oké, Pattern=er, Pattern=ik, Pattern=van
+	Constrained: 
+Turn ID=24| A | A : dit zijn de groot rugtas
+	Free: Pattern=dit zijn de groot, Pattern=de groot rugtas
+	Constrained: Pattern=de, Pattern=zijn, Pattern=groot rugtas, Pattern=rugtas
+Turn ID=25| B | B : groot rugtas dat zijn F
+	Free: Pattern=groot rugtas, Pattern=dat, Pattern=zijn
+	Constrained: Pattern=rugtas
+Turn ID=26| A | A : en hij staan van ja iets veel naar links maar qua hoogte staan die ongeveer in het midden
+	Free: Pattern=ja, Pattern=staan die, Pattern=hij staan, Pattern=maar, Pattern=in het midden, Pattern=naar, Pattern=van, Pattern=en
+	Constrained: Pattern=het midden, Pattern=staan, Pattern=het, Pattern=in, Pattern=die
+Turn ID=27| A | A : maar wel een stuk veel naar links dan echt in het midden zelf
+	Free: Pattern=dan, Pattern=maar, Pattern=in het midden, Pattern=naar, Pattern=een, Pattern=wel
+	Constrained: Pattern=het midden, Pattern=in, Pattern=het
+Turn ID=28| A | A : er past nog als je het midden hebben past er nog wel iets tussen en dan daarnaast staan die
+	Free: Pattern=het midden, Pattern=en dan, Pattern=staan die, Pattern=er nog, Pattern=hebben, Pattern=er, Pattern=nog, Pattern=nog wel
+	Constrained: Pattern=nog, Pattern=dan, Pattern=het, Pattern=die, Pattern=er, Pattern=en, Pattern=staan, Pattern=wel
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : en qua hoogte staan die in het midden
+	Free: Pattern=in het midden, Pattern=staan die, Pattern=en
+	Constrained: Pattern=het midden, Pattern=staan, Pattern=het, Pattern=in, Pattern=die
+Turn ID=31| B | B : ik denken wel dat dat kloppen
+	Free: Pattern=ik denken wel, Pattern=dat
+	Constrained: Pattern=ik denken, Pattern=denken, Pattern=wel, Pattern=ik
+Turn ID=32| B | B : de groot rugtas
+	Free: Pattern=de groot rugtas
+	Constrained: Pattern=de, Pattern=groot rugtas, Pattern=rugtas
+Turn ID=33| A | A : groot rugtas ja
+	Free: Pattern=groot rugtas, Pattern=ja
+	Constrained: Pattern=rugtas
+Turn ID=34| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : deze ja eigenlijk waar zonet ja ook weer helemaal onderaan waar zonet die trofee staan eigenlijk
+	Free: Pattern=ja, Pattern=waar, Pattern=ook, Pattern=staan, Pattern=die, Pattern=deze
+	Constrained: 
+Turn ID=36| A | A : dus er zullen heel misschien nog iets naar misschien niks veel onder kunnen maar aan de zijkant nog wel links zeggen maar
+	Free: Pattern=kunnen, Pattern=de, Pattern=dus er, Pattern=maar, Pattern=misschien, Pattern=naar, Pattern=nog, Pattern=nog wel
+	Constrained: Pattern=nog, Pattern=wel, Pattern=dus, Pattern=er
+Turn ID=37| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=38| B | B : ja er kunnen twee ding ja ja
+	Free: Pattern=twee, Pattern=kunnen, Pattern=er, Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : ik denken wel gelijk dan
+	Free: Pattern=ik denken wel, Pattern=dan
+	Constrained: Pattern=ik denken, Pattern=denken, Pattern=wel, Pattern=ik
+Turn ID=41| A | A : dit zijn de groot tas
+	Free: Pattern=dit zijn de groot, Pattern=de groot tas
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=42| B | B : de groot tas
+	Free: Pattern=de groot tas
+	Constrained: Pattern=de
+Turn ID=43| A | A : groot rugtas
+	Free: Pattern=groot rugtas
+	Constrained: Pattern=rugtas
+Turn ID=44| B | B : nee ik hebben alleen de klein zien
+	Free: Pattern=de, Pattern=hebben, Pattern=ik, Pattern=nee
+	Constrained: 
+Turn ID=45| B | B : waar ? ah daar
+	Free: Pattern=waar
+	Constrained: 
+Turn ID=46| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : in het midden ook qua hoogte ongeveer dan maar iets veel rechts
+	Free: Pattern=rechts, Pattern=ook, Pattern=dan, Pattern=maar, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=in, Pattern=het
+Turn ID=48| A | A : misschien
+	Free: Pattern=misschien
+	Constrained: 
+Turn ID=49| B | B : een maar naar boven of
+	Free: Pattern=of, Pattern=boven, Pattern=een, Pattern=maar, Pattern=naar
+	Constrained: 
+Turn ID=50| A | A : in het midden en dan rechts en dan qua hoogte ongeveer ja ik denken ongeveer in het midden
+	Free: Pattern=rechts en, Pattern=en dan, Pattern=in het midden en dan, Pattern=ja ik denken, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=denken, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=in, Pattern=ik, Pattern=in het midden, Pattern=rechts, Pattern=ja, Pattern=ik denken, Pattern=en
+Turn ID=51| B | B : oké dan zijn het niet
+	Free: Pattern=oké, Pattern=zijn, Pattern=het, Pattern=dan
+	Constrained: 
+Turn ID=52| B | B : dit zijn de groot boekentas
+	Free: Pattern=dit zijn de groot, Pattern=groot boekentas
+	Constrained: Pattern=de, Pattern=zijn
+Turn ID=53| A | A : groot boekentas waar staan je nou ?
+	Free: Pattern=groot boekentas, Pattern=waar, Pattern=staan
+	Constrained: 
+Turn ID=54| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=56| B | B : en ja hij staan ja vrij in het midden en dan naar onderen
+	Free: Pattern=ja, Pattern=in het midden en dan, Pattern=en, Pattern=hij staan, Pattern=dan naar
+	Constrained: Pattern=het midden, Pattern=en dan, Pattern=dan, Pattern=staan, Pattern=het, Pattern=in, Pattern=en, Pattern=in het midden, Pattern=naar
+Turn ID=57| B | B : maar niet helemaal onderaan
+	Free: Pattern=maar
+	Constrained: 
+Turn ID=58| A | A : nee er zullen nog wel een vol iets
+	Free: Pattern=nog wel, Pattern=een, Pattern=nee, Pattern=er
+	Constrained: Pattern=nog, Pattern=wel
+Turn ID=59| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=60| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=61| A | A : en dan iets veel naar links dan naar rechts
+	Free: Pattern=dan naar, Pattern=en dan, Pattern=rechts, Pattern=naar
+	Constrained: Pattern=naar, Pattern=en, Pattern=dan
+Turn ID=62| B | B : denken het ja
+	Free: Pattern=denken het, Pattern=ja
+	Constrained: Pattern=denken, Pattern=het
+Turn ID=63| A | A : of scheel ja
+	Free: Pattern=of, Pattern=ja
+	Constrained: 
+Turn ID=64| B | B : net ja ik denken het net wel ja
+	Free: Pattern=ik denken het, Pattern=ja ik denken, Pattern=wel, Pattern=ja
+	Constrained: Pattern=denken, Pattern=ja, Pattern=het, Pattern=denken het, Pattern=ik, Pattern=ik denken
+Turn ID=65| A | A : ik denken het ook
+	Free: Pattern=ik denken het, Pattern=ook
+	Constrained: Pattern=denken, Pattern=het, Pattern=denken het, Pattern=ik, Pattern=ik denken
+Turn ID=66| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

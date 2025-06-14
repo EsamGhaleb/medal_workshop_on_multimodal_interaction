@@ -1,0 +1,115 @@
+B|0| B: _oké_ ik inzien weer _een_ _kop_ _met_ _twee heel klein_ rechthoekjes erop 
+B|1| B: _en_ _dat zijn_ _de_ enig _met_ _twee_ _klein_ rechthoekjes erop 
+A|2| A: _ja_ _en die_ _hebben_ [een] soort slurf [en] aan [de] linkerkant _hebben_ hij [een] soort eigenlijk armp 
+B|3| B: [ja] 
+A|4| A: _en die_ zitten door zo'n vierkant plat vierkant heen 
+B|5| B: [ja] 
+A|6| A: [oké] 
+A|7| A: [dat zijn] nummer vier bij mij 
+B|8| B: [oké] 
+A|9| A: nu _hebben_ _je_ [twee heel klein] _uitsteeksel_ precies bovenop _het kop_ 
+A|10| A: [en] eigenlijk links daarvan _hebben_ hij [een] soort armp 
+B|11| B: [en die] [uitsteeksel] [zijn] gewoon gelijk [en] [heel klein] 
+A|12| A: [ja] precies 
+B|13| B: [ja] [dat zijn] G 
+B|14| B: [oké] _deze_ [het] omhulsel 
+A|15| A: [ja] 
+B|16| B: _dan_ weten [je] welk ik _bedoelen_ 
+A|17| A: [ja] [met] [dat] tafel [bedoelen] [je] ? of niet 
+B|18| B: [ja] 
+A|19| A: [ja] nummer vijfteen 
+A|20| A: _deze hebben_ aan [de] bovenkant [twee heel klein] uitstulpel , precies in [het] midden , [en die] gaan ook ergens doorheen , door [een] vierkant 
+B|21| B: [ja] [oké] [dat zijn] P 
+B|22| B: [deze hebben] [twee heel klein] rechthoekjes op [het kop] 
+A|23| A: [oké] [en] [hebben] hij [dan] ook soort waardoor of door vierkant heen 
+B|24| B: [ja] 
+A|25| A: [oké] nummer vijfteen 
+A|26| A: aan [de] bovenkant [twee heel klein] uitstulpsels in [het] midden 
+B|27| B: [ja] [dat zijn] J 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké ik inzien weer een kop met twee heel klein rechthoekjes erop
+	Free: Pattern=een, Pattern=kop, Pattern=met, Pattern=oké, Pattern=twee heel klein
+	Constrained: Pattern=heel klein, Pattern=twee, Pattern=klein
+Turn ID=1| B | B : en dat zijn de enig met twee klein rechthoekjes erop
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=de, Pattern=met, Pattern=klein, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=2| A | A : ja en die hebben een soort slurf en aan de linkerkant hebben hij een soort eigenlijk armp
+	Free: Pattern=en die, Pattern=een, Pattern=hebben, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=en
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : en die zitten door zo'n vierkant plat vierkant heen
+	Free: Pattern=en die
+	Constrained: Pattern=en
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer vier bij mij
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : nu hebben je twee heel klein uitsteeksel precies bovenop het kop
+	Free: Pattern=uitsteeksel, Pattern=het kop, Pattern=hebben, Pattern=je, Pattern=twee heel klein
+	Constrained: Pattern=twee, Pattern=het, Pattern=kop, Pattern=klein, Pattern=heel klein
+Turn ID=10| A | A : en eigenlijk links daarvan hebben hij een soort armp
+	Free: Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=11| B | B : en die uitsteeksel zijn gewoon gelijk en heel klein
+	Free: Pattern=en die, Pattern=uitsteeksel, Pattern=en, Pattern=zijn, Pattern=heel klein
+	Constrained: Pattern=klein, Pattern=en
+Turn ID=12| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : ja dat zijn G
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : oké deze het omhulsel
+	Free: Pattern=oké, Pattern=het, Pattern=deze
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dan weten je welk ik bedoelen
+	Free: Pattern=dan, Pattern=bedoelen, Pattern=je
+	Constrained: 
+Turn ID=17| A | A : ja met dat tafel bedoelen je ? of niet
+	Free: Pattern=dat, Pattern=ja, Pattern=met, Pattern=bedoelen, Pattern=je
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja nummer vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : deze hebben aan de bovenkant twee heel klein uitstulpel , precies in het midden , en die gaan ook ergens doorheen , door een vierkant
+	Free: Pattern=en die, Pattern=de, Pattern=een, Pattern=het, Pattern=deze hebben, Pattern=twee heel klein
+	Constrained: Pattern=twee, Pattern=hebben, Pattern=klein, Pattern=en, Pattern=deze, Pattern=heel klein
+Turn ID=21| B | B : ja oké dat zijn P
+	Free: Pattern=dat zijn, Pattern=oké, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : deze hebben twee heel klein rechthoekjes op het kop
+	Free: Pattern=twee heel klein, Pattern=het kop, Pattern=deze hebben
+	Constrained: Pattern=twee, Pattern=het, Pattern=hebben, Pattern=kop, Pattern=klein, Pattern=deze, Pattern=heel klein
+Turn ID=23| A | A : oké en hebben hij dan ook soort waardoor of door vierkant heen
+	Free: Pattern=dan, Pattern=oké, Pattern=hebben, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : oké nummer vijfteen
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=26| A | A : aan de bovenkant twee heel klein uitstulpsels in het midden
+	Free: Pattern=twee heel klein, Pattern=de, Pattern=het
+	Constrained: Pattern=heel klein, Pattern=twee, Pattern=klein
+Turn ID=27| B | B : ja dat zijn J
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn

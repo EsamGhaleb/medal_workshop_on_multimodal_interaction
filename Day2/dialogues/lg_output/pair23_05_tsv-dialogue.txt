@@ -1,0 +1,235 @@
+B|0| B: het voelen alsof het _een soort_ _heel_ stevig postuur _zijn_ _met_ _een heel_ _klein_ _balk_ _bovenop_ 
+B|1| B: op _de_ op het kop als het _zijn_ 
+B|2| B: _en aan de_ rechterkant _zitten_ _een heel_ _klein_ streep _met_ _een_ vierkantje eruit 
+A|3| A: _ja_ 
+A|4| A: _ik_ hebben _hem_ 
+B|5| B: _aan de_ rechterkant _zitten_ _zo'n_ _zitten nog een_ _attachment_ 
+A|6| A: [en] _dan_ 
+A|7| A: _ja_ 
+A|8| A: negen 
+A|9| A: bovenin komen er _een vierkant_ _uit_ 
+A|10| A: [en] _dan_ [zitten] er link [nog] één _ja_ rondjeachtig [en] _rechts_ [zitten] ook [een] [klein] _figuurt_ 
+A|11| A: _die_ [zijn] [een] beetje _donker_ 
+A|12| A: bovenin [zijn] [een] zegmaar _een soort van_ 
+B|13| B: _heel_ [klein] _balk_ vierkantje 
+A|14| A: _ja balk_ wat _erop_ liggen 
+B|15| B: [ja] 
+B|16| B: [ja balk] [en] het het kunnen eigenlijk [een soort van] robot [die] stop zeggen 
+A|17| A: [ja] 
+B|18| B: [ja] oké 
+A|19| A: [ja] 
+B|20| B: d 
+B|21| B: _heel_ [klein] [balk] _bovenop_ 
+B|22| B: _met_ het [donker] [figuurt] 
+B|23| B: _aan de_ linkerkant 
+B|24| B: het [zitten] [soort van] [vierkant] [die] erin vallen alleen _heel_ [klein] [balk] steken [uit] het kop 
+B|25| B: _aan de_ bovenkant 
+B|26| B: _aan de_ linkerkant uh , of _aan de_ rechterkant [van] het [figuurt] [zitten] _een heel_ [klein] _dun_ [figuurt] _met_ [een] vierkantje [erop] 
+A|27| A: [ja] [en] _dan_ [zitten nog] 
+B|28| B: _aan de_ rechterkant 
+A|29| A: [zitten nog een] half _dinge_ 
+B|30| B: [ja] _zo'n_ _attachment_ 
+A|31| A: [ja] 
+B|32| B: [ja] 
+A|33| A: drie 
+A|34| A: [bovenop] liggen [een] _dat_ [vierkant] _dinge_ , [en aan de] zijkant [zitten] _dan_ [zo'n] half _dinge_ eraan links 
+A|35| A: [ja] link 
+A|36| A: [en] _rechts_ [zitten nog [een] heel] [dun] _dinge_ [met] [nog] iets eronder 
+B|37| B: _ja ik_ [zijn] [hem] [aan] het zoeken , waar [zijn] je 
+B|38| B: waar [zijn] [dan] [dan] , ah daar 
+A|39| A: [ja] 
+B|40| B: _en dat_ [dat] [rechts] _dat attachment dinge_ 
+A|41| A: [ja] 
+A|42| A: [ja] 
+B|43| B: [ja] [ja] 
+B|44| B: kunnen 
+B|45| B: E 
+B|46| B: [vierkant] [balk] [die] erin gaan 
+B|47| B: [balk] op op top 
+B|48| B: [dun] armp [aan de] rechterkant 
+A|49| A: [ja ik] hebben [hem] 
+B|50| B: [met] [een vierkant] 
+A|51| A: [en] [die] [dat] ander [dinge] [aan de] 
+B|52| B: [ja] _met dat_ [dinge] [ja] 
+A|53| A: [ja] 
+A|54| A: acht 
+A|55| A: [dat] [vierkant] wat er boven [uit] komen [met [dat] attachment dinge] [en dat] ander 
+B|56| B: [ja] 
+B|57| B: I 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : het voelen alsof het een soort heel stevig postuur zijn met een heel klein balk bovenop
+	Free: Pattern=een heel, Pattern=bovenop, Pattern=heel, Pattern=balk, Pattern=met, Pattern=zijn, Pattern=klein, Pattern=een soort
+	Constrained: Pattern=heel, Pattern=een
+Turn ID=1| B | B : op de op het kop als het zijn
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=2| B | B : en aan de rechterkant zitten een heel klein streep met een vierkantje eruit
+	Free: Pattern=een heel, Pattern=een, Pattern=met, Pattern=zitten, Pattern=klein, Pattern=en aan de
+	Constrained: Pattern=heel, Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : ik hebben hem
+	Free: Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=5| B | B : aan de rechterkant zitten zo'n zitten nog een attachment
+	Free: Pattern=aan de, Pattern=zitten, Pattern=attachment, Pattern=zitten nog een, Pattern=zo'n
+	Constrained: Pattern=nog, Pattern=een, Pattern=zitten, Pattern=zitten nog, Pattern=de, Pattern=aan
+Turn ID=6| A | A : en dan
+	Free: Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : bovenin komen er een vierkant uit
+	Free: Pattern=een vierkant, Pattern=uit
+	Constrained: Pattern=vierkant, Pattern=een
+Turn ID=10| A | A : en dan zitten er link nog één ja rondjeachtig en rechts zitten ook een klein figuurt
+	Free: Pattern=nog, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=klein, Pattern=en, Pattern=figuurt, Pattern=rechts, Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : die zijn een beetje donker
+	Free: Pattern=donker, Pattern=zijn, Pattern=een, Pattern=die
+	Constrained: 
+Turn ID=12| A | A : bovenin zijn een zegmaar een soort van
+	Free: Pattern=een soort van, Pattern=zijn, Pattern=een
+	Constrained: Pattern=een soort, Pattern=een, Pattern=soort van, Pattern=van
+Turn ID=13| B | B : heel klein balk vierkantje
+	Free: Pattern=klein, Pattern=balk, Pattern=heel
+	Constrained: 
+Turn ID=14| A | A : ja balk wat erop liggen
+	Free: Pattern=ja balk, Pattern=erop
+	Constrained: Pattern=ja, Pattern=balk
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja balk en het het kunnen eigenlijk een soort van robot die stop zeggen
+	Free: Pattern=een soort van, Pattern=ja balk, Pattern=en, Pattern=die
+	Constrained: Pattern=ja, Pattern=een, Pattern=balk, Pattern=een soort, Pattern=van, Pattern=soort van
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja oké
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=21| B | B : heel klein balk bovenop
+	Free: Pattern=klein, Pattern=bovenop, Pattern=balk, Pattern=heel
+	Constrained: 
+Turn ID=22| B | B : met het donker figuurt
+	Free: Pattern=donker, Pattern=figuurt, Pattern=met
+	Constrained: 
+Turn ID=23| B | B : aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=24| B | B : het zitten soort van vierkant die erin vallen alleen heel klein balk steken uit het kop
+	Free: Pattern=heel, Pattern=uit, Pattern=balk, Pattern=klein, Pattern=soort van, Pattern=vierkant, Pattern=die, Pattern=zitten
+	Constrained: Pattern=van
+Turn ID=25| B | B : aan de bovenkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=26| B | B : aan de linkerkant uh , of aan de rechterkant van het figuurt zitten een heel klein dun figuurt met een vierkantje erop
+	Free: Pattern=een heel, Pattern=erop, Pattern=aan de, Pattern=met, Pattern=zitten, Pattern=klein, Pattern=van, Pattern=figuurt, Pattern=een, Pattern=dun
+	Constrained: Pattern=aan, Pattern=de, Pattern=heel, Pattern=een
+Turn ID=27| A | A : ja en dan zitten nog
+	Free: Pattern=zitten nog, Pattern=ja, Pattern=en, Pattern=dan
+	Constrained: Pattern=nog, Pattern=zitten
+Turn ID=28| B | B : aan de rechterkant
+	Free: Pattern=aan de
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=29| A | A : zitten nog een half dinge
+	Free: Pattern=zitten nog een, Pattern=dinge
+	Constrained: Pattern=nog, Pattern=een, Pattern=zitten nog, Pattern=zitten
+Turn ID=30| B | B : ja zo'n attachment
+	Free: Pattern=ja, Pattern=zo'n, Pattern=attachment
+	Constrained: 
+Turn ID=31| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : bovenop liggen een dat vierkant dinge , en aan de zijkant zitten dan zo'n half dinge eraan links
+	Free: Pattern=zo'n, Pattern=dan, Pattern=een, Pattern=vierkant, Pattern=en aan de, Pattern=dat, Pattern=bovenop, Pattern=zitten, Pattern=dinge
+	Constrained: Pattern=aan de, Pattern=en, Pattern=aan, Pattern=de
+Turn ID=35| A | A : ja link
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : en rechts zitten nog een heel dun dinge met nog iets eronder
+	Free: Pattern=een heel, Pattern=nog, Pattern=zitten nog een, Pattern=rechts, Pattern=dun, Pattern=met, Pattern=dinge, Pattern=en
+	Constrained: Pattern=een, Pattern=zitten, Pattern=zitten nog, Pattern=nog, Pattern=heel
+Turn ID=37| B | B : ja ik zijn hem aan het zoeken , waar zijn je
+	Free: Pattern=ja ik, Pattern=aan, Pattern=zijn, Pattern=hem
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=38| B | B : waar zijn dan dan , ah daar
+	Free: Pattern=zijn, Pattern=dan
+	Constrained: 
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : en dat dat rechts dat attachment dinge
+	Free: Pattern=dat attachment dinge, Pattern=en dat, Pattern=dat, Pattern=rechts
+	Constrained: Pattern=dinge, Pattern=dat, Pattern=en, Pattern=attachment
+Turn ID=41| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : kunnen
+	Free: 
+	Constrained: 
+Turn ID=45| B | B : E
+	Free: 
+	Constrained: 
+Turn ID=46| B | B : vierkant balk die erin gaan
+	Free: Pattern=balk, Pattern=vierkant, Pattern=die
+	Constrained: 
+Turn ID=47| B | B : balk op op top
+	Free: Pattern=balk
+	Constrained: 
+Turn ID=48| B | B : dun armp aan de rechterkant
+	Free: Pattern=aan de, Pattern=dun
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=49| A | A : ja ik hebben hem
+	Free: Pattern=ja ik, Pattern=hem
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=50| B | B : met een vierkant
+	Free: Pattern=een vierkant, Pattern=met
+	Constrained: Pattern=vierkant, Pattern=een
+Turn ID=51| A | A : en die dat ander dinge aan de
+	Free: Pattern=dat, Pattern=aan de, Pattern=en, Pattern=die, Pattern=dinge
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=52| B | B : ja met dat dinge ja
+	Free: Pattern=met dat, Pattern=ja, Pattern=dinge
+	Constrained: Pattern=met, Pattern=dat
+Turn ID=53| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=55| A | A : dat vierkant wat er boven uit komen met dat attachment dinge en dat ander
+	Free: Pattern=dat, Pattern=uit, Pattern=met dat, Pattern=vierkant, Pattern=dat attachment dinge, Pattern=en dat
+	Constrained: Pattern=dat, Pattern=met, Pattern=dinge, Pattern=en, Pattern=attachment
+Turn ID=56| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| B | B : I
+	Free: 
+	Constrained: 

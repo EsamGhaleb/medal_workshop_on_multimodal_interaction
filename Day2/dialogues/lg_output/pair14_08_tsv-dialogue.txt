@@ -1,0 +1,315 @@
+A|0| A: _deze_ _hebben_ _zeggen_ _maar_ _twee_ _vierkant_ bovenop naast _elkaar_ _met_ _een_ _staaf_ _erdoorheen_ _een_ _vierkant_ _staaf_ _erdoorheen_ 
+A|1| A: _en dan_ daaronder _zeggen_ _maar_ _nog zo'n_ kromm _rechthoek_ _zo'n_ _komma_ _zeggen_ _maar_ 
+B|2| B: _wachten_ _wachten_ even 
+B|3| B: even kijken [deze] 
+A|4| A: bovenop zitten _een_ heel speciaal vorm _met_ _met_ _twee_ _twee_ _vierkant_ 
+B|5| B: _gaan_ _die_ door [elkaar] heen 
+B|6| B: _gaan_ _die_ door [elkaar] _zijn_ _het_ [een] [een] [rechthoek] _wat_ in _het_ midden _staan_ waarbij dus _dat_ _die twee_ object [met] [elkaar] verbinden 
+A|7| A: _ja_ 
+B|8| B: [en] _aan de onderkant_ [hebben] _je_ _zo'n staaf_ _die_ eraf lopen 
+A|9| A: _ja_ 
+B|10| B: [en] _aan de_ zijkant [hebben] _je_ [nog] [een] [een] kegel [en] [nog] [een] ander blokachtig _ding_ 
+A|11| A: _ja_ kloppen 
+B|12| B: okee [ja] 
+B|13| B: _dat zijn_ b 
+B|14| B: [deze] wel _zijn_ _ja die_ [hebben] [een] [een] blok _aan de onderkant_ 
+B|15| B: [een] [een] _wat_ [ja] _wat_ _aflopen_ blok _aan de onderkant_ 
+A|16| A: [ja] 
+B|17| B: [en] _aan _de_ bovenkant_ [een] [een] [rechthoek] _met die_ _die_ [erdoorheen] _gaan_ laten [maar] [zeggen] 
+A|18| A: [ja] 
+B|19| B: dus _je_ [hebben] [een] [een] [een] [een] blok _en daar_ [hebben] _je_ dus _dat dat_ [rechthoek] _wat_ of _dat_ _vierkant wat_ schuin _staan_ 
+B|20| B: [en dan] _aan de_ achterkant lopen hij 
+B|21| B: _die_ _zijn_ best wel shit om uit te aanleggen 
+A|22| A: [wachten] doen [nog] eens 
+B|23| B: terwijl we [hebben] _de_ rest 
+B|24| B: _aan de_ voorkant steken [dan] ook best [zo'n] kegel uit 
+B|25| B: _zijn_ [dan] [een] kegel [en] 
+A|26| A: [ja] 
+B|27| B: zien zien _je_ [dan] _wat_ _ik_ _bedoelen_ 
+B|28| B: _weten_ _je_ in ieder geval letlen _op de bovenkant_ want _de_ bovenkanot _zijn_ allemaal anders 
+A|29| A: [ja] 
+B|30| B: dus als _je_ _op_ _die_ _bovenkant_ letlen _met die_ _met die_ _met dat_ 
+A|31| A: [wat] zitten _er_ [op de bovenkant] 
+B|32| B: [een] schuin [vierkant] waarbij dus [een] [een] [een] [een] [een] [een] _soort van_ kubus _doorheen_ opsteken 
+B|33| B: waarbij _je_ dus _aan de_ [een] kant [een] [een] stuk [hebben] [en] _aan de_ ander kant steken _het_ eruit 
+B|34| B: [en] _aan de onderkant_ [hebben] _je_ één 
+A|35| A: [ik] [weten] al [wat] [je] [bedoelen] [aan de onderkant] zitten [zo'n] schef 
+B|36| B: [een] 
+B|37| B: [ja] [ja] [ja] 
+B|38| B: hoe hoe leggen we _die_ dadelijk makkelijk uit 
+B|39| B: want [dan] [dan] 
+A|40| A: [zeggen] [maar] gewoon [een] [vierkant wat] zo [staan] [en daar] [gaan] gewoon [zo'n staaf] [doorheen] 
+B|41| B: [ja] 
+B|42| B: [ja] [ja] [ja] 
+A|43| A: [ja] [en dan] [zo'n] [soort van] kommavorm [daar] [aan de onderkant] 
+B|44| B: [ja] 
+B|45| B: [ja] 
+A|46| A: _ja [dat_ [dat] zijn] vier 
+B|47| B: precies 
+A|48| A: _dit zijn_ [met [die] twee] [vierkant] [die] rechtop [staan] bovenop [met] [zo'n] [aflopen] [rechthoek] [een] 
+A|49| A: bovenop [het] [ding] 
+A|50| A: [en dan] _nog zo'n_ kromming daaronder 
+B|51| B: okee Ja [ja] okee [ja] [ja] [ja] [ja] 
+A|52| A: [ja die] 
+B|53| B: [en] [aan de] zijkant [hebben] [je] ook [nog zo'n] [zo'n] [ding] lopen 
+A|54| A: [ja] zo 
+B|55| B: [ja] [ja [dat] zijn] m 
+A|56| A: [ja] 
+B|57| B: [ja] [ik] kijken [er] echt finaal overheen 
+B|58| B: [ja] [dit zijn] [dat [dat] dat] Schuine [vierkant] [met die] _met _dat_ ding_ [met die] [die] kubus [erdoorheen] 
+B|59| B: of [dat] [aflopen] [vierkant] 
+B|60| B: [dat] driedimensionaal [vierkant] [erdoorheen] 
+B|61| B: waarbij [aan de onderkant] [een] [soort van] kromme [komma] [zijn] 
+A|62| A: [ja] 
+A|63| A: [met dat] vierkantje waar [dat ding] [doorheen] [gaan] 
+B|64| B: [ja] 
+A|65| A: [ja] 
+B|66| B: [ja] 
+A|67| A: [dat zijn] dertien 
+B|68| B: [ja] 
+A|69| A: [dit zijn] weer [die twee] [vierkant] waar _die aflopen_ [rechthoek] [doorheen] [gaan] [met] [zo'n] kromm vorm [aan de onderkant] 
+B|70| B: [ja] [ja] [ja dat] Schuine [vierkant] 
+A|71| A: [ja] 
+B|72| B: [ja] 
+B|73| B: okee [dat zijn] b 
+B|74| B: [dit zijn] [dat] Schuine [vierkant] [met die] [dat] [aflopen] [die aflopen] blok 
+B|75| B: [en] [aan de onderkant] [die] [komma] 
+A|76| A: [ja] 
+A|77| A: zestien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben zeggen maar twee vierkant bovenop naast elkaar met een staaf erdoorheen een vierkant staaf erdoorheen
+	Free: Pattern=twee, Pattern=staaf, Pattern=een, Pattern=elkaar, Pattern=zeggen, Pattern=met, Pattern=maar, Pattern=erdoorheen, Pattern=hebben, Pattern=vierkant, Pattern=deze
+	Constrained: 
+Turn ID=1| A | A : en dan daaronder zeggen maar nog zo'n kromm rechthoek zo'n komma zeggen maar
+	Free: Pattern=komma, Pattern=en dan, Pattern=zeggen, Pattern=maar, Pattern=nog zo'n, Pattern=rechthoek, Pattern=zo'n
+	Constrained: Pattern=zo'n, Pattern=nog, Pattern=en, Pattern=dan
+Turn ID=2| B | B : wachten wachten even
+	Free: Pattern=wachten
+	Constrained: 
+Turn ID=3| B | B : even kijken deze
+	Free: Pattern=deze
+	Constrained: 
+Turn ID=4| A | A : bovenop zitten een heel speciaal vorm met met twee twee vierkant
+	Free: Pattern=vierkant, Pattern=een, Pattern=twee, Pattern=met
+	Constrained: 
+Turn ID=5| B | B : gaan die door elkaar heen
+	Free: Pattern=gaan, Pattern=elkaar, Pattern=die
+	Constrained: 
+Turn ID=6| B | B : gaan die door elkaar zijn het een een rechthoek wat in het midden staan waarbij dus dat die twee object met elkaar verbinden
+	Free: Pattern=dat, Pattern=rechthoek, Pattern=met, Pattern=die, Pattern=wat, Pattern=een, Pattern=staan, Pattern=het, Pattern=die twee, Pattern=elkaar, Pattern=zijn, Pattern=gaan
+	Constrained: Pattern=twee, Pattern=die
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : en aan de onderkant hebben je zo'n staaf die eraf lopen
+	Free: Pattern=hebben, Pattern=aan de onderkant, Pattern=zo'n staaf, Pattern=die, Pattern=en, Pattern=je
+	Constrained: Pattern=staaf, Pattern=de, Pattern=zo'n, Pattern=aan de
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en aan de zijkant hebben je nog een een kegel en nog een ander blokachtig ding
+	Free: Pattern=nog, Pattern=aan de, Pattern=ding, Pattern=een, Pattern=hebben, Pattern=en, Pattern=je
+	Constrained: Pattern=de
+Turn ID=11| A | A : ja kloppen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : okee ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=14| B | B : deze wel zijn ja die hebben een een blok aan de onderkant
+	Free: Pattern=ja die, Pattern=een, Pattern=hebben, Pattern=aan de onderkant, Pattern=zijn, Pattern=deze
+	Constrained: Pattern=de, Pattern=die, Pattern=aan de, Pattern=ja
+Turn ID=15| B | B : een een wat ja wat aflopen blok aan de onderkant
+	Free: Pattern=aflopen, Pattern=ja, Pattern=een, Pattern=aan de onderkant, Pattern=wat
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : en aan de bovenkant een een rechthoek met die die erdoorheen gaan laten maar zeggen
+	Free: Pattern=met die, Pattern=rechthoek, Pattern=aan de, Pattern=de bovenkant, Pattern=een, Pattern=erdoorheen, Pattern=zeggen, Pattern=die, Pattern=en, Pattern=gaan, Pattern=maar
+	Constrained: Pattern=die, Pattern=bovenkant, Pattern=de, Pattern=met
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dus je hebben een een een een blok en daar hebben je dus dat dat rechthoek wat of dat vierkant wat schuin staan
+	Free: Pattern=rechthoek, Pattern=hebben, Pattern=vierkant wat, Pattern=dat dat, Pattern=wat, Pattern=je, Pattern=dat, Pattern=en daar, Pattern=een, Pattern=staan
+	Constrained: Pattern=dat, Pattern=wat, Pattern=en, Pattern=vierkant, Pattern=daar
+Turn ID=20| B | B : en dan aan de achterkant lopen hij
+	Free: Pattern=aan de, Pattern=en dan
+	Constrained: Pattern=en, Pattern=dan, Pattern=de
+Turn ID=21| B | B : die zijn best wel shit om uit te aanleggen
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=22| A | A : wachten doen nog eens
+	Free: Pattern=wachten, Pattern=nog
+	Constrained: 
+Turn ID=23| B | B : terwijl we hebben de rest
+	Free: Pattern=hebben, Pattern=de
+	Constrained: 
+Turn ID=24| B | B : aan de voorkant steken dan ook best zo'n kegel uit
+	Free: Pattern=aan de, Pattern=zo'n, Pattern=dan
+	Constrained: Pattern=de
+Turn ID=25| B | B : zijn dan een kegel en
+	Free: Pattern=zijn, Pattern=een, Pattern=en, Pattern=dan
+	Constrained: 
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : zien zien je dan wat ik bedoelen
+	Free: Pattern=dan, Pattern=bedoelen, Pattern=wat, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=28| B | B : weten je in ieder geval letlen op de bovenkant want de bovenkanot zijn allemaal anders
+	Free: Pattern=de, Pattern=weten, Pattern=op de bovenkant, Pattern=zijn, Pattern=je
+	Constrained: Pattern=de bovenkant, Pattern=op, Pattern=bovenkant, Pattern=de
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dus als je op die bovenkant letlen met die met die met dat
+	Free: Pattern=met die, Pattern=op, Pattern=bovenkant, Pattern=met dat, Pattern=die, Pattern=je
+	Constrained: Pattern=dat, Pattern=die, Pattern=met
+Turn ID=31| A | A : wat zitten er op de bovenkant
+	Free: Pattern=op de bovenkant, Pattern=wat, Pattern=er
+	Constrained: Pattern=de bovenkant, Pattern=op, Pattern=bovenkant, Pattern=de
+Turn ID=32| B | B : een schuin vierkant waarbij dus een een een een een een soort van kubus doorheen opsteken
+	Free: Pattern=soort van, Pattern=vierkant, Pattern=doorheen, Pattern=een
+	Constrained: 
+Turn ID=33| B | B : waarbij je dus aan de een kant een een stuk hebben en aan de ander kant steken het eruit
+	Free: Pattern=aan de, Pattern=een, Pattern=het, Pattern=hebben, Pattern=en, Pattern=je
+	Constrained: Pattern=de
+Turn ID=34| B | B : en aan de onderkant hebben je één
+	Free: Pattern=aan de onderkant, Pattern=en, Pattern=hebben, Pattern=je
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=35| A | A : ik weten al wat je bedoelen aan de onderkant zitten zo'n schef
+	Free: Pattern=zo'n, Pattern=weten, Pattern=aan de onderkant, Pattern=bedoelen, Pattern=wat, Pattern=ik, Pattern=je
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=36| B | B : een
+	Free: Pattern=een
+	Constrained: 
+Turn ID=37| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=38| B | B : hoe hoe leggen we die dadelijk makkelijk uit
+	Free: Pattern=die
+	Constrained: 
+Turn ID=39| B | B : want dan dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=40| A | A : zeggen maar gewoon een vierkant wat zo staan en daar gaan gewoon zo'n staaf doorheen
+	Free: Pattern=en daar, Pattern=doorheen, Pattern=een, Pattern=staan, Pattern=vierkant wat, Pattern=zeggen, Pattern=zo'n staaf, Pattern=gaan, Pattern=maar
+	Constrained: Pattern=zo'n, Pattern=staaf, Pattern=wat, Pattern=en, Pattern=vierkant, Pattern=daar
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : ja en dan zo'n soort van kommavorm daar aan de onderkant
+	Free: Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=aan de onderkant, Pattern=soort van, Pattern=daar
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=44| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : ja dat dat zijn vier
+	Free: Pattern=ja dat, Pattern=dat zijn, Pattern=dat dat
+	Constrained: Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=47| B | B : precies
+	Free: 
+	Constrained: 
+Turn ID=48| A | A : dit zijn met die twee vierkant die rechtop staan bovenop met zo'n aflopen rechthoek een
+	Free: Pattern=met die, Pattern=aflopen, Pattern=die twee, Pattern=met, Pattern=die, Pattern=vierkant, Pattern=dit zijn, Pattern=rechthoek, Pattern=zo'n, Pattern=een, Pattern=staan
+	Constrained: Pattern=zijn, Pattern=twee, Pattern=die, Pattern=met
+Turn ID=49| A | A : bovenop het ding
+	Free: Pattern=het, Pattern=ding
+	Constrained: 
+Turn ID=50| A | A : en dan nog zo'n kromming daaronder
+	Free: Pattern=nog zo'n, Pattern=en dan
+	Constrained: Pattern=zo'n, Pattern=nog, Pattern=en, Pattern=dan
+Turn ID=51| B | B : okee Ja ja okee ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=52| A | A : ja die
+	Free: Pattern=ja die
+	Constrained: Pattern=ja, Pattern=die
+Turn ID=53| B | B : en aan de zijkant hebben je ook nog zo'n zo'n ding lopen
+	Free: Pattern=zo'n, Pattern=aan de, Pattern=ding, Pattern=hebben, Pattern=en, Pattern=je, Pattern=nog zo'n
+	Constrained: Pattern=zo'n, Pattern=nog, Pattern=de
+Turn ID=54| A | A : ja zo
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : ja ja dat zijn m
+	Free: Pattern=ja dat, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=56| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| B | B : ja ik kijken er echt finaal overheen
+	Free: Pattern=ja, Pattern=ik, Pattern=er
+	Constrained: 
+Turn ID=58| B | B : ja dit zijn dat dat dat Schuine vierkant met die met dat ding met die die kubus erdoorheen
+	Free: Pattern=met die, Pattern=ja, Pattern=dat ding, Pattern=erdoorheen, Pattern=met dat, Pattern=vierkant, Pattern=dit zijn, Pattern=die, Pattern=dat dat
+	Constrained: Pattern=dat, Pattern=ding, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=59| B | B : of dat aflopen vierkant
+	Free: Pattern=aflopen, Pattern=vierkant, Pattern=dat
+	Constrained: 
+Turn ID=60| B | B : dat driedimensionaal vierkant erdoorheen
+	Free: Pattern=vierkant, Pattern=dat, Pattern=erdoorheen
+	Constrained: 
+Turn ID=61| B | B : waarbij aan de onderkant een soort van kromme komma zijn
+	Free: Pattern=komma, Pattern=een, Pattern=aan de onderkant, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=62| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=63| A | A : met dat vierkantje waar dat ding doorheen gaan
+	Free: Pattern=dat ding, Pattern=met dat, Pattern=doorheen, Pattern=gaan
+	Constrained: Pattern=dat, Pattern=met, Pattern=ding
+Turn ID=64| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=65| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=66| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=67| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=68| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=69| A | A : dit zijn weer die twee vierkant waar die aflopen rechthoek doorheen gaan met zo'n kromm vorm aan de onderkant
+	Free: Pattern=doorheen, Pattern=die twee, Pattern=aan de onderkant, Pattern=met, Pattern=gaan, Pattern=dit zijn, Pattern=rechthoek, Pattern=zo'n, Pattern=vierkant, Pattern=die aflopen
+	Constrained: Pattern=aflopen, Pattern=twee, Pattern=de, Pattern=aan de, Pattern=die, Pattern=zijn
+Turn ID=70| B | B : ja ja ja dat Schuine vierkant
+	Free: Pattern=ja dat, Pattern=vierkant, Pattern=ja
+	Constrained: Pattern=ja, Pattern=dat
+Turn ID=71| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=72| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=73| B | B : okee dat zijn b
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=74| B | B : dit zijn dat Schuine vierkant met die dat aflopen die aflopen blok
+	Free: Pattern=aflopen, Pattern=dit zijn, Pattern=dat, Pattern=met die, Pattern=vierkant, Pattern=die aflopen
+	Constrained: Pattern=aflopen, Pattern=zijn, Pattern=die, Pattern=met
+Turn ID=75| B | B : en aan de onderkant die komma
+	Free: Pattern=aan de onderkant, Pattern=komma, Pattern=en, Pattern=die
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=76| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=77| A | A : zestien
+	Free: 
+	Constrained: 

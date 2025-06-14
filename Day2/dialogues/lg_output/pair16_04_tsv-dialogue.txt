@@ -1,0 +1,167 @@
+A|0| A: _nou deze_ _gaan_ _denken_ ook _wel_ 
+A|1| A: _het_ _zijn_ geen volledig _driehoek_ _dat_ _je_ _bovenop_ zien 
+A|2| A: top _zijn_ ervanaf gehakt 
+B|3| B: _ja_ 
+A|4| A: _aan _de_ rechterkant twee_ houten plank _die_ uitsteken 
+A|5| A: steken even ver uit 
+A|6| A: _en_ link zitten ook _een_ [ja] _een_ 
+B|7| B: [ja] ik [denken] [dat] ik [wel] weten welk [je] bedoelen 
+A|8| A: [ja] ? okee 
+B|9| B: [ja] [ja] 
+B|10| B: ik [gaan] voor p 
+B|11| B: [nou deze] [die] zoals jij hem omschrijven hebben hij [bovenop] hebben hij [een] soort [driehoek] [die] afgekaptten [zijn] 
+B|12| B: [aan de] zijkant rechts [twee] lat 
+B|13| B: [en] [aan de] ander kant [een] [een] haak naar links toe [en] weten ik veel [twee] armp [een] armp 
+A|14| A: iets geks 
+A|15| A: [ja] 
+A|16| A: helemaal goed 
+B|17| B: ik weten [het] niet 
+B|18| B: [ja] 
+A|19| A: _dat zijn_ nummer veertien 
+A|20| A: dit [zijn] [het] kop _met_ [het] afgezaagd dakje van [de] _pyramide_ 
+B|21| B: [ja] 
+A|22| A: [en] [twee] houten plank [aan _de] rechterkant_ 
+A|23| A: link [een] gek staaf [en] [ja] 
+B|24| B: [ja] 
+B|25| B: [gaan] ik voor g 
+B|26| B: dan [de] [driehoek] [die] afgekaptten [zijn] [aan de] bovenkant 
+B|27| B: [aan de] zijkant [twee] lat 
+B|28| B: [en] haakvormig uitstekel onderaan 
+A|29| A: [ja] 
+A|30| A: nummer tien 
+A|31| A: [deze] [zijn] _met_ [de] [twee] houten plank [aan _de] rechterkant_ [het] afgezaagd dakje van [de] _pyramide_ 
+B|32| B: [ja] 
+A|33| A: [ja] [nou] [die] 
+B|34| B: [dat zijn] e 
+A|35| A: [ja] 
+B|36| B: afkapten [pyramide] 
+B|37| B: [met] lat [aan de] [aan de] [de rechterkant twee] 
+B|38| B: haakvormig dinge [aan de] linkerkant 
+A|39| A: ah 
+A|40| A: nummer vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou deze gaan denken ook wel
+	Free: Pattern=nou deze, Pattern=wel, Pattern=denken, Pattern=gaan
+	Constrained: Pattern=nou, Pattern=deze
+Turn ID=1| A | A : het zijn geen volledig driehoek dat je bovenop zien
+	Free: Pattern=driehoek, Pattern=het, Pattern=zijn, Pattern=je, Pattern=dat, Pattern=bovenop
+	Constrained: 
+Turn ID=2| A | A : top zijn ervanaf gehakt
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : aan de rechterkant twee houten plank die uitsteken
+	Free: Pattern=de rechterkant twee, Pattern=aan de, Pattern=die
+	Constrained: Pattern=twee, Pattern=de rechterkant, Pattern=de
+Turn ID=5| A | A : steken even ver uit
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : en link zitten ook een ja een
+	Free: Pattern=en, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=7| B | B : ja ik denken dat ik wel weten welk je bedoelen
+	Free: Pattern=dat, Pattern=denken, Pattern=ja, Pattern=wel, Pattern=je
+	Constrained: 
+Turn ID=8| A | A : ja ? okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ik gaan voor p
+	Free: Pattern=gaan
+	Constrained: 
+Turn ID=11| B | B : nou deze die zoals jij hem omschrijven hebben hij bovenop hebben hij een soort driehoek die afgekaptten zijn
+	Free: Pattern=driehoek, Pattern=bovenop, Pattern=nou deze, Pattern=een, Pattern=die, Pattern=zijn
+	Constrained: Pattern=nou, Pattern=deze
+Turn ID=12| B | B : aan de zijkant rechts twee lat
+	Free: Pattern=aan de, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=13| B | B : en aan de ander kant een een haak naar links toe en weten ik veel twee armp een armp
+	Free: Pattern=aan de, Pattern=en, Pattern=twee, Pattern=een
+	Constrained: Pattern=de
+Turn ID=14| A | A : iets geks
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : helemaal goed
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ik weten het niet
+	Free: Pattern=het
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : dat zijn nummer veertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=20| A | A : dit zijn het kop met het afgezaagd dakje van de pyramide
+	Free: Pattern=de, Pattern=het, Pattern=met, Pattern=zijn, Pattern=pyramide
+	Constrained: 
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en twee houten plank aan de rechterkant
+	Free: Pattern=aan de, Pattern=de rechterkant, Pattern=en, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=23| A | A : link een gek staaf en ja
+	Free: Pattern=en, Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : gaan ik voor g
+	Free: Pattern=gaan
+	Constrained: 
+Turn ID=26| B | B : dan de driehoek die afgekaptten zijn aan de bovenkant
+	Free: Pattern=driehoek, Pattern=de, Pattern=aan de, Pattern=die, Pattern=zijn
+	Constrained: Pattern=de
+Turn ID=27| B | B : aan de zijkant twee lat
+	Free: Pattern=aan de, Pattern=twee
+	Constrained: Pattern=de
+Turn ID=28| B | B : en haakvormig uitstekel onderaan
+	Free: Pattern=en
+	Constrained: 
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : deze zijn met de twee houten plank aan de rechterkant het afgezaagd dakje van de pyramide
+	Free: Pattern=twee, Pattern=de, Pattern=de rechterkant, Pattern=aan de, Pattern=het, Pattern=met, Pattern=zijn, Pattern=pyramide, Pattern=deze
+	Constrained: Pattern=de
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja nou die
+	Free: Pattern=die, Pattern=nou, Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : afkapten pyramide
+	Free: Pattern=pyramide
+	Constrained: 
+Turn ID=37| B | B : met lat aan de aan de de rechterkant twee
+	Free: Pattern=de rechterkant twee, Pattern=aan de, Pattern=met
+	Constrained: Pattern=twee, Pattern=de rechterkant, Pattern=de
+Turn ID=38| B | B : haakvormig dinge aan de linkerkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=39| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : nummer vijf
+	Free: 
+	Constrained: 

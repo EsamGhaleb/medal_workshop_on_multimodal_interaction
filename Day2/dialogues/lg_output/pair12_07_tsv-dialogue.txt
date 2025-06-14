@@ -1,0 +1,75 @@
+B|0| B: deze hebben een soort van _tafel_ aan _de_ bovenkant _met twee_ 
+A|1| A: _twee poot_ 
+B|2| B: _ja_ 
+A|3| A: zestien 
+A|4| A: [ja] _dat_ _zijn_ _het tafel met_ [de] _twee poot_ 
+B|5| B: b 
+A|6| A: erdoorheen 
+B|7| B: [het _tafel met] twee poot_ 
+A|8| A: acht 
+A|9| A: klein [tafel met twee poot] 
+B|10| B: waar staan die 
+A|11| A: erdoorheen 
+B|12| B: j 
+B|13| B: deze [zijn] [met] [dat] [tafel] 
+A|14| A: [tafel] [twee poot] 
+A|15| A: vijfteen 
+A|16| A: [tafel met twee poot] 
+B|17| B: n 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een soort van tafel aan de bovenkant met twee
+	Free: Pattern=met twee, Pattern=tafel, Pattern=de
+	Constrained: Pattern=met
+Turn ID=1| A | A : twee poot
+	Free: Pattern=twee poot
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja dat zijn het tafel met de twee poot
+	Free: Pattern=dat, Pattern=het tafel met, Pattern=twee poot, Pattern=zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=met, Pattern=tafel
+Turn ID=5| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : erdoorheen
+	Free: 
+	Constrained: 
+Turn ID=7| B | B : het tafel met twee poot
+	Free: Pattern=tafel met twee poot, Pattern=het tafel met
+	Constrained: Pattern=twee poot, Pattern=met, Pattern=met twee, Pattern=tafel
+Turn ID=8| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : klein tafel met twee poot
+	Free: Pattern=tafel met twee poot
+	Constrained: Pattern=twee poot, Pattern=met, Pattern=met twee, Pattern=tafel
+Turn ID=10| B | B : waar staan die
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : erdoorheen
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : j
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : deze zijn met dat tafel
+	Free: Pattern=dat, Pattern=tafel, Pattern=met, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : tafel twee poot
+	Free: Pattern=twee poot, Pattern=tafel
+	Constrained: 
+Turn ID=15| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=16| A | A : tafel met twee poot
+	Free: Pattern=tafel met twee poot
+	Constrained: Pattern=twee poot, Pattern=met, Pattern=met twee, Pattern=tafel
+Turn ID=17| B | B : n
+	Free: 
+	Constrained: 

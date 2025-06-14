@@ -1,0 +1,183 @@
+B|0| B: ik hebben _de trofee_ 
+A|1| A: [de trofee] 
+B|2| B: _ja_ _met_ _als_ enig _zo'n_ uitstulpsel echt onder 
+B|3| B: _lijken_ _op_ [de trofee] 
+B|4| B: _staan op zo'n_ drie 
+A|5| A: [ja] [ja] _hij [staan_ op zo'n] driehoek _en dan_ [zo'n] DNAspiraal _naar_ boven 
+B|6| B: [ja] 
+A|7| A: oké _dat zijn_ nummer vier 
+B|8| B: _en hij_ bekendstaan eigenlijk helemaal _rechts_ in [de] hoek bovenaan 
+A|9| A: oké nou daar _staan die_ _bij mij_ _niet_ 
+A|10| A: _die_ een _met dat_ driehoekig _voe_ [en] _die_ DNAspiraal 
+B|11| B: [ja] 
+B|12| B: [dat zijn] [bij mij] A 
+A|13| A: oké 
+A|14| A: [en _hij] staan_ [als] je [staan op] zich centrum centrum _en dan_ of _ongeveer_ [op] vijfenzeventig _procent van_ _links_ 
+B|15| B: [bij mij] [staan die] helemaal tegen [de] zijkant 
+B|16| B: [met _dat] voe_ 
+B|17| B: [die] [trofee] 
+A|18| A: [ja] 
+B|19| B: dNAstreng 
+A|20| A: [de] 
+A|21| A: [dat zijn] nummer acht 
+B|22| B: [en _dan] staan die_ helemaal onderaan 
+B|23| B: [en dan] [ongeveer] dertig [procent van] 
+A|24| A: [ja] 
+A|25| A: [zijn] [die] al _niet_ 
+B|26| B: [dat zijn] het [niet] 
+A|27| A: [ja] 
+A|28| A: _die [met_ dat] DNA [en] [dat voe] [dat] driehoekig [voe] 
+B|29| B: [ja] [zijn] L 
+A|30| A: [en] [die] [staan] [bij mij] [ongeveer] tien [procent van] [de] rechterrand af [en] ook [ongeveer] tien [procent van] boven 
+B|31| B: [ja] 
+B|32| B: ik hebben [die met] [die] dNAstreng 
+A|33| A: [ja] [dat zijn] nummer vier 
+B|34| B: [ja] 
+B|35| B: [hij staan] in _midden midden_ _iets naar_ [links] _iets naar_ onder 
+A|36| A: [ja] 
+A|37| A: [die [met] dat] dNAdingetje 
+A|38| A: [en] dit blok 
+B|39| B: [ja] 
+B|40| B: F 
+A|41| A: [dan staan die] best wel [midden midden] [hij] [lijken] wat aan [de] groot kant [en] [iets] misschien [iets naar] boven misschien [iets naar] [rechts] maar 
+B|42| B: echt [midden midden] 
+A|43| A: [ja] 
+B|44| B: nee 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik hebben de trofee
+	Free: Pattern=de trofee
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=1| A | A : de trofee
+	Free: Pattern=de trofee
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=2| B | B : ja met als enig zo'n uitstulpsel echt onder
+	Free: Pattern=met, Pattern=zo'n, Pattern=als, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : lijken op de trofee
+	Free: Pattern=de trofee, Pattern=lijken, Pattern=op
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=4| B | B : staan op zo'n drie
+	Free: Pattern=staan op zo'n
+	Constrained: Pattern=zo'n, Pattern=staan op, Pattern=staan, Pattern=op
+Turn ID=5| A | A : ja ja hij staan op zo'n driehoek en dan zo'n DNAspiraal naar boven
+	Free: Pattern=zo'n, Pattern=ja, Pattern=en dan, Pattern=hij staan, Pattern=staan op zo'n, Pattern=naar
+	Constrained: Pattern=zo'n, Pattern=op, Pattern=staan, Pattern=hij, Pattern=en, Pattern=staan op
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : oké dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| B | B : en hij bekendstaan eigenlijk helemaal rechts in de hoek bovenaan
+	Free: Pattern=en hij, Pattern=rechts, Pattern=de
+	Constrained: Pattern=hij, Pattern=en
+Turn ID=9| A | A : oké nou daar staan die bij mij niet
+	Free: Pattern=bij mij, Pattern=staan die, Pattern=niet
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=10| A | A : die een met dat driehoekig voe en die DNAspiraal
+	Free: Pattern=met dat, Pattern=die, Pattern=voe, Pattern=en
+	Constrained: Pattern=dat, Pattern=met
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : dat zijn bij mij A
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=13| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=14| A | A : en hij staan als je staan op zich centrum centrum en dan of ongeveer op vijfenzeventig procent van links
+	Free: Pattern=en dan, Pattern=op, Pattern=hij staan, Pattern=links, Pattern=procent van, Pattern=als, Pattern=ongeveer, Pattern=en hij, Pattern=staan op
+	Constrained: Pattern=hij, Pattern=en, Pattern=staan, Pattern=op
+Turn ID=15| B | B : bij mij staan die helemaal tegen de zijkant
+	Free: Pattern=bij mij, Pattern=staan die, Pattern=de
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=16| B | B : met dat voe
+	Free: Pattern=met dat, Pattern=dat voe
+	Constrained: Pattern=dat, Pattern=met, Pattern=voe
+Turn ID=17| B | B : die trofee
+	Free: Pattern=trofee, Pattern=die
+	Constrained: 
+Turn ID=18| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : dNAstreng
+	Free: 
+	Constrained: 
+Turn ID=20| A | A : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=22| B | B : en dan staan die helemaal onderaan
+	Free: Pattern=dan staan die, Pattern=en dan
+	Constrained: Pattern=die, Pattern=en, Pattern=staan, Pattern=staan die
+Turn ID=23| B | B : en dan ongeveer dertig procent van
+	Free: Pattern=procent van, Pattern=en dan, Pattern=ongeveer
+	Constrained: Pattern=en
+Turn ID=24| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : zijn die al niet
+	Free: Pattern=niet, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=26| B | B : dat zijn het niet
+	Free: Pattern=dat zijn, Pattern=niet
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : die met dat DNA en dat voe dat driehoekig voe
+	Free: Pattern=dat, Pattern=die met, Pattern=met dat, Pattern=dat voe, Pattern=en, Pattern=voe
+	Constrained: Pattern=dat, Pattern=met, Pattern=die, Pattern=voe
+Turn ID=29| B | B : ja zijn L
+	Free: Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : en die staan bij mij ongeveer tien procent van de rechterrand af en ook ongeveer tien procent van boven
+	Free: Pattern=de, Pattern=staan, Pattern=procent van, Pattern=en, Pattern=bij mij, Pattern=die, Pattern=ongeveer
+	Constrained: 
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| B | B : ik hebben die met die dNAstreng
+	Free: Pattern=die met, Pattern=die
+	Constrained: Pattern=met, Pattern=die
+Turn ID=33| A | A : ja dat zijn nummer vier
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : hij staan in midden midden iets naar links iets naar onder
+	Free: Pattern=iets naar, Pattern=hij staan, Pattern=midden midden, Pattern=links
+	Constrained: Pattern=iets, Pattern=hij, Pattern=naar, Pattern=staan
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : die met dat dNAdingetje
+	Free: Pattern=die met, Pattern=met dat
+	Constrained: Pattern=dat, Pattern=met, Pattern=die
+Turn ID=38| A | A : en dit blok
+	Free: Pattern=en
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : dan staan die best wel midden midden hij lijken wat aan de groot kant en iets misschien iets naar boven misschien iets naar rechts maar
+	Free: Pattern=iets naar, Pattern=lijken, Pattern=hij, Pattern=midden midden, Pattern=en, Pattern=dan staan die, Pattern=de, Pattern=rechts, Pattern=iets
+	Constrained: Pattern=iets, Pattern=staan die, Pattern=staan, Pattern=die, Pattern=naar
+Turn ID=42| B | B : echt midden midden
+	Free: Pattern=midden midden
+	Constrained: 
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : nee
+	Free: 
+	Constrained: 

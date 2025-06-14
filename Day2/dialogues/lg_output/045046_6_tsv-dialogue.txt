@@ -1,0 +1,211 @@
+A|0| A: precies diezelfde 
+A|1| A: volgens _mij_ als degeen _die_ _ik_ nu moeten omschrijven 
+B|2| B: _oké_ 
+B|3| B: _dus_ weer _met_ [die] _schijf_ erachter _en_ _dat_ ding _erdoorheen_ 
+A|4| A: _met de_ [schijf] erdoor _ja_ door _het_ rond heen _en dan _een_ soort van_ _ja_ veer of lepeltje Erboven 
+B|5| B: [ja] 
+B|6| B: _oké_ 
+B|7| B: G 
+A|8| A: [en] _hij_ staat _ook_ _op_ diezelfde plek [die] _ik_ _net_ _hebben_ proberen te omschrijven 
+B|9| B: _ja bij mij_ [ook] _dus_ _dat zijn_ weer _iets_ ander 
+B|10| B: _dit zijn_ [de] neus _met de piercing_ 
+A|11| A: [ja] even kijken waar [die] _in_ principe [ja] [dat zijn] vijf 
+B|12| B: [die] _zitten_ _bij mij_ [ja] beetje bovenaan _links_ _in het midden_ 
+A|13| A: nou _bij mij zitten die_ _net langs de scheidslijn_ _wel_ [het] veel boven 
+B|14| B: nee [net langs de scheidslijn] [zijn] [bij mij] _niet_ _dus_ _dan zijn het_ anders 
+A|15| A: _oké dan_ huppakee 
+A|16| A: [dit zijn] degeen [met de piercing] [erdoorheen] 
+B|17| B: [oké] 
+B|18| B: A 
+A|19| A: _bij mij zitten die_ _aan de_ linkerkant 
+B|20| B: _hij zitten_ _links_ _dan zijn_ we al klaar 
+A|21| A: of _rechterkant_ bedoelen _rechterkant_ [dan] sorry 
+A|22| A: [hij zitten] eigenlijk [in het midden] _maar_ [dan] [iets] naar beneden 
+B|23| B: _zijn het_ _gewoon_ [een soort _van] de_ middel daar 
+B|24| B: _denken_ [ik] 
+B|25| B: [aan _de] rechterkant_ 
+B|26| B: [bij] jou misschien _niet_ 
+A|27| A: [ja] nou zeggen _maar_ [hij zitten] [iets] naar beneden _maar_ [in] [de] lengte [in] [de] of [in] [de] breedte _zitten die_ _wel_ [in het midden] _maar_ [in] [de] lengte _zitten die_ [iets] naar beneden [dan] 
+B|28| B: [oké dan] [hebben] je [een] ander blijk [bij mij zitten die] echt [in het midden] 
+A|29| A: [oké] 
+B|30| B: [de piercing] 
+A|31| A: [de piercing] 
+B|32| B: neus [met de piercing] 
+A|33| A: vijf 
+A|34| A: [hij zitten] _ongeveer_ [bij mij] [in het midden] [gewoon] [van [de] rechterkant] 
+A|35| A: _het midden _van_ het midden_ 
+B|36| B: [oké] [hij zitten] _denken_ [ik] [bij mij] [iets] _links_ [en] [iets] omhoog [van het midden] [hij zitten] _niet_ mooi [in het midden] 
+A|37| A: [oké dan] [dan zijn het] hem [niet] 
+B|38| B: [dan zijn] [die] ander _denken_ [ik] 
+A|39| A: [dit zijn] [met de piercing] 
+B|40| B: H 
+B|41| B: helemaal onderaan [ongeveer] _op de scheidslijn_ 
+A|42| A: [ja] _maar_ [hij] [zijn] [niet] [ja] [ja] [hij] [zijn] _wel_ laag inderdaad [op de scheidslijn] [ongeveer] [aan de] 
+B|43| B: [net] [iets] rechts 
+A|44| A: [ja] [ja] 
+B|45| B: [maar] [wel] [oké] [ja] 
+B|46| B: [een] neus [met de piercing] 
+A|47| A: [ja] 
+A|48| A: vijftien 
+B|49| B: [zitten] [bij mij] [ongeveer] _in het midden [van_ de] rechterhelft [en dan een] beetje bovenaan 
+A|50| A: [ja [bij mij] zitten die] bijna [in het midden [van] het midden] [maar] [dan] [iets] veel naar [links] toe [dus] [ik] [denken] [niet] [dat] [dat] [dan] 
+B|51| B: nee 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : precies diezelfde
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : volgens mij als degeen die ik nu moeten omschrijven
+	Free: Pattern=mij, Pattern=die, Pattern=ik
+	Constrained: 
+Turn ID=2| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : dus weer met die schijf erachter en dat ding erdoorheen
+	Free: Pattern=dat, Pattern=dus, Pattern=met, Pattern=die, Pattern=en, Pattern=erdoorheen, Pattern=schijf
+	Constrained: 
+Turn ID=4| A | A : met de schijf erdoor ja door het rond heen en dan een soort van ja veer of lepeltje Erboven
+	Free: Pattern=het, Pattern=schijf, Pattern=een soort van, Pattern=en dan een, Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=dan, Pattern=een, Pattern=met, Pattern=en
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=7| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : en hij staat ook op diezelfde plek die ik net hebben proberen te omschrijven
+	Free: Pattern=net, Pattern=hebben, Pattern=hij, Pattern=die, Pattern=ik, Pattern=en, Pattern=op, Pattern=ook
+	Constrained: 
+Turn ID=9| B | B : ja bij mij ook dus dat zijn weer iets ander
+	Free: Pattern=dat zijn, Pattern=ook, Pattern=ja bij mij, Pattern=iets, Pattern=dus
+	Constrained: Pattern=dat, Pattern=ja, Pattern=bij, Pattern=mij, Pattern=zijn, Pattern=bij mij
+Turn ID=10| B | B : dit zijn de neus met de piercing
+	Free: Pattern=met de piercing, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de piercing, Pattern=de, Pattern=met de
+Turn ID=11| A | A : ja even kijken waar die in principe ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=die, Pattern=ja, Pattern=in
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| B | B : die zitten bij mij ja beetje bovenaan links in het midden
+	Free: Pattern=ja, Pattern=links, Pattern=bij mij, Pattern=in het midden, Pattern=die, Pattern=zitten
+	Constrained: Pattern=mij, Pattern=het, Pattern=in, Pattern=bij
+Turn ID=13| A | A : nou bij mij zitten die net langs de scheidslijn wel het veel boven
+	Free: Pattern=bij mij zitten die, Pattern=net langs de scheidslijn, Pattern=wel, Pattern=het
+	Constrained: Pattern=net, Pattern=de, Pattern=bij, Pattern=mij, Pattern=zitten die, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=14| B | B : nee net langs de scheidslijn zijn bij mij niet dus dan zijn het anders
+	Free: Pattern=niet, Pattern=zijn, Pattern=bij mij, Pattern=net langs de scheidslijn, Pattern=dus, Pattern=dan zijn het
+	Constrained: Pattern=zijn het, Pattern=net, Pattern=de, Pattern=dan, Pattern=het, Pattern=mij, Pattern=zijn, Pattern=bij, Pattern=dan zijn
+Turn ID=15| A | A : oké dan huppakee
+	Free: Pattern=oké dan
+	Constrained: Pattern=dan, Pattern=oké
+Turn ID=16| A | A : dit zijn degeen met de piercing erdoorheen
+	Free: Pattern=met de piercing, Pattern=dit zijn, Pattern=erdoorheen
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de piercing, Pattern=de, Pattern=met de
+Turn ID=17| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : bij mij zitten die aan de linkerkant
+	Free: Pattern=bij mij zitten die, Pattern=aan de
+	Constrained: Pattern=de, Pattern=bij, Pattern=mij, Pattern=zitten die, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=20| B | B : hij zitten links dan zijn we al klaar
+	Free: Pattern=hij zitten, Pattern=dan zijn, Pattern=links
+	Constrained: Pattern=zijn, Pattern=hij, Pattern=zitten, Pattern=dan
+Turn ID=21| A | A : of rechterkant bedoelen rechterkant dan sorry
+	Free: Pattern=rechterkant, Pattern=dan
+	Constrained: 
+Turn ID=22| A | A : hij zitten eigenlijk in het midden maar dan iets naar beneden
+	Free: Pattern=dan, Pattern=maar, Pattern=in het midden, Pattern=iets, Pattern=hij zitten
+	Constrained: Pattern=in, Pattern=hij, Pattern=zitten, Pattern=het
+Turn ID=23| B | B : zijn het gewoon een soort van de middel daar
+	Free: Pattern=een soort van, Pattern=zijn het, Pattern=van de, Pattern=gewoon
+	Constrained: Pattern=een, Pattern=de, Pattern=zijn, Pattern=het
+Turn ID=24| B | B : denken ik
+	Free: Pattern=denken, Pattern=ik
+	Constrained: 
+Turn ID=25| B | B : aan de rechterkant
+	Free: Pattern=aan de, Pattern=de rechterkant
+	Constrained: Pattern=de, Pattern=rechterkant
+Turn ID=26| B | B : bij jou misschien niet
+	Free: Pattern=niet, Pattern=bij
+	Constrained: 
+Turn ID=27| A | A : ja nou zeggen maar hij zitten iets naar beneden maar in de lengte in de of in de breedte zitten die wel in het midden maar in de lengte zitten die iets naar beneden dan
+	Free: Pattern=dan, Pattern=wel, Pattern=in, Pattern=zitten die, Pattern=maar, Pattern=in het midden, Pattern=de, Pattern=iets, Pattern=ja, Pattern=hij zitten
+	Constrained: Pattern=het, Pattern=hij, Pattern=in, Pattern=die, Pattern=zitten
+Turn ID=28| B | B : oké dan hebben je een ander blijk bij mij zitten die echt in het midden
+	Free: Pattern=oké dan, Pattern=een, Pattern=bij mij zitten die, Pattern=hebben, Pattern=in het midden
+	Constrained: Pattern=dan, Pattern=het, Pattern=in, Pattern=oké, Pattern=bij, Pattern=mij, Pattern=zitten die, Pattern=bij mij, Pattern=die, Pattern=zitten
+Turn ID=29| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=30| B | B : de piercing
+	Free: Pattern=de piercing
+	Constrained: Pattern=de
+Turn ID=31| A | A : de piercing
+	Free: Pattern=de piercing
+	Constrained: Pattern=de
+Turn ID=32| B | B : neus met de piercing
+	Free: Pattern=met de piercing
+	Constrained: Pattern=de, Pattern=met, Pattern=met de, Pattern=de piercing
+Turn ID=33| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : hij zitten ongeveer bij mij in het midden gewoon van de rechterkant
+	Free: Pattern=hij zitten, Pattern=de rechterkant, Pattern=van de, Pattern=gewoon, Pattern=ongeveer, Pattern=bij mij, Pattern=in het midden
+	Constrained: Pattern=de, Pattern=het, Pattern=hij, Pattern=in, Pattern=rechterkant, Pattern=zitten, Pattern=bij, Pattern=mij
+Turn ID=35| A | A : het midden van het midden
+	Free: Pattern=het midden van, Pattern=van het midden
+	Constrained: Pattern=het
+Turn ID=36| B | B : oké hij zitten denken ik bij mij iets links en iets omhoog van het midden hij zitten niet mooi in het midden
+	Free: Pattern=denken, Pattern=van het midden, Pattern=niet, Pattern=links, Pattern=oké, Pattern=ik, Pattern=en, Pattern=bij mij, Pattern=in het midden, Pattern=iets, Pattern=hij zitten
+	Constrained: Pattern=het, Pattern=hij, Pattern=in, Pattern=zitten, Pattern=bij, Pattern=mij
+Turn ID=37| A | A : oké dan dan zijn het hem niet
+	Free: Pattern=dan zijn het, Pattern=oké dan, Pattern=niet
+	Constrained: Pattern=zijn het, Pattern=dan, Pattern=het, Pattern=oké, Pattern=dan zijn, Pattern=zijn
+Turn ID=38| B | B : dan zijn die ander denken ik
+	Free: Pattern=dan zijn, Pattern=denken, Pattern=die, Pattern=ik
+	Constrained: Pattern=zijn, Pattern=dan
+Turn ID=39| A | A : dit zijn met de piercing
+	Free: Pattern=met de piercing, Pattern=dit zijn
+	Constrained: Pattern=met, Pattern=zijn, Pattern=de piercing, Pattern=de, Pattern=met de
+Turn ID=40| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : helemaal onderaan ongeveer op de scheidslijn
+	Free: Pattern=op de scheidslijn, Pattern=ongeveer
+	Constrained: Pattern=de, Pattern=op
+Turn ID=42| A | A : ja maar hij zijn niet ja ja hij zijn wel laag inderdaad op de scheidslijn ongeveer aan de
+	Free: Pattern=op de scheidslijn, Pattern=ja, Pattern=aan de, Pattern=niet, Pattern=wel, Pattern=hij, Pattern=ongeveer, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=de, Pattern=op
+Turn ID=43| B | B : net iets rechts
+	Free: Pattern=iets, Pattern=net
+	Constrained: 
+Turn ID=44| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : maar wel oké ja
+	Free: Pattern=maar, Pattern=wel, Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=46| B | B : een neus met de piercing
+	Free: Pattern=met de piercing, Pattern=een
+	Constrained: Pattern=de, Pattern=met, Pattern=met de, Pattern=de piercing
+Turn ID=47| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : vijftien
+	Free: 
+	Constrained: 
+Turn ID=49| B | B : zitten bij mij ongeveer in het midden van de rechterhelft en dan een beetje bovenaan
+	Free: Pattern=in het midden van, Pattern=van de, Pattern=en dan een, Pattern=bij mij, Pattern=zitten, Pattern=ongeveer
+	Constrained: Pattern=de, Pattern=dan, Pattern=een, Pattern=het, Pattern=in, Pattern=het midden van, Pattern=bij, Pattern=mij, Pattern=en, Pattern=in het midden
+Turn ID=50| A | A : ja bij mij zitten die bijna in het midden van het midden maar dan iets veel naar links toe dus ik denken niet dat dat dan
+	Free: Pattern=dat, Pattern=in het midden van, Pattern=denken, Pattern=van het midden, Pattern=ik, Pattern=maar, Pattern=iets, Pattern=dus, Pattern=niet, Pattern=dan, Pattern=ja bij mij, Pattern=bij mij zitten die, Pattern=links
+	Constrained: Pattern=ja, Pattern=het, Pattern=in, Pattern=het midden van, Pattern=bij, Pattern=mij, Pattern=zitten die, Pattern=bij mij, Pattern=in het midden, Pattern=die, Pattern=zitten
+Turn ID=51| B | B : nee
+	Free: 
+	Constrained: 

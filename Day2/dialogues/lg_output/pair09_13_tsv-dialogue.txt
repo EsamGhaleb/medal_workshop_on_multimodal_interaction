@@ -1,0 +1,107 @@
+B|0| B: _ja_ _deze hebben_ _drie bollet_ telkens _als_ arm 
+A|1| A: [drie bollet] 
+B|2| B: _en_ _staan op_ _een_ groot vierkant 
+A|3| A: [ja] 
+A|4| A: [hebben] het lijken net [als] alsof dat _zijn_ _haar_ _zijn_ 
+B|5| B: [ja] 
+A|6| A: [en] [een] plat neus 
+B|7| B: [ja] 
+B|8| B: [ja] 
+B|9| B: verstrooien professor 
+A|10| A: [ja] dat _zijn_ _nummer_ dat _zijn_ _nummer_ zes 
+A|11| A: [deze hebben] hoe heten dat dat _pippi_ Langkous-staart 
+B|12| B: [ja] de [drie] [drie] dinget zeggen maar 
+A|13| A: [ja] 
+A|14| A: [en] dan zo'n plat neus [en] hij [staan op] iets plat 
+B|15| B: [ja] 
+B|16| B: [ja] _dit zijn_ k 
+B|17| B: _dit zijn_ die met de [haar] 
+B|18| B: de _pippi langkous_ 
+A|19| A: _nummer_ dertien 
+A|20| A: _dit zijn pippi langkous_ 
+B|21| B: [nummer] letter j 
+B|22| B: [dit zijn pippi langkous] 
+A|23| A: dat [zijn] [nummer] [een] 
+A|24| A: [dit zijn pippi langkous] 
+B|25| B: g 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja deze hebben drie bollet telkens als arm
+	Free: Pattern=drie bollet, Pattern=deze hebben, Pattern=ja, Pattern=als
+	Constrained: Pattern=hebben, Pattern=drie
+Turn ID=1| A | A : drie bollet
+	Free: Pattern=drie bollet
+	Constrained: Pattern=drie
+Turn ID=2| B | B : en staan op een groot vierkant
+	Free: Pattern=staan op, Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : hebben het lijken net als alsof dat zijn haar zijn
+	Free: Pattern=hebben, Pattern=zijn, Pattern=als, Pattern=haar
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : en een plat neus
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : verstrooien professor
+	Free: 
+	Constrained: 
+Turn ID=10| A | A : ja dat zijn nummer dat zijn nummer zes
+	Free: Pattern=zijn, Pattern=ja, Pattern=nummer
+	Constrained: 
+Turn ID=11| A | A : deze hebben hoe heten dat dat pippi Langkous-staart
+	Free: Pattern=deze hebben, Pattern=pippi
+	Constrained: Pattern=hebben
+Turn ID=12| B | B : ja de drie drie dinget zeggen maar
+	Free: Pattern=ja, Pattern=drie
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : en dan zo'n plat neus en hij staan op iets plat
+	Free: Pattern=staan op, Pattern=en
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : ja dit zijn k
+	Free: Pattern=dit zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=17| B | B : dit zijn die met de haar
+	Free: Pattern=dit zijn, Pattern=haar
+	Constrained: Pattern=zijn
+Turn ID=18| B | B : de pippi langkous
+	Free: Pattern=pippi langkous
+	Constrained: Pattern=pippi
+Turn ID=19| A | A : nummer dertien
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=20| A | A : dit zijn pippi langkous
+	Free: Pattern=dit zijn pippi langkous
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=pippi langkous, Pattern=pippi
+Turn ID=21| B | B : nummer letter j
+	Free: Pattern=nummer
+	Constrained: 
+Turn ID=22| B | B : dit zijn pippi langkous
+	Free: Pattern=dit zijn pippi langkous
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=pippi langkous, Pattern=pippi
+Turn ID=23| A | A : dat zijn nummer een
+	Free: Pattern=zijn, Pattern=een, Pattern=nummer
+	Constrained: 
+Turn ID=24| A | A : dit zijn pippi langkous
+	Free: Pattern=dit zijn pippi langkous
+	Constrained: Pattern=dit zijn, Pattern=zijn, Pattern=pippi langkous, Pattern=pippi
+Turn ID=25| B | B : g
+	Free: 
+	Constrained: 

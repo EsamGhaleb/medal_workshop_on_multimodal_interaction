@@ -1,0 +1,351 @@
+A|0| A: oeh 
+A|1| A: _ik_ _hebben_ beschrijven _als_ _zeggen maar_ iets _van die_ _elektrisch fiets_ 
+A|2| A: deze _hebben_ _van die_ _die_ twee hendel _en dan_ zo'n mooi schermpje _of_ _zo_ 
+A|3| A: waar _de_ snelheid _op_ staat _en_ _zo_ 
+B|4| B: _ja_ nou [die] _dat_ zien zitten allemaal _aan de_ achterkant [van] _dat ding_ 
+A|5| A: [ja] 
+B|6| B: [of] _niet_ 
+A|7| A: [ja] 
+B|8| B: [ik] [ik] vinden hem een beetje [op] een honkbalknuppel lijken [die] achter een kop liggen 
+A|9| A: [dat] kunnen _ook_ 
+B|10| B: [ja] 
+B|11| B: K 
+A|12| A: _oké_ 
+B|13| B: bij _mij_ zitten [die] [zeggen maar] _als je_ _het_ _in_ _weer_ _in_ vier deel [zo] 
+A|14| A: [ja] 
+A|15| A: [ja] 
+B|16| B: zitten [die] _in_ _dit_ deel [en dan] _in het midden_ 
+A|17| A: [in het midden] 
+B|18| B: [ja] 
+A|19| A: _nee_ _oké_ 
+A|20| A: want _we_ _hebben_ dezelfde plattegrond toch jawel 
+A|21| A: [van] [mij] _zijn_ [dan] helemaal linksboven [dan] 
+B|22| B: [ja] bij bij jou moeten [die] [dan] _hier_ [in het midden] staan ongeveer [van] [dat] vlak 
+A|23| A: [ja] 
+A|24| A: _nee_ _oké_ [dan] [niet] 
+B|25| B: [oké] 
+B|26| B: nu [hebben] [ik] _weer_ [die] _met die_ _met die_ _hoe_ _heten_ [dat] ? _met die_ honkbalknuppel 
+A|27| A: [ja] 
+A|28| A: [ja] 
+A|29| A: [ja] [oké] 
+A|30| A: negen 
+B|31| B: [en] bij [mij] staan [die] [ja] hij staan _als je_ [het] [in] vier vlak verdeelen staan [die] [in] _rechts_ 
+B|32| B: [in] [de] rechterbovenvlak 
+A|33| A: [en dan] [aan] 
+B|34| B: [en dan] _wel_ een beetje 
+A|35| A: _beneden_ 
+B|36| B: [ja] 
+A|37| A: want [ja] [ik] [hebben] [zeggen maar] één helemaal _boven_ tegen [dat] rand [aan] [of] _bijna_ 
+B|38| B: [ja] 
+A|39| A: [en] één _daar_ _beneden_ 
+B|40| B: [ja] bij [mij] [ook] 
+A|41| A: [ja] ? [oké] 
+A|42| A: [dit] _zijn_ [ik] weten [niet] veel wat [je] jij [hier] veel [zeggen] [die] handvat [met die] wat [ik] toen [zeggen] _van die_ _elektrisch fiets_ 
+B|43| B: [ja] 
+A|44| A: [die] honk [die] honk 
+B|45| B: honkbalknuppel 
+A|46| A: [ja] 
+B|47| B: [ja] 
+B|48| B: even kijken _dat zijn_ F 
+B|49| B: nu _zijn het_ _wel_ moeilijk [ja] 
+A|50| A: oeh 
+A|51| A: [het] kunnen [op] zich [als je] gewoon werkelijk [de] helft [van] [de] helft toenemen [aan de] linkerkant 
+B|52| B: bij [mij] staan [die] [zeggen maar] komen [het] einde [van die] honkbalknuppel [als je] een lijn naar [beneden] trekken komen [die] net volgens [mij] net [op] [die] B _van het logo_ 
+A|53| A: _nee_ [dan] [niet] [dan] [niet] [dan] [niet] 
+B|54| B: [dan] [hebben] [we] een ander 
+A|55| A: [ja] 
+B|56| B: [die] honkbalknuppel 
+A|57| A: ah [weer] opnieuw weten iets 
+B|58| B: [hebben] [ik] nu 
+A|59| A: drie 
+B|60| B: [en] hij staan [zeggen maar] tussen linkerhoek [en] _het logo_ [en dan] staan [die] [daar] [in het midden] 
+A|61| A: [oké] _nee_ [dan] [niet] 
+A|62| A: hoeveel hoeveel plaat [hebben] jij naast elkaar ? [ook] twee 
+B|63| B: [ja] 
+A|64| A: [oké] _nee_ [dan] [niet] 
+A|65| A: [de] honkbalknop 
+A|66| A: [of] [hoe] [dat ding] [heten] 
+B|67| B: [ja] 
+B|68| B: L 
+A|69| A: [dat] driehoek [en dan] [zijn het] één driehoek [die] [je] [zeggen] [en dan] [rechts] daarvan 
+B|70| B: [nee] bij [mij] [niet] 
+A|71| A: [oké] 
+A|72| A: [weer] 
+B|73| B: [die] honkbalknuppel 
+B|74| B: [of] [elektrisch fiets] 
+A|75| A: [ja] vijf 
+A|76| A: [we] kunnen trouwens [weer] [van die] vorm maken [dat zijn] echt eigenlijk [wel] handig 
+B|77| B: [ja] 
+A|78| A: [ja] 
+B|79| B: hij staan [ja] 
+A|80| A: link [van het logo] [zeggen maar] 
+B|81| B: [nee] bij [mij] staan [die] [bijna] [midden] [boven] [het logo] 
+A|82| A: [oké] 
+A|83| A: [maar] [wel] links 
+A|84| A: [of] [rechts] 
+B|85| B: [nee] [in het midden] 
+A|86| A: [zo] [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oeh
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ik hebben beschrijven als zeggen maar iets van die elektrisch fiets
+	Free: Pattern=elektrisch fiets, Pattern=zeggen maar, Pattern=hebben, Pattern=als, Pattern=ik, Pattern=van die
+	Constrained: Pattern=zeggen, Pattern=die, Pattern=van, Pattern=maar
+Turn ID=2| A | A : deze hebben van die die twee hendel en dan zo'n mooi schermpje of zo
+	Free: Pattern=of, Pattern=en dan, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=van die
+	Constrained: Pattern=dan, Pattern=van, Pattern=en, Pattern=die
+Turn ID=3| A | A : waar de snelheid op staat en zo
+	Free: Pattern=zo, Pattern=de, Pattern=en, Pattern=op
+	Constrained: 
+Turn ID=4| B | B : ja nou die dat zien zitten allemaal aan de achterkant van dat ding
+	Free: Pattern=dat, Pattern=ja, Pattern=aan de, Pattern=dat ding, Pattern=die, Pattern=van
+	Constrained: Pattern=dat, Pattern=aan, Pattern=de
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : of niet
+	Free: Pattern=niet, Pattern=of
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : ik ik vinden hem een beetje op een honkbalknuppel lijken die achter een kop liggen
+	Free: Pattern=ik, Pattern=op, Pattern=die
+	Constrained: 
+Turn ID=9| A | A : dat kunnen ook
+	Free: Pattern=dat, Pattern=ook
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=13| B | B : bij mij zitten die zeggen maar als je het in weer in vier deel zo
+	Free: Pattern=zeggen maar, Pattern=het, Pattern=zo, Pattern=in, Pattern=als je, Pattern=die, Pattern=mij, Pattern=weer
+	Constrained: Pattern=je, Pattern=maar, Pattern=als, Pattern=zeggen
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : zitten die in dit deel en dan in het midden
+	Free: Pattern=en dan, Pattern=dit, Pattern=in, Pattern=die, Pattern=in het midden
+	Constrained: Pattern=dan, Pattern=het, Pattern=in, Pattern=en, Pattern=midden
+Turn ID=17| A | A : in het midden
+	Free: Pattern=in het midden
+	Constrained: Pattern=midden, Pattern=in, Pattern=het
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : nee oké
+	Free: Pattern=nee, Pattern=oké
+	Constrained: 
+Turn ID=20| A | A : want we hebben dezelfde plattegrond toch jawel
+	Free: Pattern=we, Pattern=hebben
+	Constrained: 
+Turn ID=21| A | A : van mij zijn dan helemaal linksboven dan
+	Free: Pattern=dan, Pattern=mij, Pattern=van, Pattern=zijn
+	Constrained: 
+Turn ID=22| B | B : ja bij bij jou moeten die dan hier in het midden staan ongeveer van dat vlak
+	Free: Pattern=dat, Pattern=ja, Pattern=hier, Pattern=dan, Pattern=die, Pattern=van, Pattern=in het midden
+	Constrained: Pattern=midden, Pattern=in, Pattern=het
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : nee oké dan niet
+	Free: Pattern=dan, Pattern=nee, Pattern=oké, Pattern=niet
+	Constrained: 
+Turn ID=25| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=26| B | B : nu hebben ik weer die met die met die hoe heten dat ? met die honkbalknuppel
+	Free: Pattern=hebben, Pattern=heten, Pattern=die, Pattern=ik, Pattern=weer, Pattern=dat, Pattern=hoe, Pattern=met die
+	Constrained: Pattern=die
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=30| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : en bij mij staan die ja hij staan als je het in vier vlak verdeelen staan die in rechts
+	Free: Pattern=het, Pattern=in, Pattern=als je, Pattern=die, Pattern=mij, Pattern=en, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=je, Pattern=als
+Turn ID=32| B | B : in de rechterbovenvlak
+	Free: Pattern=in, Pattern=de
+	Constrained: 
+Turn ID=33| A | A : en dan aan
+	Free: Pattern=en dan, Pattern=aan
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=34| B | B : en dan wel een beetje
+	Free: Pattern=en dan, Pattern=wel
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=35| A | A : beneden
+	Free: Pattern=beneden
+	Constrained: 
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : want ja ik hebben zeggen maar één helemaal boven tegen dat rand aan of bijna
+	Free: Pattern=dat, Pattern=of, Pattern=boven, Pattern=zeggen maar, Pattern=hebben, Pattern=ik, Pattern=bijna, Pattern=aan, Pattern=ja
+	Constrained: Pattern=maar, Pattern=zeggen
+Turn ID=38| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : en één daar beneden
+	Free: Pattern=daar, Pattern=beneden, Pattern=en
+	Constrained: 
+Turn ID=40| B | B : ja bij mij ook
+	Free: Pattern=ja, Pattern=mij, Pattern=ook
+	Constrained: 
+Turn ID=41| A | A : ja ? oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=42| A | A : dit zijn ik weten niet veel wat je jij hier veel zeggen die handvat met die wat ik toen zeggen van die elektrisch fiets
+	Free: Pattern=met die, Pattern=elektrisch fiets, Pattern=hier, Pattern=niet, Pattern=die, Pattern=ik, Pattern=van die, Pattern=zijn, Pattern=je, Pattern=zeggen, Pattern=dit
+	Constrained: Pattern=van, Pattern=die
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : die honk die honk
+	Free: Pattern=die
+	Constrained: 
+Turn ID=45| B | B : honkbalknuppel
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : even kijken dat zijn F
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=49| B | B : nu zijn het wel moeilijk ja
+	Free: Pattern=zijn het, Pattern=wel, Pattern=ja
+	Constrained: Pattern=het, Pattern=zijn
+Turn ID=50| A | A : oeh
+	Free: 
+	Constrained: 
+Turn ID=51| A | A : het kunnen op zich als je gewoon werkelijk de helft van de helft toenemen aan de linkerkant
+	Free: Pattern=de, Pattern=het, Pattern=als je, Pattern=van, Pattern=op, Pattern=aan de
+	Constrained: Pattern=je, Pattern=aan, Pattern=de, Pattern=als
+Turn ID=52| B | B : bij mij staan die zeggen maar komen het einde van die honkbalknuppel als je een lijn naar beneden trekken komen die net volgens mij net op die B van het logo
+	Free: Pattern=op, Pattern=zeggen maar, Pattern=het, Pattern=als je, Pattern=die, Pattern=mij, Pattern=van die, Pattern=beneden, Pattern=van het logo
+	Constrained: Pattern=het, Pattern=zeggen, Pattern=als, Pattern=die, Pattern=van, Pattern=je, Pattern=het logo, Pattern=maar
+Turn ID=53| A | A : nee dan niet dan niet dan niet
+	Free: Pattern=dan, Pattern=nee, Pattern=niet
+	Constrained: 
+Turn ID=54| B | B : dan hebben we een ander
+	Free: Pattern=dan, Pattern=we, Pattern=hebben
+	Constrained: 
+Turn ID=55| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=56| B | B : die honkbalknuppel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=57| A | A : ah weer opnieuw weten iets
+	Free: Pattern=weer
+	Constrained: 
+Turn ID=58| B | B : hebben ik nu
+	Free: Pattern=ik, Pattern=hebben
+	Constrained: 
+Turn ID=59| A | A : drie
+	Free: 
+	Constrained: 
+Turn ID=60| B | B : en hij staan zeggen maar tussen linkerhoek en het logo en dan staan die daar in het midden
+	Free: Pattern=en dan, Pattern=zeggen maar, Pattern=die, Pattern=en, Pattern=het logo, Pattern=daar, Pattern=in het midden
+	Constrained: Pattern=dan, Pattern=het, Pattern=zeggen, Pattern=in, Pattern=en, Pattern=maar, Pattern=midden
+Turn ID=61| A | A : oké nee dan niet
+	Free: Pattern=dan, Pattern=nee, Pattern=oké, Pattern=niet
+	Constrained: 
+Turn ID=62| A | A : hoeveel hoeveel plaat hebben jij naast elkaar ? ook twee
+	Free: Pattern=ook, Pattern=hebben
+	Constrained: 
+Turn ID=63| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=64| A | A : oké nee dan niet
+	Free: Pattern=dan, Pattern=nee, Pattern=oké, Pattern=niet
+	Constrained: 
+Turn ID=65| A | A : de honkbalknop
+	Free: Pattern=de
+	Constrained: 
+Turn ID=66| A | A : of hoe dat ding heten
+	Free: Pattern=dat ding, Pattern=hoe, Pattern=of, Pattern=heten
+	Constrained: Pattern=dat
+Turn ID=67| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=68| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=69| A | A : dat driehoek en dan zijn het één driehoek die je zeggen en dan rechts daarvan
+	Free: Pattern=dat, Pattern=zijn het, Pattern=rechts, Pattern=en dan, Pattern=zeggen, Pattern=die, Pattern=je
+	Constrained: Pattern=dan, Pattern=en, Pattern=het, Pattern=zijn
+Turn ID=70| B | B : nee bij mij niet
+	Free: Pattern=nee, Pattern=mij, Pattern=niet
+	Constrained: 
+Turn ID=71| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=72| A | A : weer
+	Free: Pattern=weer
+	Constrained: 
+Turn ID=73| B | B : die honkbalknuppel
+	Free: Pattern=die
+	Constrained: 
+Turn ID=74| B | B : of elektrisch fiets
+	Free: Pattern=elektrisch fiets, Pattern=of
+	Constrained: 
+Turn ID=75| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=76| A | A : we kunnen trouwens weer van die vorm maken dat zijn echt eigenlijk wel handig
+	Free: Pattern=dat zijn, Pattern=wel, Pattern=we, Pattern=van die, Pattern=weer
+	Constrained: Pattern=dat, Pattern=van, Pattern=zijn, Pattern=die
+Turn ID=77| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=78| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=79| B | B : hij staan ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=80| A | A : link van het logo zeggen maar
+	Free: Pattern=van het logo, Pattern=zeggen maar
+	Constrained: Pattern=het, Pattern=zeggen, Pattern=van, Pattern=het logo, Pattern=maar
+Turn ID=81| B | B : nee bij mij staan die bijna midden boven het logo
+	Free: Pattern=boven, Pattern=nee, Pattern=die, Pattern=mij, Pattern=het logo, Pattern=midden, Pattern=bijna
+	Constrained: Pattern=het
+Turn ID=82| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=83| A | A : maar wel links
+	Free: Pattern=wel, Pattern=maar
+	Constrained: 
+Turn ID=84| A | A : of rechts
+	Free: Pattern=rechts, Pattern=of
+	Constrained: 
+Turn ID=85| B | B : nee in het midden
+	Free: Pattern=in het midden, Pattern=nee
+	Constrained: Pattern=midden, Pattern=in, Pattern=het
+Turn ID=86| A | A : zo ja
+	Free: Pattern=ja, Pattern=zo
+	Constrained: 

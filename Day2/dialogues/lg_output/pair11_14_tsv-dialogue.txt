@@ -1,0 +1,115 @@
+A|0| A: okee nou _zijn_ het weer het _bolle_ alleen het _bolle_ liggen nu _op_ het beker 
+B|1| B: _ja_ _dat _zijn_ er maar één_ volgens mij 
+A|2| A: [ja] 
+B|3| B: [ja] 
+B|4| B: _dat zijn_ j 
+B|5| B: deze hebben _aan de bovenkant_ _een_ [bolle] 
+B|6| B: als enig van al figuur 
+A|7| A: [ja] 
+A|8| A: _en_ _aan de voorkant_ [een] _balk_ die onderaan uitsteekt 
+B|9| B: [ja] 
+B|10| B: [ja] 
+A|11| A: [dat zijn] nummer vijf 
+A|12| A: het [bolle] [aan de bovenkant] 
+B|13| B: met [een] rechthoekig staaf [aan de voorkant] 
+A|14| A: [ja] 
+A|15| A: [ja] 
+B|16| B: [dat zijn] n 
+A|17| A: vallen naar beneden [ja] 
+B|18| B: cirkel of [bolle] [op] [de bovenkant] [en] [een] 
+A|19| A: [aan de voorkant] [dat] _lang balk_ 
+B|20| B: [lang] 
+B|21| B: [een] [lang balk] [ja] 
+A|22| A: vijfteen 
+A|23| A: nou het [bolle] [aan de bovenkant] [er] [zijn er maar één] 
+B|24| B: [ja] 
+B|25| B: [dat zijn] g 
+B|26| B: [bolle] [op] [de bovenkant] 
+A|27| A: vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee nou zijn het weer het bolle alleen het bolle liggen nu op het beker
+	Free: Pattern=bolle, Pattern=op, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : ja dat zijn er maar één volgens mij
+	Free: Pattern=zijn er maar één, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=er
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : dat zijn j
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=5| B | B : deze hebben aan de bovenkant een bolle
+	Free: Pattern=aan de bovenkant, Pattern=bolle, Pattern=een
+	Constrained: Pattern=de bovenkant
+Turn ID=6| B | B : als enig van al figuur
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : en aan de voorkant een balk die onderaan uitsteekt
+	Free: Pattern=aan de voorkant, Pattern=balk, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=12| A | A : het bolle aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=bolle
+	Constrained: Pattern=de bovenkant
+Turn ID=13| B | B : met een rechthoekig staaf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dat zijn n
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=17| A | A : vallen naar beneden ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : cirkel of bolle op de bovenkant en een
+	Free: Pattern=op, Pattern=de bovenkant, Pattern=een, Pattern=bolle, Pattern=en
+	Constrained: 
+Turn ID=19| A | A : aan de voorkant dat lang balk
+	Free: Pattern=aan de voorkant, Pattern=lang balk, Pattern=dat
+	Constrained: Pattern=balk, Pattern=lang
+Turn ID=20| B | B : lang
+	Free: Pattern=lang
+	Constrained: 
+Turn ID=21| B | B : een lang balk ja
+	Free: Pattern=lang balk, Pattern=ja, Pattern=een
+	Constrained: Pattern=balk, Pattern=lang
+Turn ID=22| A | A : vijfteen
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : nou het bolle aan de bovenkant er zijn er maar één
+	Free: Pattern=zijn er maar één, Pattern=aan de bovenkant, Pattern=bolle, Pattern=er
+	Constrained: Pattern=zijn, Pattern=de bovenkant, Pattern=er
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : dat zijn g
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=26| B | B : bolle op de bovenkant
+	Free: Pattern=de bovenkant, Pattern=bolle, Pattern=op
+	Constrained: 
+Turn ID=27| A | A : vier
+	Free: 
+	Constrained: 

@@ -1,0 +1,163 @@
+A|0| A: oké 
+A|1| A: _ik hebben_ _dat_ plaat _en_ het lijken _een_ beetje alsof die aan _de rechterkant_ _een_ neus _hebben_ met daar _een_ _een_ paal doorheen 
+A|2| A: dus zo'n rond _en_ daar 
+B|3| B: _ja_ [en] daarboven _zitten nog een klein_ 
+A|4| A: [zitten nog een klein] tuu _zijn_ [een] beetje zien [een] beetje uit als [een] _inboorling_ zeggen maar met [een] neusring 
+B|5| B: _ja_ 
+B|6| B: _dat zijn_ _bij mij_ F 
+A|7| A: oké 
+A|8| A: [bij mij] _staan_ die _rechts_ _en dan_ ongeveer in het midden 
+B|9| B: _ja_ [bij mij] _ook_ 
+B|10| B: nou 
+A|11| A: oké 
+B|12| B: _de inboorling_ 
+A|13| A: [de inboorling] 
+A|14| A: nummer vijf 
+B|15| B: [en] _centrum centrum en dan_ vijfentwintig procent _naar links_ 
+B|16| B: _en dan iets_ _omhoog_ 
+A|17| A: dus [centrum centrum] [iets] veel [naar links] [en] [iets] veel [omhoog] 
+B|18| B: _op_ 
+B|19| B: _ja_ 
+A|20| A: oké 
+A|21| A: die [inboorling] 
+B|22| B: _ja_ _dat zijn_ A 
+A|23| A: [en dan] [zitten] die ongeveer [op] vijfenzeventig _rechts_ 
+A|24| A: [en dan] [op] dertig _van_ _onder_ _denken_ _ik_ 
+B|25| B: [ik hebben] [de inboorling] 
+A|26| A: [dat zijn] nummer vijf 
+B|27| B: _ja_ 
+B|28| B: [en dan] [van] [centrum centrum] twintig procent [naar] [rechts] 
+A|29| A: [ja] zoiets [dat] [hebben] [ik] [ook] wel 
+A|30| A: met [de] neusring 
+B|31| B: je bedoelen [de inboorling] 
+A|32| A: [inboorling] die [ja] 
+B|33| B: H 
+A|34| A: [en] die _staan_ [centrum centrum [en dan] iets] _naar onder_ ongeveer tien of vijftien [van] onderaf 
+B|35| B: [ik hebben] [de inboorling] 
+A|36| A: [ja] nummer vijftien 
+B|37| B: [en dan] [staan] hij [ik] [denken] [op] vijfentwintig procent [van] [de rechterkant] af 
+B|38| B: [en] vijfentwintig procent [ook] [naar onder] 
+A|39| A: oké [dat] [hebben] [ik] niet 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : ik hebben dat plaat en het lijken een beetje alsof die aan de rechterkant een neus hebben met daar een een paal doorheen
+	Free: Pattern=ik hebben, Pattern=dat, Pattern=de rechterkant, Pattern=een, Pattern=hebben, Pattern=en
+	Constrained: Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=2| A | A : dus zo'n rond en daar
+	Free: Pattern=en
+	Constrained: 
+Turn ID=3| B | B : ja en daarboven zitten nog een klein
+	Free: Pattern=zitten nog een klein, Pattern=ja, Pattern=en
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=4| A | A : zitten nog een klein tuu zijn een beetje zien een beetje uit als een inboorling zeggen maar met een neusring
+	Free: Pattern=zitten nog een klein, Pattern=inboorling, Pattern=zijn, Pattern=een
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : dat zijn bij mij F
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : bij mij staan die rechts en dan ongeveer in het midden
+	Free: Pattern=en dan, Pattern=bij mij, Pattern=rechts, Pattern=staan
+	Constrained: Pattern=en
+Turn ID=9| B | B : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : nou
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : de inboorling
+	Free: Pattern=de inboorling
+	Constrained: Pattern=inboorling, Pattern=de
+Turn ID=13| A | A : de inboorling
+	Free: Pattern=de inboorling
+	Constrained: Pattern=inboorling, Pattern=de
+Turn ID=14| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : en centrum centrum en dan vijfentwintig procent naar links
+	Free: Pattern=centrum centrum en dan, Pattern=naar links, Pattern=en
+	Constrained: Pattern=en dan, Pattern=naar, Pattern=centrum centrum, Pattern=en
+Turn ID=16| B | B : en dan iets omhoog
+	Free: Pattern=en dan iets, Pattern=omhoog
+	Constrained: Pattern=iets, Pattern=en dan, Pattern=en
+Turn ID=17| A | A : dus centrum centrum iets veel naar links en iets veel omhoog
+	Free: Pattern=iets, Pattern=en, Pattern=omhoog, Pattern=centrum centrum, Pattern=naar links
+	Constrained: Pattern=naar
+Turn ID=18| B | B : op
+	Free: Pattern=op
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : die inboorling
+	Free: Pattern=inboorling
+	Constrained: 
+Turn ID=22| B | B : ja dat zijn A
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=23| A | A : en dan zitten die ongeveer op vijfenzeventig rechts
+	Free: Pattern=en dan, Pattern=zitten, Pattern=op, Pattern=rechts
+	Constrained: Pattern=en
+Turn ID=24| A | A : en dan op dertig van onder denken ik
+	Free: Pattern=denken, Pattern=en dan, Pattern=op, Pattern=onder, Pattern=ik, Pattern=van
+	Constrained: Pattern=en
+Turn ID=25| B | B : ik hebben de inboorling
+	Free: Pattern=de inboorling, Pattern=ik hebben
+	Constrained: Pattern=inboorling, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=26| A | A : dat zijn nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=27| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : en dan van centrum centrum twintig procent naar rechts
+	Free: Pattern=centrum centrum, Pattern=rechts, Pattern=en dan, Pattern=van, Pattern=naar
+	Constrained: Pattern=en
+Turn ID=29| A | A : ja zoiets dat hebben ik ook wel
+	Free: Pattern=dat, Pattern=ja, Pattern=ook, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=30| A | A : met de neusring
+	Free: Pattern=de
+	Constrained: 
+Turn ID=31| B | B : je bedoelen de inboorling
+	Free: Pattern=de inboorling
+	Constrained: Pattern=inboorling, Pattern=de
+Turn ID=32| A | A : inboorling die ja
+	Free: Pattern=inboorling, Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : H
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : en die staan centrum centrum en dan iets naar onder ongeveer tien of vijftien van onderaf
+	Free: Pattern=staan, Pattern=centrum centrum en dan, Pattern=naar onder, Pattern=en dan iets, Pattern=van, Pattern=en
+	Constrained: Pattern=centrum centrum, Pattern=iets, Pattern=en dan, Pattern=onder, Pattern=en, Pattern=naar
+Turn ID=35| B | B : ik hebben de inboorling
+	Free: Pattern=de inboorling, Pattern=ik hebben
+	Constrained: Pattern=inboorling, Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=36| A | A : ja nummer vijftien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : en dan staan hij ik denken op vijfentwintig procent van de rechterkant af
+	Free: Pattern=denken, Pattern=op, Pattern=staan, Pattern=ik, Pattern=van, Pattern=de rechterkant, Pattern=en dan
+	Constrained: Pattern=de, Pattern=en
+Turn ID=38| B | B : en vijfentwintig procent ook naar onder
+	Free: Pattern=naar onder, Pattern=ook, Pattern=en
+	Constrained: Pattern=naar, Pattern=onder
+Turn ID=39| A | A : oké dat hebben ik niet
+	Free: Pattern=ik, Pattern=dat, Pattern=hebben
+	Constrained: 

@@ -1,0 +1,59 @@
+A|0| A: okee hier zitten heel veel ding aan vooral aan _de_ bovenkant zitten _een_ _een_ ruitvorm _met_ iets _erdoorheen_ 
+B|1| B: _ja_ ik hebben hem al 
+B|2| B: _ja_ b 
+B|3| B: ik _zijn_ sorry deze _zijn_ [de] beker [met] [de] _ruit_ link _bovenop_ en dan opsteken er _een staaf_ _doorheen_ [met] twee blok 
+A|4| A: [ja] vijf 
+A|5| A: _dit zijn_ die heel ingewikkeld [met] die [ruit] aan [de] bovenkant die doorboren [zijn] [met] [een staaf] 
+B|6| B: [ja] [ja] [ja] n 
+B|7| B: [dit zijn] [de] [ruit] bovenin [met] [de] [staaf] [erdoorheen] 
+A|8| A: acht 
+A|9| A: [dit zijn] die [met] die [ruit] [bovenop] die [met] waar [een] ding [doorheen] zitten 
+B|10| B: [ja] 
+B|11| B: h 
+B|12| B: [dit zijn] [de] [ruit] [met] [de] spel [erdoorheen] 
+A|13| A: [ja] vijf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee hier zitten heel veel ding aan vooral aan de bovenkant zitten een een ruitvorm met iets erdoorheen
+	Free: Pattern=erdoorheen, Pattern=een, Pattern=de, Pattern=met
+	Constrained: 
+Turn ID=1| B | B : ja ik hebben hem al
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ik zijn sorry deze zijn de beker met de ruit link bovenop en dan opsteken er een staaf doorheen met twee blok
+	Free: Pattern=bovenop, Pattern=ruit, Pattern=met, Pattern=een staaf, Pattern=zijn, Pattern=de, Pattern=doorheen
+	Constrained: Pattern=staaf, Pattern=een
+Turn ID=4| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dit zijn die heel ingewikkeld met die ruit aan de bovenkant die doorboren zijn met een staaf
+	Free: Pattern=ruit, Pattern=de, Pattern=met, Pattern=een staaf, Pattern=zijn, Pattern=dit zijn
+	Constrained: Pattern=staaf, Pattern=een, Pattern=zijn
+Turn ID=6| B | B : ja ja ja n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dit zijn de ruit bovenin met de staaf erdoorheen
+	Free: Pattern=ruit, Pattern=de, Pattern=staaf, Pattern=erdoorheen, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : dit zijn die met die ruit bovenop die met waar een ding doorheen zitten
+	Free: Pattern=bovenop, Pattern=ruit, Pattern=doorheen, Pattern=een, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dit zijn de ruit met de spel erdoorheen
+	Free: Pattern=ruit, Pattern=de, Pattern=erdoorheen, Pattern=met, Pattern=dit zijn
+	Constrained: Pattern=zijn
+Turn ID=13| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 

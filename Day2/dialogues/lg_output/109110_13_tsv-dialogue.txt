@@ -1,0 +1,235 @@
+B|0| B: _ok_ deze staan eigenlijk _zijn_ _een_ beker _op_ _een_ tafel _en hij_ hebben paar _van_ _die_ raar bollet zo naar de zijkant 
+A|1| A: _o die_ _wokkel_ dinge _ja_ 
+B|2| B: [ja] [die] [die] [die] [die] drie drie _van_ [die] soort 
+A|3| A: [ja] _nee_ _ja met_ dat platform [en] [die] _wokkel_ [en] [die] dat rond _ding_ _er_ voor [op] 
+B|4| B: [ja] [ja] _inderdaad_ zo'n soort schijf [ja] 
+A|5| A: [ja] jajaja [ok] 
+A|6| A: [ja] nou vijf 
+B|7| B: [ok] deze _zijn_ _wel_ _heel_ erg kut te omschrijven sowieso _als je het_ _scherm dus_ _in vier_ opdeelen _links_ _onderin_ 
+A|8| A: nou dan kloppen [het] al _niet_ veel _bij mij_ 
+B|9| B: [o] 
+A|10| A: want [hij] _zitten_ _bij mij_ _zeggen maar_ [als je het] [in vier] deel zullen [op] opsplitsen [links] _bovenin_ 
+B|11| B: [bovenin] [o] 
+A|12| A: [dus] [als] [in] [hij] _zitten hij_ _zitten_ [wel] _net_ [hij] _zitten_ _net_ _boven het midden_ [dus] 
+B|13| B: _nee bij mij_ [zitten hij] echt [net] onder [het midden] juist 
+A|14| A: [ok] nou dan [zijn] [het] dan [zijn] [het] _niet_ dan [zijn] [het] rood 
+B|15| B: [ok] 
+A|16| A: [ok] dat [zijn] [die] [een] _met die_ kronkel arm 
+A|17| A: _met_ dat [op] dat platform 
+B|18| B: [o die] [die] jij [die] jij [wokkel] noemen 
+A|19| A: _zeggen maar_ _met die_ beetje kristalle 
+A|20| A: [ja] [wokkel] [inderdaad] 
+B|21| B: [en] [met die] cirkel aan de voorkant 
+A|22| A: [ja] precies 
+B|23| B: okan J 
+A|24| A: _er_ _helemaal rechts onderin_ [van] alles 
+B|25| B: [helemaal rechts onderin] de hoek 
+A|26| A: [ja] 
+B|27| B: [nee] [zitten hij] _bij mij niet_ 
+A|28| A: [ok] 
+B|29| B: [ok] [met] de [wokkel] 
+A|30| A: [die] wokkeloor dinge [ja] 
+B|31| B: [en] [ja] ronde [ding] aan de voorkant 
+A|32| A: [ja] ik weten [het] al [ja] elf 
+B|33| B: linkerkant _van het_ _scherm_ _in het midden_ 
+A|34| A: [nee] [niet] precies [hij] [die] [van] [mij] liggen dicht [bij] _het midden van het_ [heel] [scherm dus] dan [nee] 
+B|35| B: [nee] 
+A|36| A: [ok] 
+A|37| A: nou [die] wokkeloren 
+B|38| B: [ja met] cirkel aan de voorkant 
+A|39| A: [wokkel] [ding] 
+A|40| A: [ja] 
+B|41| B: P 
+A|42| A: [en hij] [zitten] rechtsbovensen _vak_ link 
+B|43| B: [helemaal] [links] [van het] [rechts] _bovenste vak_ 
+A|44| A: [ja] [in het midden] [ja] 
+B|45| B: [o] [bij mij] [zitten hij] echt [in het midden] [zitten] [er] [zeggen maar] nog [vier] [ding] omheen 
+A|46| A: [nee] [hij] [zitten] _niet [in_ het midden] 
+B|47| B: [ok] [nee] [zitten hij] [niet in] dezelfde [zijn] [niet] hetzelfde 
+B|48| B: [wokkel] oor 
+A|49| A: nice negen 
+B|50| B: [helemaal] [bovenin] [in het midden] 
+A|51| A: [nee [bij mij] niet] 
+B|52| B: [ok] 
+A|53| A: [wokkel] meneer 
+B|54| B: [ja met] cirkel aan de voorkant L 
+A|55| A: link [bovenste vak] [rechts] [in het midden] 
+B|56| B: [nee bij mij] [zitten hij] echt vlak [boven [het midden] van het] [scherm] 
+A|57| A: [nee [bij mij] niet] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ok deze staan eigenlijk zijn een beker op een tafel en hij hebben paar van die raar bollet zo naar de zijkant
+	Free: Pattern=op, Pattern=een, Pattern=ok, Pattern=die, Pattern=en hij, Pattern=van, Pattern=zijn
+	Constrained: Pattern=hij, Pattern=en
+Turn ID=1| A | A : o die wokkel dinge ja
+	Free: Pattern=o die, Pattern=ja, Pattern=wokkel
+	Constrained: Pattern=die, Pattern=o
+Turn ID=2| B | B : ja die die die die drie drie van die soort
+	Free: Pattern=ja, Pattern=die, Pattern=van
+	Constrained: 
+Turn ID=3| A | A : ja nee ja met dat platform en die wokkel en die dat rond ding er voor op
+	Free: Pattern=ja, Pattern=wokkel, Pattern=op, Pattern=ding, Pattern=ja met, Pattern=nee, Pattern=die, Pattern=er, Pattern=en
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=4| B | B : ja ja inderdaad zo'n soort schijf ja
+	Free: Pattern=ja, Pattern=inderdaad
+	Constrained: 
+Turn ID=5| A | A : ja jajaja ok
+	Free: Pattern=ja, Pattern=ok
+	Constrained: 
+Turn ID=6| A | A : ja nou vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ok deze zijn wel heel erg kut te omschrijven sowieso als je het scherm dus in vier opdeelen links onderin
+	Free: Pattern=in vier, Pattern=heel, Pattern=links, Pattern=ok, Pattern=scherm dus, Pattern=als je het, Pattern=zijn, Pattern=wel, Pattern=onderin
+	Constrained: Pattern=dus, Pattern=het, Pattern=in, Pattern=als, Pattern=scherm, Pattern=vier
+Turn ID=8| A | A : nou dan kloppen het al niet veel bij mij
+	Free: Pattern=bij mij, Pattern=niet, Pattern=het
+	Constrained: Pattern=bij, Pattern=mij
+Turn ID=9| B | B : o
+	Free: Pattern=o
+	Constrained: 
+Turn ID=10| A | A : want hij zitten bij mij zeggen maar als je het in vier deel zullen op opsplitsen links bovenin
+	Free: Pattern=in vier, Pattern=op, Pattern=zitten, Pattern=bij mij, Pattern=bovenin, Pattern=zeggen maar, Pattern=links, Pattern=hij, Pattern=als je het
+	Constrained: Pattern=het, Pattern=in, Pattern=als, Pattern=bij, Pattern=mij, Pattern=vier
+Turn ID=11| B | B : bovenin o
+	Free: Pattern=bovenin, Pattern=o
+	Constrained: 
+Turn ID=12| A | A : dus als in hij zitten hij zitten wel net hij zitten net boven het midden dus
+	Free: Pattern=net, Pattern=dus, Pattern=wel, Pattern=hij, Pattern=als, Pattern=zitten, Pattern=zitten hij, Pattern=in, Pattern=boven het midden
+	Constrained: Pattern=hij, Pattern=het midden, Pattern=zitten, Pattern=het
+Turn ID=13| B | B : nee bij mij zitten hij echt net onder het midden juist
+	Free: Pattern=nee bij mij, Pattern=het midden, Pattern=zitten hij, Pattern=net
+	Constrained: Pattern=nee, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=14| A | A : ok nou dan zijn het dan zijn het niet dan zijn het rood
+	Free: Pattern=niet, Pattern=zijn, Pattern=het, Pattern=ok
+	Constrained: 
+Turn ID=15| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=16| A | A : ok dat zijn die een met die kronkel arm
+	Free: Pattern=met die, Pattern=een, Pattern=ok, Pattern=die, Pattern=zijn
+	Constrained: Pattern=die, Pattern=met
+Turn ID=17| A | A : met dat op dat platform
+	Free: Pattern=met, Pattern=op
+	Constrained: 
+Turn ID=18| B | B : o die die jij die jij wokkel noemen
+	Free: Pattern=o die, Pattern=die, Pattern=wokkel
+	Constrained: Pattern=die, Pattern=o
+Turn ID=19| A | A : zeggen maar met die beetje kristalle
+	Free: Pattern=zeggen maar, Pattern=met die
+	Constrained: Pattern=die, Pattern=met
+Turn ID=20| A | A : ja wokkel inderdaad
+	Free: Pattern=ja, Pattern=wokkel, Pattern=inderdaad
+	Constrained: 
+Turn ID=21| B | B : en met die cirkel aan de voorkant
+	Free: Pattern=met die, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=22| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : okan J
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : er helemaal rechts onderin van alles
+	Free: Pattern=helemaal rechts onderin, Pattern=er, Pattern=van
+	Constrained: Pattern=rechts, Pattern=onderin, Pattern=helemaal
+Turn ID=25| B | B : helemaal rechts onderin de hoek
+	Free: Pattern=helemaal rechts onderin
+	Constrained: Pattern=rechts, Pattern=onderin, Pattern=helemaal
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : nee zitten hij bij mij niet
+	Free: Pattern=bij mij niet, Pattern=zitten hij, Pattern=nee
+	Constrained: Pattern=niet, Pattern=hij, Pattern=zitten, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=28| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=29| B | B : ok met de wokkel
+	Free: Pattern=wokkel, Pattern=ok, Pattern=met
+	Constrained: 
+Turn ID=30| A | A : die wokkeloor dinge ja
+	Free: Pattern=ja, Pattern=die
+	Constrained: 
+Turn ID=31| B | B : en ja ronde ding aan de voorkant
+	Free: Pattern=ja, Pattern=en, Pattern=ding
+	Constrained: 
+Turn ID=32| A | A : ja ik weten het al ja elf
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=33| B | B : linkerkant van het scherm in het midden
+	Free: Pattern=in het midden, Pattern=van het, Pattern=scherm
+	Constrained: Pattern=in, Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=34| A | A : nee niet precies hij die van mij liggen dicht bij het midden van het heel scherm dus dan nee
+	Free: Pattern=heel, Pattern=het midden van het, Pattern=niet, Pattern=nee, Pattern=scherm dus, Pattern=hij, Pattern=die, Pattern=bij, Pattern=mij, Pattern=van
+	Constrained: Pattern=het midden, Pattern=dus, Pattern=het, Pattern=scherm, Pattern=van het, Pattern=van
+Turn ID=35| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=36| A | A : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=37| A | A : nou die wokkeloren
+	Free: Pattern=die
+	Constrained: 
+Turn ID=38| B | B : ja met cirkel aan de voorkant
+	Free: Pattern=ja met
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=39| A | A : wokkel ding
+	Free: Pattern=wokkel, Pattern=ding
+	Constrained: 
+Turn ID=40| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : en hij zitten rechtsbovensen vak link
+	Free: Pattern=en hij, Pattern=zitten, Pattern=vak
+	Constrained: Pattern=hij, Pattern=en
+Turn ID=43| B | B : helemaal links van het rechts bovenste vak
+	Free: Pattern=rechts, Pattern=helemaal, Pattern=links, Pattern=van het, Pattern=bovenste vak
+	Constrained: Pattern=het, Pattern=vak, Pattern=van
+Turn ID=44| A | A : ja in het midden ja
+	Free: Pattern=in het midden, Pattern=ja
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in
+Turn ID=45| B | B : o bij mij zitten hij echt in het midden zitten er zeggen maar nog vier ding omheen
+	Free: Pattern=ding, Pattern=zeggen maar, Pattern=zitten, Pattern=er, Pattern=bij mij, Pattern=in het midden, Pattern=vier, Pattern=zitten hij, Pattern=o
+	Constrained: Pattern=het midden, Pattern=het, Pattern=hij, Pattern=in, Pattern=zitten, Pattern=bij, Pattern=mij
+Turn ID=46| A | A : nee hij zitten niet in het midden
+	Free: Pattern=nee, Pattern=niet in, Pattern=hij, Pattern=zitten, Pattern=in het midden
+	Constrained: Pattern=in, Pattern=niet, Pattern=het, Pattern=het midden
+Turn ID=47| B | B : ok nee zitten hij niet in dezelfde zijn niet hetzelfde
+	Free: Pattern=niet, Pattern=nee, Pattern=zijn, Pattern=zitten hij, Pattern=niet in, Pattern=ok
+	Constrained: Pattern=niet, Pattern=in, Pattern=zitten, Pattern=hij
+Turn ID=48| B | B : wokkel oor
+	Free: Pattern=wokkel
+	Constrained: 
+Turn ID=49| A | A : nice negen
+	Free: 
+	Constrained: 
+Turn ID=50| B | B : helemaal bovenin in het midden
+	Free: Pattern=in het midden, Pattern=bovenin, Pattern=helemaal
+	Constrained: Pattern=het midden, Pattern=het, Pattern=in
+Turn ID=51| A | A : nee bij mij niet
+	Free: Pattern=bij mij niet, Pattern=nee bij mij
+	Constrained: Pattern=niet, Pattern=nee, Pattern=bij, Pattern=mij, Pattern=bij mij
+Turn ID=52| B | B : ok
+	Free: Pattern=ok
+	Constrained: 
+Turn ID=53| A | A : wokkel meneer
+	Free: Pattern=wokkel
+	Constrained: 
+Turn ID=54| B | B : ja met cirkel aan de voorkant L
+	Free: Pattern=ja met
+	Constrained: Pattern=ja, Pattern=met
+Turn ID=55| A | A : link bovenste vak rechts in het midden
+	Free: Pattern=in het midden, Pattern=bovenste vak, Pattern=rechts
+	Constrained: Pattern=in, Pattern=het, Pattern=vak, Pattern=het midden
+Turn ID=56| B | B : nee bij mij zitten hij echt vlak boven het midden van het scherm
+	Free: Pattern=het midden van het, Pattern=nee bij mij, Pattern=boven het midden, Pattern=scherm, Pattern=zitten hij
+	Constrained: Pattern=het midden, Pattern=nee, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=van het, Pattern=bij, Pattern=mij, Pattern=van, Pattern=bij mij
+Turn ID=57| A | A : nee bij mij niet
+	Free: Pattern=bij mij niet, Pattern=nee bij mij
+	Constrained: Pattern=niet, Pattern=nee, Pattern=bij, Pattern=mij, Pattern=bij mij

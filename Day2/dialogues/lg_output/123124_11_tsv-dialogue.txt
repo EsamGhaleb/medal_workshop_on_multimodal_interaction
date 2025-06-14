@@ -1,0 +1,275 @@
+A|0| A: _nee dat zijn_ _geel_ volgens mij 
+B|1| B: [nee] ? 
+B|2| B: oké nou _we gaan_ _gewoon ver_ 
+A|3| A: _ja_ [we gaan] inderdaad [gewoon ver] 
+B|4| B: nou _dit_ lijken echt zeggen maar _een_ poppe _met zo'n_ groot _neus_ er zitten _zo'n_ _voorop_ _zo'n_ groot _bol_ cirkel 
+A|5| A: _ja_ 
+B|6| B: alleen dan _zonder piercing_ erdoorheen _dus_ boven _een_ dinge 
+A|7| A: _ja_ 
+A|8| A: _ja_ 
+A|9| A: _ik_ hebben hem al 
+A|10| A: veertien 
+B|11| B: _staan in het midden_ 
+B|12| B: _en_ dan _een_ _beetje naar_ onder 
+B|13| B: _en_ dan _één_ stap _naar_ rechts 
+A|14| A: _ja_ 
+A|15| A: _dat zijn dezelfde plek dus_ _rood_ 
+B|16| B: [ja] [ja] [ja] 
+A|17| A: even kijken [dit] _deze_ hebben [zo'n] [neus] 
+A|18| A: _en een_ heel klein sprie _naar links_ _zijn_ _dat_ [en] _twee_ [ja] [één] _soort kegel_ [een] dubbel _kegel_ [en] [één] 
+A|19| A: _balk_ _omhoog_ 
+A|20| A: heel klein compact 
+A|21| A: [met zo'n] _bol neus voorop_ 
+A|22| A: eigenlijk _zijn_ [het] _de bol neus zonder_ [zonder piercing] eigenlijk 
+B|23| B: [ja] [een] [bol] [een] [bol neus voorop] 
+A|24| A: _de bol neus zonder piercing_ 
+B|25| B: [de bol neus zonder piercing] 
+B|26| B: [met] boven [een] [balk] aan [de] linkerkant [een] [balk] 
+A|27| A: [ja] 
+B|28| B: oké [dat zijn] N 
+A|29| A: [en] hij [staan] bij mij helemaal link heel klein _beetje omhoog_ 
+B|30| B: [nee dat zijn] niet hetzelfde 
+B|31| B: [een] [bol neus] 
+B|32| B: bovenop [een] [soort kegel] 
+B|33| B: [en een] rechthoek [en] aan [de] ander kant [een] [soort] ook _iets_ 
+A|34| A: [ja] 
+A|35| A: negen 
+A|36| A: _dit zijn de_ [piercing] _de neus zonder piercing_ 
+B|37| B: [ja] [de neus zonder piercing] 
+A|38| A: [ja] 
+B|39| B: [en] die [staan] flink stuk [naar links] 
+B|40| B: [en] _in het midden_ 
+A|41| A: [nee] hij [staan] bij mij helemaal bovenin 
+B|42| B: [nee] 
+A|43| A: [dus] _geel_ 
+A|44| A: [neus zonder piercing] 
+B|45| B: [neus zonder piercing] [met] hier [en] hier 
+A|46| A: [ja] 
+B|47| B: [dat zijn] G 
+A|48| A: [en] hij [staan] _iets naar_ beneden 
+A|49| A: heel klein [beetje [naar] links] 
+B|50| B: [ja] [dat zijn dezelfde plek dus] ook [geel] 
+A|51| A: _rood_ 
+B|52| B: [rood] [ja] oeh 
+B|53| B: [ik] blijven [het] maar hardop zeggen 
+A|54| A: [ja] 
+B|55| B: [dit zijn [de] neus zonder piercing] [met] boven [een] dinge aan [de] zijkant 
+A|56| A: [ja] 
+A|57| A: vijf 
+B|58| B: [en] [deze] _staan in het midden_ 
+B|59| B: dan [iets naar] rechts [en een] [beetje omhoog] 
+B|60| B: aan [de] ander rechterkant passen nog echt wel [twee] figuurt 
+A|61| A: [nee dat zijn] [nee] 
+A|62| A: [geel] 
+A|63| A: _zonder neus_ _piercing zonder neus_ 
+B|64| B: [piercing zonder neus] [dat zijn] J 
+A|65| A: [en] hij [staan in het midden] van [het] rechterbovenvak 
+B|66| B: [nee dat zijn] niet hetzelfde [dus] dan [geel] 
+A|67| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nee dat zijn geel volgens mij
+	Free: Pattern=nee dat zijn, Pattern=geel
+	Constrained: Pattern=dat zijn, Pattern=nee, Pattern=dat, Pattern=zijn
+Turn ID=1| B | B : nee ?
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=2| B | B : oké nou we gaan gewoon ver
+	Free: Pattern=gewoon ver, Pattern=we gaan
+	Constrained: 
+Turn ID=3| A | A : ja we gaan inderdaad gewoon ver
+	Free: Pattern=gewoon ver, Pattern=we gaan, Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : nou dit lijken echt zeggen maar een poppe met zo'n groot neus er zitten zo'n voorop zo'n groot bol cirkel
+	Free: Pattern=zo'n, Pattern=voorop, Pattern=bol, Pattern=een, Pattern=dit, Pattern=neus, Pattern=met zo'n
+	Constrained: Pattern=zo'n, Pattern=met
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : alleen dan zonder piercing erdoorheen dus boven een dinge
+	Free: Pattern=zonder piercing, Pattern=dus, Pattern=een
+	Constrained: Pattern=piercing
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ik hebben hem al
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=10| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=11| B | B : staan in het midden
+	Free: Pattern=staan in het midden
+	Constrained: Pattern=in het midden, Pattern=het, Pattern=staan
+Turn ID=12| B | B : en dan een beetje naar onder
+	Free: Pattern=beetje naar, Pattern=een, Pattern=en
+	Constrained: Pattern=naar
+Turn ID=13| B | B : en dan één stap naar rechts
+	Free: Pattern=één, Pattern=naar, Pattern=en
+	Constrained: 
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn dezelfde plek dus rood
+	Free: Pattern=dat zijn dezelfde plek dus, Pattern=rood
+	Constrained: Pattern=dus, Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=16| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : even kijken dit deze hebben zo'n neus
+	Free: Pattern=deze, Pattern=dit, Pattern=neus, Pattern=zo'n
+	Constrained: 
+Turn ID=18| A | A : en een heel klein sprie naar links zijn dat en twee ja één soort kegel een dubbel kegel en één
+	Free: Pattern=kegel, Pattern=dat, Pattern=naar links, Pattern=twee, Pattern=ja, Pattern=een, Pattern=soort kegel, Pattern=en, Pattern=één, Pattern=en een, Pattern=zijn
+	Constrained: Pattern=kegel, Pattern=soort, Pattern=een, Pattern=en, Pattern=naar
+Turn ID=19| A | A : balk omhoog
+	Free: Pattern=omhoog, Pattern=balk
+	Constrained: 
+Turn ID=20| A | A : heel klein compact
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : met zo'n bol neus voorop
+	Free: Pattern=bol neus voorop, Pattern=met zo'n
+	Constrained: Pattern=bol neus, Pattern=zo'n, Pattern=voorop, Pattern=bol, Pattern=neus, Pattern=met
+Turn ID=22| A | A : eigenlijk zijn het de bol neus zonder zonder piercing eigenlijk
+	Free: Pattern=de bol neus zonder, Pattern=zonder piercing, Pattern=zijn, Pattern=het
+	Constrained: Pattern=bol neus, Pattern=de, Pattern=bol, Pattern=neus, Pattern=piercing
+Turn ID=23| B | B : ja een bol een bol neus voorop
+	Free: Pattern=bol neus voorop, Pattern=ja, Pattern=een, Pattern=bol
+	Constrained: Pattern=bol neus, Pattern=bol, Pattern=neus, Pattern=voorop
+Turn ID=24| A | A : de bol neus zonder piercing
+	Free: Pattern=de bol neus zonder piercing
+	Constrained: Pattern=bol neus, Pattern=neus zonder piercing, Pattern=bol, Pattern=neus, Pattern=piercing, Pattern=zonder piercing, Pattern=de bol neus zonder, Pattern=de
+Turn ID=25| B | B : de bol neus zonder piercing
+	Free: Pattern=de bol neus zonder piercing
+	Constrained: Pattern=bol neus, Pattern=neus zonder piercing, Pattern=bol, Pattern=neus, Pattern=piercing, Pattern=zonder piercing, Pattern=de bol neus zonder, Pattern=de
+Turn ID=26| B | B : met boven een balk aan de linkerkant een balk
+	Free: Pattern=een, Pattern=met, Pattern=balk, Pattern=de
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : oké dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : en hij staan bij mij helemaal link heel klein beetje omhoog
+	Free: Pattern=beetje omhoog, Pattern=staan, Pattern=en
+	Constrained: Pattern=omhoog
+Turn ID=30| B | B : nee dat zijn niet hetzelfde
+	Free: Pattern=nee dat zijn
+	Constrained: Pattern=dat zijn, Pattern=nee, Pattern=dat, Pattern=zijn
+Turn ID=31| B | B : een bol neus
+	Free: Pattern=bol neus, Pattern=een
+	Constrained: Pattern=neus, Pattern=bol
+Turn ID=32| B | B : bovenop een soort kegel
+	Free: Pattern=soort kegel, Pattern=een
+	Constrained: Pattern=kegel, Pattern=soort
+Turn ID=33| B | B : en een rechthoek en aan de ander kant een soort ook iets
+	Free: Pattern=soort, Pattern=een, Pattern=en, Pattern=en een, Pattern=de, Pattern=iets
+	Constrained: Pattern=een, Pattern=en
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : negen
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : dit zijn de piercing de neus zonder piercing
+	Free: Pattern=de neus zonder piercing, Pattern=dit zijn de, Pattern=piercing
+	Constrained: Pattern=neus zonder piercing, Pattern=de, Pattern=dit, Pattern=neus, Pattern=piercing, Pattern=zijn, Pattern=zonder piercing
+Turn ID=37| B | B : ja de neus zonder piercing
+	Free: Pattern=de neus zonder piercing, Pattern=ja
+	Constrained: Pattern=neus zonder piercing, Pattern=de, Pattern=neus, Pattern=piercing, Pattern=zonder piercing
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : en die staan flink stuk naar links
+	Free: Pattern=naar links, Pattern=staan, Pattern=en
+	Constrained: Pattern=naar
+Turn ID=40| B | B : en in het midden
+	Free: Pattern=in het midden, Pattern=en
+	Constrained: Pattern=het
+Turn ID=41| A | A : nee hij staan bij mij helemaal bovenin
+	Free: Pattern=nee, Pattern=staan
+	Constrained: 
+Turn ID=42| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=43| A | A : dus geel
+	Free: Pattern=dus, Pattern=geel
+	Constrained: 
+Turn ID=44| A | A : neus zonder piercing
+	Free: Pattern=neus zonder piercing
+	Constrained: Pattern=neus, Pattern=piercing, Pattern=zonder piercing
+Turn ID=45| B | B : neus zonder piercing met hier en hier
+	Free: Pattern=neus zonder piercing, Pattern=met, Pattern=en
+	Constrained: Pattern=neus, Pattern=piercing, Pattern=zonder piercing
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| B | B : dat zijn G
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=48| A | A : en hij staan iets naar beneden
+	Free: Pattern=iets naar, Pattern=staan, Pattern=en
+	Constrained: Pattern=naar, Pattern=iets
+Turn ID=49| A | A : heel klein beetje naar links
+	Free: Pattern=naar links, Pattern=beetje naar
+	Constrained: Pattern=naar
+Turn ID=50| B | B : ja dat zijn dezelfde plek dus ook geel
+	Free: Pattern=dat zijn dezelfde plek dus, Pattern=ja, Pattern=geel
+	Constrained: Pattern=dus, Pattern=dat, Pattern=zijn, Pattern=dat zijn
+Turn ID=51| A | A : rood
+	Free: Pattern=rood
+	Constrained: 
+Turn ID=52| B | B : rood ja oeh
+	Free: Pattern=ja, Pattern=rood
+	Constrained: 
+Turn ID=53| B | B : ik blijven het maar hardop zeggen
+	Free: Pattern=het, Pattern=ik
+	Constrained: 
+Turn ID=54| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=55| B | B : dit zijn de neus zonder piercing met boven een dinge aan de zijkant
+	Free: Pattern=de, Pattern=de neus zonder piercing, Pattern=een, Pattern=met, Pattern=dit zijn de
+	Constrained: Pattern=neus zonder piercing, Pattern=de, Pattern=dit, Pattern=neus, Pattern=piercing, Pattern=zijn, Pattern=zonder piercing
+Turn ID=56| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=58| B | B : en deze staan in het midden
+	Free: Pattern=staan in het midden, Pattern=deze, Pattern=en
+	Constrained: Pattern=in het midden, Pattern=het, Pattern=staan
+Turn ID=59| B | B : dan iets naar rechts en een beetje omhoog
+	Free: Pattern=beetje omhoog, Pattern=en een, Pattern=iets naar
+	Constrained: Pattern=iets, Pattern=een, Pattern=en, Pattern=omhoog, Pattern=naar
+Turn ID=60| B | B : aan de ander rechterkant passen nog echt wel twee figuurt
+	Free: Pattern=twee, Pattern=de
+	Constrained: 
+Turn ID=61| A | A : nee dat zijn nee
+	Free: Pattern=nee dat zijn, Pattern=nee
+	Constrained: Pattern=dat zijn, Pattern=nee, Pattern=dat, Pattern=zijn
+Turn ID=62| A | A : geel
+	Free: Pattern=geel
+	Constrained: 
+Turn ID=63| A | A : zonder neus piercing zonder neus
+	Free: Pattern=piercing zonder neus, Pattern=zonder neus
+	Constrained: Pattern=zonder neus, Pattern=neus, Pattern=piercing
+Turn ID=64| B | B : piercing zonder neus dat zijn J
+	Free: Pattern=piercing zonder neus, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=neus, Pattern=piercing, Pattern=zijn, Pattern=zonder neus
+Turn ID=65| A | A : en hij staan in het midden van het rechterbovenvak
+	Free: Pattern=staan in het midden, Pattern=het, Pattern=en
+	Constrained: Pattern=in het midden, Pattern=het, Pattern=staan
+Turn ID=66| B | B : nee dat zijn niet hetzelfde dus dan geel
+	Free: Pattern=nee dat zijn, Pattern=dus, Pattern=geel
+	Constrained: Pattern=dat zijn, Pattern=nee, Pattern=dat, Pattern=zijn
+Turn ID=67| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

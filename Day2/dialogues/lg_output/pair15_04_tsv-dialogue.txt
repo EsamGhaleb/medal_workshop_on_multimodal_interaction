@@ -1,0 +1,131 @@
+A|0| A: even kijken nou _de_ kopvorm _en_ _aan de rechterkant_ hebben je _twee_ _ja_ rechthoek 
+A|1| A: _beetje een_ ISteken wat _erin steken_ _zijn_ 
+B|2| B: _ja ja_ 
+A|3| A: _en_ _aan de_ linksonder hebben hij _een_ nou [ja] licht licht [ja] uitsteeksel _beetje een_ [ja] staart 
+B|4| B: _en dan_ 
+A|5| A: [en] daar daarboven net boven _zeggen maar_ dat staart _zitten_ één [ja] streepje 
+B|6| B: _ja ja_ _met_ van _met aan_ allebei [de] kant _een [beetje_ een] driehoek toch 
+A|7| A: [ja] 
+B|8| B: [zeggen maar] 
+A|9| A: [ja] hij _zijn_ [ja] het _zijn_ [een beetje] zo'n driehoeksvorm inderdaad 
+B|10| B: [ja] 
+B|11| B: _en dan_ _bovenop_ _staan_ er _ook_ nog [een] [een] soort van vulkaan 
+A|12| A: [ja] [staan] [een] 
+A|13| A: [ja ja] zo zullen ik het noemen 
+B|14| B: o 
+B|15| B: hier [zitten] [twee] rechthoeak [aan de rechterkant] [erin steken] zeg [maar] 
+B|16| B: _en dan_ _bovenop_ [een] soort van vulkaandingetje iets 
+A|17| A: [ja ja] [en dan] [aan de] Linkeronderkant [een] klein vormp [en] daarboven [ook] [een] 
+B|18| B: [ja] 
+A|19| A: [ja] dat _zijn_ [twee] 
+B|20| B: [ja ja] 
+A|21| A: _dit zijn_ die _met de_ [twee] blok [aan de rechterkant] [met [aan] de] linksonder het [ja] klein uiteinde 
+A|22| A: daarbovenop [een beetje] [de] die vulkaanvorm 
+B|23| B: [ja ja] d 
+B|24| B: [dit zijn] degeen [met] [twee] recht [ja] rechthoeak [aan de] _zijkant_ [erin] [aan de rechterkant] 
+B|25| B: [met de] vulkaan erbovenop 
+A|26| A: [ja] ik zien hem 
+A|27| A: zestien 
+A|28| A: [dit zijn] die [met de] [twee] balk [aan de rechterkant] [zijkant] [en] [de] vulkaanvorm [bovenop] 
+B|29| B: [ja] h 
+B|30| B: [dit zijn] degeen [met] [twee] rechthoeak [aan de] [zijkant] [erin] [en] [met de] vulkaan [bovenop] 
+A|31| A: [twee] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken nou de kopvorm en aan de rechterkant hebben je twee ja rechthoek
+	Free: Pattern=twee, Pattern=aan de rechterkant, Pattern=en, Pattern=de, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=1| A | A : beetje een ISteken wat erin steken zijn
+	Free: Pattern=erin steken, Pattern=beetje een, Pattern=zijn
+	Constrained: Pattern=erin, Pattern=een
+Turn ID=2| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=3| A | A : en aan de linksonder hebben hij een nou ja licht licht ja uitsteeksel beetje een ja staart
+	Free: Pattern=ja, Pattern=aan de, Pattern=een, Pattern=beetje een, Pattern=en
+	Constrained: Pattern=een, Pattern=de
+Turn ID=4| B | B : en dan
+	Free: Pattern=en dan
+	Constrained: Pattern=en
+Turn ID=5| A | A : en daar daarboven net boven zeggen maar dat staart zitten één ja streepje
+	Free: Pattern=zeggen maar, Pattern=en, Pattern=zitten, Pattern=ja
+	Constrained: Pattern=maar
+Turn ID=6| B | B : ja ja met van met aan allebei de kant een beetje een driehoek toch
+	Free: Pattern=met aan, Pattern=beetje een, Pattern=met, Pattern=een beetje, Pattern=de, Pattern=ja ja
+	Constrained: Pattern=een, Pattern=met, Pattern=ja
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : zeggen maar
+	Free: Pattern=zeggen maar
+	Constrained: Pattern=maar
+Turn ID=9| A | A : ja hij zijn ja het zijn een beetje zo'n driehoeksvorm inderdaad
+	Free: Pattern=een beetje, Pattern=ja, Pattern=zijn
+	Constrained: Pattern=een
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : en dan bovenop staan er ook nog een een soort van vulkaan
+	Free: Pattern=bovenop, Pattern=en dan, Pattern=ook, Pattern=een, Pattern=staan
+	Constrained: Pattern=en
+Turn ID=12| A | A : ja staan een
+	Free: Pattern=een, Pattern=staan, Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja ja zo zullen ik het noemen
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=14| B | B : o
+	Free: 
+	Constrained: 
+Turn ID=15| B | B : hier zitten twee rechthoeak aan de rechterkant erin steken zeg maar
+	Free: Pattern=twee, Pattern=erin steken, Pattern=maar, Pattern=aan de rechterkant, Pattern=zitten
+	Constrained: Pattern=erin, Pattern=de, Pattern=aan de
+Turn ID=16| B | B : en dan bovenop een soort van vulkaandingetje iets
+	Free: Pattern=en dan, Pattern=bovenop, Pattern=een
+	Constrained: Pattern=en
+Turn ID=17| A | A : ja ja en dan aan de Linkeronderkant een klein vormp en daarboven ook een
+	Free: Pattern=ja ja, Pattern=en dan, Pattern=een, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de, Pattern=en, Pattern=ja
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : ja dat zijn twee
+	Free: Pattern=twee, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=21| A | A : dit zijn die met de twee blok aan de rechterkant met aan de linksonder het ja klein uiteinde
+	Free: Pattern=met aan, Pattern=twee, Pattern=aan de, Pattern=aan de rechterkant, Pattern=dit zijn, Pattern=met de, Pattern=ja
+	Constrained: Pattern=de, Pattern=zijn, Pattern=met, Pattern=aan de
+Turn ID=22| A | A : daarbovenop een beetje de die vulkaanvorm
+	Free: Pattern=een beetje, Pattern=de
+	Constrained: Pattern=een
+Turn ID=23| B | B : ja ja d
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=24| B | B : dit zijn degeen met twee recht ja rechthoeak aan de zijkant erin aan de rechterkant
+	Free: Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=met, Pattern=erin, Pattern=dit zijn, Pattern=aan de rechterkant, Pattern=zijkant
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=25| B | B : met de vulkaan erbovenop
+	Free: Pattern=met de
+	Constrained: Pattern=de, Pattern=met
+Turn ID=26| A | A : ja ik zien hem
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : dit zijn die met de twee balk aan de rechterkant zijkant en de vulkaanvorm bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=met de, Pattern=aan de rechterkant, Pattern=zijkant
+	Constrained: Pattern=de, Pattern=zijn, Pattern=met, Pattern=aan de
+Turn ID=29| B | B : ja h
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dit zijn degeen met twee rechthoeak aan de zijkant erin en met de vulkaan bovenop
+	Free: Pattern=bovenop, Pattern=twee, Pattern=met de, Pattern=aan de, Pattern=met, Pattern=zijkant, Pattern=en, Pattern=erin, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=de, Pattern=met
+Turn ID=31| A | A : twee
+	Free: Pattern=twee
+	Constrained: 

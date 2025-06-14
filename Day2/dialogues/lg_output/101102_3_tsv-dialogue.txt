@@ -1,0 +1,283 @@
+B|0| B: _oké dit zijn_ _een_ beetje _een soort wijnglas_ _hij_ _hebben_ _een_ _poo_ _dat_ driehoekig _zijn_ _en_ _er_ komen _een_ 
+B|1| B: twisen _een soort_ kaasstengel uit _en_ _dan_ _hebben_ _je_ _daar_ _een_ kop bovenop _en_ _boven_ op _het_ kop _staan_ _ook_ _nog een_ kubus 
+B|2| B: _en _aan de_ linkerkant_ _een soort_ zwaard 
+A|3| A: _armp_ 
+B|4| B: [armp] 
+A|5| A: _ja_ 
+A|6| A: _dat zijn_ nummer vier 
+B|7| B: _oké_ _en_ deze staat best wel _rechtsboven in de hoek_ 
+B|8| B: _en_ _er_ _past_ _eigenlijk_ _precies_ zo'n rechthoek _aan de_ _zeggen maar_ _de_ rechthoek _die_ _je_ om _dit_ _plaat_ heen kunnen tekenen kunnen _je_ _nog een keer_ recht zetten 
+A|9| A: _ja_ 
+B|10| B: _en_ _er_ _zitten_ _een_ _klein_ beetje _ruimte aan de bovenkant_ _nog_ 
+A|11| A: [en] [de] [ruimte aan de bovenkant] oppasen [daar] [nog een] [plaat] [in] 
+B|12| B: nee 
+B|13| B: nee _echt_ lang _niet_ 
+A|14| A: [oké] 
+A|15| A: [en] [de] [ruimte aan de] rechterkant als [je] [zeggen maar] [die] [dat] [plaat] _zullen_ kopiëren [dan] [past] [die] [er] _dus_ [nog een keer] naast [zeggen] [je] 
+B|16| B: perfect 
+B|17| B: [ja] 
+A|18| A: [maar] [dan] [zitten] [die] [ook] [echt] _tegen de rand_ [aan] 
+B|19| B: [tegen de rand] 
+A|20| A: [oké] _dat zijn bij mij_ [niet] zo _ik_ [hebben] _denken_ _ik_ _twee_ [keer] zoveel [ruimte aan] beide kant 
+A|21| A: [dit zijn] weer [dat] [ja] [een soort wijnglas] _met de_ draaien [poo] 
+B|22| B: [ja] 
+B|23| B: A 
+A|24| A: _en _hij_ staan_ _bij mij_ [aan de linkerkant] _van het_ scherm _ongeveer_ [in] _het midden_ 
+B|25| B: _iets boven het midden_ 
+A|26| A: _net iets ja_ _hij staan ja_ _net iets_ onder [het midden] eerder 
+A|27| A: [en] _ik_ _zullen_ [zeggen] [dat] [er] [aan de] onderkant [nog] _twee_ figuurt passen [en [aan de] bovenkant] _twee_ [en] [een] half 
+A|28| A: [zeggen maar] 
+B|29| B: nee [dat zijn bij mij] _staan die_ [net] _boven het midden_ [dus] [dat] [zullen] wel [niet] [dan] 
+A|30| A: [oké] 
+B|31| B: _dit zijn het wijnglas_ 
+B|32| B: [met de] kubus 
+B|33| B: bovenop 
+A|34| A: [ja] 
+A|35| A: nummer tien 
+B|36| B: _helemaal_ onderin 
+B|37| B: [een] kwart vanaf _links_ 
+A|38| A: [ja] 
+A|39| A: [daar] [staan die] [bij mij] _denken_ _ik_ [ook] _ongeveer_ 
+A|40| A: passen [er] [bij] jou [nog] _twee_ [plaat] [aan de linkerkant] naast 
+B|41| B: [ja] [ik] [denken] [het] wel 
+A|42| A: [ja] 
+A|43| A: misschien [iets] veel 
+A|44| A: _ongeveer twee_ 
+B|45| B: [ongeveer twee] [ja] 
+A|46| A: [ja] 
+A|47| A: zelfde _plek_ 
+A|48| A: [oké [dit zijn] het wijnglas] [met] [het] draaien [poo] 
+B|49| B: L 
+A|50| A: _en _hij_ staan_ bijna [helemaal] [rechtsboven in de hoek] 
+A|51| A: [er] [zijn] voor hetzelfde [plaat] [zullen] [er] [precies] [nog een keer] naast passen tot [aan [de] rand] [denken] [ik] 
+A|52| A: [en [aan de] bovenkant] [zijn] [er] [de] [ruimte] voor _een heel_ [klein] [plaat] of misschien [net] [niet] 
+B|53| B: [ja] [dat zijn] dezelfde [plek] 
+B|54| B: [het wijnglas] 
+A|55| A: nummer vier 
+B|56| B: [hij staan ja] [de bovenkant] [van [het] wijnglas] [zijn] [ongeveer] waar [het midden] [zitten] 
+B|57| B: qua hoogte 
+B|58| B: [en _hij] zitten net iets_ link _van het midden_ qua breedte 
+A|59| A: [dus] [hij zitten net iets] onder [het midden] [eigenlijk] 
+B|60| B: [net iets ja] 
+A|61| A: [ja] 
+A|62| A: [en] te opzicht [van] 
+A|63| A: _net iets naar links_ [ook] 
+B|64| B: [net iets naar links] 
+A|65| A: [ja] zelfde [plek] 
+A|66| A: [dit zijn het wijnglas] 
+B|67| B: F 
+A|68| A: [en [hij] staan] [net [iets] boven het midden] [maar] ver [net] [ook] [net iets] rechts [van het midden] 
+B|69| B: [hij staan] op [een heel] ander [plek] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké dit zijn een beetje een soort wijnglas hij hebben een poo dat driehoekig zijn en er komen een
+	Free: Pattern=dat, Pattern=poo, Pattern=een, Pattern=hij, Pattern=er, Pattern=en, Pattern=zijn, Pattern=een soort wijnglas, Pattern=hebben, Pattern=oké dit zijn
+	Constrained: Pattern=een, Pattern=dit, Pattern=oké, Pattern=een soort, Pattern=zijn, Pattern=dit zijn
+Turn ID=1| B | B : twisen een soort kaasstengel uit en dan hebben je daar een kop bovenop en boven op het kop staan ook nog een kubus
+	Free: Pattern=nog een, Pattern=ook, Pattern=het, Pattern=hebben, Pattern=een soort, Pattern=en, Pattern=boven, Pattern=dan, Pattern=een, Pattern=staan, Pattern=daar, Pattern=je
+	Constrained: Pattern=nog, Pattern=een
+Turn ID=2| B | B : en aan de linkerkant een soort zwaard
+	Free: Pattern=aan de linkerkant, Pattern=en aan de, Pattern=een soort
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=3| A | A : armp
+	Free: Pattern=armp
+	Constrained: 
+Turn ID=4| B | B : armp
+	Free: Pattern=armp
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dat zijn nummer vier
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=7| B | B : oké en deze staat best wel rechtsboven in de hoek
+	Free: Pattern=rechtsboven in de hoek, Pattern=oké, Pattern=en
+	Constrained: Pattern=in, Pattern=de
+Turn ID=8| B | B : en er past eigenlijk precies zo'n rechthoek aan de zeggen maar de rechthoek die je om dit plaat heen kunnen tekenen kunnen je nog een keer recht zetten
+	Free: Pattern=aan de, Pattern=zeggen maar, Pattern=die, Pattern=er, Pattern=en, Pattern=je, Pattern=past, Pattern=plaat, Pattern=de, Pattern=precies, Pattern=dit, Pattern=eigenlijk, Pattern=nog een keer
+	Constrained: Pattern=nog, Pattern=nog een, Pattern=een, Pattern=maar, Pattern=de, Pattern=aan, Pattern=keer, Pattern=zeggen
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : en er zitten een klein beetje ruimte aan de bovenkant nog
+	Free: Pattern=nog, Pattern=ruimte aan de bovenkant, Pattern=een, Pattern=zitten, Pattern=er, Pattern=klein, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de bovenkant, Pattern=ruimte aan, Pattern=ruimte, Pattern=de, Pattern=aan, Pattern=aan de bovenkant, Pattern=ruimte aan de
+Turn ID=11| A | A : en de ruimte aan de bovenkant oppasen daar nog een plaat in
+	Free: Pattern=nog een, Pattern=in, Pattern=en, Pattern=daar, Pattern=plaat, Pattern=de, Pattern=ruimte aan de bovenkant
+	Constrained: Pattern=nog, Pattern=aan de, Pattern=de bovenkant, Pattern=ruimte, Pattern=de, Pattern=aan, Pattern=ruimte aan, Pattern=een, Pattern=aan de bovenkant, Pattern=ruimte aan de
+Turn ID=12| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : nee echt lang niet
+	Free: Pattern=echt, Pattern=niet
+	Constrained: 
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| A | A : en de ruimte aan de rechterkant als je zeggen maar die dat plaat zullen kopiëren dan past die er dus nog een keer naast zeggen je
+	Free: Pattern=dat, Pattern=zullen, Pattern=dan, Pattern=zeggen maar, Pattern=die, Pattern=er, Pattern=je, Pattern=past, Pattern=plaat, Pattern=de, Pattern=dus, Pattern=zeggen, Pattern=nog een keer, Pattern=en, Pattern=ruimte aan de
+	Constrained: Pattern=nog, Pattern=nog een, Pattern=aan de, Pattern=maar, Pattern=ruimte, Pattern=de, Pattern=aan, Pattern=ruimte aan, Pattern=een, Pattern=keer, Pattern=zeggen
+Turn ID=16| B | B : perfect
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : maar dan zitten die ook echt tegen de rand aan
+	Free: Pattern=aan, Pattern=ook, Pattern=dan, Pattern=tegen de rand, Pattern=echt, Pattern=maar, Pattern=die, Pattern=zitten
+	Constrained: Pattern=de rand, Pattern=de
+Turn ID=19| B | B : tegen de rand
+	Free: Pattern=tegen de rand
+	Constrained: Pattern=de rand, Pattern=de
+Turn ID=20| A | A : oké dat zijn bij mij niet zo ik hebben denken ik twee keer zoveel ruimte aan beide kant
+	Free: Pattern=niet, Pattern=ruimte aan, Pattern=hebben, Pattern=keer, Pattern=dat zijn bij mij, Pattern=oké, Pattern=ik, Pattern=denken, Pattern=twee
+	Constrained: Pattern=aan, Pattern=bij, Pattern=zijn, Pattern=bij mij, Pattern=ruimte, Pattern=dat, Pattern=dat zijn
+Turn ID=21| A | A : dit zijn weer dat ja een soort wijnglas met de draaien poo
+	Free: Pattern=dat, Pattern=met de, Pattern=poo, Pattern=ja, Pattern=een soort wijnglas, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=een, Pattern=dit, Pattern=met, Pattern=een soort, Pattern=zijn
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=24| A | A : en hij staan bij mij aan de linkerkant van het scherm ongeveer in het midden
+	Free: Pattern=het midden, Pattern=hij staan, Pattern=in, Pattern=ongeveer, Pattern=bij mij, Pattern=aan de linkerkant, Pattern=van het, Pattern=en hij
+	Constrained: Pattern=aan de, Pattern=staan, Pattern=het, Pattern=hij, Pattern=bij, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=25| B | B : iets boven het midden
+	Free: Pattern=iets boven het midden
+	Constrained: Pattern=het midden, Pattern=iets, Pattern=boven, Pattern=het, Pattern=boven het midden
+Turn ID=26| A | A : net iets ja hij staan ja net iets onder het midden eerder
+	Free: Pattern=hij staan ja, Pattern=net iets ja, Pattern=net iets, Pattern=het midden
+	Constrained: Pattern=net, Pattern=hij staan, Pattern=staan, Pattern=net iets, Pattern=het, Pattern=hij, Pattern=iets, Pattern=ja
+Turn ID=27| A | A : en ik zullen zeggen dat er aan de onderkant nog twee figuurt passen en aan de bovenkant twee en een half
+	Free: Pattern=dat, Pattern=twee, Pattern=aan de, Pattern=een, Pattern=zeggen, Pattern=er, Pattern=ik, Pattern=en aan de, Pattern=nog, Pattern=zullen, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de bovenkant, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=28| A | A : zeggen maar
+	Free: Pattern=zeggen maar
+	Constrained: Pattern=maar, Pattern=zeggen
+Turn ID=29| B | B : nee dat zijn bij mij staan die net boven het midden dus dat zullen wel niet dan
+	Free: Pattern=dat, Pattern=zullen, Pattern=net, Pattern=dus, Pattern=boven het midden, Pattern=dat zijn bij mij, Pattern=niet, Pattern=staan die, Pattern=dan
+	Constrained: Pattern=het midden, Pattern=boven, Pattern=staan, Pattern=het, Pattern=die, Pattern=bij, Pattern=zijn, Pattern=bij mij, Pattern=dat, Pattern=dat zijn
+Turn ID=30| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=31| B | B : dit zijn het wijnglas
+	Free: Pattern=dit zijn het wijnglas
+	Constrained: Pattern=het wijnglas, Pattern=het, Pattern=dit, Pattern=zijn, Pattern=dit zijn
+Turn ID=32| B | B : met de kubus
+	Free: Pattern=met de
+	Constrained: Pattern=met, Pattern=de
+Turn ID=33| B | B : bovenop
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : helemaal onderin
+	Free: Pattern=helemaal
+	Constrained: 
+Turn ID=37| B | B : een kwart vanaf links
+	Free: Pattern=een, Pattern=links
+	Constrained: 
+Turn ID=38| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| A | A : daar staan die bij mij denken ik ook ongeveer
+	Free: Pattern=denken, Pattern=ook, Pattern=staan die, Pattern=ongeveer, Pattern=ik, Pattern=bij mij, Pattern=daar
+	Constrained: Pattern=bij, Pattern=die, Pattern=staan
+Turn ID=40| A | A : passen er bij jou nog twee plaat aan de linkerkant naast
+	Free: Pattern=nog, Pattern=twee, Pattern=aan de linkerkant, Pattern=plaat, Pattern=bij, Pattern=er
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=41| B | B : ja ik denken het wel
+	Free: Pattern=denken, Pattern=ik, Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : misschien iets veel
+	Free: Pattern=iets
+	Constrained: 
+Turn ID=44| A | A : ongeveer twee
+	Free: Pattern=ongeveer twee
+	Constrained: Pattern=ongeveer, Pattern=twee
+Turn ID=45| B | B : ongeveer twee ja
+	Free: Pattern=ongeveer twee, Pattern=ja
+	Constrained: Pattern=ongeveer, Pattern=twee
+Turn ID=46| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : zelfde plek
+	Free: Pattern=plek
+	Constrained: 
+Turn ID=48| A | A : oké dit zijn het wijnglas met het draaien poo
+	Free: Pattern=poo, Pattern=het, Pattern=oké dit zijn, Pattern=dit zijn het wijnglas, Pattern=met
+	Constrained: Pattern=het wijnglas, Pattern=het, Pattern=dit, Pattern=oké, Pattern=zijn, Pattern=dit zijn
+Turn ID=49| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : en hij staan bijna helemaal rechtsboven in de hoek
+	Free: Pattern=rechtsboven in de hoek, Pattern=en hij, Pattern=hij staan, Pattern=helemaal
+	Constrained: Pattern=de, Pattern=staan, Pattern=hij, Pattern=in, Pattern=en
+Turn ID=51| A | A : er zijn voor hetzelfde plaat zullen er precies nog een keer naast passen tot aan de rand denken ik
+	Free: Pattern=de rand, Pattern=zullen, Pattern=denken, Pattern=precies, Pattern=aan de, Pattern=nog een keer, Pattern=er, Pattern=ik, Pattern=zijn, Pattern=plaat
+	Constrained: Pattern=nog, Pattern=nog een, Pattern=een, Pattern=keer, Pattern=de, Pattern=aan
+Turn ID=52| A | A : en aan de bovenkant zijn er de ruimte voor een heel klein plaat of misschien net niet
+	Free: Pattern=een heel, Pattern=net, Pattern=de, Pattern=niet, Pattern=er, Pattern=klein, Pattern=aan de bovenkant, Pattern=zijn, Pattern=plaat, Pattern=en aan de, Pattern=ruimte
+	Constrained: Pattern=aan de, Pattern=de bovenkant, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=53| B | B : ja dat zijn dezelfde plek
+	Free: Pattern=dat zijn, Pattern=plek, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=54| B | B : het wijnglas
+	Free: Pattern=het wijnglas
+	Constrained: Pattern=het
+Turn ID=55| A | A : nummer vier
+	Free: 
+	Constrained: 
+Turn ID=56| B | B : hij staan ja de bovenkant van het wijnglas zijn ongeveer waar het midden zitten
+	Free: Pattern=de bovenkant, Pattern=hij staan ja, Pattern=van het, Pattern=zijn, Pattern=het midden, Pattern=het wijnglas, Pattern=zitten, Pattern=ongeveer
+	Constrained: Pattern=hij staan, Pattern=staan, Pattern=het, Pattern=hij, Pattern=van, Pattern=de, Pattern=ja
+Turn ID=57| B | B : qua hoogte
+	Free: 
+	Constrained: 
+Turn ID=58| B | B : en hij zitten net iets link van het midden qua breedte
+	Free: Pattern=hij zitten net iets, Pattern=van het midden, Pattern=en hij
+	Constrained: Pattern=het midden, Pattern=net, Pattern=iets, Pattern=net iets, Pattern=het, Pattern=hij, Pattern=zitten, Pattern=van het, Pattern=van, Pattern=en
+Turn ID=59| A | A : dus hij zitten net iets onder het midden eigenlijk
+	Free: Pattern=hij zitten net iets, Pattern=het midden, Pattern=eigenlijk, Pattern=dus
+	Constrained: Pattern=net, Pattern=iets, Pattern=net iets, Pattern=het, Pattern=hij, Pattern=zitten
+Turn ID=60| B | B : net iets ja
+	Free: Pattern=net iets ja
+	Constrained: Pattern=iets, Pattern=net iets, Pattern=net, Pattern=ja
+Turn ID=61| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=62| A | A : en te opzicht van
+	Free: Pattern=en, Pattern=van
+	Constrained: 
+Turn ID=63| A | A : net iets naar links ook
+	Free: Pattern=net iets naar links, Pattern=ook
+	Constrained: Pattern=net iets, Pattern=net, Pattern=links, Pattern=iets
+Turn ID=64| B | B : net iets naar links
+	Free: Pattern=net iets naar links
+	Constrained: Pattern=net iets, Pattern=net, Pattern=links, Pattern=iets
+Turn ID=65| A | A : ja zelfde plek
+	Free: Pattern=plek, Pattern=ja
+	Constrained: 
+Turn ID=66| A | A : dit zijn het wijnglas
+	Free: Pattern=dit zijn het wijnglas
+	Constrained: Pattern=het wijnglas, Pattern=het, Pattern=dit, Pattern=zijn, Pattern=dit zijn
+Turn ID=67| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=68| A | A : en hij staan net iets boven het midden maar ver net ook net iets rechts van het midden
+	Free: Pattern=net, Pattern=hij staan, Pattern=net iets, Pattern=iets boven het midden, Pattern=en hij, Pattern=maar, Pattern=van het midden, Pattern=ook
+	Constrained: Pattern=het midden, Pattern=net, Pattern=iets, Pattern=boven, Pattern=staan, Pattern=het, Pattern=hij, Pattern=boven het midden, Pattern=van het, Pattern=van, Pattern=en
+Turn ID=69| B | B : hij staan op een heel ander plek
+	Free: Pattern=hij staan, Pattern=een heel, Pattern=plek
+	Constrained: Pattern=hij, Pattern=staan, Pattern=een

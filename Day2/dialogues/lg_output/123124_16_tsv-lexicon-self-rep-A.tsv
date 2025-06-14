@@ -1,0 +1,40 @@
+Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	5	ja wat zijn het ?	2	A	1, 2
+2	4	een stuk naar rechts	7	A	27, 33
+2	4	hij staan bij mij	38	A	7, 44
+3	3	en hij staan	44	A	7, 27, 50
+3	3	ja wat zijn	12	A	1, 2, 12
+2	3	en dan een	24	A	27, 50
+2	3	in het midden	18	A	27, 44
+2	3	midden en dan	21	A	7, 27
+2	3	zijn een beetje	12	A	1, 12
+5	2	hij staan	44	A	7, 27, 33, 44, 50
+4	2	en dan	47	A	7, 27, 50, 53
+3	2	naar rechts	32	A	2, 27, 33
+2	2	dat zijn	23	A	23, 45
+2	2	dit zijn	22	A	25, 46
+2	2	en naar	2	A	1, 2
+2	2	één omlaag	4	A	50, 53
+11	1	ja	65	A	1, 2, 4, 12, 20, 23, 30, 35, 37, 61, 65
+9	1	rechts	55	A	2, 7, 8, 27, 28, 33, 48, 50, 56
+8	1	zijn	56	A	1, 2, 12, 23, 25, 45, 46, 56
+7	1	en	53	A	1, 2, 7, 25, 27, 50, 53
+7	1	nee	47	A	10, 14, 16, 33, 44, 55, 56
+6	1	een	50	A	1, 4, 12, 27, 33, 50
+6	1	staan	44	A	7, 27, 33, 44, 48, 50
+5	1	dan	47	A	7, 27, 33, 50, 53
+5	1	het	56	A	1, 2, 27, 44, 56
+5	1	één	52	A	2, 25, 50, 51, 53
+3	1	aan	26	A	0, 1, 25
+3	1	die	48	A	1, 25, 48
+3	1	joystick	46	A	1, 25, 46
+3	1	omlaag	4	A	50, 51, 53
+2	1	de	22	A	25, 46
+2	1	echt	34	A	0, 33
+2	1	geel	16	A	45, 60
+2	1	niet	2	A	56, 57
+2	1	of	2	A	1, 2
+2	1	opsteken	3	A	0, 2
+2	1	rood	43	A	24, 66
+2	1	wel	12	A	33, 44
+

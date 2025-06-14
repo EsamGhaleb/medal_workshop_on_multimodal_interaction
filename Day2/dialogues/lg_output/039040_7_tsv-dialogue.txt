@@ -1,0 +1,179 @@
+B|0| B: _ik vinden_ _dit_ _op_ _een_ dienblad lijken _zeggen maar_ _twee_ _van_ _die_ paal zo 
+A|1| A: _ja_ _en_ zo'n _bak soep_ erop [zeggen maar] 
+B|2| B: _ja ja_ 
+A|3| A: [ja] 
+A|4| A: zestien 
+B|5| B: [en] hij _zitten_ middellijn _en dan_ ver _rechts_ _op_ [maar] _niet_ _de_ allerver _rechts_ _op_ _drie_ vier 
+A|6| A: nee _bij mij zitten_ [die] helemaal [rechts] bovenin dus [dan] [zitten] [die] [niet] [op] dezelfde plek 
+A|7| A: _dit _zijn_ de_ _soep_ komen _soep_ [op] [de] plateau 
+B|8| B: B 
+A|9| A: _bij mij_ staan [die] [op] _vijf_ zes [rechts] in _het_ midden 
+B|10| B: [ja] _je hebben_ [dan] [die] sliert _van_ [vijf] _en _dan zijn het_ de_ _drie_ 
+A|11| A: [ja ja] 
+B|12| B: [ja] 
+B|13| B: [dit zijn] _dat_ dienblad _met_ _dat_ [bak soep] 
+A|14| A: [ja] 
+A|15| A: _even_ zoeken hoor 
+A|16| A: waar [zijn] [die] 
+A|17| A: ah [ik] kunnen hem [niet] [vinden] 
+A|18| A: [ja] oké [ja ja] veertien 
+B|19| B: [en] _het [zijn_ _de] onderste rij _en_ dan_ _de veel_ [rechts] 
+A|20| A: [ik vinden] [het] [een] beetje moeilijk wat [je] [met] [de onderste rij] [je] bedoelen [zeggen maar] [je hebben] _er_ [drie] [en dan] _nog_ [een] stapel [met] [drie] 
+B|21| B: [ja] 
+A|22| A: [ja] [dan zijn het [de] onderste rij en] [de] [rechts] inderdaad oké [ik] snapen wat [je] bedoelen 
+A|23| A: diegene [met] [het] plateau [en] [de] kom [soep] 
+B|24| B: [ja] [vinden] N 
+A|25| A: [en dan zijn het] _bij_ [de] [twee] [rij] [de veel] links 
+B|26| B: [ja] [bij mij] _ook_ 
+A|27| A: oké 
+B|28| B: _het [zijn_ het] dienblad [met] [zijn] [soep] 
+A|29| A: [ja] tien 
+B|30| B: ze [zijn] weer veranderen 
+A|31| A: [ja] [ik] [zitten] [ook] _even_ te kijken hoe _we_ [het] nu makkelijk kunnen doen 
+B|32| B: _dat_ [hebben] [ik] [even] [niet] door 
+B|33| B: ze halen ons mooi rijensysteem gewoon compleet onderuit 
+A|34| A: [ja] 
+A|35| A: _bij mij zijn_ deze helemaal bovenin [en dan] in [het] midden 
+B|36| B: [maar] [we] 
+B|37| B: [ja] [maar] [bij mij zitten] _er nog_ wel _één_ boven 
+A|38| A: nee [bij mij] [niet] [het zijn] echt helemaal bovenin dus [dan] [niet] 
+B|39| B: d 
+A|40| A: [en] [er] [zijn] [er nog] [één] [rechts] [van] 
+A|41| A: [die] [zijn] [een] beetje [er] [rechts] [van] [zeggen maar] 
+B|42| B: [bij mij [zijn] het [de] veel] bovenste aan [de] rechterkant 
+A|43| A: nee [dat] [zijn] hem [niet] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ik vinden dit op een dienblad lijken zeggen maar twee van die paal zo
+	Free: Pattern=twee, Pattern=ik vinden, Pattern=op, Pattern=een, Pattern=zeggen maar, Pattern=dit, Pattern=die, Pattern=van
+	Constrained: Pattern=ik, Pattern=vinden, Pattern=maar
+Turn ID=1| A | A : ja en zo'n bak soep erop zeggen maar
+	Free: Pattern=bak soep, Pattern=zeggen maar, Pattern=ja, Pattern=en
+	Constrained: Pattern=soep, Pattern=maar
+Turn ID=2| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=3| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : en hij zitten middellijn en dan ver rechts op maar niet de allerver rechts op drie vier
+	Free: Pattern=en dan, Pattern=op, Pattern=niet, Pattern=drie, Pattern=zitten, Pattern=en, Pattern=maar, Pattern=de, Pattern=rechts
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=6| A | A : nee bij mij zitten die helemaal rechts bovenin dus dan zitten die niet op dezelfde plek
+	Free: Pattern=rechts, Pattern=op, Pattern=bij mij zitten, Pattern=niet, Pattern=dan, Pattern=die, Pattern=zitten
+	Constrained: Pattern=bij, Pattern=bij mij, Pattern=zitten
+Turn ID=7| A | A : dit zijn de soep komen soep op de plateau
+	Free: Pattern=de, Pattern=op, Pattern=soep, Pattern=zijn de, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit, Pattern=de
+Turn ID=8| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : bij mij staan die op vijf zes rechts in het midden
+	Free: Pattern=rechts, Pattern=het, Pattern=die, Pattern=bij mij, Pattern=op, Pattern=vijf
+	Constrained: Pattern=bij
+Turn ID=10| B | B : ja je hebben dan die sliert van vijf en dan zijn het de drie
+	Free: Pattern=dan zijn het de, Pattern=ja, Pattern=vijf, Pattern=dan, Pattern=je hebben, Pattern=drie, Pattern=die, Pattern=van, Pattern=en dan zijn het
+	Constrained: Pattern=zijn het, Pattern=de, Pattern=dan, Pattern=het, Pattern=hebben, Pattern=en, Pattern=zijn, Pattern=je, Pattern=zijn het de, Pattern=en dan
+Turn ID=11| A | A : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : dit zijn dat dienblad met dat bak soep
+	Free: Pattern=dit zijn, Pattern=bak soep, Pattern=dat, Pattern=met
+	Constrained: Pattern=zijn, Pattern=dit, Pattern=soep
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : even zoeken hoor
+	Free: Pattern=even
+	Constrained: 
+Turn ID=16| A | A : waar zijn die
+	Free: Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=17| A | A : ah ik kunnen hem niet vinden
+	Free: Pattern=ik, Pattern=vinden, Pattern=niet
+	Constrained: 
+Turn ID=18| A | A : ja oké ja ja veertien
+	Free: Pattern=ja ja, Pattern=ja
+	Constrained: Pattern=ja
+Turn ID=19| B | B : en het zijn de onderste rij en dan de veel rechts
+	Free: Pattern=rechts, Pattern=en dan, Pattern=de onderste rij en, Pattern=de veel, Pattern=het zijn, Pattern=en, Pattern=zijn de
+	Constrained: Pattern=de, Pattern=rij, Pattern=dan, Pattern=het, Pattern=en, Pattern=zijn, Pattern=de onderste rij
+Turn ID=20| A | A : ik vinden het een beetje moeilijk wat je met de onderste rij je bedoelen zeggen maar je hebben er drie en dan nog een stapel met drie
+	Free: Pattern=nog, Pattern=een, Pattern=met, Pattern=er, Pattern=en dan, Pattern=ik vinden, Pattern=je hebben, Pattern=zeggen maar, Pattern=het, Pattern=drie, Pattern=de onderste rij, Pattern=je
+	Constrained: Pattern=rij, Pattern=dan, Pattern=hebben, Pattern=ik, Pattern=en, Pattern=maar, Pattern=je, Pattern=de, Pattern=vinden
+Turn ID=21| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja dan zijn het de onderste rij en de rechts inderdaad oké ik snapen wat je bedoelen
+	Free: Pattern=dan zijn het de, Pattern=de onderste rij en, Pattern=ik, Pattern=je, Pattern=de, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=zijn het, Pattern=de, Pattern=zijn het de, Pattern=rij, Pattern=dan, Pattern=het, Pattern=en, Pattern=zijn, Pattern=de onderste rij
+Turn ID=23| A | A : diegene met het plateau en de kom soep
+	Free: Pattern=de, Pattern=het, Pattern=soep, Pattern=met, Pattern=en
+	Constrained: 
+Turn ID=24| B | B : ja vinden N
+	Free: Pattern=vinden, Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : en dan zijn het bij de twee rij de veel links
+	Free: Pattern=twee, Pattern=de, Pattern=rij, Pattern=de veel, Pattern=bij, Pattern=en dan zijn het
+	Constrained: Pattern=zijn het, Pattern=de, Pattern=en dan, Pattern=dan, Pattern=het, Pattern=en, Pattern=zijn
+Turn ID=26| B | B : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ook, Pattern=ja
+	Constrained: Pattern=bij
+Turn ID=27| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=28| B | B : het zijn het dienblad met zijn soep
+	Free: Pattern=zijn het, Pattern=soep, Pattern=met, Pattern=het zijn, Pattern=zijn
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=29| A | A : ja tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ze zijn weer veranderen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=31| A | A : ja ik zitten ook even te kijken hoe we het nu makkelijk kunnen doen
+	Free: Pattern=ja, Pattern=het, Pattern=ik, Pattern=ook, Pattern=even, Pattern=we, Pattern=zitten
+	Constrained: 
+Turn ID=32| B | B : dat hebben ik even niet door
+	Free: Pattern=dat, Pattern=even, Pattern=niet, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=33| B | B : ze halen ons mooi rijensysteem gewoon compleet onderuit
+	Free: 
+	Constrained: 
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : bij mij zijn deze helemaal bovenin en dan in het midden
+	Free: Pattern=bij mij zijn, Pattern=en dan, Pattern=het
+	Constrained: Pattern=dan, Pattern=bij, Pattern=en, Pattern=zijn, Pattern=bij mij
+Turn ID=36| B | B : maar we
+	Free: Pattern=maar, Pattern=we
+	Constrained: 
+Turn ID=37| B | B : ja maar bij mij zitten er nog wel één boven
+	Free: Pattern=ja, Pattern=bij mij zitten, Pattern=er nog, Pattern=maar, Pattern=één
+	Constrained: Pattern=nog, Pattern=zitten, Pattern=bij mij, Pattern=bij, Pattern=er
+Turn ID=38| A | A : nee bij mij niet het zijn echt helemaal bovenin dus dan niet
+	Free: Pattern=bij mij, Pattern=het zijn, Pattern=niet, Pattern=dan
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=het
+Turn ID=39| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : en er zijn er nog één rechts van
+	Free: Pattern=rechts, Pattern=er nog, Pattern=er, Pattern=zijn, Pattern=één, Pattern=van, Pattern=en
+	Constrained: Pattern=er, Pattern=nog
+Turn ID=41| A | A : die zijn een beetje er rechts van zeggen maar
+	Free: Pattern=rechts, Pattern=een, Pattern=zeggen maar, Pattern=die, Pattern=er, Pattern=van, Pattern=zijn
+	Constrained: Pattern=maar
+Turn ID=42| B | B : bij mij zijn het de veel bovenste aan de rechterkant
+	Free: Pattern=bij mij zijn, Pattern=zijn het de, Pattern=de veel, Pattern=de
+	Constrained: Pattern=zijn het, Pattern=de, Pattern=het, Pattern=bij, Pattern=zijn, Pattern=bij mij
+Turn ID=43| A | A : nee dat zijn hem niet
+	Free: Pattern=zijn, Pattern=dat, Pattern=niet
+	Constrained: 

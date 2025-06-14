@@ -1,0 +1,299 @@
+B|0| B: _oké_ 
+B|1| B: _het_ _zijn_ _het_ _bak_ _en_ hij _hebben_ weer _zo'n_ _neus_ _aan de_ voorkant _niet_ _op_ _de_ _op_ _zijn_ hoofd _maar_ 
+A|2| A: _ook_ [zo'n] _bolle_ 
+B|3| B: _ja_ 
+B|4| B: _een_ [bolle] _aan de_ voorkant 
+B|5| B: _en het_ _zullen_ [ook] kunnen _lijken op_ _zeggen maar_ _een_ _een bak_ waar _twee tandenborstel_ _in_ _staan_ 
+B|6| B: _en_ _de_ _een_ _zijn een_ _zijn een_ beetje artistiek vormen _en_ _de_ ander _zijn_ _gewoon_ _een_ _gewoon_ _een_ balk 
+B|7| B: _en_ _aan de_ linkerkant _zitten_ _een_ driehoekig staaf 
+A|8| A: uitsteeksel 
+A|9| A: [ja] 
+A|10| A: [oké] 
+A|11| A: nummer veertien 
+B|12| B: _als je_ _het midden _van het scherm_ hebben_ _staan_ _die_ _rechts _van_ het scherm_ _van het midden_ 
+B|13| B: _en dan_ _een_ beetje onder _het midden_ _maar_ _niet_ _heel_ erg 
+B|14| B: _zeggen maar_ _als_ _het_ zo _zullen_ _zijn_ _staan_ _die_ _net_ _hier_ 
+A|15| A: _voor jou_ 
+B|16| B: [ja] 
+A|17| A: dus _voor_ _mij_ [net] _daar_ [ja] 
+B|18| B: _en dan_ [voor jou] [daar] 
+A|19| A: _dat_ kloppen _dat_ [hebben] _ik_ [ook] _wel_ 
+B|20| B: [oké] 
+A|21| A: dit [lijken op] _dat_ [bak] _met_ [twee tandenborstel] wat jij [zeggen] _er_ [zitten] [zo'n] [bolle] [voor] _nog_ 
+B|22| B: [ja] 
+A|23| A: [en] _dat_ stok [aan de] zijkant 
+B|24| B: letter N 
+A|25| A: _ik hebben hem_ helemaal _links_ [staan] 
+A|26| A: [net] [niet] tegen [de] rand 
+B|27| B: _nee_ bij [mij] [staan] [er] [nog] één naast 
+A|28| A: [nee] [oké] 
+B|29| B: _link_ 
+B|30| B: [tandenborstel] _in_ _het_ glaas [met] _het neus_ [aan de] voorkant _en het_ armp 
+A|31| A: yes 
+A|32| A: nummer negen 
+B|33| B: hij [staan] sorry hij [staan] best [wel] ver _naar_ [links] [zitten] [nog] [wel] _een_ klein stuk tussen _het_ _het_ einde _van het scherm_ 
+B|34| B: _maar_ [er] [staan] niks veel _link van het_ plaat 
+B|35| B: [en] hij [staan] _een_ _heel_ klein beetje _boven_ _het midden_ 
+A|36| A: _ik hebben hem_ bijna [aan de] rand bovenaan 
+B|37| B: [oké] [dat] _zijn_ [niet] hetzelfde 
+A|38| A: dit [zijn [een] bak] [met] [de] [twee tandenborstel] 
+A|39| A: [en [het] neus] ervoor 
+B|40| B: [ja] 
+B|41| B: letter G 
+A|42| A: [en] [die] liggen [heel] ietsje [link [van [het] midden] van het scherm] 
+B|43| B: [ja] 
+A|44| A: [en dan] [ja] eigenlijk [zeggen maar] linksonder [van [het midden] van het scherm] [als] [in] [als je] [de] middenas [van het scherm hebben] [zeggen maar] [dan] [daar] 
+B|45| B: [ja] 
+B|46| B: mee eens 
+A|47| A: of [voor jou] dus [hier] 
+B|48| B: [ja] 
+A|49| A: [ja] 
+B|50| B: mee eens 
+B|51| B: [tandenborstel] [in] [het] glaas [met] [het neus] [en het] armp 
+A|52| A: yes 
+A|53| A: nummer vijf 
+B|54| B: hij [staan] [net] iets [link _van] de vijfenzeventig procent_ qua [links] [en] _rechts_ 
+B|55| B: [en] hij [staan] klein beetje _boven de_ middellijn 
+A|56| A: _ja ik hebben hem_ dus [zeggen maar] [rechts [van] de vijfenzeventig procent] [maar] [wel] [boven de] bovenlijn 
+B|57| B: [nee] 
+B|58| B: [ja ik hebben hem] _echt_ [link van] _zeventig_ [vijfenzeventig procent] honderdmiljoen [procent] zeker 
+A|59| A: [oké] 
+A|60| A: [dan] anders 
+B|61| B: rood knop 
+A|62| A: [gewoon] beide 
+A|63| A: [bak] [met] [tandenborstel] 
+A|64| A: [en [het] neus] 
+B|65| B: even zoeken hoor 
+B|66| B: [ja] 
+B|67| B: letter J 
+A|68| A: [en] [die] [staan] [als je] [de] rechterhelft [hebben] ongeveer [het midden] [zeggen maar] [ik] [zullen] eerder [zeggen] [zeventig] [procent] [zeggen maar] [van het scherm] 
+A|69| A: [en dan] [wel] [in] [de] bovenste helft ongeveer halverwege [zullen] we [maar] [zeggen] [van] [boven] [naar] beneden 
+B|70| B: bij [mij] [staan] [die] [op] [de] lijn [van] [zeggen maar] [op] [de] horizontaal lijn 
+A|71| A: [van het midden] 
+B|72| B: [ja] [van het midden] 
+A|73| A: [nee] [ik hebben hem] [er] [echt] [boven] [staan] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : het zijn het bak en hij hebben weer zo'n neus aan de voorkant niet op de op zijn hoofd maar
+	Free: Pattern=zo'n, Pattern=de, Pattern=niet, Pattern=hebben, Pattern=neus, Pattern=en, Pattern=op, Pattern=aan de, Pattern=bak, Pattern=het, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=de
+Turn ID=2| A | A : ook zo'n bolle
+	Free: Pattern=zo'n, Pattern=ook, Pattern=bolle
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : een bolle aan de voorkant
+	Free: Pattern=aan de, Pattern=bolle, Pattern=een
+	Constrained: Pattern=de
+Turn ID=5| B | B : en het zullen ook kunnen lijken op zeggen maar een een bak waar twee tandenborstel in staan
+	Free: Pattern=zullen, Pattern=lijken op, Pattern=zeggen maar, Pattern=in, Pattern=een bak, Pattern=twee tandenborstel, Pattern=en het, Pattern=ook, Pattern=een, Pattern=staan
+	Constrained: Pattern=tandenborstel, Pattern=op, Pattern=een, Pattern=zeggen, Pattern=en, Pattern=maar, Pattern=bak, Pattern=het
+Turn ID=6| B | B : en de een zijn een zijn een beetje artistiek vormen en de ander zijn gewoon een gewoon een balk
+	Free: Pattern=de, Pattern=zijn een, Pattern=een, Pattern=gewoon, Pattern=en, Pattern=zijn
+	Constrained: Pattern=een, Pattern=zijn
+Turn ID=7| B | B : en aan de linkerkant zitten een driehoekig staaf
+	Free: Pattern=aan de, Pattern=en, Pattern=zitten, Pattern=een
+	Constrained: Pattern=de
+Turn ID=8| A | A : uitsteeksel
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : als je het midden van het scherm hebben staan die rechts van het scherm van het midden
+	Free: Pattern=van het scherm, Pattern=rechts van, Pattern=van het midden, Pattern=staan, Pattern=van het scherm hebben, Pattern=als je, Pattern=die, Pattern=het midden van het scherm
+	Constrained: Pattern=van het scherm, Pattern=het midden, Pattern=rechts, Pattern=het, Pattern=hebben, Pattern=als, Pattern=van
+Turn ID=13| B | B : en dan een beetje onder het midden maar niet heel erg
+	Free: Pattern=het midden, Pattern=heel, Pattern=en dan, Pattern=niet, Pattern=een, Pattern=maar
+	Constrained: Pattern=en, Pattern=het, Pattern=dan
+Turn ID=14| B | B : zeggen maar als het zo zullen zijn staan die net hier
+	Free: Pattern=zullen, Pattern=net, Pattern=hier, Pattern=staan, Pattern=zeggen maar, Pattern=het, Pattern=als, Pattern=die, Pattern=zijn
+	Constrained: Pattern=maar, Pattern=zeggen
+Turn ID=15| A | A : voor jou
+	Free: Pattern=voor jou
+	Constrained: Pattern=voor
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dus voor mij net daar ja
+	Free: Pattern=net, Pattern=ja, Pattern=voor, Pattern=mij, Pattern=daar
+	Constrained: 
+Turn ID=18| B | B : en dan voor jou daar
+	Free: Pattern=en dan, Pattern=voor jou, Pattern=daar
+	Constrained: Pattern=en, Pattern=voor, Pattern=dan
+Turn ID=19| A | A : dat kloppen dat hebben ik ook wel
+	Free: Pattern=dat, Pattern=ook, Pattern=wel, Pattern=hebben, Pattern=ik
+	Constrained: 
+Turn ID=20| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=21| A | A : dit lijken op dat bak met twee tandenborstel wat jij zeggen er zitten zo'n bolle voor nog
+	Free: Pattern=dat, Pattern=nog, Pattern=zo'n, Pattern=lijken op, Pattern=zeggen, Pattern=zitten, Pattern=er, Pattern=twee tandenborstel, Pattern=bak, Pattern=voor, Pattern=bolle, Pattern=met
+	Constrained: Pattern=tandenborstel, Pattern=op
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : en dat stok aan de zijkant
+	Free: Pattern=aan de, Pattern=en, Pattern=dat
+	Constrained: Pattern=de
+Turn ID=24| B | B : letter N
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : ik hebben hem helemaal links staan
+	Free: Pattern=ik hebben hem, Pattern=links, Pattern=staan
+	Constrained: Pattern=ik, Pattern=hebben
+Turn ID=26| A | A : net niet tegen de rand
+	Free: Pattern=niet, Pattern=de, Pattern=net
+	Constrained: 
+Turn ID=27| B | B : nee bij mij staan er nog één naast
+	Free: Pattern=nog, Pattern=staan, Pattern=nee, Pattern=er, Pattern=mij
+	Constrained: 
+Turn ID=28| A | A : nee oké
+	Free: Pattern=oké, Pattern=nee
+	Constrained: 
+Turn ID=29| B | B : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=30| B | B : tandenborstel in het glaas met het neus aan de voorkant en het armp
+	Free: Pattern=tandenborstel, Pattern=het, Pattern=in, Pattern=het neus, Pattern=met, Pattern=aan de, Pattern=en het
+	Constrained: Pattern=en, Pattern=neus, Pattern=het, Pattern=de
+Turn ID=31| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=32| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : hij staan sorry hij staan best wel ver naar links zitten nog wel een klein stuk tussen het het einde van het scherm
+	Free: Pattern=van het scherm, Pattern=nog, Pattern=links, Pattern=het, Pattern=zitten, Pattern=naar, Pattern=een, Pattern=staan, Pattern=wel
+	Constrained: Pattern=van, Pattern=het
+Turn ID=34| B | B : maar er staan niks veel link van het plaat
+	Free: Pattern=link van het, Pattern=maar, Pattern=staan, Pattern=er
+	Constrained: Pattern=van, Pattern=het, Pattern=link, Pattern=link van
+Turn ID=35| B | B : en hij staan een heel klein beetje boven het midden
+	Free: Pattern=het midden, Pattern=heel, Pattern=boven, Pattern=en, Pattern=een, Pattern=staan
+	Constrained: Pattern=het
+Turn ID=36| A | A : ik hebben hem bijna aan de rand bovenaan
+	Free: Pattern=ik hebben hem, Pattern=aan de
+	Constrained: Pattern=de, Pattern=ik, Pattern=hebben
+Turn ID=37| B | B : oké dat zijn niet hetzelfde
+	Free: Pattern=niet, Pattern=oké, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=38| A | A : dit zijn een bak met de twee tandenborstel
+	Free: Pattern=de, Pattern=zijn een, Pattern=met, Pattern=een bak, Pattern=twee tandenborstel
+	Constrained: Pattern=tandenborstel, Pattern=bak, Pattern=een, Pattern=zijn
+Turn ID=39| A | A : en het neus ervoor
+	Free: Pattern=het neus, Pattern=en het
+	Constrained: Pattern=en, Pattern=neus, Pattern=het
+Turn ID=40| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : letter G
+	Free: 
+	Constrained: 
+Turn ID=42| A | A : en die liggen heel ietsje link van het midden van het scherm
+	Free: Pattern=heel, Pattern=van het midden, Pattern=die, Pattern=en, Pattern=het midden van het scherm, Pattern=link van het
+	Constrained: Pattern=van het scherm, Pattern=het midden, Pattern=het, Pattern=link van, Pattern=link, Pattern=van
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : en dan ja eigenlijk zeggen maar linksonder van het midden van het scherm als in als je de middenas van het scherm hebben zeggen maar dan daar
+	Free: Pattern=en dan, Pattern=van het midden, Pattern=dan, Pattern=zeggen maar, Pattern=de, Pattern=ja, Pattern=van het scherm hebben, Pattern=in, Pattern=als, Pattern=als je, Pattern=het midden van het scherm, Pattern=daar
+	Constrained: Pattern=van het scherm, Pattern=het midden, Pattern=dan, Pattern=het, Pattern=hebben, Pattern=zeggen, Pattern=als, Pattern=maar, Pattern=van, Pattern=en
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| B | B : mee eens
+	Free: 
+	Constrained: 
+Turn ID=47| A | A : of voor jou dus hier
+	Free: Pattern=voor jou, Pattern=hier
+	Constrained: Pattern=voor
+Turn ID=48| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=49| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=50| B | B : mee eens
+	Free: 
+	Constrained: 
+Turn ID=51| B | B : tandenborstel in het glaas met het neus en het armp
+	Free: Pattern=tandenborstel, Pattern=en het, Pattern=het, Pattern=in, Pattern=het neus, Pattern=met
+	Constrained: Pattern=en, Pattern=neus, Pattern=het
+Turn ID=52| A | A : yes
+	Free: 
+	Constrained: 
+Turn ID=53| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=54| B | B : hij staan net iets link van de vijfenzeventig procent qua links en rechts
+	Free: Pattern=net, Pattern=rechts, Pattern=staan, Pattern=links, Pattern=link van, Pattern=van de vijfenzeventig procent, Pattern=en
+	Constrained: Pattern=de, Pattern=procent, Pattern=link, Pattern=van, Pattern=vijfenzeventig procent
+Turn ID=55| B | B : en hij staan klein beetje boven de middellijn
+	Free: Pattern=boven de, Pattern=en, Pattern=staan
+	Constrained: Pattern=de, Pattern=boven
+Turn ID=56| A | A : ja ik hebben hem dus zeggen maar rechts van de vijfenzeventig procent maar wel boven de bovenlijn
+	Free: Pattern=rechts van, Pattern=wel, Pattern=zeggen maar, Pattern=boven de, Pattern=ja ik hebben hem, Pattern=van de vijfenzeventig procent, Pattern=maar
+	Constrained: Pattern=hebben, Pattern=zeggen, Pattern=ik, Pattern=maar, Pattern=de, Pattern=rechts, Pattern=ja, Pattern=ik hebben hem, Pattern=procent, Pattern=boven, Pattern=van, Pattern=vijfenzeventig procent
+Turn ID=57| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=58| B | B : ja ik hebben hem echt link van zeventig vijfenzeventig procent honderdmiljoen procent zeker
+	Free: Pattern=procent, Pattern=echt, Pattern=vijfenzeventig procent, Pattern=zeventig, Pattern=ja ik hebben hem, Pattern=link van
+	Constrained: Pattern=procent, Pattern=hebben, Pattern=link, Pattern=ik, Pattern=van, Pattern=ja, Pattern=ik hebben hem
+Turn ID=59| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=60| A | A : dan anders
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=61| B | B : rood knop
+	Free: 
+	Constrained: 
+Turn ID=62| A | A : gewoon beide
+	Free: Pattern=gewoon
+	Constrained: 
+Turn ID=63| A | A : bak met tandenborstel
+	Free: Pattern=tandenborstel, Pattern=met, Pattern=bak
+	Constrained: 
+Turn ID=64| A | A : en het neus
+	Free: Pattern=het neus, Pattern=en het
+	Constrained: Pattern=en, Pattern=neus, Pattern=het
+Turn ID=65| B | B : even zoeken hoor
+	Free: 
+	Constrained: 
+Turn ID=66| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=67| B | B : letter J
+	Free: 
+	Constrained: 
+Turn ID=68| A | A : en die staan als je de rechterhelft hebben ongeveer het midden zeggen maar ik zullen eerder zeggen zeventig procent zeggen maar van het scherm
+	Free: Pattern=van het scherm, Pattern=het midden, Pattern=zullen, Pattern=de, Pattern=procent, Pattern=staan, Pattern=zeggen maar, Pattern=hebben, Pattern=zeggen, Pattern=als je, Pattern=die, Pattern=ik, Pattern=en, Pattern=zeventig
+	Constrained: Pattern=het, Pattern=zeggen, Pattern=als, Pattern=van, Pattern=maar
+Turn ID=69| A | A : en dan wel in de bovenste helft ongeveer halverwege zullen we maar zeggen van boven naar beneden
+	Free: Pattern=zullen, Pattern=de, Pattern=en dan, Pattern=boven, Pattern=wel, Pattern=zeggen, Pattern=in, Pattern=van, Pattern=maar, Pattern=naar
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=70| B | B : bij mij staan die op de lijn van zeggen maar op de horizontaal lijn
+	Free: Pattern=de, Pattern=op, Pattern=staan, Pattern=zeggen maar, Pattern=die, Pattern=mij, Pattern=van
+	Constrained: Pattern=maar, Pattern=zeggen
+Turn ID=71| A | A : van het midden
+	Free: Pattern=van het midden
+	Constrained: Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=72| B | B : ja van het midden
+	Free: Pattern=van het midden, Pattern=ja
+	Constrained: Pattern=van, Pattern=het, Pattern=het midden
+Turn ID=73| A | A : nee ik hebben hem er echt boven staan
+	Free: Pattern=ik hebben hem, Pattern=boven, Pattern=staan, Pattern=nee, Pattern=echt, Pattern=er
+	Constrained: Pattern=ik, Pattern=hebben

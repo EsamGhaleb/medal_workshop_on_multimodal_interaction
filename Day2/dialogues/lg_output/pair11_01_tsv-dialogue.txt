@@ -1,0 +1,155 @@
+B|0| B: deze hebben _een vierkant_ schijf _aan de voorkant_ 
+B|1| B: _en_ _aan de linkerkant_ _dezelfde_ figuur maar _dan_ _twee_ keer _en_ _dat zijn_ _ja_ dobbelsteentjes _die_ _dan_ _van_ _groot_ _naar_ _klein_ gaan 
+A|2| A: [ja] 
+B|3| B: _en_ hij hebben _aan de_ _bovenkant_ ook nog _een soort_ _van_ 
+A|4| A: [bovenkant] 
+A|5| A: [ja] antenne of zo [ja] 
+B|6| B: [ja] 
+A|7| A: [dat zijn] nummer [een] 
+A|8| A: dit [zijn] [de] [twee] _kubus die_ [van] [klein] [naar] [groot] [aan de linkerkant] _zitten_ er _zitten_ er [twee] 
+A|9| A: [zijn] gelijk 
+B|10| B: _en_ 
+A|11| A: bovenaan bovenaan _zitten_ [een soort] antenne [en] [dan] [een vierkant] dinge eraan 
+B|12| B: _aan de voorkant_ [ja] [die] [vierkant] schijf _aan de voorkant_ 
+B|13| B: [dat zijn] d 
+A|14| A: [ja] 
+B|15| B: [vierkant] schijf _aan de voorkant_ [soort] [van] _joystick_ [aan de] [bovenkant] [en] [twee] identiek dobbelsteen 
+A|16| A: [twee] 
+A|17| A: [ja] 
+A|18| A: zestien 
+A|19| A: [ja] 
+B|20| B: [ja] 
+A|21| A: zestien 
+A|22| A: dit [zijn] het [vierkant] plaat vooraan 
+B|23| B: [ja] 
+A|24| A: met weer [een] antenne daarboven [en] link [twee] [dezelfde] 
+B|25| B: yes _de joystick_ [aan de] [bovenkant] 
+B|26| B: [dat zijn] i 
+A|27| A: [ja] 
+A|28| A: [de joystick] 
+B|29| B: [ja] hondenkluif [ja] 
+B|30| B: okee [vierkant] plateau _aan de voorkant_ plakken [aan de linkerkant] 
+B|31| B: [twee] identiek vormp lijken [kubus die] steeds [klein] worden [en] [joystick] [aan de] [bovenkant] 
+A|32| A: [ja] 
+A|33| A: [dat zijn] nummer [een] 
+A|34| A: [vierkant] plaat met [de joystick] 
+A|35| A: nee [vierkant] plaat [aan de voorkant] [joystick] 
+B|36| B: yes even kijken waar [zitten] [die] 
+B|37| B: ah [ja] [ja] [ja] [dat zijn] l 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een vierkant schijf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=een vierkant
+	Constrained: Pattern=vierkant, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=1| B | B : en aan de linkerkant dezelfde figuur maar dan twee keer en dat zijn ja dobbelsteentjes die dan van groot naar klein gaan
+	Free: Pattern=dat zijn, Pattern=ja, Pattern=dan, Pattern=groot, Pattern=die, Pattern=klein, Pattern=aan de linkerkant, Pattern=naar, Pattern=twee, Pattern=dezelfde, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en hij hebben aan de bovenkant ook nog een soort van
+	Free: Pattern=aan de, Pattern=bovenkant, Pattern=een soort, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=soort, Pattern=een
+Turn ID=4| A | A : bovenkant
+	Free: Pattern=bovenkant
+	Constrained: 
+Turn ID=5| A | A : ja antenne of zo ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=8| A | A : dit zijn de twee kubus die van klein naar groot aan de linkerkant zitten er zitten er twee
+	Free: Pattern=twee, Pattern=de, Pattern=groot, Pattern=zitten, Pattern=klein, Pattern=zijn, Pattern=aan de linkerkant, Pattern=naar, Pattern=van, Pattern=kubus die
+	Constrained: Pattern=de, Pattern=die, Pattern=aan de
+Turn ID=9| A | A : zijn gelijk
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=11| A | A : bovenaan bovenaan zitten een soort antenne en dan een vierkant dinge eraan
+	Free: Pattern=dan, Pattern=zitten, Pattern=een soort, Pattern=en, Pattern=een vierkant
+	Constrained: Pattern=soort, Pattern=vierkant, Pattern=een
+Turn ID=12| B | B : aan de voorkant ja die vierkant schijf aan de voorkant
+	Free: Pattern=aan de voorkant, Pattern=die, Pattern=vierkant, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=13| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : vierkant schijf aan de voorkant soort van joystick aan de bovenkant en twee identiek dobbelsteen
+	Free: Pattern=soort, Pattern=twee, Pattern=aan de, Pattern=bovenkant, Pattern=joystick, Pattern=van, Pattern=en, Pattern=vierkant, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| A | A : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : dit zijn het vierkant plaat vooraan
+	Free: Pattern=zijn, Pattern=vierkant
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : met weer een antenne daarboven en link twee dezelfde
+	Free: Pattern=dezelfde, Pattern=een, Pattern=twee, Pattern=en
+	Constrained: 
+Turn ID=25| B | B : yes de joystick aan de bovenkant
+	Free: Pattern=de joystick, Pattern=aan de, Pattern=bovenkant
+	Constrained: Pattern=de, Pattern=joystick
+Turn ID=26| B | B : dat zijn i
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : de joystick
+	Free: Pattern=de joystick
+	Constrained: Pattern=de, Pattern=joystick
+Turn ID=29| B | B : ja hondenkluif ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : okee vierkant plateau aan de voorkant plakken aan de linkerkant
+	Free: Pattern=aan de voorkant, Pattern=aan de linkerkant, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=aan de
+Turn ID=31| B | B : twee identiek vormp lijken kubus die steeds klein worden en joystick aan de bovenkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=bovenkant, Pattern=joystick, Pattern=klein, Pattern=en, Pattern=kubus die
+	Constrained: Pattern=die, Pattern=de
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=zijn
+Turn ID=34| A | A : vierkant plaat met de joystick
+	Free: Pattern=de joystick, Pattern=vierkant
+	Constrained: Pattern=de, Pattern=joystick
+Turn ID=35| A | A : nee vierkant plaat aan de voorkant joystick
+	Free: Pattern=aan de voorkant, Pattern=vierkant, Pattern=joystick
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=36| B | B : yes even kijken waar zitten die
+	Free: Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=37| B | B : ah ja ja ja dat zijn l
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn

@@ -1,0 +1,131 @@
+B|0| B: _dit_ lijken eigenlijk een klein beetje op een _gezicht_ je _hebben die_ beker _en dan_ _hebben_ je _zo'n soort_ _ovaal_ bol opsteken _er_ rechts uit 
+B|1| B: _en_ _hebben_ je vervolgens een vierkant _dat_ _zijn_ een rechthoekig staaf _die_ _zo_ recht omhoog gaan 
+B|2| B: _dan_ _hebben_ je nog een driehoekig staaf _die_ _er_ links uitkomen 
+A|3| A: [zo'n soort] v-tje [zo] 
+B|4| B: _ja_ _het_ aandoen vooral _aan_ een _gezicht_ _denken_ dus als je _de_ _de_ _de_ emmer _hebben_ _dan_ _hebben_ je zeggen maar een bal _die_ rechts [zo] net eruit opsteken _en dan_ _die_ driehoekig staaf _die_ komen _er_ zeggen maar links uit [zo] 
+A|5| A: _ja ja_ _ik_ [denken] [dat] _ik_ [het] 
+B|6| B: _dan_ _hebben_ je zeggen maar een bal _die_ rechts [zo] net eruit opsteken _en dan_ _die_ driehoekig staaf _die_ komen _er_ zeggen maar links uit [zo] 
+A|7| A: [en] _zitten_ [er] _twee ding_ bovenop 
+B|8| B: [ja] 
+A|9| A: [ja] _okee_ twaalf 
+B|10| B: [okee] 
+B|11| B: _dan_ mogen jij klikken [denken] [ik] [ja] 
+A|12| A: [dit] [hebben die] ronde [ovaal] [aan] [de] [aan] [de] rechterkant [dat] bolle [en dan] [aan] [de] linkerkant [dat] [ja] [dat] gevouwen dinge 
+B|13| B: [dat] _gezicht_ om [het] maar even [zo] te zeggen 
+A|14| A: _ja ja ja_ 
+B|15| B: [ja] a 
+B|16| B: _dit zijn_ zeggen maar [dat] een beetje op een _gezicht_ lijken dus je [hebben die] emmer je [hebben die] bal [dan] [hebben] je [twee ding] boven [en] één link [zitten] 
+A|17| A: [ja] 
+A|18| A: elf 
+B|19| B: [ja] 
+A|20| A: _dit zijn het gezicht_ 
+B|21| B: even kijken 
+A|22| A: met [die] [twee ding] bovenop 
+B|23| B: [ja ja ja] 
+B|24| B: j 
+B|25| B: [dit zijn het gezicht] 
+A|26| A: [ja] 
+A|27| A: zoeken 
+A|28| A: zestien 
+A|29| A: [dit zijn het gezicht] 
+B|30| B: even kijken 
+B|31| B: e 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit lijken eigenlijk een klein beetje op een gezicht je hebben die beker en dan hebben je zo'n soort ovaal bol opsteken er rechts uit
+	Free: Pattern=en dan, Pattern=gezicht, Pattern=hebben, Pattern=dit, Pattern=zo'n soort, Pattern=hebben die, Pattern=er, Pattern=ovaal
+	Constrained: Pattern=dan, Pattern=die, Pattern=en, Pattern=hebben
+Turn ID=1| B | B : en hebben je vervolgens een vierkant dat zijn een rechthoekig staaf die zo recht omhoog gaan
+	Free: Pattern=dat, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : dan hebben je nog een driehoekig staaf die er links uitkomen
+	Free: Pattern=die, Pattern=hebben, Pattern=er, Pattern=dan
+	Constrained: 
+Turn ID=3| A | A : zo'n soort v-tje zo
+	Free: Pattern=zo'n soort, Pattern=zo
+	Constrained: 
+Turn ID=4| B | B : ja het aandoen vooral aan een gezicht denken dus als je de de de emmer hebben dan hebben je zeggen maar een bal die rechts zo net eruit opsteken en dan die driehoekig staaf die komen er zeggen maar links uit zo
+	Free: Pattern=denken, Pattern=en dan, Pattern=dan, Pattern=gezicht, Pattern=het, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=er, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=5| A | A : ja ja ik denken dat ik het
+	Free: Pattern=dat, Pattern=denken, Pattern=ja ja, Pattern=het, Pattern=ik
+	Constrained: Pattern=ja
+Turn ID=6| B | B : dan hebben je zeggen maar een bal die rechts zo net eruit opsteken en dan die driehoekig staaf die komen er zeggen maar links uit zo
+	Free: Pattern=en dan, Pattern=dan, Pattern=hebben, Pattern=zo, Pattern=die, Pattern=er
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=7| A | A : en zitten er twee ding bovenop
+	Free: Pattern=twee ding, Pattern=en, Pattern=zitten, Pattern=er
+	Constrained: 
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja okee twaalf
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=11| B | B : dan mogen jij klikken denken ik ja
+	Free: Pattern=denken, Pattern=ik, Pattern=dan, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : dit hebben die ronde ovaal aan de aan de rechterkant dat bolle en dan aan de linkerkant dat ja dat gevouwen dinge
+	Free: Pattern=dat, Pattern=en dan, Pattern=dit, Pattern=ovaal, Pattern=hebben die, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: Pattern=die, Pattern=en, Pattern=hebben, Pattern=dan
+Turn ID=13| B | B : dat gezicht om het maar even zo te zeggen
+	Free: Pattern=zo, Pattern=gezicht, Pattern=het, Pattern=dat
+	Constrained: 
+Turn ID=14| A | A : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=15| B | B : ja a
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : dit zijn zeggen maar dat een beetje op een gezicht lijken dus je hebben die emmer je hebben die bal dan hebben je twee ding boven en één link zitten
+	Free: Pattern=dat, Pattern=dan, Pattern=gezicht, Pattern=hebben, Pattern=twee ding, Pattern=zitten, Pattern=en, Pattern=hebben die, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=hebben, Pattern=die
+Turn ID=17| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : dit zijn het gezicht
+	Free: Pattern=dit zijn het gezicht
+	Constrained: Pattern=gezicht, Pattern=het, Pattern=dit, Pattern=zijn, Pattern=dit zijn
+Turn ID=21| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=22| A | A : met die twee ding bovenop
+	Free: Pattern=twee ding, Pattern=die
+	Constrained: 
+Turn ID=23| B | B : ja ja ja
+	Free: Pattern=ja ja ja
+	Constrained: Pattern=ja ja, Pattern=ja
+Turn ID=24| B | B : j
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : dit zijn het gezicht
+	Free: Pattern=dit zijn het gezicht
+	Constrained: Pattern=gezicht, Pattern=het, Pattern=dit, Pattern=zijn, Pattern=dit zijn
+Turn ID=26| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : zoeken
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=29| A | A : dit zijn het gezicht
+	Free: Pattern=dit zijn het gezicht
+	Constrained: Pattern=gezicht, Pattern=het, Pattern=dit, Pattern=zijn, Pattern=dit zijn
+Turn ID=30| B | B : even kijken
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : e
+	Free: 
+	Constrained: 

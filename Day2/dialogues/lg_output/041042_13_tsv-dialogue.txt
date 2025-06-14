@@ -1,0 +1,335 @@
+B|0| B: _oké_ 
+B|1| B: _dit_ lijken _een_ beetje _ik_ vinden hem altijd _een_ beetje _op_ _een_ gezicht lijken _er_ _staan_ _een_ heel groot cirkel voorop _en er_ zitten _drie_ _van_ _die_ 
+B|2| B: _soort_ _van_ balk eromheen _en_ _met_ _al_ _aan_ _al_ _twee_ _de_ _kant_ _drie_ _van_ _die_ rond 
+A|3| A: [oké] 
+A|4| A: _ja_ 
+B|5| B: weten _je_ _wel_ ? _een_ _soort_ _van_ 
+A|6| A: _ja_ 
+A|7| A: _dan_ [de] 
+B|8| B: _ik_ zien _het_ _een_ beetje _als_ _staart_ of _zo_ 
+A|9| A: _ja_ 
+A|10| A: [soort] _Pippi Langkous_ _idee_ _en dan_ _ook een_ ondergrond 
+B|11| B: [ja] achtig [idee] 
+B|12| B: plateau _eronder_ [ja] 
+A|13| A: [ja] 
+A|14| A: _dat zijn_ bij mij nummer vijf 
+B|15| B: [oké] 
+A|16| A: dus vijf geel 
+B|17| B: [oké] _dit zijn_ _wel_ _iets_ moeilijk 
+B|18| B: sowieso _aan de linkerkant_ 
+B|19| B: [en dan] _niet_ [de] onderste rij _maar_ _één_ _daarboven_ 
+A|20| A: [ja] [dan] houden [het] bij mij [al] [op] want hij [staan] bij mij _echt_ _net iets_ _boven_ _de helft_ zelfs 
+B|21| B: [oké] 
+B|22| B: neeen _hier_ [echt] _niet_ _hier_ _staan die_ [echt] _wel_ naar onderen 
+A|23| A: [oké] 
+A|24| A: dus _dan staan die niet op dezelfde_ positie 
+A|25| A: dus _dat_ worden rood 
+A|26| A: [dit zijn] weer _die Pippi Langkous_ _met die_ [aan] beide [kant] [die] [drie] vormp 
+B|27| B: [dit zijn] J 
+A|28| A: [en] [de] grond 
+A|29| A: [en] [die] [staan] _echt _helemaal_ rechts_ onderin bij mij 
+B|30| B: [helemaal rechts] 
+A|31| A: _ja echt_ ertegenaan 
+B|32| B: _tegenaan_ 
+A|33| A: [ja] [er] zullen [één] vinger tussen _kunnen_ 
+A|34| A: [zo] [en] [zo] [maar] 
+B|35| B: [oké] [staan die niet op _dezelfde] plek_ 
+B|36| B: [dit zijn] [die] _clown_ 
+B|37| B: nou [die Pippi Langkous] bedoelen _ik_ 
+A|38| A: [de] 
+B|39| B: [met die] _staart_ 
+A|40| A: [ja] [met] [de] [staart] 
+B|41| B: _ja ik_ zien [er] [ook een] _clown_ in vanwege [dat] [soort] _van_ platgedrukt _neus_ voorop 
+A|42| A: [oké] 
+A|43| A: [ja ik] hebben [dan] [ik] hebben juist [een] ander [als] [clown] noemen dus 
+A|44| A: [ik] hebben [de] [clown] [met] [de] bol [neus] 
+B|45| B: [ja] 
+A|46| A: [maar] [dit zijn] dus [met] [de] plat [neus] [Pippi Langkous] 
+B|47| B: [ja] 
+A|48| A: _dat zijn_ elf 
+B|49| B: [en dan] [zijn] [het] of _linkerkant van het scherm_ [en dan] ongeveer [op] [de helft] _van het scherm_ [net iets] daaronder [en dan] in _het midden_ 
+A|50| A: [net iets] [eronder] 
+B|51| B: [net iets] [ik] _denken_ [net iets] onder _het midden_ 
+A|52| A: [oké] _nee dat_ _deze staan_ _denken ik [net_ iets] [daarboven] 
+B|53| B: [en dan] in _het midden_ _wel_ 
+A|54| A: dus _dat zijn niet_ [dezelfde plek] 
+A|55| A: [dit zijn] weer [de] [Pippi Langkous] 
+B|56| B: [ja] 
+A|57| A: dus [met] [de] [twee] 
+B|58| B: P 
+A|59| A: [en] [die] [staan] [rechts] [van [het] midden] 
+A|60| A: [en er] zullen [er] nog _één boven_ _kunnen_ 
+A|61| A: hij [staan] [net] [één] stap [rechts] [van [het] midden] 
+A|62| A: dus [als] [je] [het midden] hebben [staan die] [wel] [tegenaan] 
+A|63| A: [en] _bovenin_ zullen [er] nog [één] tussen _kunnen_ 
+B|64| B: [nee [dat] zijn niet] hetzelfde 
+B|65| B: [dit zijn] [die Pippi Langkous] 
+A|66| A: [oké] 
+B|67| B: [met die] [staart] 
+A|68| A: [ja] 
+A|69| A: [ja] 
+A|70| A: [dat zijn] nummer negen 
+B|71| B: in [het midden] [helemaal] [bovenin] 
+B|72| B: _kunnen er_ [denken ik net] [wel] [net] [niet] [één boven] 
+A|73| A: [hier] [kunnen er] bijna [twee] tussen dus [niet] [dezelfde] 
+A|74| A: [dit zijn] [Pippi Langkous] 
+B|75| B: [dit zijn] L 
+A|76| A: [en] daar [kunnen] [die] [staan] [aan de [linkerkant] van het scherm] 
+B|77| B: _link_ 
+A|78| A: [link] [ja] 
+B|79| B: [nee] [dan staan die niet op [dezelfde] plek] 
+B|80| B: [deze staan] [ja [echt] helemaal] naar [rechts] 
+A|81| A: [oké] 
+B|82| B: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| B | B : dit lijken een beetje ik vinden hem altijd een beetje op een gezicht lijken er staan een heel groot cirkel voorop en er zitten drie van die
+	Free: Pattern=op, Pattern=en er, Pattern=drie, Pattern=dit, Pattern=die, Pattern=er, Pattern=ik, Pattern=van, Pattern=een, Pattern=staan
+	Constrained: Pattern=er, Pattern=en
+Turn ID=2| B | B : soort van balk eromheen en met al aan al twee de kant drie van die rond
+	Free: Pattern=kant, Pattern=soort, Pattern=twee, Pattern=al, Pattern=drie, Pattern=met, Pattern=die, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=3| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : weten je wel ? een soort van
+	Free: Pattern=soort, Pattern=van, Pattern=je, Pattern=een, Pattern=wel
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : dan de
+	Free: Pattern=de, Pattern=dan
+	Constrained: 
+Turn ID=8| B | B : ik zien het een beetje als staart of zo
+	Free: Pattern=een, Pattern=zo, Pattern=als, Pattern=ik, Pattern=het, Pattern=staart
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : soort Pippi Langkous idee en dan ook een ondergrond
+	Free: Pattern=soort, Pattern=ook een, Pattern=en dan, Pattern=Pippi Langkous, Pattern=idee
+	Constrained: Pattern=een, Pattern=dan, Pattern=en
+Turn ID=11| B | B : ja achtig idee
+	Free: Pattern=ja, Pattern=idee
+	Constrained: 
+Turn ID=12| B | B : plateau eronder ja
+	Free: Pattern=ja, Pattern=eronder
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dat zijn bij mij nummer vijf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=15| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=16| A | A : dus vijf geel
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : oké dit zijn wel iets moeilijk
+	Free: Pattern=dit zijn, Pattern=oké, Pattern=wel, Pattern=iets
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=18| B | B : sowieso aan de linkerkant
+	Free: Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=19| B | B : en dan niet de onderste rij maar één daarboven
+	Free: Pattern=de, Pattern=en dan, Pattern=niet, Pattern=maar, Pattern=één, Pattern=daarboven
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=20| A | A : ja dan houden het bij mij al op want hij staan bij mij echt net iets boven de helft zelfs
+	Free: Pattern=op, Pattern=staan, Pattern=net iets, Pattern=het, Pattern=echt, Pattern=de helft, Pattern=ja, Pattern=al, Pattern=boven, Pattern=dan
+	Constrained: Pattern=de, Pattern=net, Pattern=iets
+Turn ID=21| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=22| B | B : neeen hier echt niet hier staan die echt wel naar onderen
+	Free: Pattern=hier, Pattern=wel, Pattern=echt, Pattern=niet, Pattern=staan die
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=23| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=24| A | A : dus dan staan die niet op dezelfde positie
+	Free: Pattern=dan staan die niet op dezelfde
+	Constrained: Pattern=dezelfde, Pattern=op, Pattern=staan, Pattern=staan die niet op dezelfde, Pattern=die, Pattern=niet, Pattern=staan die, Pattern=dan
+Turn ID=25| A | A : dus dat worden rood
+	Free: Pattern=dat
+	Constrained: 
+Turn ID=26| A | A : dit zijn weer die Pippi Langkous met die aan beide kant die drie vormp
+	Free: Pattern=aan, Pattern=drie, Pattern=die, Pattern=die Pippi Langkous, Pattern=dit zijn, Pattern=kant, Pattern=met die
+	Constrained: Pattern=Pippi Langkous, Pattern=dit, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=27| B | B : dit zijn J
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=28| A | A : en de grond
+	Free: Pattern=de, Pattern=en
+	Constrained: 
+Turn ID=29| A | A : en die staan echt helemaal rechts onderin bij mij
+	Free: Pattern=echt helemaal, Pattern=staan, Pattern=helemaal rechts, Pattern=die, Pattern=en
+	Constrained: Pattern=helemaal, Pattern=echt, Pattern=rechts
+Turn ID=30| B | B : helemaal rechts
+	Free: Pattern=helemaal rechts
+	Constrained: Pattern=helemaal, Pattern=rechts
+Turn ID=31| A | A : ja echt ertegenaan
+	Free: Pattern=ja echt
+	Constrained: Pattern=ja, Pattern=echt
+Turn ID=32| B | B : tegenaan
+	Free: Pattern=tegenaan
+	Constrained: 
+Turn ID=33| A | A : ja er zullen één vinger tussen kunnen
+	Free: Pattern=ja, Pattern=kunnen, Pattern=er, Pattern=één
+	Constrained: 
+Turn ID=34| A | A : zo en zo maar
+	Free: Pattern=zo, Pattern=maar, Pattern=en
+	Constrained: 
+Turn ID=35| B | B : oké staan die niet op dezelfde plek
+	Free: Pattern=staan die niet op dezelfde, Pattern=dezelfde plek, Pattern=oké
+	Constrained: Pattern=dezelfde, Pattern=op, Pattern=staan, Pattern=die, Pattern=niet, Pattern=staan die
+Turn ID=36| B | B : dit zijn die clown
+	Free: Pattern=dit zijn, Pattern=die, Pattern=clown
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=37| B | B : nou die Pippi Langkous bedoelen ik
+	Free: Pattern=die Pippi Langkous, Pattern=ik
+	Constrained: Pattern=Pippi Langkous, Pattern=die
+Turn ID=38| A | A : de
+	Free: Pattern=de
+	Constrained: 
+Turn ID=39| B | B : met die staart
+	Free: Pattern=met die, Pattern=staart
+	Constrained: Pattern=die, Pattern=met
+Turn ID=40| A | A : ja met de staart
+	Free: Pattern=ja, Pattern=de, Pattern=staart, Pattern=met
+	Constrained: 
+Turn ID=41| B | B : ja ik zien er ook een clown in vanwege dat soort van platgedrukt neus voorop
+	Free: Pattern=dat, Pattern=soort, Pattern=ook een, Pattern=clown, Pattern=neus, Pattern=van, Pattern=ja ik, Pattern=er
+	Constrained: Pattern=ja, Pattern=ik, Pattern=een
+Turn ID=42| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=43| A | A : ja ik hebben dan ik hebben juist een ander als clown noemen dus
+	Free: Pattern=clown, Pattern=dan, Pattern=een, Pattern=als, Pattern=ja ik, Pattern=ik
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=44| A | A : ik hebben de clown met de bol neus
+	Free: Pattern=de, Pattern=clown, Pattern=neus, Pattern=met, Pattern=ik
+	Constrained: 
+Turn ID=45| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=46| A | A : maar dit zijn dus met de plat neus Pippi Langkous
+	Free: Pattern=de, Pattern=Pippi Langkous, Pattern=neus, Pattern=met, Pattern=maar, Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=47| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=49| B | B : en dan zijn het of linkerkant van het scherm en dan ongeveer op de helft van het scherm net iets daaronder en dan in het midden
+	Free: Pattern=van het scherm, Pattern=het midden, Pattern=de helft, Pattern=en dan, Pattern=op, Pattern=net iets, Pattern=het, Pattern=zijn, Pattern=linkerkant van het scherm
+	Constrained: Pattern=van het scherm, Pattern=net, Pattern=dan, Pattern=het, Pattern=van het, Pattern=de, Pattern=iets, Pattern=van, Pattern=en
+Turn ID=50| A | A : net iets eronder
+	Free: Pattern=net iets, Pattern=eronder
+	Constrained: Pattern=net, Pattern=iets
+Turn ID=51| B | B : net iets ik denken net iets onder het midden
+	Free: Pattern=net iets, Pattern=het midden, Pattern=denken, Pattern=ik
+	Constrained: Pattern=het, Pattern=net, Pattern=iets
+Turn ID=52| A | A : oké nee dat deze staan denken ik net iets daarboven
+	Free: Pattern=nee dat, Pattern=net iets, Pattern=denken ik net, Pattern=oké, Pattern=deze staan, Pattern=daarboven
+	Constrained: Pattern=dat, Pattern=iets, Pattern=staan, Pattern=nee, Pattern=ik, Pattern=denken, Pattern=net
+Turn ID=53| B | B : en dan in het midden wel
+	Free: Pattern=het midden, Pattern=en dan, Pattern=wel
+	Constrained: Pattern=het, Pattern=dan, Pattern=en
+Turn ID=54| A | A : dus dat zijn niet dezelfde plek
+	Free: Pattern=dat zijn niet, Pattern=dezelfde plek
+	Constrained: Pattern=dezelfde, Pattern=niet, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=55| A | A : dit zijn weer de Pippi Langkous
+	Free: Pattern=dit zijn, Pattern=Pippi Langkous, Pattern=de
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=56| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=57| A | A : dus met de twee
+	Free: Pattern=de, Pattern=twee, Pattern=met
+	Constrained: 
+Turn ID=58| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=59| A | A : en die staan rechts van het midden
+	Free: Pattern=het midden, Pattern=rechts, Pattern=staan, Pattern=die, Pattern=van het, Pattern=en
+	Constrained: Pattern=van, Pattern=het
+Turn ID=60| A | A : en er zullen er nog één boven kunnen
+	Free: Pattern=één boven, Pattern=en er, Pattern=kunnen, Pattern=er
+	Constrained: Pattern=er, Pattern=één, Pattern=boven, Pattern=en
+Turn ID=61| A | A : hij staan net één stap rechts van het midden
+	Free: Pattern=het midden, Pattern=net, Pattern=rechts, Pattern=staan, Pattern=van het, Pattern=één
+	Constrained: Pattern=van, Pattern=het
+Turn ID=62| A | A : dus als je het midden hebben staan die wel tegenaan
+	Free: Pattern=het midden, Pattern=staan die, Pattern=wel, Pattern=als, Pattern=je, Pattern=tegenaan
+	Constrained: Pattern=het, Pattern=die, Pattern=staan
+Turn ID=63| A | A : en bovenin zullen er nog één tussen kunnen
+	Free: Pattern=kunnen, Pattern=er, Pattern=en, Pattern=één, Pattern=bovenin
+	Constrained: 
+Turn ID=64| B | B : nee dat zijn niet hetzelfde
+	Free: Pattern=dat zijn niet, Pattern=nee dat
+	Constrained: Pattern=niet, Pattern=nee, Pattern=zijn, Pattern=dat, Pattern=dat zijn
+Turn ID=65| B | B : dit zijn die Pippi Langkous
+	Free: Pattern=die Pippi Langkous, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=zijn, Pattern=die, Pattern=Pippi Langkous
+Turn ID=66| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=67| B | B : met die staart
+	Free: Pattern=met die, Pattern=staart
+	Constrained: Pattern=die, Pattern=met
+Turn ID=68| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=69| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=70| A | A : dat zijn nummer negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=71| B | B : in het midden helemaal bovenin
+	Free: Pattern=het midden, Pattern=helemaal, Pattern=bovenin
+	Constrained: Pattern=het
+Turn ID=72| B | B : kunnen er denken ik net wel net niet één boven
+	Free: Pattern=net, Pattern=denken ik net, Pattern=niet, Pattern=één boven, Pattern=wel, Pattern=kunnen er
+	Constrained: Pattern=boven, Pattern=er, Pattern=ik, Pattern=één, Pattern=denken, Pattern=net, Pattern=kunnen
+Turn ID=73| A | A : hier kunnen er bijna twee tussen dus niet dezelfde
+	Free: Pattern=hier, Pattern=niet, Pattern=kunnen er, Pattern=twee, Pattern=dezelfde
+	Constrained: Pattern=kunnen, Pattern=er
+Turn ID=74| A | A : dit zijn Pippi Langkous
+	Free: Pattern=dit zijn, Pattern=Pippi Langkous
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=75| B | B : dit zijn L
+	Free: Pattern=dit zijn
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=76| A | A : en daar kunnen die staan aan de linkerkant van het scherm
+	Free: Pattern=kunnen, Pattern=staan, Pattern=die, Pattern=en, Pattern=aan de linkerkant, Pattern=linkerkant van het scherm
+	Constrained: Pattern=van het scherm, Pattern=het, Pattern=van het, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=77| B | B : link
+	Free: Pattern=link
+	Constrained: 
+Turn ID=78| A | A : link ja
+	Free: Pattern=ja, Pattern=link
+	Constrained: 
+Turn ID=79| B | B : nee dan staan die niet op dezelfde plek
+	Free: Pattern=dan staan die niet op dezelfde, Pattern=dezelfde plek, Pattern=nee
+	Constrained: Pattern=dezelfde, Pattern=op, Pattern=staan, Pattern=staan die niet op dezelfde, Pattern=die, Pattern=niet, Pattern=staan die, Pattern=dan
+Turn ID=80| B | B : deze staan ja echt helemaal naar rechts
+	Free: Pattern=ja echt, Pattern=echt helemaal, Pattern=deze staan, Pattern=rechts
+	Constrained: Pattern=helemaal, Pattern=ja, Pattern=echt, Pattern=staan
+Turn ID=81| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=82| B | B : nee
+	Free: Pattern=nee
+	Constrained: 

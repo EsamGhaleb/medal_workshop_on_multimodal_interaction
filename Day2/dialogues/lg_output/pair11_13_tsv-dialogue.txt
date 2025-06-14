@@ -1,0 +1,95 @@
+B|0| B: hier hebben we het net over die schijf maar _dit_ keer _aan de onderkant_ 
+A|1| A: [aan de onderkant] 
+A|2| A: _ja_ 
+B|3| B: [ja] 
+A|4| A: _dat zijn_ dan twee 
+B|5| B: [ja] 
+A|6| A: _dit zijn_ weer [de] plaat [aan de onderkant] 
+B|7| B: okee duidelijk 
+B|8| B: [dat zijn] h 
+B|9| B: [dit zijn] een groot vierkant _plateau aan de onderkant_ plakken 
+A|10| A: _met_ twee 
+B|11| B: [met] een rond schijf [aan de] voorkant van het kop 
+A|12| A: [ja] 
+A|13| A: [dat zijn] dertien 
+A|14| A: [dit zijn] [de] plaat [aan de onderkant] 
+B|15| B: [de] groot schijf [aan de onderkant] 
+A|16| A: [ja] 
+B|17| B: [dat zijn] m 
+B|18| B: groot vierkant schijf [aan de onderkant] plakken 
+B|19| B: rond schijf [aan de] voorkant 
+A|20| A: [ja] negen 
+A|21| A: [plateau aan de onderkant] 
+B|22| B: n 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : hier hebben we het net over die schijf maar dit keer aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=dit
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=1| A | A : aan de onderkant
+	Free: Pattern=aan de onderkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dat zijn dan twee
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : dit zijn weer de plaat aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=dit, Pattern=de, Pattern=aan de
+Turn ID=7| B | B : okee duidelijk
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : dat zijn h
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=9| B | B : dit zijn een groot vierkant plateau aan de onderkant plakken
+	Free: Pattern=plateau aan de onderkant, Pattern=dit zijn
+	Constrained: Pattern=dit, Pattern=de, Pattern=aan de onderkant, Pattern=aan de
+Turn ID=10| A | A : met twee
+	Free: Pattern=met
+	Constrained: 
+Turn ID=11| B | B : met een rond schijf aan de voorkant van het kop
+	Free: Pattern=aan de, Pattern=met
+	Constrained: Pattern=de
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=14| A | A : dit zijn de plaat aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=dit, Pattern=de, Pattern=aan de
+Turn ID=15| B | B : de groot schijf aan de onderkant
+	Free: Pattern=aan de onderkant, Pattern=de
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : dat zijn m
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=18| B | B : groot vierkant schijf aan de onderkant plakken
+	Free: Pattern=aan de onderkant
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=19| B | B : rond schijf aan de voorkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de
+Turn ID=20| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : plateau aan de onderkant
+	Free: Pattern=plateau aan de onderkant
+	Constrained: Pattern=de, Pattern=aan de onderkant, Pattern=aan de
+Turn ID=22| B | B : n
+	Free: 
+	Constrained: 

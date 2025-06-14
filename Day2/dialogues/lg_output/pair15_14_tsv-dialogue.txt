@@ -1,0 +1,167 @@
+A|0| A: _okee_ je hebben _weer_ dat kopvormpje 
+A|1| A: erbovenop _ja_ _liggen een_ bal 
+B|2| B: [ja] 
+A|3| A: _aan de_ Rechtervoorkant beetje [ja] voorkant beetje veel naar rechts daar hebben je één [ja] _een_ paal 
+B|4| B: [ja] 
+A|5| A: dus gewoon _een_ [ja] nou _een_ vierkant paal 
+B|6| B: _en_ dan [aan] allebei [de] kant soort _van_ _ding_ [aan de] zijkant 
+A|7| A: [en] erdoorheen 
+A|8| A: [ja] 
+A|9| A: [ja] _er_ doorheen _zitten een_ je weten wel zo'n [ding] [van] IKEA waar je je zo'n [ding] 
+B|10| B: [ja] 
+B|11| B: _die_ [ja] inderdaad nee ik snapen hem [ja] 
+A|12| A: [ja] 
+B|13| B: a 
+B|14| B: [er] [liggen een] bollet _zeggen maar_ bovenop het kop 
+B|15| B: [en] dan [zitten] [er] voorin [zitten een] soort [van] [een] langwerpig _zeggen maar_ _een _een_ een_ rechthoek _zeggen maar_ [een] blok [er] voorop _zeggen maar_ 
+A|16| A: [ja] [een] balkachtig 
+B|17| B: [een] balk-ish [ja] 
+B|18| B: [en] dan _met_ twee [van] _die_ dinge [aan de] zijkant 
+A|19| A: [ja] 
+B|20| B: [ja] 
+A|21| A: [met] [een] beetje zo'n [aan de] linkerkant [een] l-curve 
+B|22| B: _die_ _IKEA-sleutel_ 
+A|23| A: [ja] [de] [IKEA-sleutel] 
+B|24| B: [ja] 
+A|25| A: veertien 
+A|26| A: _dit _zijn_ die_ [met] [een een] bal erbovenop 
+A|27| A: [met] erdoorheen [zeggen maar] [die] IKEA tang 
+B|28| B: [ja] [ja] _met de_ staaf [er] voorop nog 
+A|29| A: [ja] 
+B|30| B: [ja] 
+B|31| B: h 
+B|32| B: [dit zijn] [zijn die] [weer] diegene _met de_ IKEAsleutels [aan de] zijkant 
+A|33| A: _okee_ 
+B|34| B: [een] bolle bovenop 
+A|35| A: [ja] acht 
+B|36| B: [okee] 
+A|37| A: even kijken [dit [zijn] die] [met de] bal erbovenop [en] [de] [IKEA-sleutel] erdoorheen 
+B|38| B: [ja] c 
+B|39| B: [dit zijn] [met de] twee IKEA-sleutels [en] bolletje bovenop 
+A|40| A: yes tien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee je hebben weer dat kopvormpje
+	Free: Pattern=weer, Pattern=okee
+	Constrained: 
+Turn ID=1| A | A : erbovenop ja liggen een bal
+	Free: Pattern=liggen een, Pattern=ja
+	Constrained: Pattern=een
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : aan de Rechtervoorkant beetje ja voorkant beetje veel naar rechts daar hebben je één ja een paal
+	Free: Pattern=aan de, Pattern=een, Pattern=ja
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : dus gewoon een ja nou een vierkant paal
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en dan aan allebei de kant soort van ding aan de zijkant
+	Free: Pattern=aan de, Pattern=ding, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| A | A : en erdoorheen
+	Free: Pattern=en
+	Constrained: 
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja er doorheen zitten een je weten wel zo'n ding van IKEA waar je je zo'n ding
+	Free: Pattern=ja, Pattern=ding, Pattern=er, Pattern=zitten een, Pattern=van
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : die ja inderdaad nee ik snapen hem ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : a
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : er liggen een bollet zeggen maar bovenop het kop
+	Free: Pattern=zeggen maar, Pattern=liggen een, Pattern=er
+	Constrained: Pattern=een
+Turn ID=15| B | B : en dan zitten er voorin zitten een soort van een langwerpig zeggen maar een een een rechthoek zeggen maar een blok er voorop zeggen maar
+	Free: Pattern=een, Pattern=zeggen maar, Pattern=een een, Pattern=zitten, Pattern=er, Pattern=zitten een, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=zitten
+Turn ID=16| A | A : ja een balkachtig
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : een balk-ish ja
+	Free: Pattern=een, Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : en dan met twee van die dinge aan de zijkant
+	Free: Pattern=aan de, Pattern=met, Pattern=die, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : met een beetje zo'n aan de linkerkant een l-curve
+	Free: Pattern=aan de, Pattern=een, Pattern=met
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=22| B | B : die IKEA-sleutel
+	Free: Pattern=die, Pattern=IKEA-sleutel
+	Constrained: 
+Turn ID=23| A | A : ja de IKEA-sleutel
+	Free: Pattern=IKEA-sleutel, Pattern=ja, Pattern=de
+	Constrained: 
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : veertien
+	Free: 
+	Constrained: 
+Turn ID=26| A | A : dit zijn die met een een bal erbovenop
+	Free: Pattern=zijn die, Pattern=een een, Pattern=dit zijn, Pattern=met
+	Constrained: Pattern=een, Pattern=die
+Turn ID=27| A | A : met erdoorheen zeggen maar die IKEA tang
+	Free: Pattern=zeggen maar, Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=28| B | B : ja ja met de staaf er voorop nog
+	Free: Pattern=met de, Pattern=er, Pattern=ja
+	Constrained: Pattern=de, Pattern=met
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dit zijn zijn die weer diegene met de IKEAsleutels aan de zijkant
+	Free: Pattern=met de, Pattern=aan de, Pattern=zijn die, Pattern=weer, Pattern=dit zijn
+	Constrained: Pattern=aan, Pattern=de, Pattern=met, Pattern=die
+Turn ID=33| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=34| B | B : een bolle bovenop
+	Free: Pattern=een
+	Constrained: 
+Turn ID=35| A | A : ja acht
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=37| A | A : even kijken dit zijn die met de bal erbovenop en de IKEA-sleutel erdoorheen
+	Free: Pattern=IKEA-sleutel, Pattern=zijn die, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=die, Pattern=de, Pattern=met
+Turn ID=38| B | B : ja c
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : dit zijn met de twee IKEA-sleutels en bolletje bovenop
+	Free: Pattern=dit zijn, Pattern=met de, Pattern=en
+	Constrained: Pattern=de, Pattern=met
+Turn ID=40| A | A : yes tien
+	Free: 
+	Constrained: 

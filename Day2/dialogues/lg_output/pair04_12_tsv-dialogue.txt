@@ -1,0 +1,155 @@
+A|0| A: hier _hebben_ _je_ _de hoofdvorm en dan_ _rechts_ _van_ _de hoofdvorm_ _hebben_ _je_ _een_ cirkel _op_ _zijn_ plat kant 
+A|1| A: nee _dat_ _zijn_ trouwens _rechts_ links _hebben_ _je_ één _ja_ wat _zijn_ het _een_ rond staaf _maar dan_ _de_ helft daarvan 
+A|2| A: _en aan_ _die_ rond staaf zitten _een soort_ puntvormig puntvormig voorwerp 
+B|3| B: [ja] 
+B|4| B: c 
+B|5| B: i 
+B|6| B: [je] [hebben] [de hoofdvorm en dan] voor rechtsvoor [zijn] [een] cirkelplateau _waar_ _eigenlijk_ _in_ principe _iets op kunnen_ staan 
+B|7| B: link staan dus [ja] [die] [die] schuin buis doormidden [maar dan] _met een_ hol _erin_ 
+A|8| A: [ja] 
+B|9| B: [en] zo'n pyramide naar beneden 
+A|10| A: nummer acht 
+A|11| A: _dit zijn de hoofdvorm_ waarbij _er_ _rechts_ [een] cirkel [zijn] gewoon _zo_ plat 
+A|12| A: links [hebben] [je] [die] vorm [die] half uitsnijden [zijn] _met een soort_ spits _punt_ [erin] 
+B|13| B: [rechts] [zijn] [een] 
+A|14| A: [ja] [een] cirkel [die] eraan vast [zijn] plakken [waar] [je] [iets op kunnen] voortzetten 
+A|15| A: [in] feit 
+A|16| A: [en dan] links [hebben] [je] [die] rond staaf [die] [eigenlijk] door [de] helft [zijn] 
+B|17| B: [ja] 
+B|18| B: [ja] 
+B|19| B: l 
+B|20| B: _dit zijn de hoofdvorm [met_ een soort] [van] plateau [een] cirkelplateau voorop 
+B|21| B: [en _aan] de_ zijkant [een soort] [van] [die] buis [met] [dat] hol [en] [die] schuin pyramide [er] 
+A|22| A: [ja] 
+A|23| A: _met die_ _punt_ 
+B|24| B: [ja] 
+A|25| A: [ja] 
+A|26| A: nummer twee 
+A|27| A: [dit zijn de hoofdvorm _met] die_ rond staaf _aan de linkerkant die_ uitsnijden [zijn] _met die_ _punt_ [erin] 
+B|28| B: [ja] 
+B|29| B: [je] bedoelen [met die] schuin [punt] [zo] naar beneden 
+A|30| A: [ja] 
+B|31| B: h 
+B|32| B: [dit zijn de hoofdvorm met] [eigenlijk] [aan de linkerkant die] [soort] [van] hol buis [met die] pyramide [die] [er] [dan] [zo] schuin [in] opsteken 
+B|33| B: [en dan] [dat] cirkelplateau [aan de] rechterkant 
+A|34| A: [ja] 
+A|35| A: [waar] [je] [iets op kunnen] voortzetten 
+B|36| B: [ja] 
+A|37| A: nummer twee 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : hier hebben je de hoofdvorm en dan rechts van de hoofdvorm hebben je een cirkel op zijn plat kant
+	Free: Pattern=de hoofdvorm, Pattern=rechts, Pattern=op, Pattern=een, Pattern=hebben, Pattern=de hoofdvorm en dan, Pattern=van, Pattern=zijn, Pattern=je
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=en dan, Pattern=dan, Pattern=en
+Turn ID=1| A | A : nee dat zijn trouwens rechts links hebben je één ja wat zijn het een rond staaf maar dan de helft daarvan
+	Free: Pattern=dat, Pattern=een, Pattern=hebben, Pattern=maar dan, Pattern=zijn, Pattern=je, Pattern=de, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=dan
+Turn ID=2| A | A : en aan die rond staaf zitten een soort puntvormig puntvormig voorwerp
+	Free: Pattern=een soort, Pattern=en aan, Pattern=die
+	Constrained: Pattern=en, Pattern=een, Pattern=soort
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : c
+	Free: 
+	Constrained: 
+Turn ID=5| B | B : i
+	Free: 
+	Constrained: 
+Turn ID=6| B | B : je hebben de hoofdvorm en dan voor rechtsvoor zijn een cirkelplateau waar eigenlijk in principe iets op kunnen staan
+	Free: Pattern=waar, Pattern=een, Pattern=eigenlijk, Pattern=in, Pattern=de hoofdvorm en dan, Pattern=zijn, Pattern=je, Pattern=iets op kunnen, Pattern=hebben
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=en dan, Pattern=op, Pattern=dan, Pattern=en
+Turn ID=7| B | B : link staan dus ja die die schuin buis doormidden maar dan met een hol erin
+	Free: Pattern=ja, Pattern=die, Pattern=erin, Pattern=met een, Pattern=maar dan
+	Constrained: Pattern=dan, Pattern=met, Pattern=een
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : en zo'n pyramide naar beneden
+	Free: Pattern=en
+	Constrained: 
+Turn ID=10| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=11| A | A : dit zijn de hoofdvorm waarbij er rechts een cirkel zijn gewoon zo plat
+	Free: Pattern=rechts, Pattern=een, Pattern=zo, Pattern=er, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+	Constrained: Pattern=de, Pattern=zijn, Pattern=de hoofdvorm
+Turn ID=12| A | A : links hebben je die vorm die half uitsnijden zijn met een soort spits punt erin
+	Free: Pattern=punt, Pattern=hebben, Pattern=met een soort, Pattern=die, Pattern=erin, Pattern=zijn, Pattern=je
+	Constrained: Pattern=soort, Pattern=een, Pattern=met, Pattern=met een, Pattern=een soort
+Turn ID=13| B | B : rechts zijn een
+	Free: Pattern=rechts, Pattern=zijn, Pattern=een
+	Constrained: 
+Turn ID=14| A | A : ja een cirkel die eraan vast zijn plakken waar je iets op kunnen voortzetten
+	Free: Pattern=ja, Pattern=waar, Pattern=een, Pattern=iets op kunnen, Pattern=die, Pattern=zijn, Pattern=je
+	Constrained: Pattern=op
+Turn ID=15| A | A : in feit
+	Free: Pattern=in
+	Constrained: 
+Turn ID=16| A | A : en dan links hebben je die rond staaf die eigenlijk door de helft zijn
+	Free: Pattern=de, Pattern=en dan, Pattern=hebben, Pattern=eigenlijk, Pattern=die, Pattern=zijn, Pattern=je
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : dit zijn de hoofdvorm met een soort van plateau een cirkelplateau voorop
+	Free: Pattern=dit zijn de hoofdvorm met, Pattern=met een soort, Pattern=van, Pattern=een
+	Constrained: Pattern=de hoofdvorm, Pattern=soort, Pattern=de, Pattern=een, Pattern=met, Pattern=met een, Pattern=een soort, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=21| B | B : en aan de zijkant een soort van die buis met dat hol en die schuin pyramide er
+	Free: Pattern=dat, Pattern=aan de, Pattern=met, Pattern=die, Pattern=er, Pattern=een soort, Pattern=en aan, Pattern=van, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=soort, Pattern=en
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : met die punt
+	Free: Pattern=met die, Pattern=punt
+	Constrained: Pattern=met, Pattern=die
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : nummer twee
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : dit zijn de hoofdvorm met die rond staaf aan de linkerkant die uitsnijden zijn met die punt erin
+	Free: Pattern=met die, Pattern=punt, Pattern=dit zijn de hoofdvorm met, Pattern=aan de linkerkant die, Pattern=erin, Pattern=zijn
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : je bedoelen met die schuin punt zo naar beneden
+	Free: Pattern=met die, Pattern=zo, Pattern=je, Pattern=punt
+	Constrained: Pattern=met, Pattern=die
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=32| B | B : dit zijn de hoofdvorm met eigenlijk aan de linkerkant die soort van hol buis met die pyramide die er dan zo schuin in opsteken
+	Free: Pattern=met die, Pattern=soort, Pattern=dit zijn de hoofdvorm met, Pattern=dan, Pattern=aan de linkerkant die, Pattern=in, Pattern=die, Pattern=er, Pattern=van, Pattern=zo, Pattern=eigenlijk
+	Constrained: Pattern=de hoofdvorm, Pattern=de, Pattern=aan de, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=33| B | B : en dan dat cirkelplateau aan de rechterkant
+	Free: Pattern=aan de, Pattern=en dan, Pattern=dat
+	Constrained: Pattern=de, Pattern=dan, Pattern=en
+Turn ID=34| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : waar je iets op kunnen voortzetten
+	Free: Pattern=iets op kunnen, Pattern=waar, Pattern=je
+	Constrained: Pattern=op
+Turn ID=36| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : nummer twee
+	Free: 
+	Constrained: 

@@ -1,0 +1,163 @@
+A|0| A: _okee_ nou _de_ kopvorm _met_ rechts naar _de_ rechterkant uitstekend _een_ balk eindigen in _een_ _ja_ iets _van_ iets _van_ _een_ rond 
+A|1| A: aan _de_ linkerkant zitten zo'n zelfde balk alleen _een_ stuk korter 
+A|2| A: _ook_ eindigen in _een_ rond 
+A|3| A: _en_ bovenaan zitten nou _ja_ _een_ vierkant _met_ nog _een_ aanhangsel eraan 
+A|4| A: aan _het_ vierkant 
+B|5| B: wachten _even_ _ik_ moeten _even_ zoeken hoor wat _zeggen_ je als één [ook] alweer 
+A|6| A: nou rechts _een beetje_ aan _de_ onderkant 
+A|7| A: daar zitten _een_ staaf _met een_ _een_ rond aan _het_ uiteinde 
+B|8| B: [ja] 
+A|9| A: aan _de_ linkerkant zitten eigenlijk zo'n zelfde staaf alleen _een_ stuk korter 
+B|10| B: wachten _even_ hoor 
+A|11| A: dus _het lijken_ _een beetje_ die _erdoorheen_ lopen 
+B|12| B: wachten _even_ 
+B|13| B: _ik_ moeten heel _even_ zoeken hoor 
+B|14| B: _zijn_ [het] [een] soort [van] [lijken] [het] [een beetje] alsof er één 
+B|15| B: wacht _zijn_ [het] diegene [met een] soort [van] _zonnepaneel erachter_ 
+A|16| A: [ja] 
+B|17| B: [ja] [okee] [ja] e 
+A|18| A: [ja] dat zullen [ik] wel [zeggen] [ja] 
+A|19| A: [okee] 
+B|20| B: _dit zijn_ degeen waar [het lijken] alsof [de] spijker er dwars dwars doorheen doorgaan maar net niet helemaal _met het zonnepaneel_ wat _erachter_ staan 
+A|21| A: [ja] 
+A|22| A: dat [zijn] vijf 
+B|23| B: [okee] 
+A|24| A: [dit zijn] die [met het zonnepaneel] aan [de] achterkant [de] [met] [ja] aan [de] onderkant [de] _ding erdoorheen_ 
+B|25| B: [ja] 
+B|26| B: [ja] [met] [ding erdoorheen] 
+A|27| A: [ja] 
+B|28| B: [ja] 
+B|29| B: n 
+B|30| B: [met het zonnepaneel] _en de_ spijker [erdoorheen] 
+A|31| A: [ja] drie 
+A|32| A: [even] kijken [dit zijn] die [met het [zonnepaneel] erachter] 
+A|33| A: [en de] [ding erdoorheen] 
+B|34| B: [ja] [ik] moeten hem [even] vinden 
+B|35| B: [ja] 
+B|36| B: g 
+B|37| B: [dit zijn] degeen [met het zonnepaneel] [en de] spijker [erdoorheen] 
+A|38| A: [ja] drie 
+B|39| B: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee nou de kopvorm met rechts naar de rechterkant uitstekend een balk eindigen in een ja iets van iets van een rond
+	Free: Pattern=een, Pattern=met, Pattern=van, Pattern=ja, Pattern=de, Pattern=okee
+	Constrained: 
+Turn ID=1| A | A : aan de linkerkant zitten zo'n zelfde balk alleen een stuk korter
+	Free: Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=2| A | A : ook eindigen in een rond
+	Free: Pattern=een, Pattern=ook
+	Constrained: 
+Turn ID=3| A | A : en bovenaan zitten nou ja een vierkant met nog een aanhangsel eraan
+	Free: Pattern=een, Pattern=en, Pattern=met, Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : aan het vierkant
+	Free: Pattern=het
+	Constrained: 
+Turn ID=5| B | B : wachten even ik moeten even zoeken hoor wat zeggen je als één ook alweer
+	Free: Pattern=even, Pattern=ook, Pattern=ik, Pattern=zeggen
+	Constrained: 
+Turn ID=6| A | A : nou rechts een beetje aan de onderkant
+	Free: Pattern=een beetje, Pattern=de
+	Constrained: Pattern=een
+Turn ID=7| A | A : daar zitten een staaf met een een rond aan het uiteinde
+	Free: Pattern=met een, Pattern=een, Pattern=het
+	Constrained: Pattern=een, Pattern=met
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : aan de linkerkant zitten eigenlijk zo'n zelfde staaf alleen een stuk korter
+	Free: Pattern=een, Pattern=de
+	Constrained: 
+Turn ID=10| B | B : wachten even hoor
+	Free: Pattern=even
+	Constrained: 
+Turn ID=11| A | A : dus het lijken een beetje die erdoorheen lopen
+	Free: Pattern=een beetje, Pattern=het lijken, Pattern=erdoorheen
+	Constrained: Pattern=een, Pattern=het, Pattern=lijken
+Turn ID=12| B | B : wachten even
+	Free: Pattern=even
+	Constrained: 
+Turn ID=13| B | B : ik moeten heel even zoeken hoor
+	Free: Pattern=even, Pattern=ik
+	Constrained: 
+Turn ID=14| B | B : zijn het een soort van lijken het een beetje alsof er één
+	Free: Pattern=lijken, Pattern=een, Pattern=het, Pattern=van, Pattern=zijn, Pattern=een beetje
+	Constrained: Pattern=een
+Turn ID=15| B | B : wacht zijn het diegene met een soort van zonnepaneel erachter
+	Free: Pattern=het, Pattern=met een, Pattern=van, Pattern=zijn, Pattern=zonnepaneel erachter
+	Constrained: Pattern=een, Pattern=met, Pattern=erachter
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| B | B : ja okee ja e
+	Free: Pattern=okee, Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ja dat zullen ik wel zeggen ja
+	Free: Pattern=ik, Pattern=ja, Pattern=zeggen
+	Constrained: 
+Turn ID=19| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=20| B | B : dit zijn degeen waar het lijken alsof de spijker er dwars dwars doorheen doorgaan maar net niet helemaal met het zonnepaneel wat erachter staan
+	Free: Pattern=erachter, Pattern=met het zonnepaneel, Pattern=de, Pattern=het lijken, Pattern=dit zijn
+	Constrained: Pattern=lijken, Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : dat zijn vijf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=24| A | A : dit zijn die met het zonnepaneel aan de achterkant de met ja aan de onderkant de ding erdoorheen
+	Free: Pattern=met het zonnepaneel, Pattern=met, Pattern=ding erdoorheen, Pattern=dit zijn, Pattern=de, Pattern=ja
+	Constrained: Pattern=erdoorheen, Pattern=zijn, Pattern=met, Pattern=het
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja met ding erdoorheen
+	Free: Pattern=ding erdoorheen, Pattern=met, Pattern=ja
+	Constrained: Pattern=erdoorheen
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : n
+	Free: 
+	Constrained: 
+Turn ID=30| B | B : met het zonnepaneel en de spijker erdoorheen
+	Free: Pattern=met het zonnepaneel, Pattern=en de, Pattern=erdoorheen
+	Constrained: Pattern=de, Pattern=met, Pattern=en, Pattern=het
+Turn ID=31| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : even kijken dit zijn die met het zonnepaneel erachter
+	Free: Pattern=met het zonnepaneel, Pattern=zonnepaneel erachter, Pattern=dit zijn, Pattern=even
+	Constrained: Pattern=zijn, Pattern=met, Pattern=erachter, Pattern=het
+Turn ID=33| A | A : en de ding erdoorheen
+	Free: Pattern=en de, Pattern=ding erdoorheen
+	Constrained: Pattern=en, Pattern=de, Pattern=erdoorheen
+Turn ID=34| B | B : ja ik moeten hem even vinden
+	Free: Pattern=even, Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| B | B : g
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : dit zijn degeen met het zonnepaneel en de spijker erdoorheen
+	Free: Pattern=met het zonnepaneel, Pattern=dit zijn, Pattern=en de, Pattern=erdoorheen
+	Constrained: Pattern=de, Pattern=het, Pattern=met, Pattern=en, Pattern=zijn
+Turn ID=38| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 

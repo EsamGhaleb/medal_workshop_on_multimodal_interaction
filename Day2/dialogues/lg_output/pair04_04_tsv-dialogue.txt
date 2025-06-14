@@ -1,0 +1,119 @@
+A|0| A: nou we _hebben_ weer _de hoofdvorm_ _die_ _hebben_ _een soort van_ _ja_ _wat_ jij noemen _een yoghurtbak op zijn kop_ _op zijn_ hoofd 
+A|1| A: _op de_ bovenkant 
+A|2| A: _en aan de_ rechterkant _hebben_ _je_ _twee_ uitstekend _staaf_ 
+A|3| A: _plat_ _staaf_ 
+A|4| A: _en aan de_ voorkant _hebben_ _je_ _ja_ _een soort van_ neusje 
+B|5| B: [ja] 
+A|6| A: _ook een_ _een_ _staaf_ _die uitsteken en_ linksonder _hebben_ _je_ nog klein bak _die_ _op zijn kop_ liggen 
+B|7| B: [ja] dat [zijn] g 
+B|8| B: [je] [hebben] _de hoofdvorm en_ _dan_ [aan de] zijkant rechts staan [twee] [plat] staf [die uitsteken] 
+B|9| B: daar bovenop [zijn] [een yoghurtbak op zijn kop] 
+B|10| B: [en aan de] Linkeronderkant [zijn] [ook een] [ja] _vierkant_ [wat] [zijn] _het_ 
+A|11| A: _ook een yoghurtbak_ maar [dan] klein 
+B|12| B: [ja] dat 
+A|13| A: [ja] 
+A|14| A: nummer veertien 
+A|15| A: _dit zijn de hoofdvorm met twee_ uitsteeksel [aan de] rechterkant 
+A|16| A: allebei [twee] [vierkant] staafjes _met_ [een] yoghurtbeker _op [de hoofdvorm_ en] linksonder [een] klein yoghurtbeker [op zijn kop] 
+B|17| B: [ja] 
+B|18| B: dat [zijn] b 
+A|19| A: [ja] 
+B|20| B: [dit zijn de hoofdvorm] dat er [twee] [plat] staf rechts [uitsteken] 
+B|21| B: [een yoghurtbak op zijn kop] staan [op de hoofdvorm] 
+B|22| B: link onder vaststaan [ook [een yoghurtbak] op zijn kop] [en] Linksboven [zijn] [een soort van] rond [staaf] dat [aan [de] hoofdvorm] [zijn] vastgeplakken 
+A|23| A: [ja] nummer vijfteen 
+A|24| A: _dit zijn de hoofdvorm met_ [het] [yoghurtbak] erop [op zijn kop] linksvoor [hebben] [je] [ook een yoghurtbak] [en] hij [hebben] [twee] uitsteeksel [aan de] rechterkant 
+B|25| B: [ja] 
+B|26| B: l 
+B|27| B: [dit zijn de hoofdvorm met twee] [plat] staf rechts [aan de] zijkant [die uitsteken en] yoghurbakje [op zijn kop] er bovenop 
+A|28| A: [ja] nummer acht 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nou we hebben weer de hoofdvorm die hebben een soort van ja wat jij noemen een yoghurtbak op zijn kop op zijn hoofd
+	Free: Pattern=de hoofdvorm, Pattern=ja, Pattern=hebben, Pattern=een yoghurtbak op zijn kop, Pattern=een soort van, Pattern=die, Pattern=wat, Pattern=op zijn
+	Constrained: Pattern=yoghurtbak, Pattern=een, Pattern=op zijn, Pattern=zijn, Pattern=op zijn kop
+Turn ID=1| A | A : op de bovenkant
+	Free: Pattern=op de
+	Constrained: 
+Turn ID=2| A | A : en aan de rechterkant hebben je twee uitstekend staaf
+	Free: Pattern=twee, Pattern=staaf, Pattern=hebben, Pattern=je, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=en
+Turn ID=3| A | A : plat staaf
+	Free: Pattern=staaf, Pattern=plat
+	Constrained: 
+Turn ID=4| A | A : en aan de voorkant hebben je ja een soort van neusje
+	Free: Pattern=ja, Pattern=hebben, Pattern=een soort van, Pattern=je, Pattern=en aan de
+	Constrained: Pattern=een, Pattern=en, Pattern=aan de
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ook een een staaf die uitsteken en linksonder hebben je nog klein bak die op zijn kop liggen
+	Free: Pattern=ook een, Pattern=staaf, Pattern=die uitsteken en, Pattern=een, Pattern=hebben, Pattern=die, Pattern=je, Pattern=op zijn kop
+	Constrained: Pattern=een, Pattern=uitsteken, Pattern=die, Pattern=die uitsteken, Pattern=zijn, Pattern=en, Pattern=op zijn
+Turn ID=7| B | B : ja dat zijn g
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : je hebben de hoofdvorm en dan aan de zijkant rechts staan twee plat staf die uitsteken
+	Free: Pattern=twee, Pattern=aan de, Pattern=dan, Pattern=hebben, Pattern=die uitsteken, Pattern=de hoofdvorm en, Pattern=plat, Pattern=je
+	Constrained: Pattern=die, Pattern=en, Pattern=de hoofdvorm, Pattern=uitsteken
+Turn ID=9| B | B : daar bovenop zijn een yoghurtbak op zijn kop
+	Free: Pattern=een yoghurtbak op zijn kop, Pattern=zijn
+	Constrained: Pattern=yoghurtbak, Pattern=een, Pattern=op zijn, Pattern=zijn, Pattern=op zijn kop
+Turn ID=10| B | B : en aan de Linkeronderkant zijn ook een ja vierkant wat zijn het
+	Free: Pattern=ook een, Pattern=ja, Pattern=het, Pattern=wat, Pattern=zijn, Pattern=vierkant, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=en, Pattern=een
+Turn ID=11| A | A : ook een yoghurtbak maar dan klein
+	Free: Pattern=ook een yoghurtbak, Pattern=dan
+	Constrained: Pattern=ook een, Pattern=yoghurtbak, Pattern=een
+Turn ID=12| B | B : ja dat
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : nummer veertien
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn de hoofdvorm met twee uitsteeksel aan de rechterkant
+	Free: Pattern=dit zijn de hoofdvorm met twee, Pattern=aan de
+	Constrained: Pattern=de hoofdvorm, Pattern=twee, Pattern=dit zijn de hoofdvorm met, Pattern=met, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=16| A | A : allebei twee vierkant staafjes met een yoghurtbeker op de hoofdvorm en linksonder een klein yoghurtbeker op zijn kop
+	Free: Pattern=twee, Pattern=een, Pattern=met, Pattern=de hoofdvorm en, Pattern=vierkant, Pattern=op de hoofdvorm, Pattern=op zijn kop
+	Constrained: Pattern=de hoofdvorm, Pattern=zijn, Pattern=op de, Pattern=en, Pattern=op zijn
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : dat zijn b
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dit zijn de hoofdvorm dat er twee plat staf rechts uitsteken
+	Free: Pattern=dit zijn de hoofdvorm, Pattern=uitsteken, Pattern=plat, Pattern=twee
+	Constrained: Pattern=zijn, Pattern=de hoofdvorm
+Turn ID=21| B | B : een yoghurtbak op zijn kop staan op de hoofdvorm
+	Free: Pattern=een yoghurtbak op zijn kop, Pattern=op de hoofdvorm
+	Constrained: Pattern=de hoofdvorm, Pattern=yoghurtbak, Pattern=een, Pattern=op zijn, Pattern=zijn, Pattern=op zijn kop, Pattern=op de
+Turn ID=22| B | B : link onder vaststaan ook een yoghurtbak op zijn kop en Linksboven zijn een soort van rond staaf dat aan de hoofdvorm zijn vastgeplakken
+	Free: Pattern=de hoofdvorm, Pattern=staaf, Pattern=aan de, Pattern=een yoghurtbak op zijn kop, Pattern=een soort van, Pattern=en, Pattern=zijn, Pattern=ook een yoghurtbak
+	Constrained: Pattern=ook een, Pattern=yoghurtbak, Pattern=een, Pattern=op zijn, Pattern=zijn, Pattern=op zijn kop
+Turn ID=23| A | A : ja nummer vijfteen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dit zijn de hoofdvorm met het yoghurtbak erop op zijn kop linksvoor hebben je ook een yoghurtbak en hij hebben twee uitsteeksel aan de rechterkant
+	Free: Pattern=twee, Pattern=het, Pattern=hebben, Pattern=en, Pattern=je, Pattern=ook een yoghurtbak, Pattern=op zijn kop, Pattern=yoghurtbak, Pattern=aan de, Pattern=dit zijn de hoofdvorm met
+	Constrained: Pattern=de hoofdvorm, Pattern=ook een, Pattern=yoghurtbak, Pattern=een, Pattern=met, Pattern=op zijn, Pattern=zijn, Pattern=dit zijn de hoofdvorm
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : l
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : dit zijn de hoofdvorm met twee plat staf rechts aan de zijkant die uitsteken en yoghurbakje op zijn kop er bovenop
+	Free: Pattern=dit zijn de hoofdvorm met twee, Pattern=plat, Pattern=op zijn kop, Pattern=die uitsteken en, Pattern=aan de
+	Constrained: Pattern=de hoofdvorm, Pattern=twee, Pattern=dit zijn de hoofdvorm met, Pattern=uitsteken, Pattern=met, Pattern=die, Pattern=die uitsteken, Pattern=zijn, Pattern=dit zijn de hoofdvorm, Pattern=en, Pattern=op zijn
+Turn ID=28| A | A : ja nummer acht
+	Free: Pattern=ja
+	Constrained: 

@@ -1,0 +1,71 @@
+B|0| B: _dit zijn_ een horizontaal plaat _en_ _er_ zitten een emmer zitten erbovenop _en_ dan opsteken _er_ een soort _kralenketting_ opsteken _er_ zo _doorheen_ 
+A|1| A: _ja_ vijf 
+B|2| B: [ja] 
+B|3| B: mogen jij drukken [ja] 
+A|4| A: [dit zijn] _die_ met dat rond schijf aan _de_ voorkant [en] _die_ met _die_ aan [er] [doorheen] drie klein driehoekjes 
+B|5| B: [ja] [die] kraal 
+A|6| A: [ja] kraalt 
+B|7| B: [ja] okee f 
+B|8| B: _dit zijn de kralenketting_ door [de] beker heen [en] [er] 
+A|9| A: [ja] zeven 
+A|10| A: [dit zijn de kralenketting] 
+B|11| B: [ja] 
+B|12| B: h 
+B|13| B: [dit zijn de kralenketting] 
+A|14| A: acht 
+A|15| A: [dit zijn de kralenketting] 
+B|16| B: m 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : dit zijn een horizontaal plaat en er zitten een emmer zitten erbovenop en dan opsteken er een soort kralenketting opsteken er zo doorheen
+	Free: Pattern=doorheen, Pattern=kralenketting, Pattern=er, Pattern=en, Pattern=dit zijn
+	Constrained: 
+Turn ID=1| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : mogen jij drukken ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : dit zijn die met dat rond schijf aan de voorkant en die met die aan er doorheen drie klein driehoekjes
+	Free: Pattern=die, Pattern=er, Pattern=en, Pattern=dit zijn, Pattern=de, Pattern=doorheen
+	Constrained: 
+Turn ID=5| B | B : ja die kraal
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja kraalt
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : ja okee f
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : dit zijn de kralenketting door de beker heen en er
+	Free: Pattern=dit zijn de kralenketting, Pattern=en, Pattern=de, Pattern=er
+	Constrained: Pattern=de, Pattern=kralenketting, Pattern=dit zijn
+Turn ID=9| A | A : ja zeven
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dit zijn de kralenketting
+	Free: Pattern=dit zijn de kralenketting
+	Constrained: Pattern=de, Pattern=kralenketting, Pattern=dit zijn
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : h
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : dit zijn de kralenketting
+	Free: Pattern=dit zijn de kralenketting
+	Constrained: Pattern=de, Pattern=kralenketting, Pattern=dit zijn
+Turn ID=14| A | A : acht
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : dit zijn de kralenketting
+	Free: Pattern=dit zijn de kralenketting
+	Constrained: Pattern=de, Pattern=kralenketting, Pattern=dit zijn
+Turn ID=16| B | B : m
+	Free: 
+	Constrained: 

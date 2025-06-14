@@ -1,0 +1,127 @@
+B|0| B: _deze_ hebben _een_ schuin langwerpig staaf _aan de_ onderkant _met een_ groot diehoek eraan 
+A|1| A: _ja_ 
+B|2| B: volgens mij _zijn_ _dat_ er _ook_ _maar_ één 
+A|3| A: _en_ nog [een] driehoek twee driehoek bovenop _en dan_ daar 
+B|4| B: [ja] 
+B|5| B: precies 
+A|6| A: okee 
+A|7| A: _dat zijn_ negen 
+A|8| A: _deze staat_ zeggen [maar] _op_ [een] _statief_ 
+A|9| A: [met een] soort verdraaien hals _en_ [een] blok [aan de] rechterkant _en_ [een] blok in _het_ midden _en_ [een] uitlopen vorm [aan de] linkerkant 
+B|10| B: [ja] 
+B|11| B: [dan] [zijn] [het] h 
+B|12| B: [deze staat] [op] [het] [statief] 
+A|13| A: [ja] 
+B|14| B: [met] [het] _draaien_ onderkant 
+A|15| A: [ja] 
+A|16| A: _ja dat zijn_ acht 
+A|17| A: dit staan [op] [een] [statief] [met een] gedraaide hals 
+B|18| B: [ja dat zijn] e 
+B|19| B: [statief] _draaien_ 
+A|20| A: [statief] wat 
+B|21| B: [statief] [en dan] _draaien_ 
+A|22| A: [ja] 
+B|23| B: [met] drie ding [op] [zijn] hoofd 
+A|24| A: [ja] dertien 
+A|25| A: wc nee niet wc 
+B|26| B: [ja] ze lijken er allemaal wel [een] beetje [op] 
+A|27| A: [ja] nu denken ik opeens [dat zijn] [ook] [een] wc 
+A|28| A: [draaien] [statief] [met] gedraaide hals 
+B|29| B: [ja] [ja] die lijken er inderdaad [ook] [op] 
+B|30| B: o 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben een schuin langwerpig staaf aan de onderkant met een groot diehoek eraan
+	Free: Pattern=aan de, Pattern=met een, Pattern=een, Pattern=deze
+	Constrained: Pattern=een, Pattern=met
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : volgens mij zijn dat er ook maar één
+	Free: Pattern=dat, Pattern=zijn, Pattern=maar, Pattern=ook
+	Constrained: 
+Turn ID=3| A | A : en nog een driehoek twee driehoek bovenop en dan daar
+	Free: Pattern=en dan, Pattern=een, Pattern=en
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : precies
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : okee
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : deze staat zeggen maar op een statief
+	Free: Pattern=deze staat, Pattern=statief, Pattern=op, Pattern=een, Pattern=maar
+	Constrained: Pattern=deze
+Turn ID=9| A | A : met een soort verdraaien hals en een blok aan de rechterkant en een blok in het midden en een uitlopen vorm aan de linkerkant
+	Free: Pattern=aan de, Pattern=een, Pattern=het, Pattern=met een, Pattern=en
+	Constrained: Pattern=een, Pattern=met
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : dan zijn het h
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=12| B | B : deze staat op het statief
+	Free: Pattern=deze staat, Pattern=statief, Pattern=het, Pattern=op
+	Constrained: Pattern=deze
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : met het draaien onderkant
+	Free: Pattern=draaien, Pattern=het, Pattern=met
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja dat zijn acht
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=17| A | A : dit staan op een statief met een gedraaide hals
+	Free: Pattern=met een, Pattern=een, Pattern=statief, Pattern=op
+	Constrained: Pattern=een, Pattern=met
+Turn ID=18| B | B : ja dat zijn e
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : statief draaien
+	Free: Pattern=statief, Pattern=draaien
+	Constrained: 
+Turn ID=20| A | A : statief wat
+	Free: Pattern=statief
+	Constrained: 
+Turn ID=21| B | B : statief en dan draaien
+	Free: Pattern=en dan, Pattern=statief, Pattern=draaien
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : met drie ding op zijn hoofd
+	Free: Pattern=zijn, Pattern=met, Pattern=op
+	Constrained: 
+Turn ID=24| A | A : ja dertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| A | A : wc nee niet wc
+	Free: 
+	Constrained: 
+Turn ID=26| B | B : ja ze lijken er allemaal wel een beetje op
+	Free: Pattern=een, Pattern=ja, Pattern=op
+	Constrained: 
+Turn ID=27| A | A : ja nu denken ik opeens dat zijn ook een wc
+	Free: Pattern=dat zijn, Pattern=een, Pattern=ja, Pattern=ook
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=28| A | A : draaien statief met gedraaide hals
+	Free: Pattern=statief, Pattern=draaien, Pattern=met
+	Constrained: 
+Turn ID=29| B | B : ja ja die lijken er inderdaad ook op
+	Free: Pattern=ja, Pattern=op, Pattern=ook
+	Constrained: 
+Turn ID=30| B | B : o
+	Free: 
+	Constrained: 

@@ -1,0 +1,123 @@
+B|0| B: _en_ _dit_ _zijn_ _ja_ _zitten_ weer _vier_ _ding_ _aan_ , dat _zijn_ best wel vaak waaronder _een ei_ 
+B|1| B: _aan de voorkant_ 
+B|2| B: _en_ _een_ penseel of iets wat _zitten_ _erin_ 
+B|3| B: _en_ _nog een_ staaf _zitten_ _erin_ 
+B|4| B: _en_ _aan de linkerkant_ _zitten_ _nog een_ staaf 
+A|5| A: _oké_ 
+A|6| A: [ja] 
+B|7| B: dus _aan de_ buitenkant hebben je _een ei_ _en_ _een_ staaf 
+A|8| A: [ja] 
+A|9| A: dan [zijn] _het_ nummer twee 
+B|10| B: [oké] 
+A|11| A: _het_ [ei] in [dit] geval [zitten] [aan de voorkant] bovenop [zijn] er twee [ding] _die erin_ steken [aan de linkerkant] [zijn] [nog een] uitstulpinkje 
+B|12| B: dat [zijn] F 
+B|13| B: _bak met_ _aan de voorkant een ei_ 
+B|14| B: _en_ [een] _penceel_ [die erin] liggen 
+B|15| B: niet te verwarren _met het_ ander kop waar ook _een ei_ op [de voorkant] [zitten] , _met_ [de] zuignap 
+B|16| B: dat [zijn] _hem_ niet 
+A|17| A: [oké] 
+A|18| A: [oké] 
+A|19| A: nee dan 
+B|20| B: maar [de] ander 
+A|21| A: dan zien ik [hem] 
+A|22| A: nummer vijf 
+A|23| A: [de] [bak [met] het] _penceel en_ [de] [de] balk [erin] , [aan de linkerkant] [een] klein armp , _aan de rechterkant_ [een ei] 
+B|24| B: J 
+B|25| B: [bak met] [penceel en] [nog een] stok [erin] [en] [een ei] [aan de rechterkant] 
+A|26| A: nummer [vier] 
+A|27| A: [de] [bak [met] het] [penceel en] [de] [de] balk [erin] 
+A|28| A: [aan de voorkant een ei] 
+B|29| B: G 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : en dit zijn ja zitten weer vier ding aan , dat zijn best wel vaak waaronder een ei
+	Free: Pattern=ding, Pattern=zitten, Pattern=en, Pattern=zijn, Pattern=vier, Pattern=aan, Pattern=ja, Pattern=dit, Pattern=een ei
+	Constrained: Pattern=een, Pattern=ei
+Turn ID=1| B | B : aan de voorkant
+	Free: Pattern=aan de voorkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=de voorkant, Pattern=aan de
+Turn ID=2| B | B : en een penseel of iets wat zitten erin
+	Free: Pattern=zitten, Pattern=een, Pattern=erin, Pattern=en
+	Constrained: 
+Turn ID=3| B | B : en nog een staaf zitten erin
+	Free: Pattern=nog een, Pattern=zitten, Pattern=erin, Pattern=en
+	Constrained: Pattern=een
+Turn ID=4| B | B : en aan de linkerkant zitten nog een staaf
+	Free: Pattern=aan de linkerkant, Pattern=nog een, Pattern=zitten, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de, Pattern=een
+Turn ID=5| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dus aan de buitenkant hebben je een ei en een staaf
+	Free: Pattern=een ei, Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=ei
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dan zijn het nummer twee
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| A | A : het ei in dit geval zitten aan de voorkant bovenop zijn er twee ding die erin steken aan de linkerkant zijn nog een uitstulpinkje
+	Free: Pattern=ei, Pattern=nog een, Pattern=ding, Pattern=het, Pattern=dit, Pattern=zitten, Pattern=die erin, Pattern=zijn, Pattern=aan de voorkant, Pattern=aan de linkerkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=de voorkant, Pattern=erin, Pattern=de, Pattern=aan
+Turn ID=12| B | B : dat zijn F
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=13| B | B : bak met aan de voorkant een ei
+	Free: Pattern=aan de voorkant een ei, Pattern=bak met
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=een, Pattern=een ei, Pattern=met, Pattern=de voorkant, Pattern=aan de voorkant, Pattern=de, Pattern=aan
+Turn ID=14| B | B : en een penceel die erin liggen
+	Free: Pattern=die erin, Pattern=een, Pattern=penceel, Pattern=en
+	Constrained: Pattern=erin
+Turn ID=15| B | B : niet te verwarren met het ander kop waar ook een ei op de voorkant zitten , met de zuignap
+	Free: Pattern=de, Pattern=een ei, Pattern=met, Pattern=met het, Pattern=de voorkant, Pattern=zitten
+	Constrained: Pattern=ei, Pattern=de, Pattern=een, Pattern=het, Pattern=met
+Turn ID=16| B | B : dat zijn hem niet
+	Free: Pattern=hem, Pattern=zijn
+	Constrained: 
+Turn ID=17| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| A | A : nee dan
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : maar de ander
+	Free: Pattern=de
+	Constrained: 
+Turn ID=21| A | A : dan zien ik hem
+	Free: Pattern=hem
+	Constrained: 
+Turn ID=22| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : de bak met het penceel en de de balk erin , aan de linkerkant een klein armp , aan de rechterkant een ei
+	Free: Pattern=penceel en, Pattern=de, Pattern=bak met, Pattern=een, Pattern=een ei, Pattern=aan de rechterkant, Pattern=aan de linkerkant, Pattern=met het, Pattern=erin
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=een, Pattern=het, Pattern=met, Pattern=en, Pattern=penceel, Pattern=de, Pattern=aan
+Turn ID=24| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=25| B | B : bak met penceel en nog een stok erin en een ei aan de rechterkant
+	Free: Pattern=penceel en, Pattern=nog een, Pattern=bak met, Pattern=een ei, Pattern=aan de rechterkant, Pattern=en, Pattern=erin
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=penceel, Pattern=de, Pattern=aan
+Turn ID=26| A | A : nummer vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=27| A | A : de bak met het penceel en de de balk erin
+	Free: Pattern=penceel en, Pattern=de, Pattern=bak met, Pattern=met het, Pattern=erin
+	Constrained: Pattern=het, Pattern=penceel, Pattern=met, Pattern=en
+Turn ID=28| A | A : aan de voorkant een ei
+	Free: Pattern=aan de voorkant een ei
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=een, Pattern=een ei, Pattern=de voorkant, Pattern=aan de voorkant, Pattern=de, Pattern=aan
+Turn ID=29| B | B : G
+	Free: 
+	Constrained: 

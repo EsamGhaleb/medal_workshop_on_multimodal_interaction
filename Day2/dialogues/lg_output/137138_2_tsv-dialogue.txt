@@ -1,0 +1,195 @@
+A|0| A: _oké_ deze _hebben_ heel duidelijk _een_ _één_ _de_ enig _een_ _piramide bovenop_ 
+B|1| B: _ja_ J 
+A|2| A: _en_ _hij_ _staan_ _bij mij helemaal rechtsonder_ 
+B|3| B: _ja_ _kloppen_ _ook_ 
+B|4| B: [oké] dit _zijn met de piramide bovenop_ 
+B|5| B: [en] [een] [een] soort 
+A|6| A: [de] enig [met] [een] heel [piramide] 
+B|7| B: _ja_ [en] [een] kogel soort kogel _aan de_ linkerkant 
+A|8| A: [ja] 
+A|9| A: _dat zijn_ nummer zes 
+B|10| B: [oké] 
+B|11| B: [en] dan _hebben je_ _de twee_ _die_ _twee_ [helemaal rechtsonder] 
+B|12| B: [en] dan [staan] _er_ als _je_ _daar_ [een] driehoek _van_ uitmaken [één] recht boven 
+A|13| A: [ja] 
+B|14| B: [dat zijn] hem 
+A|15| A: [ja] _bij mij_ [ook] 
+A|16| A: _dus_ eigenlijk [een] [ook] [een] [piramide] [en] [daar] [zijn] het [de] bovenste [van] 
+B|17| B: yes 
+A|18| A: _dus_ [dat zijn] nummer zes 
+A|19| A: [en] naar naar [die] plek [ja] [dat] [kloppen] 
+B|20| B: [ja] geel 
+A|21| A: [ja] 
+A|22| A: deze [zijn met de piramide bovenop] 
+A|23| A: [de] heel [piramide] 
+B|24| B: [dat zijn] E 
+A|25| A: [en] het [zijn] [de _twee] van rechtsonder_ 
+A|26| A: naar midden toe 
+B|27| B: [twee van rechtsonder] 
+A|28| A: [ja] [je] [hebben] [er] _zeggen maar_ _drie_ [aan de] rechterkant [hebben je] _drie_ symboal 
+B|29| B: [ja] [hij] _zitten_ [bij mij helemaal rechtsonder] [dus] 
+A|30| A: [oké] 
+A|31| A: [ja] [dat zijn] makkelijk [ja] 
+B|32| B: [ja] [oké] 
+B|33| B: [piramide bovenop] 
+A|34| A: [ja] nummer tien 
+B|35| B: [en] [helemaal] linksonder 
+A|36| A: nee [bij mij] [zitten] [die] daarnaast 
+B|37| B: [oké] 
+A|38| A: deze [zijn met de piramide] erbovenop 
+B|39| B: [ja] 
+A|40| A: [en] [die] [zitten] [helemaal] Linksboven 
+B|41| B: [ja] 
+B|42| B: [piramide bovenop] 
+A|43| A: [piramide bovenop] 
+A|44| A: [ja] nummer tien 
+B|45| B: [en] als [je] [zeggen maar] [van rechtsonder] [die] [drie] figuur zullen [hebben] 
+B|46| B: [die] zo in [een] soort boog [staan] dan [de] middel daarvan 
+A|47| A: [ja] [bij mij] [ook] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze hebben heel duidelijk een één de enig een piramide bovenop
+	Free: Pattern=de, Pattern=hebben, Pattern=oké, Pattern=één, Pattern=een, Pattern=piramide bovenop
+	Constrained: Pattern=piramide
+Turn ID=1| B | B : ja J
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en hij staan bij mij helemaal rechtsonder
+	Free: Pattern=bij mij helemaal rechtsonder, Pattern=hij, Pattern=en, Pattern=staan
+	Constrained: Pattern=helemaal, Pattern=helemaal rechtsonder, Pattern=bij mij
+Turn ID=3| B | B : ja kloppen ook
+	Free: Pattern=ook, Pattern=ja, Pattern=kloppen
+	Constrained: 
+Turn ID=4| B | B : oké dit zijn met de piramide bovenop
+	Free: Pattern=zijn met de piramide bovenop, Pattern=oké
+	Constrained: Pattern=de, Pattern=piramide, Pattern=piramide bovenop, Pattern=met, Pattern=zijn, Pattern=zijn met de piramide
+Turn ID=5| B | B : en een een soort
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=6| A | A : de enig met een heel piramide
+	Free: Pattern=de, Pattern=met, Pattern=een, Pattern=piramide
+	Constrained: 
+Turn ID=7| B | B : ja en een kogel soort kogel aan de linkerkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=een, Pattern=en
+	Constrained: Pattern=de
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dat zijn nummer zes
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : en dan hebben je de twee die twee helemaal rechtsonder
+	Free: Pattern=twee, Pattern=de twee, Pattern=die, Pattern=helemaal rechtsonder, Pattern=hebben je, Pattern=en
+	Constrained: Pattern=twee, Pattern=de, Pattern=helemaal, Pattern=hebben, Pattern=je
+Turn ID=12| B | B : en dan staan er als je daar een driehoek van uitmaken één recht boven
+	Free: Pattern=er, Pattern=een, Pattern=staan, Pattern=van, Pattern=en, Pattern=daar, Pattern=één, Pattern=je
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| A | A : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ook, Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dus eigenlijk een ook een piramide en daar zijn het de bovenste van
+	Free: Pattern=een, Pattern=zijn, Pattern=daar, Pattern=de, Pattern=dus, Pattern=piramide, Pattern=ook, Pattern=van, Pattern=en
+	Constrained: 
+Turn ID=17| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : dus dat zijn nummer zes
+	Free: Pattern=dat zijn, Pattern=dus
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=19| A | A : en naar naar die plek ja dat kloppen
+	Free: Pattern=dat, Pattern=ja, Pattern=kloppen, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=20| B | B : ja geel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : deze zijn met de piramide bovenop
+	Free: Pattern=zijn met de piramide bovenop
+	Constrained: Pattern=de, Pattern=piramide, Pattern=piramide bovenop, Pattern=met, Pattern=zijn, Pattern=zijn met de piramide
+Turn ID=23| A | A : de heel piramide
+	Free: Pattern=de, Pattern=piramide
+	Constrained: 
+Turn ID=24| B | B : dat zijn E
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : en het zijn de twee van rechtsonder
+	Free: Pattern=twee van rechtsonder, Pattern=de twee, Pattern=zijn, Pattern=en
+	Constrained: Pattern=twee, Pattern=van rechtsonder, Pattern=de, Pattern=van
+Turn ID=26| A | A : naar midden toe
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : twee van rechtsonder
+	Free: Pattern=twee van rechtsonder
+	Constrained: Pattern=van rechtsonder, Pattern=twee, Pattern=van
+Turn ID=28| A | A : ja je hebben er zeggen maar drie aan de rechterkant hebben je drie symboal
+	Free: Pattern=ja, Pattern=aan de, Pattern=zeggen maar, Pattern=drie, Pattern=hebben, Pattern=er, Pattern=hebben je, Pattern=je
+	Constrained: Pattern=je, Pattern=de, Pattern=hebben
+Turn ID=29| B | B : ja hij zitten bij mij helemaal rechtsonder dus
+	Free: Pattern=hij, Pattern=zitten, Pattern=bij mij helemaal rechtsonder, Pattern=dus, Pattern=ja
+	Constrained: Pattern=helemaal, Pattern=helemaal rechtsonder, Pattern=bij mij
+Turn ID=30| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=31| A | A : ja dat zijn makkelijk ja
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=32| B | B : ja oké
+	Free: Pattern=ja, Pattern=oké
+	Constrained: 
+Turn ID=33| B | B : piramide bovenop
+	Free: Pattern=piramide bovenop
+	Constrained: Pattern=piramide
+Turn ID=34| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : en helemaal linksonder
+	Free: Pattern=helemaal, Pattern=en
+	Constrained: 
+Turn ID=36| A | A : nee bij mij zitten die daarnaast
+	Free: Pattern=bij mij, Pattern=die, Pattern=zitten
+	Constrained: 
+Turn ID=37| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=38| A | A : deze zijn met de piramide erbovenop
+	Free: Pattern=zijn met de piramide
+	Constrained: Pattern=piramide, Pattern=de, Pattern=met, Pattern=zijn
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : en die zitten helemaal Linksboven
+	Free: Pattern=die, Pattern=zitten, Pattern=helemaal, Pattern=en
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| B | B : piramide bovenop
+	Free: Pattern=piramide bovenop
+	Constrained: Pattern=piramide
+Turn ID=43| A | A : piramide bovenop
+	Free: Pattern=piramide bovenop
+	Constrained: Pattern=piramide
+Turn ID=44| A | A : ja nummer tien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : en als je zeggen maar van rechtsonder die drie figuur zullen hebben
+	Free: Pattern=zeggen maar, Pattern=hebben, Pattern=die, Pattern=en, Pattern=je, Pattern=van rechtsonder, Pattern=drie
+	Constrained: Pattern=van
+Turn ID=46| B | B : die zo in een soort boog staan dan de middel daarvan
+	Free: Pattern=die, Pattern=de, Pattern=een, Pattern=staan
+	Constrained: 
+Turn ID=47| A | A : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ook, Pattern=ja
+	Constrained: 

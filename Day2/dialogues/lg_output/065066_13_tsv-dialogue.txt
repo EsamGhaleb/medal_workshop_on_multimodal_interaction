@@ -1,0 +1,247 @@
+B|0| B: _ja_ 
+B|1| B: _ik_ hebben _hem_ nu 
+A|2| A: [ja] 
+B|3| B: _het_ _zijn_ _zo'n_ zwembaddinge _met zo'n_ _vierkant_ ondergrond 
+A|4| A: _ja met_ twee _van die_ 
+B|5| B: _met zo'n_ 
+B|6| B: _ja van die_ kronkeltjes eraan 
+A|7| A: [ja van die] haar 
+B|8| B: [ja] 
+B|9| B: [ja] 
+A|10| A: _ja met zo'n rond_ 
+B|11| B: [ja met zo'n rond] dinge 
+A|12| A: [ja] 
+A|13| A: _dan_ [zijn] [het] vijf 
+B|14| B: _en hij_ _staan_ _aan_ _de_ linkerkant _een_ beetje _in_ [het] midden iets veel _naar_ onder toe linker linkerkant [van] [het] scherm 
+A|15| A: _nee bij mij staan die_ [naar] _boven_ 
+B|16| B: oké 
+A|17| A: _dus_ _dan_ [zijn] [het] 
+B|18| B: [dus] [het] [zijn] niet dezelfde plek 
+A|19| A: _nee_ [dus] _dan_ moeten [die] rood 
+B|20| B: [ja] 
+A|21| A: [het] clown _met die_ haart [en] dat [rond] neus 
+A|22| A: _met die_ [vierkant] _eronder_ 
+A|23| A: tenminste [ik] moeten [aan] [een] clown denken 
+B|24| B: [met die] _met die wokkel_ eraan zeggen _maar_ 
+A|25| A: [ja] 
+B|26| B: [ja] 
+B|27| B: J 
+A|28| A: [en] [die] [staan] helemaal rechts [in] [de] hoek 
+B|29| B: [nee bij mij staan die] iets veel [naar] [het] midden toe 
+B|30| B: deze [zijn] [die] weer _met die wokkel_ 
+A|31| A: [het] clown [ja] 
+B|32| B: [ja] 
+A|33| A: dat [zijn] elf 
+A|34| A: we worden steeds snel 
+B|35| B: nou 
+B|36| B: _en hij_ [staan] [in] [het] midden _van de_ linkerkant 
+B|37| B: _staan er_ één [boven] één [eronder] 
+A|38| A: [nee] [hij] worden [bij mij] wel omringen [met] [van] alles 
+B|39| B: [ja] [bij mij] _ook_ _maar_ zeggen _maar_ als je [het] [de] veel midden _van de_ linkerkant 
+A|40| A: [nee] 
+B|41| B: [nee] 
+A|42| A: [het] clown 
+A|43| A: [met die wokkel] 
+B|44| B: P 
+A|45| A: [en] rechts 
+A|46| A: [er] zitten [een] gat link [van] [hem] [maar] rechts [staan] [staan er] [ook] _drie_ op [een] rij 
+A|47| A: of twee op [ja met] [hem] erbij [zijn] [het] [er] _drie_ 
+B|48| B: [maar] niet [de] middel [van die] [drie] [dan] 
+A|49| A: [nee] 
+B|50| B: [nee] oké [dan] [staan die] ergens ander 
+B|51| B: deze [zijn] [die] [met die] kronkel [aan] [de] zijkant 
+A|52| A: dat [zijn] negen 
+B|53| B: [die wokkel] 
+B|54| B: _en hij_ [staan] [in] [het] midden bovenin 
+B|55| B: [er] [staan] niks veel [boven] 
+A|56| A: [nee] 
+A|57| A: [het] clown [met] [de] [wokkel] 
+B|58| B: [ja] L 
+A|59| A: [en hij] zitten link [van de] middellijn [en] 
+B|60| B: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| B | B : ik hebben hem nu
+	Free: Pattern=hem, Pattern=ik
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : het zijn zo'n zwembaddinge met zo'n vierkant ondergrond
+	Free: Pattern=zo'n, Pattern=het, Pattern=zijn, Pattern=vierkant, Pattern=met zo'n
+	Constrained: Pattern=zo'n, Pattern=met
+Turn ID=4| A | A : ja met twee van die
+	Free: Pattern=ja met, Pattern=van die
+	Constrained: Pattern=die, Pattern=met, Pattern=van, Pattern=ja
+Turn ID=5| B | B : met zo'n
+	Free: Pattern=met zo'n
+	Constrained: Pattern=zo'n, Pattern=met
+Turn ID=6| B | B : ja van die kronkeltjes eraan
+	Free: Pattern=ja van die
+	Constrained: Pattern=van die, Pattern=die, Pattern=van, Pattern=ja
+Turn ID=7| A | A : ja van die haar
+	Free: Pattern=ja van die
+	Constrained: Pattern=van die, Pattern=die, Pattern=van, Pattern=ja
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : ja met zo'n rond
+	Free: Pattern=ja met zo'n rond
+	Constrained: Pattern=zo'n, Pattern=ja, Pattern=ja met, Pattern=met, Pattern=rond, Pattern=met zo'n
+Turn ID=11| B | B : ja met zo'n rond dinge
+	Free: Pattern=ja met zo'n rond
+	Constrained: Pattern=zo'n, Pattern=ja, Pattern=ja met, Pattern=met, Pattern=rond, Pattern=met zo'n
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dan zijn het vijf
+	Free: Pattern=zijn, Pattern=het, Pattern=dan
+	Constrained: 
+Turn ID=14| B | B : en hij staan aan de linkerkant een beetje in het midden iets veel naar onder toe linker linkerkant van het scherm
+	Free: Pattern=het, Pattern=in, Pattern=en hij, Pattern=van, Pattern=naar, Pattern=de, Pattern=aan, Pattern=een, Pattern=staan
+	Constrained: Pattern=hij, Pattern=en
+Turn ID=15| A | A : nee bij mij staan die naar boven
+	Free: Pattern=nee bij mij staan die, Pattern=naar, Pattern=boven
+	Constrained: Pattern=staan die, Pattern=staan, Pattern=nee, Pattern=die, Pattern=bij mij
+Turn ID=16| B | B : oké
+	Free: 
+	Constrained: 
+Turn ID=17| A | A : dus dan zijn het
+	Free: Pattern=zijn, Pattern=het, Pattern=dus, Pattern=dan
+	Constrained: 
+Turn ID=18| B | B : dus het zijn niet dezelfde plek
+	Free: Pattern=zijn, Pattern=het, Pattern=dus
+	Constrained: 
+Turn ID=19| A | A : nee dus dan moeten die rood
+	Free: Pattern=nee, Pattern=die, Pattern=dus, Pattern=dan
+	Constrained: 
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : het clown met die haart en dat rond neus
+	Free: Pattern=met die, Pattern=rond, Pattern=het, Pattern=en
+	Constrained: Pattern=die, Pattern=met
+Turn ID=22| A | A : met die vierkant eronder
+	Free: Pattern=met die, Pattern=vierkant, Pattern=eronder
+	Constrained: Pattern=die, Pattern=met
+Turn ID=23| A | A : tenminste ik moeten aan een clown denken
+	Free: Pattern=een, Pattern=aan, Pattern=ik
+	Constrained: 
+Turn ID=24| B | B : met die met die wokkel eraan zeggen maar
+	Free: Pattern=met die wokkel, Pattern=met die, Pattern=maar
+	Constrained: Pattern=met die, Pattern=die wokkel, Pattern=wokkel, Pattern=met, Pattern=die
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=28| A | A : en die staan helemaal rechts in de hoek
+	Free: Pattern=de, Pattern=staan, Pattern=in, Pattern=die, Pattern=en
+	Constrained: 
+Turn ID=29| B | B : nee bij mij staan die iets veel naar het midden toe
+	Free: Pattern=nee bij mij staan die, Pattern=naar, Pattern=het
+	Constrained: Pattern=staan die, Pattern=staan, Pattern=nee, Pattern=die, Pattern=bij mij
+Turn ID=30| B | B : deze zijn die weer met die wokkel
+	Free: Pattern=met die wokkel, Pattern=zijn, Pattern=die
+	Constrained: Pattern=met die, Pattern=die wokkel, Pattern=wokkel, Pattern=met, Pattern=die
+Turn ID=31| A | A : het clown ja
+	Free: Pattern=ja, Pattern=het
+	Constrained: 
+Turn ID=32| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : dat zijn elf
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=34| A | A : we worden steeds snel
+	Free: 
+	Constrained: 
+Turn ID=35| B | B : nou
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : en hij staan in het midden van de linkerkant
+	Free: Pattern=van de, Pattern=staan, Pattern=het, Pattern=in, Pattern=en hij
+	Constrained: Pattern=hij, Pattern=de, Pattern=van, Pattern=en
+Turn ID=37| B | B : staan er één boven één eronder
+	Free: Pattern=staan er, Pattern=eronder, Pattern=boven
+	Constrained: Pattern=er, Pattern=staan
+Turn ID=38| A | A : nee hij worden bij mij wel omringen met van alles
+	Free: Pattern=nee, Pattern=hij, Pattern=met, Pattern=van, Pattern=bij mij
+	Constrained: 
+Turn ID=39| B | B : ja bij mij ook maar zeggen maar als je het de veel midden van de linkerkant
+	Free: Pattern=het, Pattern=maar, Pattern=bij mij, Pattern=de, Pattern=ja, Pattern=van de, Pattern=ook
+	Constrained: Pattern=de, Pattern=van
+Turn ID=40| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=41| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=42| A | A : het clown
+	Free: Pattern=het
+	Constrained: 
+Turn ID=43| A | A : met die wokkel
+	Free: Pattern=met die wokkel
+	Constrained: Pattern=met die, Pattern=die wokkel, Pattern=wokkel, Pattern=met, Pattern=die
+Turn ID=44| B | B : P
+	Free: 
+	Constrained: 
+Turn ID=45| A | A : en rechts
+	Free: Pattern=en
+	Constrained: 
+Turn ID=46| A | A : er zitten een gat link van hem maar rechts staan staan er ook drie op een rij
+	Free: Pattern=staan er, Pattern=ook, Pattern=drie, Pattern=er, Pattern=van, Pattern=maar, Pattern=hem, Pattern=een, Pattern=staan
+	Constrained: Pattern=er, Pattern=staan
+Turn ID=47| A | A : of twee op ja met hem erbij zijn het er drie
+	Free: Pattern=ja met, Pattern=er, Pattern=zijn, Pattern=hem, Pattern=het, Pattern=drie
+	Constrained: Pattern=met, Pattern=ja
+Turn ID=48| B | B : maar niet de middel van die drie dan
+	Free: Pattern=de, Pattern=dan, Pattern=drie, Pattern=van die, Pattern=maar
+	Constrained: Pattern=die, Pattern=van
+Turn ID=49| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=50| B | B : nee oké dan staan die ergens ander
+	Free: Pattern=staan die, Pattern=nee, Pattern=dan
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=51| B | B : deze zijn die met die kronkel aan de zijkant
+	Free: Pattern=met die, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan
+	Constrained: Pattern=die, Pattern=met
+Turn ID=52| A | A : dat zijn negen
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=53| B | B : die wokkel
+	Free: Pattern=die wokkel
+	Constrained: Pattern=die, Pattern=wokkel
+Turn ID=54| B | B : en hij staan in het midden bovenin
+	Free: Pattern=en hij, Pattern=het, Pattern=in, Pattern=staan
+	Constrained: Pattern=hij, Pattern=en
+Turn ID=55| B | B : er staan niks veel boven
+	Free: Pattern=er, Pattern=boven, Pattern=staan
+	Constrained: 
+Turn ID=56| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=57| A | A : het clown met de wokkel
+	Free: Pattern=de, Pattern=wokkel, Pattern=met, Pattern=het
+	Constrained: 
+Turn ID=58| B | B : ja L
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=59| A | A : en hij zitten link van de middellijn en
+	Free: Pattern=en hij, Pattern=van de, Pattern=en
+	Constrained: Pattern=hij, Pattern=de, Pattern=van, Pattern=en
+Turn ID=60| B | B : nee
+	Free: Pattern=nee
+	Constrained: 

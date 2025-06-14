@@ -1,0 +1,263 @@
+A|0| A: raken _ik_ zelf even _in_ _de_ war 
+B|1| B: _ja_ 
+B|2| B: _oké_ dit _zijn_ _eigenlijk_ _een beetje_ nou _dat zijn_ _dat zijn_ gewoon [de] _denken_ [de] lang _van_ allemaal _en_ _dan_ _van_ _onder_ _zijn_ _eigenlijk_ _een_ soort orkaan 
+B|3| B: vinden [ik] 
+A|4| A: [ja] 
+B|5| B: [ja] zo'n twister 
+B|6| B: _en_ bovenop _zien_ _je_ _twee_ blok _en_ _één_ zo'n 
+A|7| A: [ik] [zien] [ik] omschrijven hem _als_ _trofee_ _in_ mijn hoofd 
+B|8| B: [ja] _dat _zijn_ de_ goed 
+A|9| A: want [je] leggen _net_ [een] beker _of_ [een] _trofee_ _die_ [je] vastpken [ja] 
+B|10| B: _ja ja_ 
+A|11| A: _vier_ 
+B|12| B: [ja] 
+B|13| B: _en_ [die] _staan_ _bij_ mij _helemaal rechtsboven_ 
+A|14| A: [helemaal rechtsboven] 
+A|15| A: _nee_ hier _staan die_ ergens ander 
+B|16| B: [ja] 
+A|17| A: [dat zijn] _het_ _zijn de trofee_ _of_ _de bokaal_ 
+B|18| B: _waar_ hebben [ik] [die] alweer [zien] 
+B|19| B: [ja] 
+B|20| B: A 
+A|21| A: _hij_ staat _ongeveer_ _tussen_ [twee] [en] _drie_ _van links_ 
+B|22| B: _dan_ 
+A|23| A: [en] _ongeveer wel_ _in het midden_ 
+B|24| B: [nee] _dan_ [zijn] [die] 
+A|25| A: _maar wel_ qua 
+A|26| A: [oké] 
+B|27| B: dit [zijn] [die] [trofee] 
+A|28| A: _de trofee_ 
+A|29| A: [ja] 
+A|30| A: tien 
+B|31| B: [en] _bij_ mij [staan die] [helemaal] onderaan [en] _dan_ [twee] [of] [drie] rij [van links] 
+A|32| A: _er_ _zullen_ _nog wel_ [één] _sowieso_ misschien _twee tussen_ passen 
+B|33| B: [ja] [sowieso] 
+B|34| B: [ja] onderaan niet _veel_ [maar] 
+A|35| A: [nee] [onder] [maar] _aan de linkerkant_ 
+B|36| B: [het] [ja] [er] past [nog wel] [twee tussen] 
+A|37| A: [ja] [dan] [staan die] [denken] [ik] [wel] gelijk 
+A|38| A: [het] _de trofee_ 
+B|39| B: [trofee] 
+B|40| B: L 
+A|41| A: _hij staan_ [een beetje] hetzelfde _als_ [waar] [die] ander [van] jou _net_ [staan] _maar dan_ _aan de_ rechterkant _ook_ qua hoogte 
+A|42| A: [er] _zullen_ boven misschien [nog] [een] heel klein stuk [bij] kunnen [maar] [links] [of] rechts sorry _zullen_ [er] niks [veel] [bij] kunnen [denken] [ik] 
+B|43| B: [ja] 
+B|44| B: [dat] [zullen] [ongeveer wel] kloppen 
+B|45| B: dit [zijn de trofee] 
+A|46| A: [de trofee] 
+A|47| A: [ja] 
+A|48| A: _vier_ 
+B|49| B: [en] [ja] [hij staan] [ja] vrij [in het midden] [maar wel] [aan de linkerkant] [en] [ook] [een beetje] [onder] 
+B|50| B: _zeggen maar_ [als] [je] [het] vlak [in] [vier] [zullen] delen [zullen] [je] _net _zeggen_ [maar_ dan] [zullen] [die] [oké] 
+A|51| A: dus dus iets [veel] [onder] [dan] boven [ja] 
+B|52| B: [ja] 
+B|53| B: [ja] 
+A|54| A: [en] [maar wel] [in het midden] iets naar [links] 
+B|55| B: [ja] 
+A|56| A: [ja ja] [dan] [staan die] [denken] [ik] gelijk 
+A|57| A: _bokaal_ 
+B|58| B: [de bokaal] 
+A|59| A: [of] [de trofee] 
+B|60| B: F 
+A|61| A: [eigenlijk] [het] tegenovergestelden wat jij [net zeggen] jij [zeggen] [net] linksonder 
+B|62| B: [ja] 
+A|63| A: [die] [dan] [een beetje] [rechtsboven] [van] [het midden] [zeggen maar] 
+B|64| B: [oké] [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : raken ik zelf even in de war
+	Free: Pattern=ik, Pattern=in, Pattern=de
+	Constrained: 
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : oké dit zijn eigenlijk een beetje nou dat zijn dat zijn gewoon de denken de lang van allemaal en dan van onder zijn eigenlijk een soort orkaan
+	Free: Pattern=dat zijn, Pattern=denken, Pattern=de, Pattern=dan, Pattern=een, Pattern=oké, Pattern=zijn, Pattern=een beetje, Pattern=eigenlijk, Pattern=onder, Pattern=van, Pattern=en
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=een
+Turn ID=3| B | B : vinden ik
+	Free: Pattern=ik
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja zo'n twister
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : en bovenop zien je twee blok en één zo'n
+	Free: Pattern=twee, Pattern=zien, Pattern=en, Pattern=één, Pattern=je
+	Constrained: 
+Turn ID=7| A | A : ik zien ik omschrijven hem als trofee in mijn hoofd
+	Free: Pattern=in, Pattern=als, Pattern=zien, Pattern=ik, Pattern=trofee
+	Constrained: 
+Turn ID=8| B | B : ja dat zijn de goed
+	Free: Pattern=zijn de, Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn, Pattern=de
+Turn ID=9| A | A : want je leggen net een beker of een trofee die je vastpken ja
+	Free: Pattern=of, Pattern=net, Pattern=ja, Pattern=een, Pattern=die, Pattern=je, Pattern=trofee
+	Constrained: 
+Turn ID=10| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=11| A | A : vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : en die staan bij mij helemaal rechtsboven
+	Free: Pattern=staan, Pattern=die, Pattern=bij, Pattern=en, Pattern=helemaal rechtsboven
+	Constrained: Pattern=helemaal, Pattern=rechtsboven
+Turn ID=14| A | A : helemaal rechtsboven
+	Free: Pattern=helemaal rechtsboven
+	Constrained: Pattern=helemaal, Pattern=rechtsboven
+Turn ID=15| A | A : nee hier staan die ergens ander
+	Free: Pattern=staan die, Pattern=nee
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=16| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn het zijn de trofee of de bokaal
+	Free: Pattern=dat zijn, Pattern=of, Pattern=het, Pattern=de bokaal, Pattern=zijn de trofee
+	Constrained: Pattern=dat, Pattern=de, Pattern=bokaal, Pattern=de trofee, Pattern=zijn, Pattern=zijn de, Pattern=trofee
+Turn ID=18| B | B : waar hebben ik die alweer zien
+	Free: Pattern=waar, Pattern=ik, Pattern=zien, Pattern=die
+	Constrained: 
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : A
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : hij staat ongeveer tussen twee en drie van links
+	Free: Pattern=twee, Pattern=van links, Pattern=drie, Pattern=hij, Pattern=ongeveer, Pattern=en, Pattern=tussen
+	Constrained: Pattern=links, Pattern=van
+Turn ID=22| B | B : dan
+	Free: Pattern=dan
+	Constrained: 
+Turn ID=23| A | A : en ongeveer wel in het midden
+	Free: Pattern=in het midden, Pattern=ongeveer wel, Pattern=en
+	Constrained: Pattern=het midden, Pattern=wel, Pattern=het, Pattern=in, Pattern=ongeveer
+Turn ID=24| B | B : nee dan zijn die
+	Free: Pattern=dan, Pattern=nee, Pattern=zijn, Pattern=die
+	Constrained: 
+Turn ID=25| A | A : maar wel qua
+	Free: Pattern=maar wel
+	Constrained: Pattern=maar, Pattern=wel
+Turn ID=26| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=27| B | B : dit zijn die trofee
+	Free: Pattern=zijn, Pattern=trofee, Pattern=die
+	Constrained: 
+Turn ID=28| A | A : de trofee
+	Free: Pattern=de trofee
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=29| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=31| B | B : en bij mij staan die helemaal onderaan en dan twee of drie rij van links
+	Free: Pattern=of, Pattern=twee, Pattern=van links, Pattern=helemaal, Pattern=drie, Pattern=bij, Pattern=en, Pattern=staan die, Pattern=dan
+	Constrained: Pattern=links, Pattern=die, Pattern=van, Pattern=staan
+Turn ID=32| A | A : er zullen nog wel één sowieso misschien twee tussen passen
+	Free: Pattern=twee tussen, Pattern=er, Pattern=één, Pattern=sowieso, Pattern=nog wel, Pattern=zullen
+	Constrained: Pattern=tussen, Pattern=twee, Pattern=wel, Pattern=nog
+Turn ID=33| B | B : ja sowieso
+	Free: Pattern=ja, Pattern=sowieso
+	Constrained: 
+Turn ID=34| B | B : ja onderaan niet veel maar
+	Free: Pattern=ja, Pattern=veel, Pattern=maar
+	Constrained: 
+Turn ID=35| A | A : nee onder maar aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=nee, Pattern=maar, Pattern=onder
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=36| B | B : het ja er past nog wel twee tussen
+	Free: Pattern=nog wel, Pattern=ja, Pattern=het, Pattern=twee tussen, Pattern=er
+	Constrained: Pattern=tussen, Pattern=twee, Pattern=wel, Pattern=nog
+Turn ID=37| A | A : ja dan staan die denken ik wel gelijk
+	Free: Pattern=denken, Pattern=ja, Pattern=wel, Pattern=ik, Pattern=staan die, Pattern=dan
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=38| A | A : het de trofee
+	Free: Pattern=de trofee, Pattern=het
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=39| B | B : trofee
+	Free: Pattern=trofee
+	Constrained: 
+Turn ID=40| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : hij staan een beetje hetzelfde als waar die ander van jou net staan maar dan aan de rechterkant ook qua hoogte
+	Free: Pattern=net, Pattern=waar, Pattern=hij staan, Pattern=staan, Pattern=als, Pattern=die, Pattern=maar dan, Pattern=van, Pattern=een beetje, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=de, Pattern=dan, Pattern=hij, Pattern=maar, Pattern=een, Pattern=staan
+Turn ID=42| A | A : er zullen boven misschien nog een heel klein stuk bij kunnen maar links of rechts sorry zullen er niks veel bij kunnen denken ik
+	Free: Pattern=of, Pattern=denken, Pattern=veel, Pattern=een, Pattern=links, Pattern=ik, Pattern=maar, Pattern=nog, Pattern=zullen, Pattern=bij, Pattern=er
+	Constrained: 
+Turn ID=43| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : dat zullen ongeveer wel kloppen
+	Free: Pattern=ongeveer wel, Pattern=dat, Pattern=zullen
+	Constrained: Pattern=ongeveer, Pattern=wel
+Turn ID=45| B | B : dit zijn de trofee
+	Free: Pattern=zijn de trofee
+	Constrained: Pattern=de, Pattern=de trofee, Pattern=zijn, Pattern=zijn de, Pattern=trofee
+Turn ID=46| A | A : de trofee
+	Free: Pattern=de trofee
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=47| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| A | A : vier
+	Free: Pattern=vier
+	Constrained: 
+Turn ID=49| B | B : en ja hij staan ja vrij in het midden maar wel aan de linkerkant en ook een beetje onder
+	Free: Pattern=ja, Pattern=ook, Pattern=hij staan, Pattern=onder, Pattern=een beetje, Pattern=in het midden, Pattern=aan de linkerkant, Pattern=en, Pattern=maar wel
+	Constrained: Pattern=het midden, Pattern=de, Pattern=aan de, Pattern=het, Pattern=hij, Pattern=in, Pattern=maar, Pattern=een, Pattern=staan, Pattern=wel
+Turn ID=50| B | B : zeggen maar als je het vlak in vier zullen delen zullen je net zeggen maar dan zullen die oké
+	Free: Pattern=zullen, Pattern=zeggen maar, Pattern=het, Pattern=net zeggen, Pattern=in, Pattern=als, Pattern=die, Pattern=oké, Pattern=maar dan, Pattern=je, Pattern=vier
+	Constrained: Pattern=dan, Pattern=zeggen, Pattern=maar, Pattern=net
+Turn ID=51| A | A : dus dus iets veel onder dan boven ja
+	Free: Pattern=dan, Pattern=ja, Pattern=veel, Pattern=onder
+	Constrained: 
+Turn ID=52| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=54| A | A : en maar wel in het midden iets naar links
+	Free: Pattern=in het midden, Pattern=maar wel, Pattern=links, Pattern=en
+	Constrained: Pattern=het midden, Pattern=wel, Pattern=het, Pattern=in, Pattern=maar
+Turn ID=55| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=56| A | A : ja ja dan staan die denken ik gelijk
+	Free: Pattern=denken, Pattern=ja ja, Pattern=ik, Pattern=staan die, Pattern=dan
+	Constrained: Pattern=ja, Pattern=die, Pattern=staan
+Turn ID=57| A | A : bokaal
+	Free: Pattern=bokaal
+	Constrained: 
+Turn ID=58| B | B : de bokaal
+	Free: Pattern=de bokaal
+	Constrained: Pattern=bokaal, Pattern=de
+Turn ID=59| A | A : of de trofee
+	Free: Pattern=de trofee, Pattern=of
+	Constrained: Pattern=trofee, Pattern=de
+Turn ID=60| B | B : F
+	Free: 
+	Constrained: 
+Turn ID=61| A | A : eigenlijk het tegenovergestelden wat jij net zeggen jij zeggen net linksonder
+	Free: Pattern=net, Pattern=het, Pattern=zeggen, Pattern=net zeggen, Pattern=eigenlijk
+	Constrained: Pattern=zeggen, Pattern=net
+Turn ID=62| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=63| A | A : die dan een beetje rechtsboven van het midden zeggen maar
+	Free: Pattern=het midden, Pattern=rechtsboven, Pattern=dan, Pattern=zeggen maar, Pattern=die, Pattern=van, Pattern=een beetje
+	Constrained: Pattern=zeggen, Pattern=een, Pattern=het, Pattern=maar
+Turn ID=64| B | B : oké nee
+	Free: Pattern=nee, Pattern=oké
+	Constrained: 

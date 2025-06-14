@@ -1,0 +1,119 @@
+A|0| A: nu _het zijn_ eigenlijk _de_ wc-pot maar _dan_ _de_ achterkant _er_ lopen _een buis_ doorheen 
+A|1| A: _met een_ bobbel _aan _de_ bovenkant en_ _de staaf_ van _de_ pot zitten _aan de voorkant_ als _we_ 
+B|2| B: ah _oké_ 
+B|3| B: dus [het zijn] [een] kop [met] [de staaf] erdoorheen _door_ [het] midden 
+A|4| A: _ja_ 
+B|5| B: _en een_ rond _op_ [de bovenkant _en] een_ [staaf] [aan de voorkant] 
+A|6| A: _ja_ [en een] 
+A|7| A: [aan de voorkant] , _ja_ 
+B|8| B: [dan] [zijn] [het] B 
+B|9| B: [het zijn] veranderen 
+A|10| A: volgens mij [zijn] _dat_ [de] één zestien [dan] 
+B|11| B: _oké_ 
+B|12| B: nou [dan] hebben [we] nog _vijf_ te gaan 
+A|13| A: [vijf] ronde 
+B|14| B: [een] kop [met _een] ei_ erbovenop [en _een] pilaar_ [aan] gezichtszijde 
+B|15| B: [en] [met [een] buis] _door_ [het] midden heen 
+A|16| A: [oké] 
+A|17| A: nummer dertien 
+A|18| A: [een] _bak met_ _bovenop_ [een ei] , links [en] rechts zitten [een] [een] soort van pijp , [en] [de] , waar _die_ [op] _leunen_ , [de] vierkant , zitten [aan de voorkant] 
+B|19| B: [ja] 
+B|20| B: [dat] [zijn] L 
+B|21| B: [een] kop [met [een] ei] [op] [de bovenkant en] twee pinn _doorboren_ hem in [het] midden 
+A|22| A: nummer zes 
+A|23| A: _bovenop_ [een ei] _doorboren door [een_ buis] , [aan de voorkant] [een] [een] steun , [een pilaar] 
+B|24| B: [ja] [dat] [zijn] L 
+B|25| B: [de] [bak met] [het] [ei] [er] [bovenop] [en] [doorboren door [een] pilaar] paal 
+B|26| B: [die] [leunen] [op] [een pilaar] [aan de voorkant] 
+A|27| A: [ja] 
+A|28| A: nummer veertien 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : nu het zijn eigenlijk de wc-pot maar dan de achterkant er lopen een buis doorheen
+	Free: Pattern=de, Pattern=dan, Pattern=het zijn, Pattern=er, Pattern=een buis
+	Constrained: Pattern=zijn, Pattern=een, Pattern=het
+Turn ID=1| A | A : met een bobbel aan de bovenkant en de staaf van de pot zitten aan de voorkant als we
+	Free: Pattern=de bovenkant en, Pattern=de, Pattern=aan de, Pattern=de staaf, Pattern=we, Pattern=met een, Pattern=aan de voorkant
+	Constrained: Pattern=staaf, Pattern=aan de, Pattern=een, Pattern=met, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=2| B | B : ah oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=3| B | B : dus het zijn een kop met de staaf erdoorheen door het midden
+	Free: Pattern=door, Pattern=een, Pattern=het, Pattern=de staaf, Pattern=met, Pattern=het zijn
+	Constrained: Pattern=zijn, Pattern=de, Pattern=staaf, Pattern=het
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : en een rond op de bovenkant en een staaf aan de voorkant
+	Free: Pattern=de bovenkant en, Pattern=staaf, Pattern=op, Pattern=en een, Pattern=aan de voorkant
+	Constrained: Pattern=aan de, Pattern=een, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=6| A | A : ja en een
+	Free: Pattern=en een, Pattern=ja
+	Constrained: Pattern=een, Pattern=en
+Turn ID=7| A | A : aan de voorkant , ja
+	Free: Pattern=aan de voorkant, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=8| B | B : dan zijn het B
+	Free: Pattern=dan, Pattern=zijn, Pattern=het
+	Constrained: 
+Turn ID=9| B | B : het zijn veranderen
+	Free: Pattern=het zijn
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=10| A | A : volgens mij zijn dat de één zestien dan
+	Free: Pattern=dat, Pattern=dan, Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : nou dan hebben we nog vijf te gaan
+	Free: Pattern=dan, Pattern=vijf, Pattern=we
+	Constrained: 
+Turn ID=13| A | A : vijf ronde
+	Free: Pattern=vijf
+	Constrained: 
+Turn ID=14| B | B : een kop met een ei erbovenop en een pilaar aan gezichtszijde
+	Free: Pattern=aan, Pattern=een, Pattern=een ei, Pattern=een pilaar, Pattern=met een, Pattern=en een
+	Constrained: Pattern=ei, Pattern=een, Pattern=met, Pattern=en
+Turn ID=15| B | B : en met een buis door het midden heen
+	Free: Pattern=door, Pattern=het, Pattern=met een, Pattern=en, Pattern=een buis
+	Constrained: Pattern=met, Pattern=een
+Turn ID=16| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| A | A : nummer dertien
+	Free: 
+	Constrained: 
+Turn ID=18| A | A : een bak met bovenop een ei , links en rechts zitten een een soort van pijp , en de , waar die op leunen , de vierkant , zitten aan de voorkant
+	Free: Pattern=bovenop, Pattern=de, Pattern=een, Pattern=een ei, Pattern=die, Pattern=en, Pattern=aan de voorkant, Pattern=leunen, Pattern=op, Pattern=bak met
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=een, Pattern=met, Pattern=de, Pattern=aan
+Turn ID=19| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| B | B : dat zijn L
+	Free: Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : een kop met een ei op de bovenkant en twee pinn doorboren hem in het midden
+	Free: Pattern=de bovenkant en, Pattern=op, Pattern=doorboren, Pattern=een, Pattern=het, Pattern=een ei, Pattern=met een
+	Constrained: Pattern=ei, Pattern=de, Pattern=een, Pattern=met, Pattern=en
+Turn ID=22| A | A : nummer zes
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : bovenop een ei doorboren door een buis , aan de voorkant een een steun , een pilaar
+	Free: Pattern=bovenop, Pattern=doorboren door een, Pattern=een, Pattern=een ei, Pattern=een pilaar, Pattern=een buis, Pattern=aan de voorkant
+	Constrained: Pattern=ei, Pattern=aan de, Pattern=door, Pattern=doorboren, Pattern=een, Pattern=de, Pattern=aan
+Turn ID=24| B | B : ja dat zijn L
+	Free: Pattern=dat, Pattern=zijn, Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : de bak met het ei er bovenop en doorboren door een pilaar paal
+	Free: Pattern=bovenop, Pattern=doorboren door een, Pattern=ei, Pattern=de, Pattern=bak met, Pattern=het, Pattern=een pilaar, Pattern=er, Pattern=en
+	Constrained: Pattern=een, Pattern=met, Pattern=doorboren, Pattern=door
+Turn ID=26| B | B : die leunen op een pilaar aan de voorkant
+	Free: Pattern=op, Pattern=aan de voorkant, Pattern=leunen, Pattern=een pilaar, Pattern=die
+	Constrained: Pattern=aan, Pattern=een, Pattern=de, Pattern=aan de
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : nummer veertien
+	Free: 
+	Constrained: 

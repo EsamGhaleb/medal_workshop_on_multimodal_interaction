@@ -1,0 +1,207 @@
+A|0| A: oké _deze_ _zijn_ dus weer _een_ emmer zullen _ik_ maar zeggen 
+A|1| A: vier uitstulping dus _hebben_ langs vier kant uitsteeksel 
+A|2| A: _een_ _ja_ hoe omschrijf _ik dat_ _een_ _een_ pfoe _een_ _een_ _een ovaal_ , _zijn_ _dat_ _een ovaal_ ? _zo'n ovaal_ stuk _aan_ komen eruit _aan de bovenkant_ 
+B|3| B: [ja] 
+A|4| A: wat voor ons _een beetje_ optisch _links_ achter lijken lijken het _een beetje_ _een_ golven uitstulping 
+B|5| B: [ja] [ik] 
+A|6| A: link _aan de_ voorkant _zijn_ het _een_ soortgelijk 
+B|7| B: dezelfde [ovaal] 
+A|8| A: zelfde [ovaal] 
+B|9| B: [ja] 
+A|10| A: _en_ _aan_ _rechts _een_ beetje_ naar ons keren 
+B|11| B: _vierkant_ 
+A|12| A: [ja] lijken het _een_ _steeds groot_ wordend [vierkant] _dat_ _er_ uitsteken 
+B|13| B: [ja] 
+B|14| B: [ja] 
+B|15| B: _die_ kennen [ik dat] [zijn] [de] L 
+A|16| A: oké 
+B|17| B: [ja] duidelijk 
+B|18| B: _deze hebben_ net [zo'n ovaal] dinge als [de] vorig _bovenop en_ ook linksonder [een beetje] 
+B|19| B: [en] [een] [vierkant] [rechts] _die_ [steeds _groot] worden_ 
+B|20| B: [en] nog [een] klein [ja] haak _linksachter_ 
+A|21| A: [ja] 
+A|22| A: [en] [en] [linksachter] 
+B|23| B: [ja] 
+A|24| A: dus _links_ schuin naar voor wijzen _een ovaal_ [en] recht _er_ omhoog 
+B|25| B: [ja] 
+B|26| B: [ja] [ja] 
+A|27| A: [en] _aan de_ rechterkant [zijn] [dat] [die] [die] [groot worden] 
+B|28| B: [ja] 
+A|29| A: [vierkant] , [dat] [groot worden] [vierkant] , oké 
+A|30| A: nummer vijf 
+A|31| A: [deze hebben] vier uitsteeksel , twee ovaalvormig , één [ovaal] zitten _links en_ [de] ander [ovaal] [zijn] [bovenop en] [die] steken zeggen maar uit [de] emmer 
+B|32| B: [bovenop] 
+B|33| B: [ja] [en] [een] kubus [rechts] 
+A|34| A: _aan de_ rechter voorkant 
+A|35| A: [ja] 
+A|36| A: [ja] precies 
+B|37| B: K 
+B|38| B: [deze hebben] [een ovaal] [er] [bovenop en] [een ovaal] [links en] [een] kubus [rechts] [die] [steeds [groot] worden] 
+A|39| A: [ja] 
+B|40| B: [en] nog [een] haak 
+A|41| A: [en] _aan de_ achterkant [een] soort 
+B|42| B: [ja] [ja] 
+A|43| A: [ja] 
+A|44| A: nummer negen 
+A|45| A: dit [zijn] [die] met vier uitsteeksel , twee [ovaal] , [bovenop en] link 
+B|46| B: [ja] kubus [rechts] , [groot] 
+A|47| A: [ja] 
+B|48| B: L 
+B|49| B: [deze hebben] [ovaal] [aan de bovenkant] [en] [links] , [en] [rechts een] kubus [die] [steeds groot] 
+A|50| A: [ja] nummer twee 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké deze zijn dus weer een emmer zullen ik maar zeggen
+	Free: Pattern=deze, Pattern=ik, Pattern=een, Pattern=zijn
+	Constrained: 
+Turn ID=1| A | A : vier uitstulping dus hebben langs vier kant uitsteeksel
+	Free: Pattern=hebben
+	Constrained: 
+Turn ID=2| A | A : een ja hoe omschrijf ik dat een een pfoe een een een ovaal , zijn dat een ovaal ? zo'n ovaal stuk aan komen eruit aan de bovenkant
+	Free: Pattern=dat, Pattern=zo'n ovaal, Pattern=een, Pattern=ik dat, Pattern=aan de bovenkant, Pattern=aan, Pattern=ja, Pattern=een ovaal, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=een, Pattern=ovaal, Pattern=ik, Pattern=de, Pattern=aan
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : wat voor ons een beetje optisch links achter lijken lijken het een beetje een golven uitstulping
+	Free: Pattern=een beetje, Pattern=links, Pattern=een
+	Constrained: Pattern=een
+Turn ID=5| B | B : ja ik
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : link aan de voorkant zijn het een soortgelijk
+	Free: Pattern=aan de, Pattern=een, Pattern=zijn
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=7| B | B : dezelfde ovaal
+	Free: Pattern=ovaal
+	Constrained: 
+Turn ID=8| A | A : zelfde ovaal
+	Free: Pattern=ovaal
+	Constrained: 
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : en aan rechts een beetje naar ons keren
+	Free: Pattern=rechts een, Pattern=een beetje, Pattern=en, Pattern=aan
+	Constrained: Pattern=rechts, Pattern=een
+Turn ID=11| B | B : vierkant
+	Free: Pattern=vierkant
+	Constrained: 
+Turn ID=12| A | A : ja lijken het een steeds groot wordend vierkant dat er uitsteken
+	Free: Pattern=dat, Pattern=ja, Pattern=een, Pattern=steeds groot, Pattern=er, Pattern=vierkant
+	Constrained: Pattern=groot
+Turn ID=13| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : die kennen ik dat zijn de L
+	Free: Pattern=ik dat, Pattern=die, Pattern=de, Pattern=zijn
+	Constrained: Pattern=ik, Pattern=dat
+Turn ID=16| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=17| B | B : ja duidelijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| B | B : deze hebben net zo'n ovaal dinge als de vorig bovenop en ook linksonder een beetje
+	Free: Pattern=de, Pattern=zo'n ovaal, Pattern=bovenop en, Pattern=deze hebben, Pattern=een beetje
+	Constrained: Pattern=bovenop, Pattern=een, Pattern=hebben, Pattern=ovaal, Pattern=en, Pattern=deze
+Turn ID=19| B | B : en een vierkant rechts die steeds groot worden
+	Free: Pattern=rechts, Pattern=een, Pattern=en, Pattern=groot worden, Pattern=vierkant, Pattern=steeds groot, Pattern=die
+	Constrained: Pattern=groot
+Turn ID=20| B | B : en nog een klein ja haak linksachter
+	Free: Pattern=linksachter, Pattern=ja, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=21| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : en en linksachter
+	Free: Pattern=linksachter, Pattern=en
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dus links schuin naar voor wijzen een ovaal en recht er omhoog
+	Free: Pattern=een ovaal, Pattern=links, Pattern=en, Pattern=er
+	Constrained: Pattern=ovaal, Pattern=een
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : en aan de rechterkant zijn dat die die groot worden
+	Free: Pattern=dat, Pattern=aan de, Pattern=die, Pattern=en, Pattern=groot worden, Pattern=zijn
+	Constrained: Pattern=de, Pattern=groot, Pattern=aan
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : vierkant , dat groot worden vierkant , oké
+	Free: Pattern=groot worden, Pattern=vierkant, Pattern=dat
+	Constrained: Pattern=groot
+Turn ID=30| A | A : nummer vijf
+	Free: 
+	Constrained: 
+Turn ID=31| A | A : deze hebben vier uitsteeksel , twee ovaalvormig , één ovaal zitten links en de ander ovaal zijn bovenop en die steken zeggen maar uit de emmer
+	Free: Pattern=de, Pattern=bovenop en, Pattern=deze hebben, Pattern=die, Pattern=ovaal, Pattern=zijn, Pattern=links en
+	Constrained: Pattern=bovenop, Pattern=links, Pattern=hebben, Pattern=en, Pattern=deze
+Turn ID=32| B | B : bovenop
+	Free: Pattern=bovenop
+	Constrained: 
+Turn ID=33| B | B : ja en een kubus rechts
+	Free: Pattern=rechts, Pattern=ja, Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=34| A | A : aan de rechter voorkant
+	Free: Pattern=aan de
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| B | B : K
+	Free: 
+	Constrained: 
+Turn ID=38| B | B : deze hebben een ovaal er bovenop en een ovaal links en een kubus rechts die steeds groot worden
+	Free: Pattern=rechts, Pattern=een, Pattern=bovenop en, Pattern=deze hebben, Pattern=er, Pattern=groot worden, Pattern=een ovaal, Pattern=links en, Pattern=steeds groot, Pattern=die
+	Constrained: Pattern=bovenop, Pattern=een, Pattern=links, Pattern=ovaal, Pattern=en, Pattern=deze, Pattern=groot, Pattern=hebben
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : en nog een haak
+	Free: Pattern=een, Pattern=en
+	Constrained: 
+Turn ID=41| A | A : en aan de achterkant een soort
+	Free: Pattern=aan de, Pattern=een, Pattern=en
+	Constrained: Pattern=de, Pattern=aan
+Turn ID=42| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| A | A : nummer negen
+	Free: 
+	Constrained: 
+Turn ID=45| A | A : dit zijn die met vier uitsteeksel , twee ovaal , bovenop en link
+	Free: Pattern=bovenop en, Pattern=die, Pattern=ovaal, Pattern=zijn
+	Constrained: Pattern=bovenop, Pattern=en
+Turn ID=46| B | B : ja kubus rechts , groot
+	Free: Pattern=groot, Pattern=rechts, Pattern=ja
+	Constrained: 
+Turn ID=47| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=48| B | B : L
+	Free: 
+	Constrained: 
+Turn ID=49| B | B : deze hebben ovaal aan de bovenkant en links , en rechts een kubus die steeds groot
+	Free: Pattern=links, Pattern=rechts een, Pattern=deze hebben, Pattern=ovaal, Pattern=steeds groot, Pattern=die, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=deze, Pattern=de, Pattern=rechts, Pattern=aan, Pattern=groot, Pattern=hebben
+Turn ID=50| A | A : ja nummer twee
+	Free: Pattern=ja
+	Constrained: 

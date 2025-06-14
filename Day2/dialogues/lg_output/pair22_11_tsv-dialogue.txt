@@ -1,0 +1,147 @@
+B|0| B: _oké_ deze hebben een _soort van driehoekig_ uitsteeksel _aan de linkerkant_ 
+B|1| B: _en_ _zo'n_ _ei aan de voorkant_ 
+B|2| B: beetje schuin rechts 
+A|3| A: ah _ja_ 
+B|4| B: _en twee_ fliebelt _aan de bovenkant_ 
+A|5| A: _ja_ 
+A|6| A: _ja_ _en dan_ één _die_ _zijn_ wel verschillen [aan de bovenkant] 
+B|7| B: [ja] [ja] 
+A|8| A: _ja oké_ _dat zijn_ tien 
+B|9| B: [ja] 
+A|10| A: nou _dit zijn_ _met die_ [ei aan de voorkant] 
+A|11| A: of [de] bal [aan de voorkant] [en] [aan de linkerkant] [soort van driehoekig] 
+B|12| B: _driehoek_ 
+B|13| B: [ja oké] [ja] 
+B|14| B: [dat zijn] M 
+B|15| B: _ja dit zijn_ [die] [met die] , _met dat ei_ , [en] uh , [aan] beetje rechts , [en dan] [aan de linkerkant] _zo'n driehoekig_ balk 
+B|16| B: [met] _twee_ fliebeltjes _boven_ 
+A|17| A: [ja] ik zoeken hem even eigenlijk 
+A|18| A: [ei] rechterkant [en dan] [zo'n driehoekig] ding [dat] uitsteken [aan de linkerkant] toch 
+B|19| B: [ja] [ja] precies 
+A|20| A: [ja] 
+A|21| A: [ja oké] [dat zijn] acht 
+B|22| B: [ja] 
+A|23| A: [ja dit zijn] _met dat ei aan de_ zijkant [en twee] [van] [die] gek ding [aan de bovenkant] [en dan] nog één [aan de linkerkant] waar , [zo'n] [driehoek] [aan de linkerkant] 
+B|24| B: [ja oké] [ja] [dat zijn] K 
+B|25| B: _ja dit zijn weer [met_ dat [ei aan de] voorkant] [met] [de] driehoekjesbalk [en] [de] [twee] dinge [aan de bovenkant] 
+A|26| A: [driehoek] 
+A|27| A: [ja] 
+A|28| A: [ei aan de voorkant] [zijn] het toch 
+B|29| B: [ja] 
+A|30| A: [ja oké] [twee] [van] [die] ding [boven] [ja] 
+B|31| B: [ja] 
+A|32| A: [dat zijn] vijfteen 
+A|33| A: [ja dit zijn weer [met] die] [ei aan de] zijkant [en] [dat] [driehoekig] balkachtig ding [aan de linkerkant] 
+B|34| B: [ja] 
+B|35| B: [dat zijn] D 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : oké deze hebben een soort van driehoekig uitsteeksel aan de linkerkant
+	Free: Pattern=soort van driehoekig, Pattern=aan de linkerkant, Pattern=oké
+	Constrained: Pattern=aan, Pattern=de, Pattern=van, Pattern=driehoekig
+Turn ID=1| B | B : en zo'n ei aan de voorkant
+	Free: Pattern=ei aan de voorkant, Pattern=zo'n, Pattern=en
+	Constrained: Pattern=ei, Pattern=ei aan de, Pattern=aan de voorkant, Pattern=de, Pattern=aan
+Turn ID=2| B | B : beetje schuin rechts
+	Free: 
+	Constrained: 
+Turn ID=3| A | A : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : en twee fliebelt aan de bovenkant
+	Free: Pattern=aan de bovenkant, Pattern=en twee
+	Constrained: Pattern=twee, Pattern=aan, Pattern=de, Pattern=en
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja en dan één die zijn wel verschillen aan de bovenkant
+	Free: Pattern=ja, Pattern=en dan, Pattern=die, Pattern=aan de bovenkant, Pattern=zijn
+	Constrained: Pattern=aan, Pattern=de, Pattern=en
+Turn ID=7| B | B : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : ja oké dat zijn tien
+	Free: Pattern=dat zijn, Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat, Pattern=oké
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : nou dit zijn met die ei aan de voorkant
+	Free: Pattern=ei aan de voorkant, Pattern=met die, Pattern=dit zijn
+	Constrained: Pattern=ei, Pattern=met, Pattern=die, Pattern=aan de voorkant, Pattern=de, Pattern=aan, Pattern=ei aan de, Pattern=zijn
+Turn ID=11| A | A : of de bal aan de voorkant en aan de linkerkant soort van driehoekig
+	Free: Pattern=de, Pattern=soort van driehoekig, Pattern=en, Pattern=aan de voorkant, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=van, Pattern=driehoekig
+Turn ID=12| B | B : driehoek
+	Free: Pattern=driehoek
+	Constrained: 
+Turn ID=13| B | B : ja oké ja
+	Free: Pattern=ja oké, Pattern=ja
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=14| B | B : dat zijn M
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=15| B | B : ja dit zijn die met die , met dat ei , en uh , aan beetje rechts , en dan aan de linkerkant zo'n driehoekig balk
+	Free: Pattern=met die, Pattern=met dat ei, Pattern=aan, Pattern=en dan, Pattern=zo'n driehoekig, Pattern=ja dit zijn, Pattern=die, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=dat, Pattern=ei, Pattern=zo'n, Pattern=met, Pattern=die, Pattern=driehoekig, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=16| B | B : met twee fliebeltjes boven
+	Free: Pattern=twee, Pattern=boven, Pattern=met
+	Constrained: 
+Turn ID=17| A | A : ja ik zoeken hem even eigenlijk
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : ei rechterkant en dan zo'n driehoekig ding dat uitsteken aan de linkerkant toch
+	Free: Pattern=dat, Pattern=ei, Pattern=en dan, Pattern=zo'n driehoekig, Pattern=aan de linkerkant
+	Constrained: Pattern=zo'n, Pattern=driehoekig, Pattern=en, Pattern=de, Pattern=aan
+Turn ID=19| B | B : ja ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : ja oké dat zijn acht
+	Free: Pattern=dat zijn, Pattern=ja oké
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat, Pattern=oké
+Turn ID=22| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja dit zijn met dat ei aan de zijkant en twee van die gek ding aan de bovenkant en dan nog één aan de linkerkant waar , zo'n driehoek aan de linkerkant
+	Free: Pattern=driehoek, Pattern=zo'n, Pattern=en dan, Pattern=met dat ei aan de, Pattern=ja dit zijn, Pattern=die, Pattern=aan de linkerkant, Pattern=en twee, Pattern=van, Pattern=aan de bovenkant
+	Constrained: Pattern=dat, Pattern=ei, Pattern=met, Pattern=en, Pattern=dit zijn, Pattern=met dat ei, Pattern=twee, Pattern=de, Pattern=aan, Pattern=ja, Pattern=ei aan de, Pattern=zijn
+Turn ID=24| B | B : ja oké ja dat zijn K
+	Free: Pattern=dat zijn, Pattern=ja oké, Pattern=ja
+	Constrained: Pattern=ja, Pattern=zijn, Pattern=dat, Pattern=oké
+Turn ID=25| B | B : ja dit zijn weer met dat ei aan de voorkant met de driehoekjesbalk en de twee dinge aan de bovenkant
+	Free: Pattern=twee, Pattern=met dat ei aan de, Pattern=met, Pattern=ja dit zijn weer met, Pattern=de, Pattern=ei aan de voorkant, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=dat, Pattern=ei, Pattern=met dat ei, Pattern=ja dit zijn, Pattern=met, Pattern=aan de voorkant, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=ja, Pattern=ei aan de, Pattern=zijn
+Turn ID=26| A | A : driehoek
+	Free: Pattern=driehoek
+	Constrained: 
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : ei aan de voorkant zijn het toch
+	Free: Pattern=ei aan de voorkant, Pattern=zijn
+	Constrained: Pattern=ei, Pattern=ei aan de, Pattern=aan de voorkant, Pattern=de, Pattern=aan
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| A | A : ja oké twee van die ding boven ja
+	Free: Pattern=twee, Pattern=ja, Pattern=ja oké, Pattern=boven, Pattern=die, Pattern=van
+	Constrained: Pattern=ja, Pattern=oké
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : dat zijn vijfteen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=33| A | A : ja dit zijn weer met die ei aan de zijkant en dat driehoekig balkachtig ding aan de linkerkant
+	Free: Pattern=ja dit zijn weer met, Pattern=driehoekig, Pattern=en, Pattern=ei aan de, Pattern=aan de linkerkant, Pattern=dat, Pattern=met die
+	Constrained: Pattern=ei, Pattern=ja dit zijn, Pattern=met, Pattern=die, Pattern=zijn, Pattern=dit zijn, Pattern=de, Pattern=aan, Pattern=ja
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| B | B : dat zijn D
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat

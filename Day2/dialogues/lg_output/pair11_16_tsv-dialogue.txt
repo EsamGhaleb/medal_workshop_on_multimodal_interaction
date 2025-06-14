@@ -1,0 +1,167 @@
+A|0| A: _okee_ 
+A|1| A: nu _zijn_ _het_ _ook _een_ soort van_ _ja_ _ook_ _weer_ _een soort van_ pionne of _een_ _weer_ _een soort van_ steel _aan de_ appel alleen _dan_ echt in _het_ midden _van_ _het_ beker _en_ echt wel _een_ _groot_ 
+A|2| A: _en_ _dat_ steelt _zitten_ _ook_ precies _aan de linkerkant_ 
+B|3| B: [ja] [dat] [het] [een soort van] _twee_ _knuppelt_ lijken [en] _aan de rechterkant zitten_ er zo'n vierkant blok 
+A|4| A: [ja] 
+A|5| A: [ja] 
+A|6| A: [ja] 
+B|7| B: [okee] _dat zijn_ f 
+A|8| A: [dat zijn] hem 
+B|9| B: deze hebben _aan de bovenkant_ [en] [aan de linkerkant] [dat] knuppeltje 
+B|10| B: [en] _aan de rechterkant_ [een] uitsteeksel met _kubus_ _die_ steeds _klein_ worden 
+B|11| B: [en] [aan de linkerkant] hebben hij [ook een] uitsteeksel 
+B|12| B: maar [dat zijn] [een] ander uitstekel [dat] [ook] [dan] [aan] [dat] [dat] _aan de bovenkant_ [zitten] 
+B|13| B: je hebben _aan de bovenkant_ [een soort van] knuppel [en] [aan de linkerkant] [het] knuppeltje 
+A|14| A: ik zien hem 
+A|15| A: [ja] 
+A|16| A: [ja] precies 
+A|17| A: [dat zijn] nummer dertien 
+A|18| A: _dit zijn_ [ook] [dat] [van] _die kubus_ [van] [klein] _naar_ _groot_ alleen [zitten] [dat] rechts 
+A|19| A: [en] bovenaan [en] link [zitten] [ook] [zitten] [ook] [twee] _dezelfde_ [ja] 
+B|20| B: [ja] [dezelfde] _knuppelt_ [en] [dan] [aan de linkerkant] 
+A|21| A: [knuppelt] [ja] 
+A|22| A: [ja] 
+B|23| B: [okee] [dat zijn] b 
+B|24| B: [dit zijn] [de] [twee] knuppel [weer] _aan de bovenkant_ [en] [aan de linkerkant] [en] _aan de rechterkant_ [een] [kubus] [die] [van] [groot] [naar] [klein] gaan 
+A|25| A: waar [zijn] [die] 
+B|26| B: [en] hij hebben [ook] nog [een] vier uitseeksel [aan de linkerkant] maar [dat zijn] lastig te omschrijven 
+A|27| A: [ja] 
+A|28| A: [dat zijn] dertien 
+A|29| A: [het] kegel [aan de bovenkant] wat hetzelfde [aan de rechterkant zitten] 
+A|30| A: [aan de linkerkant] sorry dus bovenaan [en] links [zitten] 
+B|31| B: [ja] 
+A|32| A: [ja] 
+B|33| B: _ja ja_ 
+B|34| B: [dat zijn] o 
+B|35| B: knuppeltje boven [en] [aan de linkerkant] 
+B|36| B: [en] 
+A|37| A: [ja ja] waar [zijn] [die] 
+B|38| B: [ja] [die] [aan de rechterkant] [die kubus] 
+A|39| A: [ja] 
+A|40| A: [dat zijn] nummer [een] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=1| A | A : nu zijn het ook een soort van ja ook weer een soort van pionne of een weer een soort van steel aan de appel alleen dan echt in het midden van het beker en echt wel een groot
+	Free: Pattern=ook een, Pattern=ja, Pattern=dan, Pattern=een, Pattern=het, Pattern=groot, Pattern=een soort van, Pattern=zijn, Pattern=weer, Pattern=aan de, Pattern=ook, Pattern=van, Pattern=en
+	Constrained: Pattern=ook, Pattern=een, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=2| A | A : en dat steelt zitten ook precies aan de linkerkant
+	Free: Pattern=dat, Pattern=ook, Pattern=zitten, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=3| B | B : ja dat het een soort van twee knuppelt lijken en aan de rechterkant zitten er zo'n vierkant blok
+	Free: Pattern=dat, Pattern=twee, Pattern=ja, Pattern=knuppelt, Pattern=het, Pattern=een soort van, Pattern=en, Pattern=aan de rechterkant zitten
+	Constrained: Pattern=aan de, Pattern=een, Pattern=van, Pattern=de, Pattern=aan, Pattern=aan de rechterkant, Pattern=zitten
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : okee dat zijn f
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=8| A | A : dat zijn hem
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=9| B | B : deze hebben aan de bovenkant en aan de linkerkant dat knuppeltje
+	Free: Pattern=aan de bovenkant, Pattern=aan de linkerkant, Pattern=dat, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=10| B | B : en aan de rechterkant een uitsteeksel met kubus die steeds klein worden
+	Free: Pattern=een, Pattern=klein, Pattern=en, Pattern=kubus, Pattern=aan de rechterkant, Pattern=die
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=11| B | B : en aan de linkerkant hebben hij ook een uitsteeksel
+	Free: Pattern=aan de linkerkant, Pattern=ook een, Pattern=en
+	Constrained: Pattern=een, Pattern=de, Pattern=aan, Pattern=aan de, Pattern=ook
+Turn ID=12| B | B : maar dat zijn een ander uitstekel dat ook dan aan dat dat aan de bovenkant zitten
+	Free: Pattern=aan, Pattern=ook, Pattern=dan, Pattern=een, Pattern=zitten, Pattern=aan de bovenkant, Pattern=dat, Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=13| B | B : je hebben aan de bovenkant een soort van knuppel en aan de linkerkant het knuppeltje
+	Free: Pattern=het, Pattern=een soort van, Pattern=aan de linkerkant, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=een, Pattern=van, Pattern=de, Pattern=aan
+Turn ID=14| A | A : ik zien hem
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : dat zijn nummer dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=18| A | A : dit zijn ook dat van die kubus van klein naar groot alleen zitten dat rechts
+	Free: Pattern=dat, Pattern=die kubus, Pattern=ook, Pattern=groot, Pattern=zitten, Pattern=klein, Pattern=van, Pattern=dit zijn, Pattern=naar
+	Constrained: Pattern=die, Pattern=kubus, Pattern=zijn
+Turn ID=19| A | A : en bovenaan en link zitten ook zitten ook twee dezelfde ja
+	Free: Pattern=ja, Pattern=ook, Pattern=zitten, Pattern=en, Pattern=twee, Pattern=dezelfde
+	Constrained: 
+Turn ID=20| B | B : ja dezelfde knuppelt en dan aan de linkerkant
+	Free: Pattern=dezelfde, Pattern=ja, Pattern=knuppelt, Pattern=dan, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=21| A | A : knuppelt ja
+	Free: Pattern=knuppelt, Pattern=ja
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : okee dat zijn b
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : dit zijn de twee knuppel weer aan de bovenkant en aan de linkerkant en aan de rechterkant een kubus die van groot naar klein gaan
+	Free: Pattern=twee, Pattern=de, Pattern=een, Pattern=groot, Pattern=klein, Pattern=dit zijn, Pattern=aan de linkerkant, Pattern=naar, Pattern=aan de rechterkant, Pattern=die, Pattern=van, Pattern=aan de bovenkant, Pattern=en, Pattern=kubus, Pattern=weer
+	Constrained: Pattern=aan, Pattern=de, Pattern=zijn, Pattern=aan de
+Turn ID=25| A | A : waar zijn die
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : en hij hebben ook nog een vier uitseeksel aan de linkerkant maar dat zijn lastig te omschrijven
+	Free: Pattern=dat zijn, Pattern=ook, Pattern=een, Pattern=en, Pattern=aan de linkerkant
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=zijn, Pattern=de, Pattern=aan
+Turn ID=27| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=28| A | A : dat zijn dertien
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : het kegel aan de bovenkant wat hetzelfde aan de rechterkant zitten
+	Free: Pattern=aan de rechterkant zitten, Pattern=aan de bovenkant, Pattern=het
+	Constrained: Pattern=aan de, Pattern=de, Pattern=aan, Pattern=aan de rechterkant, Pattern=zitten
+Turn ID=30| A | A : aan de linkerkant sorry dus bovenaan en links zitten
+	Free: Pattern=aan de linkerkant, Pattern=zitten, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=34| B | B : dat zijn o
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : knuppeltje boven en aan de linkerkant
+	Free: Pattern=aan de linkerkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=36| B | B : en
+	Free: Pattern=en
+	Constrained: 
+Turn ID=37| A | A : ja ja waar zijn die
+	Free: Pattern=ja ja, Pattern=die, Pattern=zijn
+	Constrained: Pattern=ja
+Turn ID=38| B | B : ja die aan de rechterkant die kubus
+	Free: Pattern=aan de rechterkant, Pattern=die kubus, Pattern=die, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=die, Pattern=kubus, Pattern=de, Pattern=aan
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| A | A : dat zijn nummer een
+	Free: Pattern=dat zijn, Pattern=een
+	Constrained: Pattern=dat, Pattern=zijn

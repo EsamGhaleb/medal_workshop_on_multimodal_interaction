@@ -1,0 +1,67 @@
+A|0| A: _deze hebben_ _deze_ mok _hebben_ rechts en onder _hebben_ hij een soort van 90 graad uitsteeksel 
+A|1| A: _die_ _zo_ krom lopen 
+A|2| A: en bovenop _hebben_ hij een een ruit _met twee_ uitsteeksel _aan de_ zijkant 
+B|3| B: _ja_ dat zijn n 
+B|4| B: [deze hebben] zo'n vlak [met twee] oort 
+A|5| A: [ja] drie 
+A|6| A: [ja] een ruit bovenop achter en _de_ _twee verrekijker aan de_ zijkant 
+A|7| A: _piratenverrekijker_ 
+B|8| B: b 
+B|9| B: [deze hebben] weer dat vlak [zo] [met] [die] [twee verrekijker aan de] beide kant 
+A|10| A: _piratenverrekijker_ 
+A|11| A: vijf 
+A|12| A: een ruitje bovenop en _piratenverrekijker_ link links en rechts 
+B|13| B: okee dat zijn e 
+B|14| B: [de] [piratenverrekijker] op het vlak 
+A|15| A: negen 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : deze hebben deze mok hebben rechts en onder hebben hij een soort van 90 graad uitsteeksel
+	Free: Pattern=deze hebben, Pattern=hebben, Pattern=deze
+	Constrained: Pattern=hebben, Pattern=deze
+Turn ID=1| A | A : die zo krom lopen
+	Free: Pattern=zo, Pattern=die
+	Constrained: 
+Turn ID=2| A | A : en bovenop hebben hij een een ruit met twee uitsteeksel aan de zijkant
+	Free: Pattern=aan de, Pattern=met twee, Pattern=hebben
+	Constrained: Pattern=de, Pattern=met
+Turn ID=3| B | B : ja dat zijn n
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| B | B : deze hebben zo'n vlak met twee oort
+	Free: Pattern=deze hebben, Pattern=met twee
+	Constrained: Pattern=hebben, Pattern=met, Pattern=deze
+Turn ID=5| A | A : ja drie
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ja een ruit bovenop achter en de twee verrekijker aan de zijkant
+	Free: Pattern=twee verrekijker aan de, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=de
+Turn ID=7| A | A : piratenverrekijker
+	Free: Pattern=piratenverrekijker
+	Constrained: 
+Turn ID=8| B | B : b
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : deze hebben weer dat vlak zo met die twee verrekijker aan de beide kant
+	Free: Pattern=met, Pattern=die, Pattern=twee verrekijker aan de, Pattern=deze hebben, Pattern=zo
+	Constrained: Pattern=de, Pattern=deze, Pattern=aan de, Pattern=hebben
+Turn ID=10| A | A : piratenverrekijker
+	Free: Pattern=piratenverrekijker
+	Constrained: 
+Turn ID=11| A | A : vijf
+	Free: 
+	Constrained: 
+Turn ID=12| A | A : een ruitje bovenop en piratenverrekijker link links en rechts
+	Free: Pattern=piratenverrekijker
+	Constrained: 
+Turn ID=13| B | B : okee dat zijn e
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : de piratenverrekijker op het vlak
+	Free: Pattern=de, Pattern=piratenverrekijker
+	Constrained: 
+Turn ID=15| A | A : negen
+	Free: 
+	Constrained: 

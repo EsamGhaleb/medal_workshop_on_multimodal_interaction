@@ -1,0 +1,179 @@
+B|0| B: okee deze _die_ _hebben_ een vierkant schijf _en_ _dat_ lijken alsof _die_ dwars _door de_ _beker_ heen _gaan_ 
+A|1| A: [en] _zijn_ [dat] _aan de bovenkant_ of _aan de onderkant_ want _je hebben_ er _twee_ 
+B|2| B: _ja_ [je hebben] zeggen _maar_ [de] schijf als een soort _van_ _plateau_ [aan _de onderkant] maar_ _die_ bedoelen _ik_ _niet_ 
+B|3| B: _ik_ bedoelen [dat] hij echt _door _het_ beker_ heen _gaan_ 
+A|4| A: [ja] [maar] daar [hebben] [je] er ook _twee_ [van] 
+A|5| A: toch 
+A|6| A: één [die] zitten veel boven [aan] [het beker] [en] één zitten veel onder [aan] [het beker] 
+B|7| B: [ja] _dan_ bedoelen _ik _die_ aan de onderkant_ 
+A|8| A: [aan de onderkant] 
+B|9| B: [ja] 
+A|10| A: [dan] _zijn_ [het] nummer veertien 
+A|11| A: _dit zijn de_ plaat [die] weer beetje redelijk onderaan [door de] _door het kop_ _zijn_ steken 
+A|12| A: weer [van] [die] _twee_ [van] [die] punt bovenaan [het beker] 
+B|13| B: [dan] _hebben ik die_ _net_ verkeerd _doen_ waarschijnlijk 
+B|14| B: _ik_ denken [dat] [je] [die] _net_ 
+A|15| A: [ja] [net] [net] [hebben ik die] boven [die] plaat [die] daar bovenaan _zijn_ 
+B|16| B: ah shit [hebben ik die] verkeerd kijken 
+A|17| A: maarja _nu_ _zijn_ [het] in ieder geval onderaan 
+B|18| B: okee nou [dan] _doen_ [ik] _hem nu_ wel _goed_ 
+A|19| A: _dus_ [dan] moeten [je] [hem nu] [goed] [doen] [ja] 
+B|20| B: [die] [zijn] [die] [zijn] g 
+B|21| B: deze [hebben ik] [net] fout [maar] _dat _zijn_ dus_ [de] vierkant schijf [aan de onderkant] [die] dwars [door het kop] heen _gaan_ [en] [aan de bovenkant] [twee] _identiek_ [ja] rechthoekig kort uitstekeltjes 
+A|22| A: [ja] 
+A|23| A: [ja] 
+A|24| A: [dat zijn] nummer acht 
+A|25| A: [ja] _dit [zijn_ dus] weer [die] [plateau] _die door_ [aan de onderkant] [door het] _ding_ [zijn] _met_ ook weer [twee] [van] [die] [identiek] balk 
+B|26| B: [ja] 
+B|27| B: [ik] [hem] [hem] 
+B|28| B: [dat zijn] o 
+B|29| B: [dit zijn de] vierkant schijf [die [door] het kop] heen _gaan_ lijken wel een _ballerina_ zo 
+B|30| B: [met] [aan de bovenkant] [twee] [identiek] klein uitstekend [ding] [en] hij _roken_ een pijp [aan de] linkerkant 
+A|31| A: [ja] [ik] weten wat 
+A|32| A: [ja] 
+A|33| A: [ja] 
+B|34| B: [ja] 
+A|35| A: zestien 
+B|36| B: een _roken ballerina_ 
+A|37| A: [roken ballerina] 
+A|38| A: weer [die] plaat [die aan de onderkant] doorheen [zijn] [gaan] 
+A|39| A: [niet] op [de onderkant maar] daar vrij onderaan [met] [die] [twee] steelt 
+B|40| B: [ja] [ja] pijp 
+B|41| B: [ja] 
+A|42| A: [de] _de dansen_ [ballerina] [die] 
+B|43| B: [de dansen] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : okee deze die hebben een vierkant schijf en dat lijken alsof die dwars door de beker heen gaan
+	Free: Pattern=beker, Pattern=dat, Pattern=hebben, Pattern=die, Pattern=en, Pattern=gaan, Pattern=door de
+	Constrained: Pattern=de
+Turn ID=1| A | A : en zijn dat aan de bovenkant of aan de onderkant want je hebben er twee
+	Free: Pattern=dat, Pattern=twee, Pattern=je hebben, Pattern=aan de onderkant, Pattern=zijn, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan de, Pattern=hebben, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=2| B | B : ja je hebben zeggen maar de schijf als een soort van plateau aan de onderkant maar die bedoelen ik niet
+	Free: Pattern=niet, Pattern=je hebben, Pattern=de onderkant maar, Pattern=aan de onderkant, Pattern=plateau, Pattern=die, Pattern=ik, Pattern=van, Pattern=maar, Pattern=de, Pattern=ja
+	Constrained: Pattern=aan de, Pattern=hebben, Pattern=maar, Pattern=je, Pattern=de, Pattern=aan
+Turn ID=3| B | B : ik bedoelen dat hij echt door het beker heen gaan
+	Free: Pattern=dat, Pattern=het beker, Pattern=ik, Pattern=gaan, Pattern=door het
+	Constrained: Pattern=beker, Pattern=het
+Turn ID=4| A | A : ja maar daar hebben je er ook twee van
+	Free: Pattern=twee, Pattern=ja, Pattern=hebben, Pattern=van, Pattern=maar, Pattern=je
+	Constrained: 
+Turn ID=5| A | A : toch
+	Free: 
+	Constrained: 
+Turn ID=6| A | A : één die zitten veel boven aan het beker en één zitten veel onder aan het beker
+	Free: Pattern=het beker, Pattern=die, Pattern=en, Pattern=aan
+	Constrained: Pattern=beker, Pattern=het
+Turn ID=7| B | B : ja dan bedoelen ik die aan de onderkant
+	Free: Pattern=die aan de onderkant, Pattern=ik die, Pattern=ja, Pattern=dan
+	Constrained: Pattern=aan de, Pattern=aan de onderkant, Pattern=die, Pattern=ik, Pattern=de, Pattern=aan
+Turn ID=8| A | A : aan de onderkant
+	Free: Pattern=aan de onderkant
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=9| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : dan zijn het nummer veertien
+	Free: Pattern=zijn, Pattern=dan, Pattern=het
+	Constrained: 
+Turn ID=11| A | A : dit zijn de plaat die weer beetje redelijk onderaan door de door het kop zijn steken
+	Free: Pattern=door het kop, Pattern=die, Pattern=door de, Pattern=zijn, Pattern=dit zijn de
+	Constrained: Pattern=de, Pattern=het, Pattern=dit zijn, Pattern=zijn, Pattern=door het
+Turn ID=12| A | A : weer van die twee van die punt bovenaan het beker
+	Free: Pattern=het beker, Pattern=die, Pattern=twee, Pattern=van
+	Constrained: Pattern=beker, Pattern=het
+Turn ID=13| B | B : dan hebben ik die net verkeerd doen waarschijnlijk
+	Free: Pattern=hebben ik die, Pattern=doen, Pattern=dan, Pattern=net
+	Constrained: Pattern=ik die, Pattern=hebben ik, Pattern=hebben, Pattern=die, Pattern=ik
+Turn ID=14| B | B : ik denken dat je die net
+	Free: Pattern=dat, Pattern=net, Pattern=die, Pattern=ik, Pattern=je
+	Constrained: 
+Turn ID=15| A | A : ja net net hebben ik die boven die plaat die daar bovenaan zijn
+	Free: Pattern=net, Pattern=ja, Pattern=die, Pattern=hebben ik die, Pattern=zijn
+	Constrained: Pattern=ik die, Pattern=hebben ik, Pattern=hebben, Pattern=die, Pattern=ik
+Turn ID=16| B | B : ah shit hebben ik die verkeerd kijken
+	Free: Pattern=hebben ik die
+	Constrained: Pattern=ik die, Pattern=hebben ik, Pattern=hebben, Pattern=die, Pattern=ik
+Turn ID=17| A | A : maarja nu zijn het in ieder geval onderaan
+	Free: Pattern=zijn, Pattern=nu, Pattern=het
+	Constrained: 
+Turn ID=18| B | B : okee nou dan doen ik hem nu wel goed
+	Free: Pattern=doen, Pattern=goed, Pattern=hem nu, Pattern=dan, Pattern=ik
+	Constrained: Pattern=hem, Pattern=nu
+Turn ID=19| A | A : dus dan moeten je hem nu goed doen ja
+	Free: Pattern=doen, Pattern=hem nu, Pattern=dan, Pattern=je, Pattern=goed, Pattern=dus, Pattern=ja
+	Constrained: Pattern=hem, Pattern=nu
+Turn ID=20| B | B : die zijn die zijn g
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 
+Turn ID=21| B | B : deze hebben ik net fout maar dat zijn dus de vierkant schijf aan de onderkant die dwars door het kop heen gaan en aan de bovenkant twee identiek ja rechthoekig kort uitstekeltjes
+	Free: Pattern=dat zijn, Pattern=door het kop, Pattern=hebben ik, Pattern=aan de onderkant, Pattern=die, Pattern=zijn dus, Pattern=net, Pattern=twee, Pattern=de, Pattern=ja, Pattern=aan de bovenkant, Pattern=en, Pattern=identiek, Pattern=gaan, Pattern=maar
+	Constrained: Pattern=dat, Pattern=aan de, Pattern=het, Pattern=hebben, Pattern=ik, Pattern=de, Pattern=aan, Pattern=dus, Pattern=zijn, Pattern=door het
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : dat zijn nummer acht
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=25| A | A : ja dit zijn dus weer die plateau die door aan de onderkant door het ding zijn met ook weer twee van die identiek balk
+	Free: Pattern=twee, Pattern=ja, Pattern=ding, Pattern=aan de onderkant, Pattern=plateau, Pattern=met, Pattern=die, Pattern=van, Pattern=die door, Pattern=zijn, Pattern=identiek, Pattern=door het, Pattern=dit zijn, Pattern=zijn dus
+	Constrained: Pattern=aan de, Pattern=het, Pattern=die, Pattern=zijn, Pattern=de, Pattern=aan, Pattern=dus
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : ik hem hem
+	Free: Pattern=ik, Pattern=hem
+	Constrained: 
+Turn ID=28| B | B : dat zijn o
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=29| B | B : dit zijn de vierkant schijf die door het kop heen gaan lijken wel een ballerina zo
+	Free: Pattern=door het kop, Pattern=ballerina, Pattern=die door, Pattern=gaan, Pattern=dit zijn de
+	Constrained: Pattern=de, Pattern=het, Pattern=die, Pattern=dit zijn, Pattern=zijn, Pattern=door het
+Turn ID=30| B | B : met aan de bovenkant twee identiek klein uitstekend ding en hij roken een pijp aan de linkerkant
+	Free: Pattern=twee, Pattern=aan de, Pattern=ding, Pattern=met, Pattern=roken, Pattern=identiek, Pattern=aan de bovenkant, Pattern=en
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=31| A | A : ja ik weten wat
+	Free: Pattern=ik, Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=33| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=35| A | A : zestien
+	Free: 
+	Constrained: 
+Turn ID=36| B | B : een roken ballerina
+	Free: Pattern=roken ballerina
+	Constrained: Pattern=ballerina, Pattern=roken
+Turn ID=37| A | A : roken ballerina
+	Free: Pattern=roken ballerina
+	Constrained: Pattern=ballerina, Pattern=roken
+Turn ID=38| A | A : weer die plaat die aan de onderkant doorheen zijn gaan
+	Free: Pattern=die aan de onderkant, Pattern=die, Pattern=zijn, Pattern=gaan
+	Constrained: Pattern=aan de, Pattern=aan de onderkant, Pattern=die, Pattern=de, Pattern=aan
+Turn ID=39| A | A : niet op de onderkant maar daar vrij onderaan met die twee steelt
+	Free: Pattern=twee, Pattern=niet, Pattern=de onderkant maar, Pattern=met, Pattern=die
+	Constrained: Pattern=de, Pattern=maar
+Turn ID=40| B | B : ja ja pijp
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=42| A | A : de de dansen ballerina die
+	Free: Pattern=de dansen, Pattern=die, Pattern=ballerina, Pattern=de
+	Constrained: Pattern=de
+Turn ID=43| B | B : de dansen
+	Free: Pattern=de dansen
+	Constrained: Pattern=de

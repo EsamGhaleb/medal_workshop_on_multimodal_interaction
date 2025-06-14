@@ -1,0 +1,199 @@
+A|0| A: _oké_ _ik_ vinden deze heel leuk want _ik_ noemen deze _met_ _de_ twee uitstekend _tampon_ 
+A|1| A: dus er zitten _aan de_ bovenkant zitten _zo'n_ fliebel _en_ _aan de_ linkerkant _ook_ _en dan_ zitten er _aan de rechterkant_ zitten _zo'n_ vierkant torendingetje 
+A|2| A: _maar_ _het_ veel opvallen _zijn de_ _de_ _de aan de_ bovenkant _en_ _aan de_ linkervoorkant _een_ soort _van_ tamponvormig raketachtig dinge 
+A|3| A: of _misschien_ konijnenor 
+B|4| B: [ik] denken [misschien] _dat_ [ik] _hebben_ _die_ [aan de] _achterkant_ [zo'n] [zo'n] knikten _staart_ 
+A|5| A: _ja_ [achterkant] _ook_ nog _een_ soort _van_ [staart] of zo 
+A|6| A: _ja_ _ja_ 
+B|7| B: [en dan] [aan [de] [aan de] rechterkant] [zo'n] blok [met] klein blok 
+A|8| A: _ja_ 
+A|9| A: _ja_ 
+B|10| B: [oké] 
+B|11| B: _dat zijn_ E _bij mij_ 
+A|12| A: [oké] _dan staan die bij mij_ _van_ [de] veel rechterrij daar [zijn] er [bij mij] twee één bovenaan [en] _een_ beetje _in_ _het midden_ [en] _het_ [zijn] [dan] [die] _een_ _in_ _het midden_ 
+B|13| B: nee [dan staan die bij mij] _op_ [een] ander plek 
+A|14| A: [oké] 
+B|15| B: _dit zijn die_ [tampon] [van] jou 
+A|16| A: [oké] even zoeken 
+A|17| A: [dat zijn] elf 
+B|18| B: [en] hij [staan] nee [dan] _hebben_ _we_ weer [dat] vierkantje 
+B|19| B: [en _dan] _zijn_ die_ Linksboven 
+A|20| A: _ja dat zijn_ dezelfde 
+A|21| A: [dit zijn die] [met] _de tampon_ 
+B|22| B: waar [staan die] 
+B|23| B: [ja] 
+B|24| B: J 
+A|25| A: _die staan_ [de] rechterhelft [van] _het_ scherm 
+A|26| A: [en dan] [een] beetje _in_ _het midden_ eigenlijk 
+B|27| B: [oké] nee [dat zijn] [bij mij] 
+B|28| B: [het] [staan] [dan] _net_ iets boven [het midden] 
+A|29| A: [ja] [ja] 
+B|30| B: [maar] [ik] [ik] _hebben_ [ook] _niet_ echt iets 
+A|31| A: [de] er [staan] [op] [de] rechterhelft [van] [het] scherm [hebben] je er één rechtsboven _in de hoek_ 
+A|32| A: [en] [het] [zijn] [dan] [die] daar linksonder daarvan _zeggen_ [maar] 
+B|33| B: [oké] nee [dat zijn] [een] ander [bij mij] 
+B|34| B: [dit [zijn] [de] tampon] 
+A|35| A: [dat zijn] negen 
+B|36| B: _en die staan_ onderaan [dat] driehoek wat [ik] _net_ [zeggen] 
+B|37| B: rechts 
+A|38| A: [oké] dus er [staan] niks veel onder eigenlijk 
+B|39| B: nee 
+A|40| A: [dan zijn] [het] [niet] gelijk 
+A|41| A: [dit zijn die] [met] [de tampon] 
+B|42| B: [ja dat zijn] B 
+A|43| A: [en die staan] [bij] mijn rechtsboven [van] [die] [we] [net] [hebben] 
+B|44| B: nee [dat zijn] ongelijk 
+B|45| B: [dit [zijn] [de] tampon] 
+A|46| A: vier 
+B|47| B: [die staan] Linksboven [in de hoek] 
+A|48| A: [ja] gelijk 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké ik vinden deze heel leuk want ik noemen deze met de twee uitstekend tampon
+	Free: Pattern=de, Pattern=met, Pattern=oké, Pattern=ik, Pattern=tampon
+	Constrained: 
+Turn ID=1| A | A : dus er zitten aan de bovenkant zitten zo'n fliebel en aan de linkerkant ook en dan zitten er aan de rechterkant zitten zo'n vierkant torendingetje
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=aan de rechterkant, Pattern=en, Pattern=aan de, Pattern=ook
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=2| A | A : maar het veel opvallen zijn de de de aan de bovenkant en aan de linkervoorkant een soort van tamponvormig raketachtig dinge
+	Free: Pattern=de, Pattern=aan de, Pattern=een, Pattern=het, Pattern=maar, Pattern=zijn de, Pattern=de aan de, Pattern=van, Pattern=en
+	Constrained: Pattern=aan de, Pattern=de, Pattern=zijn
+Turn ID=3| A | A : of misschien konijnenor
+	Free: Pattern=misschien
+	Constrained: 
+Turn ID=4| B | B : ik denken misschien dat ik hebben die aan de achterkant zo'n zo'n knikten staart
+	Free: Pattern=dat, Pattern=zo'n, Pattern=aan de, Pattern=staart, Pattern=hebben, Pattern=die, Pattern=ik, Pattern=misschien, Pattern=achterkant
+	Constrained: Pattern=de
+Turn ID=5| A | A : ja achterkant ook nog een soort van staart of zo
+	Free: Pattern=ja, Pattern=ook, Pattern=een, Pattern=staart, Pattern=van, Pattern=achterkant
+	Constrained: 
+Turn ID=6| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : en dan aan de aan de rechterkant zo'n blok met klein blok
+	Free: Pattern=zo'n, Pattern=en dan, Pattern=aan de, Pattern=met, Pattern=aan de rechterkant, Pattern=de aan de
+	Constrained: Pattern=dan, Pattern=de, Pattern=en, Pattern=aan de
+Turn ID=8| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=11| B | B : dat zijn E bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=dat
+Turn ID=12| A | A : oké dan staan die bij mij van de veel rechterrij daar zijn er bij mij twee één bovenaan en een beetje in het midden en het zijn dan die een in het midden
+	Free: Pattern=het midden, Pattern=de, Pattern=dan, Pattern=een, Pattern=het, Pattern=dan staan die bij mij, Pattern=in, Pattern=die, Pattern=oké, Pattern=zijn, Pattern=bij mij, Pattern=van, Pattern=en
+	Constrained: Pattern=staan, Pattern=het, Pattern=die, Pattern=bij, Pattern=bij mij, Pattern=staan die, Pattern=dan
+Turn ID=13| B | B : nee dan staan die bij mij op een ander plek
+	Free: Pattern=dan staan die bij mij, Pattern=op, Pattern=een
+	Constrained: Pattern=staan, Pattern=die, Pattern=bij, Pattern=bij mij, Pattern=staan die, Pattern=dan
+Turn ID=14| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=15| B | B : dit zijn die tampon van jou
+	Free: Pattern=dit zijn die, Pattern=van, Pattern=tampon
+	Constrained: Pattern=dit zijn, Pattern=zijn die, Pattern=zijn, Pattern=die
+Turn ID=16| A | A : oké even zoeken
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=18| B | B : en hij staan nee dan hebben we weer dat vierkantje
+	Free: Pattern=dat, Pattern=dan, Pattern=staan, Pattern=hebben, Pattern=we, Pattern=en
+	Constrained: 
+Turn ID=19| B | B : en dan zijn die Linksboven
+	Free: Pattern=dan zijn, Pattern=en dan, Pattern=zijn die
+	Constrained: Pattern=zijn, Pattern=en, Pattern=die, Pattern=dan
+Turn ID=20| A | A : ja dat zijn dezelfde
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=21| A | A : dit zijn die met de tampon
+	Free: Pattern=dit zijn die, Pattern=de tampon, Pattern=met
+	Constrained: Pattern=de, Pattern=zijn die, Pattern=die, Pattern=zijn, Pattern=tampon, Pattern=dit zijn
+Turn ID=22| B | B : waar staan die
+	Free: Pattern=staan die
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : die staan de rechterhelft van het scherm
+	Free: Pattern=die staan, Pattern=de, Pattern=het, Pattern=van
+	Constrained: Pattern=die, Pattern=staan
+Turn ID=26| A | A : en dan een beetje in het midden eigenlijk
+	Free: Pattern=het midden, Pattern=en dan, Pattern=in, Pattern=een
+	Constrained: Pattern=het, Pattern=en, Pattern=dan
+Turn ID=27| B | B : oké nee dat zijn bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=dat
+Turn ID=28| B | B : het staan dan net iets boven het midden
+	Free: Pattern=het midden, Pattern=net, Pattern=dan, Pattern=staan, Pattern=het
+	Constrained: Pattern=het
+Turn ID=29| A | A : ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : maar ik ik hebben ook niet echt iets
+	Free: Pattern=ook, Pattern=niet, Pattern=hebben, Pattern=ik, Pattern=maar
+	Constrained: 
+Turn ID=31| A | A : de er staan op de rechterhelft van het scherm hebben je er één rechtsboven in de hoek
+	Free: Pattern=de, Pattern=op, Pattern=staan, Pattern=het, Pattern=hebben, Pattern=in de hoek, Pattern=van
+	Constrained: Pattern=de, Pattern=in
+Turn ID=32| A | A : en het zijn dan die daar linksonder daarvan zeggen maar
+	Free: Pattern=dan, Pattern=het, Pattern=zeggen, Pattern=die, Pattern=en, Pattern=zijn, Pattern=maar
+	Constrained: 
+Turn ID=33| B | B : oké nee dat zijn een ander bij mij
+	Free: Pattern=bij mij, Pattern=dat zijn, Pattern=oké, Pattern=een
+	Constrained: Pattern=zijn, Pattern=bij, Pattern=dat
+Turn ID=34| B | B : dit zijn de tampon
+	Free: Pattern=dit zijn, Pattern=de tampon, Pattern=zijn de
+	Constrained: Pattern=de, Pattern=zijn, Pattern=tampon
+Turn ID=35| A | A : dat zijn negen
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=36| B | B : en die staan onderaan dat driehoek wat ik net zeggen
+	Free: Pattern=dat, Pattern=net, Pattern=en die staan, Pattern=zeggen, Pattern=ik
+	Constrained: Pattern=die staan, Pattern=en, Pattern=die, Pattern=staan
+Turn ID=37| B | B : rechts
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : oké dus er staan niks veel onder eigenlijk
+	Free: Pattern=oké, Pattern=staan
+	Constrained: 
+Turn ID=39| B | B : nee
+	Free: 
+	Constrained: 
+Turn ID=40| A | A : dan zijn het niet gelijk
+	Free: Pattern=dan zijn, Pattern=het, Pattern=niet
+	Constrained: Pattern=zijn, Pattern=dan
+Turn ID=41| A | A : dit zijn die met de tampon
+	Free: Pattern=dit zijn die, Pattern=de tampon, Pattern=met
+	Constrained: Pattern=de, Pattern=zijn die, Pattern=die, Pattern=zijn, Pattern=tampon, Pattern=dit zijn
+Turn ID=42| B | B : ja dat zijn B
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=zijn, Pattern=ja, Pattern=dat
+Turn ID=43| A | A : en die staan bij mijn rechtsboven van die we net hebben
+	Free: Pattern=net, Pattern=en die staan, Pattern=hebben, Pattern=bij, Pattern=van, Pattern=we, Pattern=die
+	Constrained: Pattern=die staan, Pattern=en, Pattern=die, Pattern=staan
+Turn ID=44| B | B : nee dat zijn ongelijk
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=45| B | B : dit zijn de tampon
+	Free: Pattern=dit zijn, Pattern=de tampon, Pattern=zijn de
+	Constrained: Pattern=de, Pattern=zijn, Pattern=tampon
+Turn ID=46| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=47| B | B : die staan Linksboven in de hoek
+	Free: Pattern=in de hoek, Pattern=die staan
+	Constrained: Pattern=in, Pattern=de, Pattern=die, Pattern=staan
+Turn ID=48| A | A : ja gelijk
+	Free: Pattern=ja
+	Constrained: 

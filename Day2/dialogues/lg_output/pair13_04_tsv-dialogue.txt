@@ -1,0 +1,175 @@
+A|0| A: even kijken _dit_ hebben _een_ _soort_ ik hebben _het_ _omschrijven_ alsof _het_ _een_ _soort_ _vulkaan_ uit _het_ beker komen 
+A|1| A: laten maar zeggen _ja_ _het_ _lijken_ alsof _er een_ berg uit _het_ bekert uitsteken 
+B|2| B: ah [ja] 
+A|3| A: _aan de_ rechterzijde hebben _het_ _twee_ [ja] _soort van_ _post its_ laat maar zeggen eraan hangen 
+A|4| A: _en aan de_ linkerzijde zitten _er_ _ook_ nog _een_ _soort_ handvat _en dan_ daaronder _lijken_ _het_ alsof _het_ _een_ staart hebben 
+B|5| B: wachten _die_ [post] it 
+B|6| B: _zijn_ [het] [soort van] _zullen_ _je_ _het ook_ _kunnen_ [omschrijven] als _dat_ [er _een] tipitent_ op staat 
+A|7| A: [ja] 
+B|8| B: _half_ _tipitent_ [en dan] 
+A|9| A: [ja] maar [dan] _zonder top_ 
+B|10| B: [zonder top] 
+A|11| A: [ja] laten maar zeggen wel [een tipitent] maar [dan] staan hij niet 
+A|12| A: ik denken [dat] [je] [een] ander bedoelen 
+A|13| A: laten maar zeggen wel [een] [soort] driehoek waarvan zeggen maar _de_ [top] [zijn] afsnijden 
+A|14| A: zo zien _de_ bovenkant eruit 
+A|15| A: [en] hij steken uit [het] beker 
+B|16| B: [ja] [en aan de] rechterkant [twee] ding 
+A|17| A: [soort] plakselt 
+B|18| B: [ja] [lijken] [een] beetje op _een stopcontact_ 
+B|19| B: _zullen_ _kunnen_ 
+B|20| B: zo'n stekker 
+A|21| A: [ja] [je] [zullen] [het] in [een stopcontact] [kunnen] zetten 
+B|22| B: okee 
+A|23| A: [en dan] links hebben [het ook] [een] [soort] vaat [en dan] [een] [soort] staart [aan de] onderzijde 
+B|24| B: [ja] 
+B|25| B: [ja] okee 
+B|26| B: [dan] [zijn] [het] c 
+B|27| B: _dit zijn_ [het] stopcontactding _met_ _de half_ [tipitent] _of_ [de] [vulkaan] 
+A|28| A: [ja] _dat zijn_ nummer vijfteen 
+A|29| A: [dit zijn] [met] [die] _twee post its_ [aan de] rechterzijde 
+A|30| A: [ja] [dit zijn] [de half] tipi 
+B|31| B: [ja] 
+A|32| A: [met] [of] _ja de_ tipi [met] [zonder top] 
+B|33| B: [ja] 
+B|34| B: [dat zijn] e 
+B|35| B: [ja [de] half] [tipitent] [met] _de twee post its_ 
+A|36| A: [ja] 
+A|37| A: nummer acht 
+A|38| A: [de half] tipi [en] [de twee post its] rechts [en] [het] staart 
+B|39| B: [ja] 
+B|40| B: [dat zijn] d 
+B|41| B: [de half] [tipitent] [met] [de] [post its] 
+A|42| A: [ja] nummer drie 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken dit hebben een soort ik hebben het omschrijven alsof het een soort vulkaan uit het beker komen
+	Free: Pattern=soort, Pattern=een, Pattern=het, Pattern=dit, Pattern=omschrijven, Pattern=vulkaan
+	Constrained: 
+Turn ID=1| A | A : laten maar zeggen ja het lijken alsof er een berg uit het bekert uitsteken
+	Free: Pattern=er een, Pattern=ja, Pattern=het, Pattern=lijken
+	Constrained: Pattern=er, Pattern=een
+Turn ID=2| B | B : ah ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : aan de rechterzijde hebben het twee ja soort van post its laat maar zeggen eraan hangen
+	Free: Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=het, Pattern=soort van, Pattern=post its
+	Constrained: Pattern=post, Pattern=de, Pattern=soort
+Turn ID=4| A | A : en aan de linkerzijde zitten er ook nog een soort handvat en dan daaronder lijken het alsof het een staart hebben
+	Free: Pattern=soort, Pattern=en dan, Pattern=ook, Pattern=lijken, Pattern=een, Pattern=het, Pattern=er, Pattern=en aan de
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de, Pattern=dan
+Turn ID=5| B | B : wachten die post it
+	Free: Pattern=post, Pattern=die
+	Constrained: 
+Turn ID=6| B | B : zijn het soort van zullen je het ook kunnen omschrijven als dat er een tipitent op staat
+	Free: Pattern=dat, Pattern=zullen, Pattern=kunnen, Pattern=het ook, Pattern=het, Pattern=een tipitent, Pattern=omschrijven, Pattern=er een, Pattern=je, Pattern=soort van, Pattern=zijn
+	Constrained: Pattern=soort, Pattern=ook, Pattern=een, Pattern=het, Pattern=tipitent, Pattern=er
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : half tipitent en dan
+	Free: Pattern=en dan, Pattern=tipitent, Pattern=half
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=9| A | A : ja maar dan zonder top
+	Free: Pattern=zonder top, Pattern=ja, Pattern=dan
+	Constrained: Pattern=top
+Turn ID=10| B | B : zonder top
+	Free: Pattern=zonder top
+	Constrained: Pattern=top
+Turn ID=11| A | A : ja laten maar zeggen wel een tipitent maar dan staan hij niet
+	Free: Pattern=een tipitent, Pattern=ja, Pattern=dan
+	Constrained: Pattern=tipitent, Pattern=een
+Turn ID=12| A | A : ik denken dat je een ander bedoelen
+	Free: Pattern=dat, Pattern=je, Pattern=een
+	Constrained: 
+Turn ID=13| A | A : laten maar zeggen wel een soort driehoek waarvan zeggen maar de top zijn afsnijden
+	Free: Pattern=soort, Pattern=de, Pattern=een, Pattern=top, Pattern=zijn
+	Constrained: 
+Turn ID=14| A | A : zo zien de bovenkant eruit
+	Free: Pattern=de
+	Constrained: 
+Turn ID=15| A | A : en hij steken uit het beker
+	Free: Pattern=en, Pattern=het
+	Constrained: 
+Turn ID=16| B | B : ja en aan de rechterkant twee ding
+	Free: Pattern=en aan de, Pattern=ja, Pattern=twee
+	Constrained: Pattern=aan de, Pattern=en, Pattern=de
+Turn ID=17| A | A : soort plakselt
+	Free: Pattern=soort
+	Constrained: 
+Turn ID=18| B | B : ja lijken een beetje op een stopcontact
+	Free: Pattern=een stopcontact, Pattern=ja, Pattern=een, Pattern=lijken
+	Constrained: Pattern=een
+Turn ID=19| B | B : zullen kunnen
+	Free: Pattern=zullen, Pattern=kunnen
+	Constrained: 
+Turn ID=20| B | B : zo'n stekker
+	Free: 
+	Constrained: 
+Turn ID=21| A | A : ja je zullen het in een stopcontact kunnen zetten
+	Free: Pattern=zullen, Pattern=kunnen, Pattern=ja, Pattern=het, Pattern=je, Pattern=een stopcontact
+	Constrained: Pattern=een
+Turn ID=22| B | B : okee
+	Free: 
+	Constrained: 
+Turn ID=23| A | A : en dan links hebben het ook een soort vaat en dan een soort staart aan de onderzijde
+	Free: Pattern=soort, Pattern=en dan, Pattern=aan de, Pattern=het ook, Pattern=een
+	Constrained: Pattern=de, Pattern=ook, Pattern=dan, Pattern=het, Pattern=en
+Turn ID=24| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja okee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| B | B : dan zijn het c
+	Free: Pattern=dan, Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=27| B | B : dit zijn het stopcontactding met de half tipitent of de vulkaan
+	Free: Pattern=of, Pattern=de, Pattern=het, Pattern=vulkaan, Pattern=met, Pattern=tipitent, Pattern=dit zijn, Pattern=de half
+	Constrained: Pattern=de, Pattern=dit, Pattern=half, Pattern=zijn
+Turn ID=28| A | A : ja dat zijn nummer vijfteen
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=29| A | A : dit zijn met die twee post its aan de rechterzijde
+	Free: Pattern=aan de, Pattern=twee post its, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=twee, Pattern=de, Pattern=dit, Pattern=post, Pattern=post its, Pattern=zijn
+Turn ID=30| A | A : ja dit zijn de half tipi
+	Free: Pattern=dit zijn, Pattern=de half, Pattern=ja
+	Constrained: Pattern=de, Pattern=dit, Pattern=half, Pattern=zijn
+Turn ID=31| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=32| A | A : met of ja de tipi met zonder top
+	Free: Pattern=ja de, Pattern=zonder top, Pattern=met, Pattern=of
+	Constrained: Pattern=ja, Pattern=de, Pattern=top
+Turn ID=33| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=34| B | B : dat zijn e
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=35| B | B : ja de half tipitent met de twee post its
+	Free: Pattern=de twee post its, Pattern=ja de, Pattern=met, Pattern=tipitent, Pattern=de half
+	Constrained: Pattern=twee, Pattern=twee post its, Pattern=post, Pattern=post its, Pattern=half, Pattern=de, Pattern=ja
+Turn ID=36| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=37| A | A : nummer acht
+	Free: 
+	Constrained: 
+Turn ID=38| A | A : de half tipi en de twee post its rechts en het staart
+	Free: Pattern=de twee post its, Pattern=de half, Pattern=en, Pattern=het
+	Constrained: Pattern=twee, Pattern=de, Pattern=twee post its, Pattern=post, Pattern=post its, Pattern=half
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=41| B | B : de half tipitent met de post its
+	Free: Pattern=de, Pattern=met, Pattern=tipitent, Pattern=post its, Pattern=de half
+	Constrained: Pattern=de, Pattern=post, Pattern=half
+Turn ID=42| A | A : ja nummer drie
+	Free: Pattern=ja
+	Constrained: 

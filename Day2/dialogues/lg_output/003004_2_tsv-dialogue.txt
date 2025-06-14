@@ -1,0 +1,219 @@
+A|0| A: _ja_ ik _hebben_ hem benoemen _als_ _puntmuts_ hij _hebben_ zo'n gek vierkant 
+B|1| B: [ja] [ja] [ja] 
+A|2| A: [ja] 
+B|3| B: _en dan_ [hebben] _die_ 
+A|4| A: _maar_ [dan] _een_ _heel groot_ [en] gek _neus_ 
+B|5| B: [ja] [en] [een] fliebel _aan de_ achterkant 
+A|6| A: [ja] _rond_ wielt soort _van_ [aan] [aan de] onderkant 
+B|7| B: yes 
+B|8| B: J 
+A|9| A: _bij mij staan die_ eigenlijk _helemaal_ _helemaal_ onderaan 
+B|10| B: [ja] 
+A|11| A: [en dan] _aan de rechterkant_ [een] beetje _in het midden _van het_ scherm_ 
+B|12| B: [ja] 
+B|13| B: top 
+B|14| B: dit zijn _met de_ driehoekpunt bovenop [het] kop _met_ [die] [heel _groot] neus_ 
+B|15| B: _met_ [het] [rond] wieletje link onderin 
+A|16| A: [ja] _de puntmuts_ achtig 
+B|17| B: [puntmuts] 
+B|18| B: [de puntmuts] 
+A|19| A: oké zes 
+B|20| B: [bij mij staan die] [aan de rechterkant] [van het scherm] 
+B|21| B: [maar] niet [helemaal] [aan de rechterkant] _wel_ [een] stuk naar _links_ 
+A|22| A: [ja] 
+B|23| B: [en dan] [in het midden van het] onderste deel 
+A|24| A: [ja] [bij mij] _ook_ 
+A|25| A: [de puntmuts] _met de groot neus_ 
+B|26| B: [ja] E 
+A|27| A: _rechtsonderkwadrant_ [en dan] 
+B|28| B: bijna [in het midden van] dat kwadrant 
+A|29| A: _nee_ hij [staan] [wel] echt [links] tegen [de] bovenkant [aan] zeggen [maar] [bij] [het] middencenter 
+B|30| B: [nee] 
+A|31| A: daar _zitten_ [die] [in] [de] buurt 
+B|32| B: [nee] 
+A|33| A: oké 
+B|34| B: dit zijn [de puntmuts] 
+A|35| A: [de puntmuts] tien 
+B|36| B: [ja] [met de groot neus] 
+B|37| B: [en dan] [staan die] _bij mij helemaal_ linksonder nou niet [helemaal] linksonder [maar] [het] zijn [het] enig plaat [in] [die] omgeving nog 
+A|38| A: oké [ja] [bij mij staan] er één [bij mij staan die] [wel] [in het] linksonderkwadrant _ook_ [helemaal] onder [maar] hij _zitten wel_ echt [in het midden van het] linksonderkwadrant 
+B|39| B: [nee] [nee] 
+A|40| A: oké 
+B|41| B: [zitten wel] veel naar [links] 
+A|42| A: [de puntmuts] [bij mij helemaal] Linksboven 
+B|43| B: [ja] G 
+B|44| B: [en dan] [staan die] [ook] op dezelfde plek 
+B|45| B: [de puntmuts] 
+A|46| A: [de puntmuts] 
+B|47| B: [met de groot neus] 
+A|48| A: tien 
+B|49| B: [rechtsonderkwadrant] 
+B|50| B: [en] [als] je [het midden van] dat kwadrant pakken [een] stuk naar boven 
+B|51| B: misschien [ook] iets naar rechts 
+A|52| A: [ja] 
+A|53| A: [ja] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja ik hebben hem benoemen als puntmuts hij hebben zo'n gek vierkant
+	Free: Pattern=hebben, Pattern=als, Pattern=ja, Pattern=puntmuts
+	Constrained: 
+Turn ID=1| B | B : ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : en dan hebben die
+	Free: Pattern=en dan, Pattern=hebben, Pattern=die
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=4| A | A : maar dan een heel groot en gek neus
+	Free: Pattern=heel groot, Pattern=dan, Pattern=een, Pattern=neus, Pattern=en, Pattern=maar
+	Constrained: 
+Turn ID=5| B | B : ja en een fliebel aan de achterkant
+	Free: Pattern=aan de, Pattern=ja, Pattern=en, Pattern=een
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=6| A | A : ja rond wielt soort van aan aan de onderkant
+	Free: Pattern=aan de, Pattern=van, Pattern=rond, Pattern=aan, Pattern=ja
+	Constrained: Pattern=aan, Pattern=de
+Turn ID=7| B | B : yes
+	Free: 
+	Constrained: 
+Turn ID=8| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=9| A | A : bij mij staan die eigenlijk helemaal helemaal onderaan
+	Free: Pattern=bij mij staan die, Pattern=helemaal
+	Constrained: Pattern=staan die, Pattern=staan, Pattern=die, Pattern=bij, Pattern=bij mij, Pattern=bij mij staan
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : en dan aan de rechterkant een beetje in het midden van het scherm
+	Free: Pattern=van het scherm, Pattern=en dan, Pattern=een, Pattern=in het midden van het, Pattern=aan de rechterkant
+	Constrained: Pattern=in het midden van, Pattern=aan de, Pattern=dan, Pattern=het, Pattern=in het, Pattern=in, Pattern=het midden van, Pattern=de, Pattern=aan, Pattern=van, Pattern=en
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| B | B : top
+	Free: 
+	Constrained: 
+Turn ID=14| B | B : dit zijn met de driehoekpunt bovenop het kop met die heel groot neus
+	Free: Pattern=heel groot, Pattern=met de, Pattern=het, Pattern=groot neus, Pattern=met, Pattern=die
+	Constrained: Pattern=neus, Pattern=met, Pattern=de
+Turn ID=15| B | B : met het rond wieletje link onderin
+	Free: Pattern=het, Pattern=rond, Pattern=met
+	Constrained: 
+Turn ID=16| A | A : ja de puntmuts achtig
+	Free: Pattern=de puntmuts, Pattern=ja
+	Constrained: Pattern=puntmuts, Pattern=de
+Turn ID=17| B | B : puntmuts
+	Free: Pattern=puntmuts
+	Constrained: 
+Turn ID=18| B | B : de puntmuts
+	Free: Pattern=de puntmuts
+	Constrained: Pattern=puntmuts, Pattern=de
+Turn ID=19| A | A : oké zes
+	Free: 
+	Constrained: 
+Turn ID=20| B | B : bij mij staan die aan de rechterkant van het scherm
+	Free: Pattern=bij mij staan die, Pattern=van het scherm, Pattern=aan de rechterkant
+	Constrained: Pattern=aan de, Pattern=staan die, Pattern=staan, Pattern=het, Pattern=die, Pattern=bij, Pattern=van, Pattern=bij mij, Pattern=bij mij staan, Pattern=de, Pattern=aan
+Turn ID=21| B | B : maar niet helemaal aan de rechterkant wel een stuk naar links
+	Free: Pattern=helemaal, Pattern=links, Pattern=aan de rechterkant, Pattern=maar, Pattern=een, Pattern=wel
+	Constrained: Pattern=aan, Pattern=de, Pattern=aan de
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : en dan in het midden van het onderste deel
+	Free: Pattern=in het midden van het, Pattern=en dan
+	Constrained: Pattern=in het midden van, Pattern=dan, Pattern=het, Pattern=in het, Pattern=in, Pattern=het midden van, Pattern=van, Pattern=en
+Turn ID=24| A | A : ja bij mij ook
+	Free: Pattern=bij mij, Pattern=ook, Pattern=ja
+	Constrained: Pattern=bij
+Turn ID=25| A | A : de puntmuts met de groot neus
+	Free: Pattern=met de groot neus, Pattern=de puntmuts
+	Constrained: Pattern=puntmuts, Pattern=groot neus, Pattern=neus, Pattern=met, Pattern=de, Pattern=met de
+Turn ID=26| B | B : ja E
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : rechtsonderkwadrant en dan
+	Free: Pattern=en dan, Pattern=rechtsonderkwadrant
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=28| B | B : bijna in het midden van dat kwadrant
+	Free: Pattern=in het midden van
+	Constrained: Pattern=het, Pattern=in het, Pattern=in, Pattern=het midden van, Pattern=van
+Turn ID=29| A | A : nee hij staan wel echt links tegen de bovenkant aan zeggen maar bij het middencenter
+	Free: Pattern=het, Pattern=bij, Pattern=maar, Pattern=de, Pattern=aan, Pattern=staan, Pattern=wel, Pattern=links, Pattern=nee
+	Constrained: 
+Turn ID=30| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=31| A | A : daar zitten die in de buurt
+	Free: Pattern=zitten, Pattern=in, Pattern=de, Pattern=die
+	Constrained: 
+Turn ID=32| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=33| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=34| B | B : dit zijn de puntmuts
+	Free: Pattern=de puntmuts
+	Constrained: Pattern=puntmuts, Pattern=de
+Turn ID=35| A | A : de puntmuts tien
+	Free: Pattern=de puntmuts
+	Constrained: Pattern=puntmuts, Pattern=de
+Turn ID=36| B | B : ja met de groot neus
+	Free: Pattern=met de groot neus, Pattern=ja
+	Constrained: Pattern=groot neus, Pattern=neus, Pattern=met, Pattern=de, Pattern=met de
+Turn ID=37| B | B : en dan staan die bij mij helemaal linksonder nou niet helemaal linksonder maar het zijn het enig plaat in die omgeving nog
+	Free: Pattern=bij mij helemaal, Pattern=en dan, Pattern=helemaal, Pattern=staan die, Pattern=het, Pattern=in, Pattern=die, Pattern=maar
+	Constrained: Pattern=helemaal, Pattern=dan, Pattern=staan, Pattern=die, Pattern=bij, Pattern=en, Pattern=bij mij
+Turn ID=38| A | A : oké ja bij mij staan er één bij mij staan die wel in het linksonderkwadrant ook helemaal onder maar hij zitten wel echt in het midden van het linksonderkwadrant
+	Free: Pattern=ja, Pattern=wel, Pattern=in het midden van het, Pattern=in het, Pattern=maar, Pattern=bij mij staan die, Pattern=zitten wel, Pattern=bij mij staan, Pattern=helemaal, Pattern=ook
+	Constrained: Pattern=in het midden van, Pattern=staan die, Pattern=het, Pattern=in het, Pattern=in, Pattern=het midden van, Pattern=bij, Pattern=van, Pattern=bij mij, Pattern=bij mij staan, Pattern=staan, Pattern=wel, Pattern=die, Pattern=zitten
+Turn ID=39| B | B : nee nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=40| A | A : oké
+	Free: 
+	Constrained: 
+Turn ID=41| B | B : zitten wel veel naar links
+	Free: Pattern=zitten wel, Pattern=links
+	Constrained: Pattern=zitten, Pattern=wel
+Turn ID=42| A | A : de puntmuts bij mij helemaal Linksboven
+	Free: Pattern=bij mij helemaal, Pattern=de puntmuts
+	Constrained: Pattern=puntmuts, Pattern=de, Pattern=helemaal, Pattern=bij, Pattern=bij mij
+Turn ID=43| B | B : ja G
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=44| B | B : en dan staan die ook op dezelfde plek
+	Free: Pattern=en dan, Pattern=staan die, Pattern=ook
+	Constrained: Pattern=staan, Pattern=en, Pattern=die, Pattern=dan
+Turn ID=45| B | B : de puntmuts
+	Free: Pattern=de puntmuts
+	Constrained: Pattern=puntmuts, Pattern=de
+Turn ID=46| A | A : de puntmuts
+	Free: Pattern=de puntmuts
+	Constrained: Pattern=puntmuts, Pattern=de
+Turn ID=47| B | B : met de groot neus
+	Free: Pattern=met de groot neus
+	Constrained: Pattern=groot neus, Pattern=neus, Pattern=met, Pattern=de, Pattern=met de
+Turn ID=48| A | A : tien
+	Free: 
+	Constrained: 
+Turn ID=49| B | B : rechtsonderkwadrant
+	Free: Pattern=rechtsonderkwadrant
+	Constrained: 
+Turn ID=50| B | B : en als je het midden van dat kwadrant pakken een stuk naar boven
+	Free: Pattern=het midden van, Pattern=als, Pattern=en, Pattern=een
+	Constrained: Pattern=het, Pattern=van
+Turn ID=51| B | B : misschien ook iets naar rechts
+	Free: Pattern=ook
+	Constrained: 
+Turn ID=52| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=53| A | A : ja
+	Free: Pattern=ja
+	Constrained: 

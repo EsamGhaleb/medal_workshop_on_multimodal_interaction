@@ -1,0 +1,151 @@
+B|0| B: cool 
+A|1| A: deze nou _ja_ _ik_ _weten_ niet _wat_ _ik_ _het_ moeten noemen _maar_ _het_ lijken _een_ beetje zegmaar op _een soort van_ handvat 
+A|2| A: _die_ _aan_ beide kant _zitten_ 
+A|3| A: _en_ _er_ _zitten_ _een_ _schuin_ omhooggaan plaat achter zo _schuin_ achter 
+B|4| B: [ja] 
+B|5| B: [ja] 
+B|6| B: [ja] 
+B|7| B: _oké_ [ja] _dat_ [weten] [ik] wel 
+A|8| A: [oké] 
+B|9| B: [wat] [het] _zijn_ , _dat zijn_ E 
+B|10| B: _ja dit zijn_ [die] _met_ [die] [soort van] [schuin] ding [aan] de achterkant naar boven 
+A|11| A: _ja _ja_ _ja_ ja_ 
+B|12| B: _met_ [die] alsof [er] [een soort van] _paal_ _doorheen_ [zitten] 
+A|13| A: [ja] precies 
+B|14| B: [ja] 
+A|15| A: [dat zijn] zeven 
+B|16| B: [oké] 
+A|17| A: [oké] dan krijgen we _weer_ diegene [met] zo'n schuinaflopen bord erachter 
+B|18| B: [ja] 
+A|19| A: _en_ [met] twee [van] [die] [ja] zo'n [paal] [die] _er doorheen_ lijken te [zitten] 
+B|20| B: [met] [die] [die] 
+B|21| B: [ja ja] [oké] 
+A|22| A: [ja] 
+B|23| B: [dat zijn] L 
+B|24| B: _ja dit zijn weer_ [die] _met dat_ [schuin] [aan] de achterkant _en die_ balk [er doorheen] zeggen [maar] 
+A|25| A: [ja] 
+A|26| A: [ja] vijf 
+A|27| A: _ja dit zijn weer met dat_ schuinaflopen bord 
+B|28| B: [ja] 
+A|29| A: [en _die] paal ja_ 
+B|30| B: [met] [die paal ja] [oké] 
+B|31| B: [dat zijn] K 
+B|32| B: [ja dit zijn weer met dat] aflopen ding [aan] de achterkant [met] [die paal] erdoor 
+A|33| A: [oké] 
+A|34| A: [ja] waar [zijn] hij 
+A|35| A: even kijken 
+A|36| A: [ja] daar negen 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : cool
+	Free: 
+	Constrained: 
+Turn ID=1| A | A : deze nou ja ik weten niet wat ik het moeten noemen maar het lijken een beetje zegmaar op een soort van handvat
+	Free: Pattern=ja, Pattern=een, Pattern=weten, Pattern=het, Pattern=een soort van, Pattern=wat, Pattern=ik, Pattern=maar
+	Constrained: Pattern=soort van, Pattern=een, Pattern=van
+Turn ID=2| A | A : die aan beide kant zitten
+	Free: Pattern=die, Pattern=aan, Pattern=zitten
+	Constrained: 
+Turn ID=3| A | A : en er zitten een schuin omhooggaan plaat achter zo schuin achter
+	Free: Pattern=een, Pattern=zitten, Pattern=er, Pattern=schuin, Pattern=en
+	Constrained: 
+Turn ID=4| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : oké ja dat weten ik wel
+	Free: Pattern=dat, Pattern=ja, Pattern=weten, Pattern=oké, Pattern=ik
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| B | B : wat het zijn , dat zijn E
+	Free: Pattern=dat zijn, Pattern=wat, Pattern=het, Pattern=zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=10| B | B : ja dit zijn die met die soort van schuin ding aan de achterkant naar boven
+	Free: Pattern=aan, Pattern=ja dit zijn, Pattern=met, Pattern=die, Pattern=schuin, Pattern=soort van
+	Constrained: Pattern=van, Pattern=ja, Pattern=zijn
+Turn ID=11| A | A : ja ja ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=12| B | B : met die alsof er een soort van paal doorheen zitten
+	Free: Pattern=doorheen, Pattern=een soort van, Pattern=met, Pattern=er, Pattern=paal, Pattern=die, Pattern=zitten
+	Constrained: Pattern=soort van, Pattern=een, Pattern=van
+Turn ID=13| A | A : ja precies
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat zijn zeven
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=16| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=17| A | A : oké dan krijgen we weer diegene met zo'n schuinaflopen bord erachter
+	Free: Pattern=met, Pattern=oké, Pattern=weer
+	Constrained: 
+Turn ID=18| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=19| A | A : en met twee van die ja zo'n paal die er doorheen lijken te zitten
+	Free: Pattern=ja, Pattern=er doorheen, Pattern=met, Pattern=die, Pattern=zitten, Pattern=van, Pattern=paal, Pattern=en
+	Constrained: Pattern=doorheen, Pattern=er
+Turn ID=20| B | B : met die die
+	Free: Pattern=die, Pattern=met
+	Constrained: 
+Turn ID=21| B | B : ja ja oké
+	Free: Pattern=ja ja, Pattern=oké
+	Constrained: Pattern=ja
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : dat zijn L
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=24| B | B : ja dit zijn weer die met dat schuin aan de achterkant en die balk er doorheen zeggen maar
+	Free: Pattern=en die, Pattern=aan, Pattern=er doorheen, Pattern=met dat, Pattern=die, Pattern=schuin, Pattern=ja dit zijn weer, Pattern=maar
+	Constrained: Pattern=dat, Pattern=ja dit zijn, Pattern=met, Pattern=die, Pattern=er, Pattern=en, Pattern=zijn, Pattern=weer, Pattern=ja, Pattern=doorheen
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : ja vijf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : ja dit zijn weer met dat schuinaflopen bord
+	Free: Pattern=ja dit zijn weer met dat
+	Constrained: Pattern=dat, Pattern=ja, Pattern=ja dit zijn, Pattern=met dat, Pattern=met, Pattern=weer, Pattern=ja dit zijn weer, Pattern=zijn
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| A | A : en die paal ja
+	Free: Pattern=die paal ja, Pattern=en die
+	Constrained: Pattern=ja, Pattern=die, Pattern=die paal, Pattern=paal, Pattern=en
+Turn ID=30| B | B : met die paal ja oké
+	Free: Pattern=die paal ja, Pattern=met, Pattern=oké
+	Constrained: Pattern=paal, Pattern=die paal, Pattern=die, Pattern=ja
+Turn ID=31| B | B : dat zijn K
+	Free: Pattern=dat zijn
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=32| B | B : ja dit zijn weer met dat aflopen ding aan de achterkant met die paal erdoor
+	Free: Pattern=ja dit zijn weer met dat, Pattern=die paal, Pattern=aan, Pattern=met
+	Constrained: Pattern=dat, Pattern=ja, Pattern=ja dit zijn, Pattern=met dat, Pattern=met, Pattern=die, Pattern=paal, Pattern=weer, Pattern=ja dit zijn weer, Pattern=zijn
+Turn ID=33| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=34| A | A : ja waar zijn hij
+	Free: Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=35| A | A : even kijken
+	Free: 
+	Constrained: 
+Turn ID=36| A | A : ja daar negen
+	Free: Pattern=ja
+	Constrained: 

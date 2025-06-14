@@ -1,0 +1,195 @@
+B|0| B: Alright _ja_ _dit zijn_ _een_ soort _er_ zitten _een_ soort _uitklaptafelt_ wat vast zitten plakken _aan_ _een_ _aan_ _een_ _mok_ bovenin 
+A|1| A: [ja] 
+B|2| B: _daar_ _staan_ _een_ soort komme _op_ 
+A|3| A: _oké_ _dat zijn_ nummer zestien 
+B|4| B: _en_ deze _staat_ best wel _rechts_ 
+B|5| B: _tot_ _en_ wel _helemaal_ _in het midden_ qua hoogte _maar_ _helemaal rechts_ horizontaal _en_ _dan_ _toepassen_ _er _nog_ _twee plaat_ tot_ _tot de rand_ 
+A|6| A: [twee plaat [tot] de rand] 
+B|7| B: [ja] 
+A|8| A: _oké_ 
+A|9| A: _dat zijn_ _bij mij_ _niet_ _zo_ [daar] past nauwelijks _één plaat_ denken ik 
+A|10| A: [en] [aan] [de] bovenkant [zijn] hoeveel ruimte [zijn] [daar] _bij_ jou 
+B|11| B: [oké] 
+B|12| B: voor [één plaat] 
+A|13| A: [oké] 
+A|14| A: [dan] denken ik toch _dat_ _die_ _niet_ [op] _dezelfde plek_ [staan] 
+B|15| B: [ja] 
+A|16| A: [dit zijn] _de mok met _het_ uitklaptafelt met het bak_ erop 
+B|17| B: ah [ja] P 
+A|18| A: _en hij staan_ [ja] ongeveer [op] [een] kwart vanaf [rechts] 
+A|19| A: _en hij staan_ [daar] eigenlijk _precies in het midden_ [er] [toepassen] [aan] zowel [aan] [de] bovenkant als [aan] [de] onderkant passen [er] [twee] [en] [een] half drie [plaat] naast 
+B|20| B: [ja] 
+B|21| B: [ja] [daar] [staan] [die] [bij mij] ook 
+B|22| B: [oké] _dit zijn [het uitklaptafelt_ met het bak] erbovenop 
+A|23| A: [ja] veertien 
+B|24| B: [en hij staan] [precies in het midden] tussen _links_ [en] [rechts] [en] [dan] _helemaal_ onderin 
+A|25| A: [ja] 
+A|26| A: zelfde _plek_ 
+A|27| A: [dit zijn] [die] [met [het] uitklaptafelt] 
+A|28| A: [en] _dat_ [bak] 
+B|29| B: [ja] 
+B|30| B: [dat zijn] N 
+A|31| A: [en hij] [staat] ongeveer [op] [een] kwart vanaf [links] 
+A|32| A: [er] zullen [nog twee plaat] naast passen [en] [nog] _anderhalf_ [plaat] _boven_ denken ik 
+B|33| B: [ja] [dat zijn] wel [dezelfde plek] 
+B|34| B: _dit zijn het uitklaptafelt_ [op] [de mok met het] kop [met het bak] bovenop 
+A|35| A: [ja] 
+A|36| A: nummer tien 
+B|37| B: [hij staan] horizontaal [in het midden] [en] _net_ [een] stuk [boven] [het] verticaal [midden] 
+B|38| B: _dus_ _net_ [een] stuk [boven] [de] helft 
+A|39| A: [oké] [dus] [er] zullen [aan] [de] bovenkant [nog] meerdere [plaat] [boven] passen 
+B|40| B: [ja] [anderhalf] of [zo] 
+A|41| A: [oké] [bij mij] 
+A|42| A: [maar] [bij mij] [dan] denken weinig [dan] [één] [dus] _niet_ [dezelfde plek] 
+B|43| B: zoiets 
+A|44| A: [en] [dit zijn het uitklaptafelt] 
+B|45| B: d 
+A|46| A: [en hij staan] bijna [helemaal rechts] [op] [het] scherm [er] passen [net] geen [plaat] [rechts] van denken ik [en] [aan] [de] bovenkant past [er nog] [anderhalf] [plaat] [boven] 
+B|47| B: [dat] kunnen hem [niet] [zijn] 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : Alright ja dit zijn een soort er zitten een soort uitklaptafelt wat vast zitten plakken aan een aan een mok bovenin
+	Free: Pattern=een, Pattern=er, Pattern=mok, Pattern=uitklaptafelt, Pattern=dit zijn, Pattern=aan, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : daar staan een soort komme op
+	Free: Pattern=daar, Pattern=een, Pattern=op, Pattern=staan
+	Constrained: 
+Turn ID=3| A | A : oké dat zijn nummer zestien
+	Free: Pattern=dat zijn, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=4| B | B : en deze staat best wel rechts
+	Free: Pattern=rechts, Pattern=en, Pattern=staat
+	Constrained: 
+Turn ID=5| B | B : tot en wel helemaal in het midden qua hoogte maar helemaal rechts horizontaal en dan toepassen er nog twee plaat tot tot de rand
+	Free: Pattern=helemaal, Pattern=dan, Pattern=er nog, Pattern=helemaal rechts, Pattern=toepassen, Pattern=maar, Pattern=twee plaat tot, Pattern=tot de rand, Pattern=en, Pattern=in het midden, Pattern=nog twee plaat, Pattern=tot
+	Constrained: Pattern=nog, Pattern=twee, Pattern=helemaal, Pattern=het, Pattern=er, Pattern=tot, Pattern=midden, Pattern=plaat, Pattern=de, Pattern=rechts
+Turn ID=6| A | A : twee plaat tot de rand
+	Free: Pattern=twee plaat tot, Pattern=tot de rand
+	Constrained: Pattern=twee, Pattern=de, Pattern=plaat, Pattern=tot
+Turn ID=7| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=9| A | A : dat zijn bij mij niet zo daar past nauwelijks één plaat denken ik
+	Free: Pattern=dat zijn, Pattern=één plaat, Pattern=niet, Pattern=zo, Pattern=bij mij, Pattern=daar
+	Constrained: Pattern=dat, Pattern=bij, Pattern=zijn, Pattern=één, Pattern=plaat
+Turn ID=10| A | A : en aan de bovenkant zijn hoeveel ruimte zijn daar bij jou
+	Free: Pattern=bij, Pattern=en, Pattern=zijn, Pattern=daar, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=11| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=12| B | B : voor één plaat
+	Free: Pattern=één plaat
+	Constrained: Pattern=één, Pattern=plaat
+Turn ID=13| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=14| A | A : dan denken ik toch dat die niet op dezelfde plek staan
+	Free: Pattern=dat, Pattern=dezelfde plek, Pattern=op, Pattern=staan, Pattern=die, Pattern=niet, Pattern=dan
+	Constrained: Pattern=plek
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| A | A : dit zijn de mok met het uitklaptafelt met het bak erop
+	Free: Pattern=het uitklaptafelt met het bak, Pattern=de mok met het, Pattern=dit zijn
+	Constrained: Pattern=de, Pattern=het uitklaptafelt, Pattern=met het bak, Pattern=mok, Pattern=uitklaptafelt, Pattern=met het, Pattern=zijn, Pattern=bak, Pattern=het
+Turn ID=17| B | B : ah ja P
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : en hij staan ja ongeveer op een kwart vanaf rechts
+	Free: Pattern=op, Pattern=een, Pattern=en hij staan, Pattern=rechts, Pattern=ja
+	Constrained: Pattern=en hij, Pattern=en, Pattern=staan, Pattern=hij staan
+Turn ID=19| A | A : en hij staan daar eigenlijk precies in het midden er toepassen aan zowel aan de bovenkant als aan de onderkant passen er twee en een half drie plaat naast
+	Free: Pattern=twee, Pattern=een, Pattern=en hij staan, Pattern=er, Pattern=en, Pattern=toepassen, Pattern=daar, Pattern=precies in het midden, Pattern=plaat, Pattern=de, Pattern=aan
+	Constrained: Pattern=hij staan, Pattern=staan, Pattern=het, Pattern=en hij, Pattern=en, Pattern=in het midden, Pattern=midden
+Turn ID=20| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja daar staan die bij mij ook
+	Free: Pattern=ja, Pattern=staan, Pattern=die, Pattern=bij mij, Pattern=daar
+	Constrained: Pattern=bij
+Turn ID=22| B | B : oké dit zijn het uitklaptafelt met het bak erbovenop
+	Free: Pattern=het uitklaptafelt met het bak, Pattern=dit zijn het uitklaptafelt, Pattern=oké
+	Constrained: Pattern=het uitklaptafelt, Pattern=met het bak, Pattern=uitklaptafelt, Pattern=met het, Pattern=zijn, Pattern=dit zijn, Pattern=bak, Pattern=het
+Turn ID=23| A | A : ja veertien
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : en hij staan precies in het midden tussen links en rechts en dan helemaal onderin
+	Free: Pattern=rechts, Pattern=helemaal, Pattern=dan, Pattern=links, Pattern=en hij staan, Pattern=en, Pattern=precies in het midden
+	Constrained: Pattern=hij staan, Pattern=staan, Pattern=het, Pattern=en hij, Pattern=en, Pattern=in het midden, Pattern=midden
+Turn ID=25| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : zelfde plek
+	Free: Pattern=plek
+	Constrained: 
+Turn ID=27| A | A : dit zijn die met het uitklaptafelt
+	Free: Pattern=met het, Pattern=dit zijn, Pattern=het uitklaptafelt, Pattern=die
+	Constrained: Pattern=zijn, Pattern=het, Pattern=uitklaptafelt
+Turn ID=28| A | A : en dat bak
+	Free: Pattern=dat, Pattern=bak, Pattern=en
+	Constrained: 
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dat zijn N
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn, Pattern=dat
+Turn ID=31| A | A : en hij staat ongeveer op een kwart vanaf links
+	Free: Pattern=staat, Pattern=op, Pattern=een, Pattern=links, Pattern=en hij
+	Constrained: Pattern=en
+Turn ID=32| A | A : er zullen nog twee plaat naast passen en nog anderhalf plaat boven denken ik
+	Free: Pattern=nog, Pattern=boven, Pattern=anderhalf, Pattern=er, Pattern=en, Pattern=nog twee plaat, Pattern=plaat
+	Constrained: Pattern=plaat, Pattern=nog, Pattern=twee
+Turn ID=33| B | B : ja dat zijn wel dezelfde plek
+	Free: Pattern=dat zijn, Pattern=dezelfde plek, Pattern=ja
+	Constrained: Pattern=zijn, Pattern=dat, Pattern=plek
+Turn ID=34| B | B : dit zijn het uitklaptafelt op de mok met het kop met het bak bovenop
+	Free: Pattern=de mok met het, Pattern=dit zijn het uitklaptafelt, Pattern=met het bak, Pattern=op
+	Constrained: Pattern=de, Pattern=het uitklaptafelt, Pattern=mok, Pattern=uitklaptafelt, Pattern=met het, Pattern=zijn, Pattern=dit zijn, Pattern=bak, Pattern=het
+Turn ID=35| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=36| A | A : nummer tien
+	Free: 
+	Constrained: 
+Turn ID=37| B | B : hij staan horizontaal in het midden en net een stuk boven het verticaal midden
+	Free: Pattern=net, Pattern=boven, Pattern=hij staan, Pattern=een, Pattern=het, Pattern=en, Pattern=in het midden, Pattern=midden
+	Constrained: Pattern=midden, Pattern=het, Pattern=staan
+Turn ID=38| B | B : dus net een stuk boven de helft
+	Free: Pattern=net, Pattern=boven, Pattern=een, Pattern=de, Pattern=dus
+	Constrained: 
+Turn ID=39| A | A : oké dus er zullen aan de bovenkant nog meerdere plaat boven passen
+	Free: Pattern=nog, Pattern=boven, Pattern=oké, Pattern=er, Pattern=plaat, Pattern=de, Pattern=aan, Pattern=dus
+	Constrained: 
+Turn ID=40| B | B : ja anderhalf of zo
+	Free: Pattern=anderhalf, Pattern=zo, Pattern=ja
+	Constrained: 
+Turn ID=41| A | A : oké bij mij
+	Free: Pattern=bij mij, Pattern=oké
+	Constrained: Pattern=bij
+Turn ID=42| A | A : maar bij mij dan denken weinig dan één dus niet dezelfde plek
+	Free: Pattern=maar, Pattern=dezelfde plek, Pattern=dus, Pattern=niet, Pattern=dan, Pattern=bij mij, Pattern=één
+	Constrained: Pattern=bij, Pattern=plek
+Turn ID=43| B | B : zoiets
+	Free: 
+	Constrained: 
+Turn ID=44| A | A : en dit zijn het uitklaptafelt
+	Free: Pattern=dit zijn het uitklaptafelt, Pattern=en
+	Constrained: Pattern=het uitklaptafelt, Pattern=het, Pattern=uitklaptafelt, Pattern=zijn, Pattern=dit zijn
+Turn ID=45| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=46| A | A : en hij staan bijna helemaal rechts op het scherm er passen net geen plaat rechts van denken ik en aan de bovenkant past er nog anderhalf plaat boven
+	Free: Pattern=net, Pattern=op, Pattern=boven, Pattern=er nog, Pattern=het, Pattern=anderhalf, Pattern=er, Pattern=en, Pattern=plaat, Pattern=de, Pattern=rechts, Pattern=aan, Pattern=en hij staan, Pattern=helemaal rechts
+	Constrained: Pattern=nog, Pattern=rechts, Pattern=helemaal, Pattern=hij staan, Pattern=staan, Pattern=en hij, Pattern=er, Pattern=en
+Turn ID=47| B | B : dat kunnen hem niet zijn
+	Free: Pattern=zijn, Pattern=dat, Pattern=niet
+	Constrained: 

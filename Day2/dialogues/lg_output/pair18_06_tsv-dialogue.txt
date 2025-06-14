@@ -1,0 +1,75 @@
+A|0| A: _ik hebben die_ een aan _de_ bovenkant zitten _ook_ een klein dinge _die_ wijzen naar links 
+A|1| A: en _het_ lijken of hij een _hand_ _hebben_ waar soort van staaf _in_ zitten _met_ een parapluu 
+B|2| B: _ja_ _ik weten_ hem 
+B|3| B: i 
+B|4| B: _ik hebben die dat_ [hand] [met] iets _ontstopper_ [in] zijn [hand] 
+A|5| A: [ja] _de_ 
+A|6| A: [ik weten] welk je bedoelen daar 
+A|7| A: zes 
+A|8| A: [ik hebben die dat] een man _de ontstopper_ vastheeffen 
+B|9| B: wat zijn [het] [ook] alweer ah okee l 
+B|10| B: [ik hebben die] [ontstopper] [in] [de] [hand] 
+A|11| A: [ja] 
+A|12| A: vier 
+A|13| A: [ik hebben die] een [met] [dat] 
+B|14| B: [ja] b 
+B|15| B: [de ontstopper] [met] [de] [hand] 
+A|16| A: [ja] 
+A|17| A: vier 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ik hebben die een aan de bovenkant zitten ook een klein dinge die wijzen naar links
+	Free: Pattern=ik hebben die, Pattern=ook, Pattern=de, Pattern=die
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=1| A | A : en het lijken of hij een hand hebben waar soort van staaf in zitten met een parapluu
+	Free: Pattern=het, Pattern=hebben, Pattern=in, Pattern=met, Pattern=hand
+	Constrained: 
+Turn ID=2| B | B : ja ik weten hem
+	Free: Pattern=ik weten, Pattern=ja
+	Constrained: 
+Turn ID=3| B | B : i
+	Free: 
+	Constrained: 
+Turn ID=4| B | B : ik hebben die dat hand met iets ontstopper in zijn hand
+	Free: Pattern=ontstopper, Pattern=in, Pattern=met, Pattern=hand, Pattern=ik hebben die dat
+	Constrained: Pattern=dat, Pattern=die, Pattern=ik hebben die, Pattern=hebben
+Turn ID=5| A | A : ja de
+	Free: Pattern=de, Pattern=ja
+	Constrained: 
+Turn ID=6| A | A : ik weten welk je bedoelen daar
+	Free: Pattern=ik weten
+	Constrained: 
+Turn ID=7| A | A : zes
+	Free: 
+	Constrained: 
+Turn ID=8| A | A : ik hebben die dat een man de ontstopper vastheeffen
+	Free: Pattern=ik hebben die dat, Pattern=de ontstopper
+	Constrained: Pattern=dat, Pattern=de, Pattern=hebben, Pattern=ontstopper, Pattern=die, Pattern=ik hebben die
+Turn ID=9| B | B : wat zijn het ook alweer ah okee l
+	Free: Pattern=ook, Pattern=het
+	Constrained: 
+Turn ID=10| B | B : ik hebben die ontstopper in de hand
+	Free: Pattern=de, Pattern=ontstopper, Pattern=in, Pattern=hand, Pattern=ik hebben die
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=13| A | A : ik hebben die een met dat
+	Free: Pattern=ik hebben die, Pattern=met, Pattern=dat
+	Constrained: Pattern=hebben, Pattern=die
+Turn ID=14| B | B : ja b
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| B | B : de ontstopper met de hand
+	Free: Pattern=de ontstopper, Pattern=met, Pattern=hand, Pattern=de
+	Constrained: Pattern=ontstopper, Pattern=de
+Turn ID=16| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=17| A | A : vier
+	Free: 
+	Constrained: 

@@ -1,0 +1,83 @@
+B|0| B: _deze_ hebben aan _de_ onderkant een soort van _draaien_ staaf _en_ hij staan _op_ een _driehoek_ 
+A|1| A: _ja_ 
+B|2| B: _en_ dan bovenop _nog_ een vierkantje rechts een _vierkant_ _en nog_ een raar figuurt aan _de_ linkerkant zeggen maar 
+A|3| A: driehoekding 
+A|4| A: _ja_ 
+A|5| A: _ja _dat zijn_ bij mij_ nummer drie 
+A|6| A: [deze] _staat_ [op] _die_ [draaien] pilaar [op] _de driehoek_ 
+A|7| A: _met de_ twee [vierkant] erbovenop 
+B|8| B: [ja] 
+A|9| A: [en nog] zo'n ander ding 
+B|10| B: [dat zijn bij mij] à 
+B|11| B: _dit zijn_ [de] [draaien] staaf naar beneden [met [de] driehoek] aan [de] onderkant 
+A|12| A: [ja] 
+A|13| A: [dat zijn] elf 
+A|14| A: [dit _zijn] _die_ op_ _die_ [draaien] pilaar [op] [de driehoek] 
+B|15| B: [ja] waar [zijn die] waar [zijn die] daar [ja dat zijn] f 
+B|16| B: [de] [draaien] staaf naar [de] onderkant [en] [de driehoek] waar [die op] [staat] 
+A|17| A: [ja dat zijn] vier 
+A|18| A: [dit zijn] [met] [die] [draaien] stok [op] [de driehoek] 
+B|19| B: [ja dat zijn] a 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze hebben aan de onderkant een soort van draaien staaf en hij staan op een driehoek
+	Free: Pattern=driehoek, Pattern=de, Pattern=op, Pattern=draaien, Pattern=en, Pattern=deze
+	Constrained: 
+Turn ID=1| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| B | B : en dan bovenop nog een vierkantje rechts een vierkant en nog een raar figuurt aan de linkerkant zeggen maar
+	Free: Pattern=nog, Pattern=de, Pattern=en, Pattern=vierkant, Pattern=en nog
+	Constrained: Pattern=en, Pattern=nog
+Turn ID=3| A | A : driehoekding
+	Free: 
+	Constrained: 
+Turn ID=4| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=5| A | A : ja dat zijn bij mij nummer drie
+	Free: Pattern=dat zijn bij mij, Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja
+Turn ID=6| A | A : deze staat op die draaien pilaar op de driehoek
+	Free: Pattern=staat, Pattern=op, Pattern=draaien, Pattern=de driehoek, Pattern=die, Pattern=deze
+	Constrained: Pattern=driehoek, Pattern=de
+Turn ID=7| A | A : met de twee vierkant erbovenop
+	Free: Pattern=met de, Pattern=vierkant
+	Constrained: Pattern=met, Pattern=de
+Turn ID=8| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : en nog zo'n ander ding
+	Free: Pattern=en nog
+	Constrained: Pattern=en, Pattern=nog
+Turn ID=10| B | B : dat zijn bij mij à
+	Free: Pattern=dat zijn bij mij
+	Constrained: Pattern=dat zijn
+Turn ID=11| B | B : dit zijn de draaien staaf naar beneden met de driehoek aan de onderkant
+	Free: Pattern=draaien, Pattern=de driehoek, Pattern=dit zijn, Pattern=de, Pattern=met de
+	Constrained: Pattern=driehoek, Pattern=met, Pattern=de
+Turn ID=12| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dat zijn elf
+	Free: Pattern=dat zijn
+	Constrained: 
+Turn ID=14| A | A : dit zijn die op die draaien pilaar op de driehoek
+	Free: Pattern=op, Pattern=draaien, Pattern=die, Pattern=die op, Pattern=dit zijn, Pattern=zijn die, Pattern=de driehoek
+	Constrained: Pattern=de, Pattern=die, Pattern=driehoek, Pattern=op
+Turn ID=15| B | B : ja waar zijn die waar zijn die daar ja dat zijn f
+	Free: Pattern=ja dat zijn, Pattern=zijn die, Pattern=ja
+	Constrained: Pattern=dat zijn, Pattern=ja, Pattern=die
+Turn ID=16| B | B : de draaien staaf naar de onderkant en de driehoek waar die op staat
+	Free: Pattern=staat, Pattern=de, Pattern=draaien, Pattern=de driehoek, Pattern=die op, Pattern=en
+	Constrained: Pattern=die, Pattern=op, Pattern=driehoek, Pattern=de
+Turn ID=17| A | A : ja dat zijn vier
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja
+Turn ID=18| A | A : dit zijn met die draaien stok op de driehoek
+	Free: Pattern=op, Pattern=draaien, Pattern=de driehoek, Pattern=met, Pattern=die, Pattern=dit zijn
+	Constrained: Pattern=driehoek, Pattern=de
+Turn ID=19| B | B : ja dat zijn a
+	Free: Pattern=ja dat zijn
+	Constrained: Pattern=dat zijn, Pattern=ja

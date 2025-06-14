@@ -1,0 +1,99 @@
+A|0| A: _ja_ 
+A|1| A: _deze hebben_ _een soort_ scherm _aan de_ achterkant ik vinden hem _een_ beetje _op een_ zonnepaneel _lijken_ 
+A|2| A: _en_ _twee_ staven _links en rechts met_ bolal _aan_ _het_ eind 
+B|3| B: [ja] dan _zijn_ [het] l 
+B|4| B: [deze hebben] [twee] uitstulpsels [aan de] zijkant [links en rechts met] dopp eraan 
+B|5| B: [een soort] zonnescherm [aan de] bovenkant [met] [een] hendel eraan 
+A|6| A: ik kunnen hem niet vinden 
+A|7| A: [ja] 
+B|8| B: hij [lijken] ook wel wat _op een gieter_ 
+A|9| A: [ja] twaalf 
+A|10| A: _deze lijken op een gieter_ 
+B|11| B: [ja] 
+B|12| B: [met] [een] zonnescherm 
+A|13| A: [ja] 
+B|14| B: okee _dat zijn_ n 
+B|15| B: [deze lijken op een gieter] 
+A|16| A: [ja] [dat zijn] vijf 
+A|17| A: [gieter] 
+A|18| A: zonnepaneel 
+B|19| B: [gieter] [gieter] waar [zijn] je blijven 
+B|20| B: [dat zijn] d 
+B|21| B: [gieter] 
+A|22| A: [ja] 
+A|23| A: twaalf 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=1| A | A : deze hebben een soort scherm aan de achterkant ik vinden hem een beetje op een zonnepaneel lijken
+	Free: Pattern=aan de, Pattern=lijken, Pattern=een, Pattern=deze hebben, Pattern=een soort, Pattern=op een
+	Constrained: Pattern=aan, Pattern=een
+Turn ID=2| A | A : en twee staven links en rechts met bolal aan het eind
+	Free: Pattern=links en rechts met, Pattern=twee, Pattern=aan, Pattern=het, Pattern=en
+	Constrained: Pattern=met, Pattern=en
+Turn ID=3| B | B : ja dan zijn het l
+	Free: Pattern=het, Pattern=ja, Pattern=zijn
+	Constrained: 
+Turn ID=4| B | B : deze hebben twee uitstulpsels aan de zijkant links en rechts met dopp eraan
+	Free: Pattern=links en rechts met, Pattern=aan de, Pattern=deze hebben, Pattern=twee
+	Constrained: Pattern=aan, Pattern=met, Pattern=en
+Turn ID=5| B | B : een soort zonnescherm aan de bovenkant met een hendel eraan
+	Free: Pattern=aan de, Pattern=een soort, Pattern=een, Pattern=met
+	Constrained: Pattern=aan, Pattern=een
+Turn ID=6| A | A : ik kunnen hem niet vinden
+	Free: 
+	Constrained: 
+Turn ID=7| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=8| B | B : hij lijken ook wel wat op een gieter
+	Free: Pattern=op een gieter, Pattern=lijken
+	Constrained: Pattern=op een, Pattern=gieter, Pattern=een
+Turn ID=9| A | A : ja twaalf
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| A | A : deze lijken op een gieter
+	Free: Pattern=deze lijken op een gieter
+	Constrained: Pattern=op een gieter, Pattern=lijken, Pattern=gieter, Pattern=een, Pattern=op een
+Turn ID=11| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : met een zonnescherm
+	Free: Pattern=een, Pattern=met
+	Constrained: 
+Turn ID=13| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| B | B : okee dat zijn n
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=15| B | B : deze lijken op een gieter
+	Free: Pattern=deze lijken op een gieter
+	Constrained: Pattern=op een gieter, Pattern=lijken, Pattern=gieter, Pattern=een, Pattern=op een
+Turn ID=16| A | A : ja dat zijn vijf
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=17| A | A : gieter
+	Free: Pattern=gieter
+	Constrained: 
+Turn ID=18| A | A : zonnepaneel
+	Free: 
+	Constrained: 
+Turn ID=19| B | B : gieter gieter waar zijn je blijven
+	Free: Pattern=gieter, Pattern=zijn
+	Constrained: 
+Turn ID=20| B | B : dat zijn d
+	Free: Pattern=dat zijn
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : gieter
+	Free: Pattern=gieter
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| A | A : twaalf
+	Free: 
+	Constrained: 

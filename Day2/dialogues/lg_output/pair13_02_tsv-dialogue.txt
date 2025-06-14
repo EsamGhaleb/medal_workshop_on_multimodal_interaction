@@ -1,0 +1,135 @@
+A|0| A: even kijken _dat zijn_ wel _het_ beker _met_ _het_ driehoek daarboven 
+A|1| A: wat zeggen maar wel echt een _tipitent_ _zijn_ 
+B|2| B: _ja_ 
+A|3| A: aan _de_ rechterzijde _zijn_ er een soort gek blok wat eraan vastgeplakt zitten 
+A|4| A: aan _de_ linkerzijde _zijn_ er ook een vormp wat een beetje op een driehoek lijken en daaronder _zijn_ een soort cirkelachtig iets 
+B|5| B: _ja_ 
+B|6| B: _ja_ 
+A|7| A: wat plakken _zijn_ 
+B|8| B: dan [zijn] [het] p 
+A|9| A: [ja] 
+B|10| B: _dit zijn_ [met] _die_ [tipitent] 
+A|11| A: [ja] 
+B|12| B: [ja] 
+A|13| A: dus [die] _helemaal_ [tipitent] 
+A|14| A: of [die] afbreken 
+B|15| B: [ja] 
+B|16| B: [helemaal] 
+A|17| A: [helemaal] 
+A|18| A: _okee_ _dat zijn_ nummer dertien 
+A|19| A: [dit zijn] _de_ [tipitent] 
+B|20| B: [ja] [dat zijn] d 
+B|21| B: [de] _heel tipitent_ 
+A|22| A: [ja] nummer een 
+B|23| B: [ja] 
+B|24| B: ik denken al 
+A|25| A: [tipitent] 
+B|26| B: [ja] m 
+B|27| B: _heel tipitent_ toch 
+A|28| A: [heel tipitent] [ja] 
+B|29| B: [okee] 
+B|30| B: dan [zijn] [het] m 
+B|31| B: [de] [heel tipitent] 
+A|32| A: [die] [zijn] nummer zes 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : even kijken dat zijn wel het beker met het driehoek daarboven
+	Free: Pattern=dat zijn, Pattern=het, Pattern=met
+	Constrained: Pattern=zijn
+Turn ID=1| A | A : wat zeggen maar wel echt een tipitent zijn
+	Free: Pattern=tipitent, Pattern=zijn
+	Constrained: 
+Turn ID=2| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=3| A | A : aan de rechterzijde zijn er een soort gek blok wat eraan vastgeplakt zitten
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=4| A | A : aan de linkerzijde zijn er ook een vormp wat een beetje op een driehoek lijken en daaronder zijn een soort cirkelachtig iets
+	Free: Pattern=zijn, Pattern=de
+	Constrained: 
+Turn ID=5| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=6| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| A | A : wat plakken zijn
+	Free: Pattern=zijn
+	Constrained: 
+Turn ID=8| B | B : dan zijn het p
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=9| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=10| B | B : dit zijn met die tipitent
+	Free: Pattern=dit zijn, Pattern=tipitent, Pattern=met, Pattern=die
+	Constrained: Pattern=zijn
+Turn ID=11| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=12| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=13| A | A : dus die helemaal tipitent
+	Free: Pattern=tipitent, Pattern=helemaal, Pattern=die
+	Constrained: 
+Turn ID=14| A | A : of die afbreken
+	Free: Pattern=die
+	Constrained: 
+Turn ID=15| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=16| B | B : helemaal
+	Free: Pattern=helemaal
+	Constrained: 
+Turn ID=17| A | A : helemaal
+	Free: Pattern=helemaal
+	Constrained: 
+Turn ID=18| A | A : okee dat zijn nummer dertien
+	Free: Pattern=dat zijn, Pattern=okee
+	Constrained: Pattern=zijn
+Turn ID=19| A | A : dit zijn de tipitent
+	Free: Pattern=dit zijn, Pattern=tipitent, Pattern=de
+	Constrained: Pattern=zijn
+Turn ID=20| B | B : ja dat zijn d
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=zijn
+Turn ID=21| B | B : de heel tipitent
+	Free: Pattern=heel tipitent, Pattern=de
+	Constrained: Pattern=tipitent
+Turn ID=22| A | A : ja nummer een
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| B | B : ik denken al
+	Free: 
+	Constrained: 
+Turn ID=25| A | A : tipitent
+	Free: Pattern=tipitent
+	Constrained: 
+Turn ID=26| B | B : ja m
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| B | B : heel tipitent toch
+	Free: Pattern=heel tipitent
+	Constrained: Pattern=tipitent
+Turn ID=28| A | A : heel tipitent ja
+	Free: Pattern=heel tipitent, Pattern=ja
+	Constrained: Pattern=tipitent
+Turn ID=29| B | B : okee
+	Free: Pattern=okee
+	Constrained: 
+Turn ID=30| B | B : dan zijn het m
+	Free: Pattern=het, Pattern=zijn
+	Constrained: 
+Turn ID=31| B | B : de heel tipitent
+	Free: Pattern=heel tipitent, Pattern=de
+	Constrained: Pattern=tipitent
+Turn ID=32| A | A : die zijn nummer zes
+	Free: Pattern=die, Pattern=zijn
+	Constrained: 

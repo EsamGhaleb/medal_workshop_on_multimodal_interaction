@@ -1,0 +1,67 @@
+B|0| B: deze _zijn_ wel redelijk moeilijk _maar_ _dit_ een horizontaal balk en _die_ steken net boven _die_ emmer uit 
+B|1| B: en vervolgens zitten er niet zo _heel_ veel _aan_ _maar_ er zitten een soort van _ja_ kegelachtig vorm zitten een _beetje_ zo links _maar_ _het_ gaat vooral om _de_ horizontaal balk 
+A|2| A: [ja] ik denken [het] [heel] _simpel_ 
+B|3| B: [ja] 
+A|4| A: vier 
+A|5| A: _dit zijn die_ [beetje] _simpel_ zeggen [maar] _met_ [aan] [de] bovenop [die] rechthoekig 
+B|6| B: [ja] l 
+B|7| B: _dit zijn die simpel_ waar dat waar [die] balk zo horizontaal op [de] emmer zitten 
+A|8| A: [ja] vier 
+A|9| A: [dit zijn die _simpel] met_ [die] rechthoekig staaf bovenop 
+B|10| B: [ja] 
+B|11| B: c 
+B|12| B: [dit zijn] [de] _simpel met de_ balk zo horizontaal erbovenop 
+A|13| A: [ja] twee 
+A|14| A: [dit zijn die [simpel] met de] rechthoek bovenop 
+B|15| B: a 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : deze zijn wel redelijk moeilijk maar dit een horizontaal balk en die steken net boven die emmer uit
+	Free: Pattern=die, Pattern=maar, Pattern=dit, Pattern=zijn
+	Constrained: 
+Turn ID=1| B | B : en vervolgens zitten er niet zo heel veel aan maar er zitten een soort van ja kegelachtig vorm zitten een beetje zo links maar het gaat vooral om de horizontaal balk
+	Free: Pattern=heel, Pattern=beetje, Pattern=het, Pattern=maar, Pattern=de, Pattern=aan, Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : ja ik denken het heel simpel
+	Free: Pattern=ja, Pattern=het, Pattern=simpel, Pattern=heel
+	Constrained: 
+Turn ID=3| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=5| A | A : dit zijn die beetje simpel zeggen maar met aan de bovenop die rechthoekig
+	Free: Pattern=dit zijn die, Pattern=beetje, Pattern=met, Pattern=die, Pattern=simpel, Pattern=maar, Pattern=de, Pattern=aan
+	Constrained: Pattern=dit zijn, Pattern=dit, Pattern=zijn, Pattern=die
+Turn ID=6| B | B : ja l
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=7| B | B : dit zijn die simpel waar dat waar die balk zo horizontaal op de emmer zitten
+	Free: Pattern=dit zijn die simpel, Pattern=die, Pattern=de
+	Constrained: Pattern=dit zijn die, Pattern=dit, Pattern=die, Pattern=simpel, Pattern=zijn, Pattern=dit zijn
+Turn ID=8| A | A : ja vier
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=9| A | A : dit zijn die simpel met die rechthoekig staaf bovenop
+	Free: Pattern=dit zijn die simpel, Pattern=simpel met, Pattern=die
+	Constrained: Pattern=dit zijn die, Pattern=dit, Pattern=met, Pattern=die, Pattern=simpel, Pattern=zijn, Pattern=dit zijn
+Turn ID=10| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| B | B : c
+	Free: 
+	Constrained: 
+Turn ID=12| B | B : dit zijn de simpel met de balk zo horizontaal erbovenop
+	Free: Pattern=simpel met de, Pattern=dit zijn, Pattern=de
+	Constrained: Pattern=simpel met, Pattern=de, Pattern=dit, Pattern=met, Pattern=simpel, Pattern=zijn
+Turn ID=13| A | A : ja twee
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=14| A | A : dit zijn die simpel met de rechthoek bovenop
+	Free: Pattern=dit zijn die simpel, Pattern=simpel met de
+	Constrained: Pattern=simpel met, Pattern=dit zijn die, Pattern=de, Pattern=dit, Pattern=met, Pattern=die, Pattern=simpel, Pattern=zijn, Pattern=dit zijn
+Turn ID=15| B | B : a
+	Free: 
+	Constrained: 

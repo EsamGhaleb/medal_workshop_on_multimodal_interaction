@@ -1,0 +1,135 @@
+A|0| A: _okee_ _dit zijn_ ook weer _het_ kop _en_ hebben _een neus en_ _die_ hebben iets door _zijn_ _neus_ heen 
+B|1| B: _ja_ 
+A|2| A: _en_ _het_ lijken op _een_ spijker maar _dan_ _zitten_ er geen punt _zijn_ geen puntig spijker 
+A|3| A: _en_ hij hebben _een_ klein kuifje achter 
+A|4| A: dus zo _een neus_ 
+B|5| B: wachten [een neus _en] dan_ _ja ja_ ik weten 
+A|6| A: [en dan] iets _erdoorheen_ zo 
+A|7| A: [en] aan _de_ rechterkant hebben hij dus aan _dat ding_ _dat_ _erdoorheen_ _zitten_ _zitten_ zo'n _rond_ 
+B|8| B: link toch 
+B|9| B: wachten sorry [zitten] [een] [rond] links linksboven [zitten] [dat ding] [zijn] [een] haar of [een] zeggen je _ja_ 
+A|10| A: [ja] 
+A|11| A: [ja] [een] kuifje 
+B|12| B: [okee] _nummer_ f [zijn] [dit] 
+B|13| B: _deze_ [zijn] [het] ei met [de] stok [erdoorheen] [en] [een] lepeltje 
+A|14| A: ah 
+A|15| A: _waar_ [zitten] _die_ 
+A|16| A: [ja ja] _die_ hebben zo'n klein 
+B|17| B: [ja] 
+A|18| A: [dat] [zijn] [nummer] tien 
+A|19| A: [deze] hebben [een] spijker door [zijn] [neus] 
+B|20| B: [ja] even pijnlijk wel 
+A|21| A: niet [een] echt spijker 
+B|22| B: [nummer] I [zijn] letter I [zijn] [dat] 
+B|23| B: [dit zijn] [het] ei met [de] stok erdoor 
+B|24| B: [en] [een] lepeltje 
+A|25| A: door [zijn] [neus] heen 
+B|26| B: [ja] 
+A|27| A: daar [zitten] hij [nummer] negen 
+A|28| A: [deze] hebben [de] spijker door [zijn] [neus] 
+B|29| B: [waar] [zijn] je blijven 
+B|30| B: [ja] a 
+B|31| B: [dit zijn] [die] met ei als [neus en] [een] stok erdoor [en] [een] lepeltje link 
+A|32| A: [dat] [zijn] [nummer] zeven 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okee dit zijn ook weer het kop en hebben een neus en die hebben iets door zijn neus heen
+	Free: Pattern=okee, Pattern=het, Pattern=neus, Pattern=en, Pattern=zijn, Pattern=dit zijn, Pattern=een neus en, Pattern=die
+	Constrained: Pattern=een neus, Pattern=een, Pattern=dit, Pattern=neus, Pattern=neus en, Pattern=en, Pattern=zijn
+Turn ID=1| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=2| A | A : en het lijken op een spijker maar dan zitten er geen punt zijn geen puntig spijker
+	Free: Pattern=dan, Pattern=een, Pattern=het, Pattern=zitten, Pattern=en, Pattern=zijn
+	Constrained: 
+Turn ID=3| A | A : en hij hebben een klein kuifje achter
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=4| A | A : dus zo een neus
+	Free: Pattern=een neus
+	Constrained: Pattern=neus, Pattern=een
+Turn ID=5| B | B : wachten een neus en dan ja ja ik weten
+	Free: Pattern=een neus en, Pattern=ja ja, Pattern=en dan
+	Constrained: Pattern=een neus, Pattern=ja, Pattern=dan, Pattern=een, Pattern=neus, Pattern=neus en, Pattern=en
+Turn ID=6| A | A : en dan iets erdoorheen zo
+	Free: Pattern=en dan, Pattern=erdoorheen
+	Constrained: Pattern=en, Pattern=dan
+Turn ID=7| A | A : en aan de rechterkant hebben hij dus aan dat ding dat erdoorheen zitten zitten zo'n rond
+	Free: Pattern=dat, Pattern=de, Pattern=dat ding, Pattern=erdoorheen, Pattern=zitten, Pattern=en, Pattern=rond
+	Constrained: Pattern=dat
+Turn ID=8| B | B : link toch
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : wachten sorry zitten een rond links linksboven zitten dat ding zijn een haar of een zeggen je ja
+	Free: Pattern=ja, Pattern=een, Pattern=dat ding, Pattern=zitten, Pattern=rond, Pattern=zijn
+	Constrained: Pattern=dat
+Turn ID=10| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=11| A | A : ja een kuifje
+	Free: Pattern=ja, Pattern=een
+	Constrained: 
+Turn ID=12| B | B : okee nummer f zijn dit
+	Free: Pattern=nummer, Pattern=zijn, Pattern=dit, Pattern=okee
+	Constrained: 
+Turn ID=13| B | B : deze zijn het ei met de stok erdoorheen en een lepeltje
+	Free: Pattern=de, Pattern=een, Pattern=het, Pattern=erdoorheen, Pattern=en, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=14| A | A : ah
+	Free: 
+	Constrained: 
+Turn ID=15| A | A : waar zitten die
+	Free: Pattern=die, Pattern=waar, Pattern=zitten
+	Constrained: 
+Turn ID=16| A | A : ja ja die hebben zo'n klein
+	Free: Pattern=ja ja, Pattern=die
+	Constrained: Pattern=ja
+Turn ID=17| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=18| A | A : dat zijn nummer tien
+	Free: Pattern=nummer, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=19| A | A : deze hebben een spijker door zijn neus
+	Free: Pattern=neus, Pattern=zijn, Pattern=deze, Pattern=een
+	Constrained: 
+Turn ID=20| B | B : ja even pijnlijk wel
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| A | A : niet een echt spijker
+	Free: Pattern=een
+	Constrained: 
+Turn ID=22| B | B : nummer I zijn letter I zijn dat
+	Free: Pattern=nummer, Pattern=dat, Pattern=zijn
+	Constrained: 
+Turn ID=23| B | B : dit zijn het ei met de stok erdoor
+	Free: Pattern=dit zijn, Pattern=de, Pattern=het
+	Constrained: Pattern=zijn, Pattern=dit
+Turn ID=24| B | B : en een lepeltje
+	Free: Pattern=en, Pattern=een
+	Constrained: 
+Turn ID=25| A | A : door zijn neus heen
+	Free: Pattern=neus, Pattern=zijn
+	Constrained: 
+Turn ID=26| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=27| A | A : daar zitten hij nummer negen
+	Free: Pattern=nummer, Pattern=zitten
+	Constrained: 
+Turn ID=28| A | A : deze hebben de spijker door zijn neus
+	Free: Pattern=neus, Pattern=de, Pattern=zijn, Pattern=deze
+	Constrained: 
+Turn ID=29| B | B : waar zijn je blijven
+	Free: Pattern=waar, Pattern=zijn
+	Constrained: 
+Turn ID=30| B | B : ja a
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| B | B : dit zijn die met ei als neus en een stok erdoor en een lepeltje link
+	Free: Pattern=een, Pattern=neus en, Pattern=die, Pattern=en, Pattern=dit zijn
+	Constrained: Pattern=en, Pattern=neus, Pattern=zijn, Pattern=dit
+Turn ID=32| A | A : dat zijn nummer zeven
+	Free: Pattern=nummer, Pattern=dat, Pattern=zijn
+	Constrained: 

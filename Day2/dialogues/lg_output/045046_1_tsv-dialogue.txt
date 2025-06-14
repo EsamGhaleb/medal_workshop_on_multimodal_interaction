@@ -1,0 +1,179 @@
+B|0| B: _ja ik_ vinden _het_ _ik_ wat _het_ _zijn_ 
+B|1| B: _er zitten_ _aan de_ linkerkant _twee_ _van_ _die_ blok _die_ of steeds groot _worden_ of steeds _klein worden_ afhankelijk _van_ hoe _je_ _het_ zien 
+B|2| B: _en_ een groot _vierkant_ plaat _aan de_ voorkant _en_ een _antenne_ 
+A|3| A: even [ja] [ja] [ja] [ja] [ja] [ja] [ja] [ja] 
+A|4| A: toppie [twee] 
+B|5| B: _en _die_ zitten bij mij_ _links_ _in het midden_ helemaal _onderaan_ 
+A|6| A: [bij mij] [zitten] [die] _wel_ [links] _maar_ veel [in het midden] _gewoon_ daarvan dus [ik] denken niet _dat_ [die] _dan_ hetzelfde [zijn] 
+B|7| B: _oké_ een ander plaats 
+A|8| A: _dit zijn_ diegene _met die antenne_ [vierkant] [van] voren [en die] [twee] [vierkant] [aan de] rechterkant 
+B|9| B: _die klein worden_ 
+A|10| A: [die klein worden] [ja] 
+B|11| B: [ja] _precies_ 
+B|12| B: G 
+B|13| B: _die zitten bij mij_ net _iets_ link _van het midden_ een beetje _onderaan_ 
+A|14| A: [ja] 
+A|15| A: _dat_ hebben [ik] [precies] hetzelfde [ja] jij mogen hem 
+B|16| B: _dat zijn_ voor [mij] 
+B|17| B: [dit zijn] weer [met die antenne] bovenop [en die] [vierkant] plaat ervoor _en dan_ [de] _vierkant die_ groot [worden] 
+A|18| A: [ja] [die] [twee] [aan de] [ja] [oké] [dat zijn] negen 
+B|19| B: net _iets_ naast [het midden] [aan de] linkerkant [en] bijna helemaal _onderaan_ 
+A|20| A: [er zitten] één dinge nog onder [bij mij] 
+B|21| B: [ja] [precies] 
+A|22| A: [ja] 
+B|23| B: [ja] 
+A|24| A: [oké] [dit zijn] diegene [met] [de] [antenne] [het] vierkantje [van] voren [en die] [twee] [vierkant die] telkens [klein worden] [aan de] zijkant 
+B|25| B: [oké] 
+B|26| B: d 
+B|27| B: hij _zitten bij mij_ echt ongeveer [in het midden] _en dan_ net _iets_ _boven_ [het midden] 
+A|28| A: [ja ik] denken [ja] vrijwel [in het midden] [van het midden] eigenlijk _maar_ [iets] naar [boven] inderdaad [ik] denken [dat] we dezelfde hebben [dan] [ja] 
+B|29| B: [ja] 
+B|30| B: [dit zijn] weer [met die] [die klein worden] blok helemaal [links] 
+B|31| B: [twee] 
+B|32| B: _en dan_ zo'n [vierkant] plaat voor [en] een [antenne] bovenop 
+A|33| A: [ja] [ja] [ja] [dat zijn] één 
+B|34| B: [en _die] zitten bij mij_ net _iets _rechts_ van_ [dat] [midden] zeggen [maar] _van de scheidslijn_ _en dan_ ongeveer [gewoon] [in het midden] 
+A|35| A: [ja] [bij mij] [zijn] [die] [iets] naar [boven] tenminste [je] hebben [de scheidslijn] [dan] [zijn] [die] [iets rechts] daarvan [en dan] [zijn] [die] [iets] omhoog dus nou [ik] denken [dat] [dat] misschien 
+B|36| B: hij _zitten bij mij_ [wel] echt ongeveer [in het midden] qua hoogte [maar] 
+A|37| A: [oké] nee [dan] [zijn] [het] [het] denken [ik] niet 
+A|38| A: [dit zijn] degeen [met] [de] [antenne] [vierkant] [van] voren [en] [twee] [vierkant [die] klein worden] [aan de] 
+B|39| B: [ja] 
+B|40| B: B 
+A|41| A: [die zitten bij mij] [rechts [van] de scheidslijn] [onderaan] 
+B|42| B: [ja] 
+B|43| B: [bij mij] ook 
+
+
+TURN DETAILS:
+Turn ID=0| B | B : ja ik vinden het ik wat het zijn
+	Free: Pattern=ja ik, Pattern=het, Pattern=ik, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=ik
+Turn ID=1| B | B : er zitten aan de linkerkant twee van die blok die of steeds groot worden of steeds klein worden afhankelijk van hoe je het zien
+	Free: Pattern=twee, Pattern=klein worden, Pattern=het, Pattern=die, Pattern=er zitten, Pattern=van, Pattern=je, Pattern=aan de, Pattern=worden
+	Constrained: Pattern=de, Pattern=zitten, Pattern=worden
+Turn ID=2| B | B : en een groot vierkant plaat aan de voorkant en een antenne
+	Free: Pattern=aan de, Pattern=antenne, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=de
+Turn ID=3| A | A : even ja ja ja ja ja ja ja ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=4| A | A : toppie twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=5| B | B : en die zitten bij mij links in het midden helemaal onderaan
+	Free: Pattern=en die, Pattern=onderaan, Pattern=links, Pattern=die zitten bij mij, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=het, Pattern=mij, Pattern=en, Pattern=bij mij, Pattern=midden, Pattern=zitten bij mij, Pattern=die, Pattern=zitten
+Turn ID=6| A | A : bij mij zitten die wel links maar veel in het midden gewoon daarvan dus ik denken niet dat die dan hetzelfde zijn
+	Free: Pattern=dat, Pattern=dan, Pattern=wel, Pattern=ik, Pattern=bij mij, Pattern=in het midden, Pattern=links, Pattern=gewoon, Pattern=die, Pattern=zitten, Pattern=zijn, Pattern=maar
+	Constrained: Pattern=het midden, Pattern=midden, Pattern=het, Pattern=mij
+Turn ID=7| B | B : oké een ander plaats
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=8| A | A : dit zijn diegene met die antenne vierkant van voren en die twee vierkant aan de rechterkant
+	Free: Pattern=en die, Pattern=twee, Pattern=aan de, Pattern=met die antenne, Pattern=van, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=met die, Pattern=de, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=zijn
+Turn ID=9| B | B : die klein worden
+	Free: Pattern=die klein worden
+	Constrained: Pattern=klein worden, Pattern=die, Pattern=worden
+Turn ID=10| A | A : die klein worden ja
+	Free: Pattern=die klein worden, Pattern=ja
+	Constrained: Pattern=klein worden, Pattern=die, Pattern=worden
+Turn ID=11| B | B : ja precies
+	Free: Pattern=ja, Pattern=precies
+	Constrained: 
+Turn ID=12| B | B : G
+	Free: 
+	Constrained: 
+Turn ID=13| B | B : die zitten bij mij net iets link van het midden een beetje onderaan
+	Free: Pattern=die zitten bij mij, Pattern=van het midden, Pattern=iets, Pattern=onderaan
+	Constrained: Pattern=het midden, Pattern=het, Pattern=mij, Pattern=van, Pattern=bij mij, Pattern=midden, Pattern=zitten bij mij, Pattern=die, Pattern=zitten
+Turn ID=14| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=15| A | A : dat hebben ik precies hetzelfde ja jij mogen hem
+	Free: Pattern=ja, Pattern=ik, Pattern=dat, Pattern=precies
+	Constrained: 
+Turn ID=16| B | B : dat zijn voor mij
+	Free: Pattern=dat zijn, Pattern=mij
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=17| B | B : dit zijn weer met die antenne bovenop en die vierkant plaat ervoor en dan de vierkant die groot worden
+	Free: Pattern=en die, Pattern=de, Pattern=en dan, Pattern=worden, Pattern=met die antenne, Pattern=vierkant die, Pattern=vierkant, Pattern=dit zijn
+	Constrained: Pattern=met die, Pattern=dan, Pattern=met, Pattern=die, Pattern=antenne, Pattern=en, Pattern=zijn, Pattern=vierkant
+Turn ID=18| A | A : ja die twee aan de ja oké dat zijn negen
+	Free: Pattern=dat zijn, Pattern=twee, Pattern=ja, Pattern=aan de, Pattern=die, Pattern=oké
+	Constrained: Pattern=de, Pattern=dat, Pattern=zijn
+Turn ID=19| B | B : net iets naast het midden aan de linkerkant en bijna helemaal onderaan
+	Free: Pattern=onderaan, Pattern=het midden, Pattern=iets, Pattern=aan de, Pattern=en
+	Constrained: Pattern=midden, Pattern=de, Pattern=het
+Turn ID=20| A | A : er zitten één dinge nog onder bij mij
+	Free: Pattern=bij mij, Pattern=er zitten
+	Constrained: Pattern=zitten, Pattern=mij
+Turn ID=21| B | B : ja precies
+	Free: Pattern=ja, Pattern=precies
+	Constrained: 
+Turn ID=22| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=23| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=24| A | A : oké dit zijn diegene met de antenne het vierkantje van voren en die twee vierkant die telkens klein worden aan de zijkant
+	Free: Pattern=en die, Pattern=twee, Pattern=de, Pattern=aan de, Pattern=klein worden, Pattern=met, Pattern=van, Pattern=dit zijn, Pattern=het, Pattern=vierkant die, Pattern=oké, Pattern=antenne
+	Constrained: Pattern=de, Pattern=worden, Pattern=die, Pattern=en, Pattern=zijn, Pattern=vierkant
+Turn ID=25| B | B : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=26| B | B : d
+	Free: 
+	Constrained: 
+Turn ID=27| B | B : hij zitten bij mij echt ongeveer in het midden en dan net iets boven het midden
+	Free: Pattern=het midden, Pattern=iets, Pattern=en dan, Pattern=boven, Pattern=zitten bij mij, Pattern=in het midden
+	Constrained: Pattern=het midden, Pattern=dan, Pattern=het, Pattern=zitten, Pattern=mij, Pattern=en, Pattern=bij mij, Pattern=midden
+Turn ID=28| A | A : ja ik denken ja vrijwel in het midden van het midden eigenlijk maar iets naar boven inderdaad ik denken dat we dezelfde hebben dan ja
+	Free: Pattern=dat, Pattern=van het midden, Pattern=ja ik, Pattern=ik, Pattern=maar, Pattern=in het midden, Pattern=iets, Pattern=ja, Pattern=boven, Pattern=dan
+	Constrained: Pattern=het midden, Pattern=ja, Pattern=het, Pattern=ik, Pattern=van, Pattern=midden
+Turn ID=29| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=30| B | B : dit zijn weer met die die klein worden blok helemaal links
+	Free: Pattern=die klein worden, Pattern=dit zijn, Pattern=met die, Pattern=links
+	Constrained: Pattern=worden, Pattern=klein worden, Pattern=met, Pattern=die, Pattern=zijn
+Turn ID=31| B | B : twee
+	Free: Pattern=twee
+	Constrained: 
+Turn ID=32| B | B : en dan zo'n vierkant plaat voor en een antenne bovenop
+	Free: Pattern=en dan, Pattern=antenne, Pattern=en, Pattern=vierkant
+	Constrained: Pattern=dan, Pattern=en
+Turn ID=33| A | A : ja ja ja dat zijn één
+	Free: Pattern=dat zijn, Pattern=ja
+	Constrained: Pattern=dat, Pattern=zijn
+Turn ID=34| B | B : en die zitten bij mij net iets rechts van dat midden zeggen maar van de scheidslijn en dan ongeveer gewoon in het midden
+	Free: Pattern=en die, Pattern=rechts van, Pattern=en dan, Pattern=gewoon, Pattern=iets rechts, Pattern=in het midden, Pattern=midden, Pattern=dat, Pattern=van de scheidslijn, Pattern=maar, Pattern=die zitten bij mij
+	Constrained: Pattern=de scheidslijn, Pattern=het midden, Pattern=dan, Pattern=het, Pattern=mij, Pattern=bij mij, Pattern=midden, Pattern=de, Pattern=iets, Pattern=zitten bij mij, Pattern=die, Pattern=zitten, Pattern=van, Pattern=en
+Turn ID=35| A | A : ja bij mij zijn die iets naar boven tenminste je hebben de scheidslijn dan zijn die iets rechts daarvan en dan zijn die iets omhoog dus nou ik denken dat dat misschien
+	Free: Pattern=de scheidslijn, Pattern=dat, Pattern=en dan, Pattern=die, Pattern=iets rechts, Pattern=ik, Pattern=zijn, Pattern=iets, Pattern=ja, Pattern=boven, Pattern=dan, Pattern=bij mij, Pattern=je
+	Constrained: Pattern=dan, Pattern=mij, Pattern=en, Pattern=de, Pattern=iets
+Turn ID=36| B | B : hij zitten bij mij wel echt ongeveer in het midden qua hoogte maar
+	Free: Pattern=zitten bij mij, Pattern=in het midden, Pattern=wel, Pattern=maar
+	Constrained: Pattern=het midden, Pattern=het, Pattern=zitten, Pattern=mij, Pattern=bij mij, Pattern=midden
+Turn ID=37| A | A : oké nee dan zijn het het denken ik niet
+	Free: Pattern=dan, Pattern=het, Pattern=oké, Pattern=ik, Pattern=zijn
+	Constrained: 
+Turn ID=38| A | A : dit zijn degeen met de antenne vierkant van voren en twee vierkant die klein worden aan de
+	Free: Pattern=twee, Pattern=de, Pattern=aan de, Pattern=vierkant die, Pattern=met, Pattern=antenne, Pattern=vierkant, Pattern=dit zijn, Pattern=die klein worden, Pattern=van, Pattern=en
+	Constrained: Pattern=de, Pattern=worden, Pattern=klein worden, Pattern=die, Pattern=zijn, Pattern=vierkant
+Turn ID=39| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=41| A | A : die zitten bij mij rechts van de scheidslijn onderaan
+	Free: Pattern=die zitten bij mij, Pattern=van de scheidslijn, Pattern=rechts van, Pattern=onderaan
+	Constrained: Pattern=de scheidslijn, Pattern=de, Pattern=mij, Pattern=van, Pattern=bij mij, Pattern=zitten bij mij, Pattern=die, Pattern=zitten
+Turn ID=42| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| B | B : bij mij ook
+	Free: Pattern=bij mij
+	Constrained: Pattern=mij

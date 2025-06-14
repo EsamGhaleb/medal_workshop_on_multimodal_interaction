@@ -1,0 +1,239 @@
+A|0| A: _oké_ 
+A|1| A: _nou_ _hij_ _hebben_ _aan_ _al kant hebben die_ wat 
+A|2| A: _hij_ _hebben_ _een_ één _ja_ _een_ 
+B|3| B: [al kant hebben die] [hebben die] 
+A|4| A: _ja_ _hij_ [hebben] _een lepel_ 
+A|5| A: _hij_ _hebben zo'n_ staart 
+B|6| B: _ja en_ _dan_ [zo'n] soort pionne [aan] _de_ zijkant _en_ _dan_ [zo'n] 
+A|7| A: _nou_ 
+A|8| A: [ja en] _als het een man_ _zijn_ _zijn_ [dan] 
+B|9| B: _ja ja_ 
+B|10| B: [oké] [dan] _zijn het_ E 
+B|11| B: [en] _waar_ _staan_ [die] bij jou ? staat [die] 
+A|12| A: _rechts_ 
+B|13| B: _rechts en_ [dan] [een] beetje naar _boven_ toe 
+A|14| A: _het midden_ 
+B|15| B: echt [midden] [midden] 
+A|16| A: drie centimeter _van_ _van_ [de] middenstreep 
+B|17| B: [oké] _nee_ [ja] [nou] [dan] _nee_ bij mij _staan_ [die] echt _wel_ _veel_ naar _boven_ toe 
+A|18| A: [oké] 
+B|19| B: deze [hebben die] robot [die] je net [hebben zo'n] zelfde structuur [aan] [de] linkerkant _alleen_ [die] [hebben die] [dan] 
+A|20| A: [ja] 
+B|21| B: [ja] [rechts] 
+A|22| A: [rechts] 
+B|23| B: [en] [dan] [zo'n] [lepel] groot _lepel en_ _nog_ [een lepel] [aan] [de] ander [kant] [en] _nog_ [zo'n] [als het een man] zullen [zijn] 
+A|24| A: [die] [ja] 
+B|25| B: [ja] 
+A|26| A: gaan ik hem even zoeken 
+A|27| A: [ja] dat [die] [lepel en] [een] blok 
+B|28| B: [ja] 
+B|29| B: [en] [dan] _nog_ [een] ander uitsteeksel 
+A|30| A: [ja] 
+A|31| A: [ja ja] precies 
+A|32| A: elf 
+B|33| B: [en] [dan] _staan_ [die] [als] je [het midden] [hebben] _nog_ [een] beetje _veel_ [aan] [de] linkerkant iets naar _boven_ toe 
+A|34| A: [nee] 
+A|35| A: _dit zijn die_ [zijn het] [man] weer 
+B|36| B: J 
+A|37| A: [en] _hij staan_ [rechts en] [alleen] [rechts] bovenin _zitten_ [nog] wat [en] [rechts] _onder_ hem _zitten_ wat 
+B|38| B: dus [als] je zeggen _maar_ [de] middellijn [hebben] [dan] meteen _rechts van_ [die] middellijn 
+A|39| A: [ja] 
+B|40| B: [ja] bij mij 
+B|41| B: met [die] lepeltje [aan] [de] bovenkant [en] [die] [man] 
+A|42| A: [ja] 
+A|43| A: [waar] [zijn] [de] [man] blijven 
+A|44| A: [ja] negen 
+B|45| B: [hij staan] [aan] [de] rechterkant [van] [het] scherm onderin _er_ _er _zitten_ niks veel_ [onder] zeggen 
+A|46| A: [nee] 
+A|47| A: [nee] 
+A|48| A: [het] [man] 
+B|49| B: B 
+A|50| A: [en] [hij staan] [rechts] 
+A|51| A: [hij] worden [van] schuin [boven] [en] schuin [onder] [nog] [wel] omringen [maar] [rechts van] hem [zitten niks veel] 
+B|52| B: [nee] [ja] 
+B|53| B: [dit zijn die] [man] 
+A|54| A: vier 
+B|55| B: [die] [zitten] Linksboven in [de] hoek 
+A|56| A: [ja en] [er zitten] helemaal [niks] omheen 
+B|57| B: [nee] 
+A|58| A: [nee] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=1| A | A : nou hij hebben aan al kant hebben die wat
+	Free: Pattern=nou, Pattern=aan, Pattern=hebben, Pattern=hij, Pattern=al kant hebben die
+	Constrained: Pattern=hebben die, Pattern=kant, Pattern=die, Pattern=hebben
+Turn ID=2| A | A : hij hebben een één ja een
+	Free: Pattern=ja, Pattern=hebben, Pattern=een, Pattern=hij
+	Constrained: 
+Turn ID=3| B | B : al kant hebben die hebben die
+	Free: Pattern=al kant hebben die, Pattern=hebben die
+	Constrained: Pattern=hebben die, Pattern=kant, Pattern=die, Pattern=hebben
+Turn ID=4| A | A : ja hij hebben een lepel
+	Free: Pattern=een lepel, Pattern=ja, Pattern=hebben, Pattern=hij
+	Constrained: Pattern=lepel, Pattern=een
+Turn ID=5| A | A : hij hebben zo'n staart
+	Free: Pattern=hebben zo'n, Pattern=hij
+	Constrained: Pattern=zo'n, Pattern=hebben
+Turn ID=6| B | B : ja en dan zo'n soort pionne aan de zijkant en dan zo'n
+	Free: Pattern=zo'n, Pattern=dan, Pattern=en, Pattern=ja en, Pattern=de, Pattern=aan
+	Constrained: Pattern=ja, Pattern=en
+Turn ID=7| A | A : nou
+	Free: Pattern=nou
+	Constrained: 
+Turn ID=8| A | A : ja en als het een man zijn zijn dan
+	Free: Pattern=als het een man, Pattern=ja en, Pattern=dan, Pattern=zijn
+	Constrained: Pattern=ja, Pattern=een, Pattern=het, Pattern=als, Pattern=en, Pattern=man
+Turn ID=9| B | B : ja ja
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=10| B | B : oké dan zijn het E
+	Free: Pattern=zijn het, Pattern=dan, Pattern=oké
+	Constrained: Pattern=zijn, Pattern=het
+Turn ID=11| B | B : en waar staan die bij jou ? staat die
+	Free: Pattern=waar, Pattern=die, Pattern=en, Pattern=staan
+	Constrained: 
+Turn ID=12| A | A : rechts
+	Free: Pattern=rechts
+	Constrained: 
+Turn ID=13| B | B : rechts en dan een beetje naar boven toe
+	Free: Pattern=rechts en, Pattern=dan, Pattern=een, Pattern=boven
+	Constrained: Pattern=rechts, Pattern=en
+Turn ID=14| A | A : het midden
+	Free: Pattern=het midden
+	Constrained: Pattern=midden, Pattern=het
+Turn ID=15| B | B : echt midden midden
+	Free: Pattern=midden
+	Constrained: 
+Turn ID=16| A | A : drie centimeter van van de middenstreep
+	Free: Pattern=van, Pattern=de
+	Constrained: 
+Turn ID=17| B | B : oké nee ja nou dan nee bij mij staan die echt wel veel naar boven toe
+	Free: Pattern=nou, Pattern=ja, Pattern=veel, Pattern=nee, Pattern=die, Pattern=oké, Pattern=boven, Pattern=dan, Pattern=staan, Pattern=wel
+	Constrained: 
+Turn ID=18| A | A : oké
+	Free: Pattern=oké
+	Constrained: 
+Turn ID=19| B | B : deze hebben die robot die je net hebben zo'n zelfde structuur aan de linkerkant alleen die hebben die dan
+	Free: Pattern=alleen, Pattern=dan, Pattern=hebben zo'n, Pattern=die, Pattern=hebben die, Pattern=de, Pattern=aan
+	Constrained: Pattern=die, Pattern=zo'n, Pattern=hebben
+Turn ID=20| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=21| B | B : ja rechts
+	Free: Pattern=ja, Pattern=rechts
+	Constrained: 
+Turn ID=22| A | A : rechts
+	Free: Pattern=rechts
+	Constrained: 
+Turn ID=23| B | B : en dan zo'n lepel groot lepel en nog een lepel aan de ander kant en nog zo'n als het een man zullen zijn
+	Free: Pattern=kant, Pattern=lepel, Pattern=nog, Pattern=zo'n, Pattern=dan, Pattern=als het een man, Pattern=en, Pattern=de, Pattern=aan, Pattern=lepel en, Pattern=zijn, Pattern=een lepel
+	Constrained: Pattern=lepel, Pattern=een, Pattern=het, Pattern=als, Pattern=en, Pattern=man
+Turn ID=24| A | A : die ja
+	Free: Pattern=die, Pattern=ja
+	Constrained: 
+Turn ID=25| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=26| A | A : gaan ik hem even zoeken
+	Free: 
+	Constrained: 
+Turn ID=27| A | A : ja dat die lepel en een blok
+	Free: Pattern=lepel en, Pattern=die, Pattern=ja, Pattern=een
+	Constrained: Pattern=lepel, Pattern=en
+Turn ID=28| B | B : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=29| B | B : en dan nog een ander uitsteeksel
+	Free: Pattern=dan, Pattern=een, Pattern=en, Pattern=nog
+	Constrained: 
+Turn ID=30| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=31| A | A : ja ja precies
+	Free: Pattern=ja ja
+	Constrained: Pattern=ja
+Turn ID=32| A | A : elf
+	Free: 
+	Constrained: 
+Turn ID=33| B | B : en dan staan die als je het midden hebben nog een beetje veel aan de linkerkant iets naar boven toe
+	Free: Pattern=het midden, Pattern=nog, Pattern=veel, Pattern=hebben, Pattern=als, Pattern=die, Pattern=en, Pattern=de, Pattern=aan, Pattern=boven, Pattern=dan, Pattern=een, Pattern=staan
+	Constrained: Pattern=midden, Pattern=het
+Turn ID=34| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=35| A | A : dit zijn die zijn het man weer
+	Free: Pattern=dit zijn die, Pattern=zijn het, Pattern=man
+	Constrained: Pattern=zijn, Pattern=die, Pattern=het
+Turn ID=36| B | B : J
+	Free: 
+	Constrained: 
+Turn ID=37| A | A : en hij staan rechts en alleen rechts bovenin zitten nog wat en rechts onder hem zitten wat
+	Free: Pattern=rechts en, Pattern=nog, Pattern=rechts, Pattern=alleen, Pattern=hij staan, Pattern=onder, Pattern=zitten, Pattern=en
+	Constrained: Pattern=rechts, Pattern=hij, Pattern=en, Pattern=staan
+Turn ID=38| B | B : dus als je zeggen maar de middellijn hebben dan meteen rechts van die middellijn
+	Free: Pattern=dan, Pattern=hebben, Pattern=als, Pattern=die, Pattern=maar, Pattern=de, Pattern=rechts van
+	Constrained: Pattern=van, Pattern=rechts
+Turn ID=39| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=40| B | B : ja bij mij
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=41| B | B : met die lepeltje aan de bovenkant en die man
+	Free: Pattern=die, Pattern=en, Pattern=man, Pattern=de, Pattern=aan
+	Constrained: 
+Turn ID=42| A | A : ja
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=43| A | A : waar zijn de man blijven
+	Free: Pattern=waar, Pattern=zijn, Pattern=man, Pattern=de
+	Constrained: 
+Turn ID=44| A | A : ja negen
+	Free: Pattern=ja
+	Constrained: 
+Turn ID=45| B | B : hij staan aan de rechterkant van het scherm onderin er er zitten niks veel onder zeggen
+	Free: Pattern=zitten niks veel, Pattern=hij staan, Pattern=het, Pattern=onder, Pattern=er zitten, Pattern=er, Pattern=van, Pattern=de, Pattern=aan
+	Constrained: Pattern=veel, Pattern=hij, Pattern=zitten, Pattern=er, Pattern=staan, Pattern=niks
+Turn ID=46| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=47| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=48| A | A : het man
+	Free: Pattern=het, Pattern=man
+	Constrained: 
+Turn ID=49| B | B : B
+	Free: 
+	Constrained: 
+Turn ID=50| A | A : en hij staan rechts
+	Free: Pattern=hij staan, Pattern=rechts, Pattern=en
+	Constrained: Pattern=hij, Pattern=staan
+Turn ID=51| A | A : hij worden van schuin boven en schuin onder nog wel omringen maar rechts van hem zitten niks veel
+	Free: Pattern=zitten niks veel, Pattern=nog, Pattern=rechts van, Pattern=boven, Pattern=wel, Pattern=maar, Pattern=hij, Pattern=onder, Pattern=van, Pattern=en
+	Constrained: Pattern=rechts, Pattern=veel, Pattern=niks, Pattern=zitten, Pattern=van
+Turn ID=52| B | B : nee ja
+	Free: Pattern=nee, Pattern=ja
+	Constrained: 
+Turn ID=53| B | B : dit zijn die man
+	Free: Pattern=dit zijn die, Pattern=man
+	Constrained: Pattern=zijn, Pattern=die
+Turn ID=54| A | A : vier
+	Free: 
+	Constrained: 
+Turn ID=55| B | B : die zitten Linksboven in de hoek
+	Free: Pattern=zitten, Pattern=die, Pattern=de
+	Constrained: 
+Turn ID=56| A | A : ja en er zitten helemaal niks omheen
+	Free: Pattern=er zitten, Pattern=ja en, Pattern=niks
+	Constrained: Pattern=zitten, Pattern=ja, Pattern=er, Pattern=en
+Turn ID=57| B | B : nee
+	Free: Pattern=nee
+	Constrained: 
+Turn ID=58| A | A : nee
+	Free: Pattern=nee
+	Constrained: 
