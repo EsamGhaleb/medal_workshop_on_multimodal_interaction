@@ -33,4 +33,5 @@ moviepy
 jupyter
 deepl
 tgt
+elan_data
 # spacy

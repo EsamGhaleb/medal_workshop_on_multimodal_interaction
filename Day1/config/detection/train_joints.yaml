@@ -1,0 +1,76 @@
+Experiment_name: Appr_{}_fold_{}_lr_{}_subject_joint_{}_gesture_unit_{}_ft_speech_{}_vggish_{}_speech_buffer_{}_offset_{}_schedular_{}_audio_encoder_{}_skeleton_encoder_{}_crf_{}_bs_{}_sc_{}_final
+# feeder, currently no preprocessing implemented so that we run the first evaluation using sequences of segments
+feeder: feeder.audio_video_feeder.SequentialAudioSkeletonFeeder
+feeder_args:
+  label_path: data/mm_data/27_labels_buffer_{}.pkl
+  data_path: data/mm_data/data_27_joint_buffer_{}.npy
+  audio_path: data/mm_data/audio_buffer_{}.npy
+  all_audio_path: /Users/esamghaleb/Documents/ResearchData/CABB Small Dataset/processed_audio_video/{}/{}_synced_pp{}.wav
+  original_dataset: True
+  subject_joint: False
+  gesture_unit: True
+  debug: False
+  random_choose: False
+  random_shift: True
+  random_move: True
+  window_size: 15
+  normalization: True
+  random_mirror: True
+  random_mirror_p: 0.5
+  is_vector: False
+  max_length: 40
+  fold: 0
+  offset: 2
+  sanity_check: True
+
+# model for embeddings
+model: model.decouple_gcn_attn_sequential.Model
+model_args:
+  num_class: 226
+  num_point: 27
+  num_person: 1
+  graph: graph.sign_27.Graph
+  groups: 16
+  block_size: 41
+  graph_args:
+    labeling_mode: 'spatial'
+
+fusion: model.audio_video_labelers.Skeleton # LateFusion, EarlyFusion, CrossAttn
+fusion_args:
+  vggish: False
+  use_lstm: False
+  encoder_for_audio: False
+  encoder_for_skeleton: True
+  fine_tuned_audio_model: False
+  speech_buffer: 0.0 # 0, 0.25, 0.5 seconds
+  offset: 2
+  skeleton_alone: True
+  weights_path: 27_2_finetuned/joint_finetuned.pt
+
+
+weights: 27_2_finetuned/joint_finetuned.pt # weights for the pre-trained model
+pretrained: True
+pretrained_model: 'SLR'
+#optim
+weight_decay: 0.0001
+base_lr: 0.1
+step: [50]
+
+# training
+device: [0]
+keep_rate: 0.9
+only_train_epoch: 1
+batch_size: 40
+test_batch_size: 40
+num_epoch: 100
+nesterov: True
+warm_up_epoch: 20
+
+# general config
+lr: 5e-5
+accumulate_grad_batches: 1
+use_crf: False
+scheduler: 'plateau'
+
+patience: 20
+early_stopping_patience: 50
