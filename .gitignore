@@ -27,7 +27,7 @@ __pycache__/
 .Python
 build/
 workdir/
-CABB_Segmentation/
+#CABB_Segmentation/
 develop-eggs/
 dist/
 downloads/
