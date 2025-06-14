@@ -95,9 +95,7 @@ def save_elan_files(elan_file_path, video_output_path, binar_gesture_predictions
  
    # existing_elan_file = ELAN_Data.from_file('elan_files/{}_SignAcc_{}_CP.eaf'.format(pair, day))
    # check if the folder exists, if not create it
-   import os
-   if os.path.exists('eaf_files') is False:
-      os.makedirs('eaf_files')
+   
    new_eaf = ELAN_Data.create_eaf(elan_file_path, audio=video_output_path, tiers=["{} model".format(model)], remove_default=True)
 
    i = 0
@@ -167,7 +165,7 @@ def get_class_predictions(results_details):
 def get_elan_files(results, fps=25, model='skeleton', threshold=0.55, file_path='test_videos/tedtalk.npy', video_output_path=None):
    all_results = upload_models_result(results)
    all_results, all_preds = get_class_predictions(all_results)
-   elan_file_path = file_path.replace('.npy', '_segmentation_results.eaf')
+   elan_file_path = file_path.replace('.npy', '_segmentation_results_th_{}.eaf'.format(threshold))
    all_results['speaker'] = all_results['pair_speaker'].apply(lambda x: x.split("_")[1])
 
    all_pairs_speakers = all_results['pair_speaker'].unique()
@@ -188,6 +186,7 @@ def get_elan_files(results, fps=25, model='skeleton', threshold=0.55, file_path=
       # assign -1 to the frames where the gesture predictions are less than 0.5
       gesture_predictions[binar_gesture_predictions == 0] = -1
       save_elan_files(elan_file_path, video_output_path, binar_gesture_predictions, gesture_predictions, fps, model=model)
+      print('ELAN file saved to:', elan_file_path)
 
 
 

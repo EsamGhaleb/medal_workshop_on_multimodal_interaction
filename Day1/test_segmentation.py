@@ -37,6 +37,7 @@ def parse_args():
     parser.add_argument('--phase', default='eval', type=str, help='eval or test')
     parser.add_argument('--apply_skeleton_augmentations', default=True, type=bool, help='apply skeleton augmentations')
     parser.add_argument('--poses-path', default='data/poses', type=str, help='path to the poses data')
+    parser.add_argument('--models_type', default='best', type=str, help='type of the model to use: best or last')
     # add skeleton_augmentations_path
     parser.add_argument(
         '--skeleton_augmentations_path',
@@ -181,13 +182,12 @@ def train_with_config(args, opts):
                 accelerator="cpu",
                 max_epochs=args.epochs,
                 default_root_dir=fold_dir,
-                callbacks=callbacks,
                 accumulate_grad_batches=1,
                 limit_train_batches=None if not opts.debug else 10,
                 limit_val_batches=None if not opts.debug else 10,
             )
             
-        checkpoint_path = "CABB_Segmentation/fold_{}/checkpoints/fold_{}/last.ckpt".format(fold + 1, fold + 1)
+        checkpoint_path = "segmentation_models/fold_{}/checkpoints/fold_{}/{}.ckpt".format(fold + 1, fold + 1, opts.models_type)
         trainer.test(segmentation_model, dataloaders=cabb_loader_2d_val, ckpt_path=checkpoint_path)
         # Save results for the fold
         results[fold]['labels'] = segmentation_model.models_results['test']['labels']

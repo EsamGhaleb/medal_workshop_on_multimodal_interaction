@@ -190,14 +190,28 @@ def draw_and_save_custom_landmarks(image, results, skip_pose_ids=None,
     return image, frame_keypoints
 
 
-def extract_keypoints(vidf, save_video=True):    
+def extract_keypoints(vidf, save_video=True, model_complexity=2):    
     """
     Extracts keypoints from a video file using MediaPipe Holistic.
     Args:
         vidf (str): Path to the video file.
     """
     mp_holistic = mp.solutions.holistic
-    capture = cv2.VideoCapture(vidf)
+    # check if the vidf is 0 (webcam input)
+    if vidf == 0:
+        print("Using webcam as input")
+        capture = cv2.VideoCapture(vidf)
+        # in that case, we use the following path for saving the output
+        video_name = "webcam"
+        # get project root directory
+        video_path = os.path.join(os.getcwd(), 'test_videos')
+        if not os.path.exists(video_path):
+            os.makedirs(video_path)
+        vidf = os.path.join(video_path, video_name + '.mp4')
+        output_path = os.path.join(video_path, video_name + '.npy')
+        video_output_path = os.path.join(video_path, video_name + '_output.mp4')
+    else:
+        capture = cv2.VideoCapture(vidf)
     video_name = vidf.split('/')[-1].split('.')[0]
     video_path = os.path.dirname(vidf)
     # save the keypoints in the same directory as the video file
@@ -209,7 +223,11 @@ def extract_keypoints(vidf, save_video=True):
     samplerate = capture.get(cv2.CAP_PROP_FPS)
     print(f"Video resolution: {frameWidth}x{frameHeight}, FPS: {samplerate}")
     # get the number of frames in the video
-    num_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
+    if video_name == "webcam":
+        print("Using webcam input, setting number of frames to 1000")
+        num_frames = 1000
+    else:
+        num_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
     # get the number of frames in the video
     print(f"Number of frames in the video: {num_frames}")
     if save_video:
@@ -218,7 +236,7 @@ def extract_keypoints(vidf, save_video=True):
                             fps=samplerate, frameSize=(int(frameWidth), int(frameHeight)))
         
     with mp_holistic.Holistic(static_image_mode=False,           # Video stream mode 
-    model_complexity=1,                # Highest-accuracy pose model 
+    model_complexity=model_complexity,                # Highest-accuracy pose model 
     refine_face_landmarks=False,        # Finer facial detail (iris, contours) 
     enable_segmentation=False,          # Person mask for effects
     smooth_landmarks=True,             # Temporal smoothing to reduce jitter
