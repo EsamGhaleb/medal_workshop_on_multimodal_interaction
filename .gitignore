@@ -22,6 +22,9 @@ __pycache__/
 *.mp4
 *.DS_Store
 *.gitkeep
+*.mkv
+*.webm
+Day2/
 
 # Distribution / packaging
 .Python

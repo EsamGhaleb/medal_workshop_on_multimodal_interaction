@@ -27,19 +27,6 @@ print(os.path.abspath(outputf_mask))
 print("\n The following video(s) will be processed for masking: ")
 
 
-# This will return a list of all .mp4 paths matching the pattern
-vfiles = glob.glob(
-    "/Users/esagha/Documents/ResearchData/CABB Small Dataset/processed_audio_video/*/*.mp4"
-)
-# remove files that end with "overview.mp4"
-vfiles = [f for f in vfiles if not f.endswith("overview.mp4")]
-vfiles = [f for f in vfiles if 'pair' in f]
-print(vfiles)
-
-
-
-#initialize modules and functions
-
 #load in mediapipe modules
 mp_holistic = mp.solutions.holistic
 # Import drawing_utils and drawing_styles.
@@ -346,5 +333,5 @@ for vidf in vfiles:
     all_kpts = np.array(all_kpts)
     # Save the keypoints as npy array
     video_name = vidf.split('/')[-1].split('.')[0]
-    np.save(outtputf_ts + video_name+ '_all_kpts.npy', all_kpts)
+    np.save(outtputf_ts + video_name+ '.npy', all_kpts)
     # 

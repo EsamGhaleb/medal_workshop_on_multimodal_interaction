@@ -1,0 +1,80 @@
+# General  
+train_2d: True
+has_3d: False
+no_eval: True
+finetune: False
+partial_train: null
+
+# Traning 
+epochs: 100
+checkpoint_frequency: 30
+batch_size: 128
+dropout: 0.1
+learning_rate: 0.00003 # NOTE: this was 0.0005 in the original config
+weight_decay: 0.01
+lr_decay: 0.99
+pretrain_3d_curriculum: 30
+
+# Model
+maxlen: 120
+dim_feat: 128
+mlp_ratio: 2
+depth: 4
+dim_rep: 256
+hidden_dim: 256
+num_heads: 8
+att_fuse: True
+
+# model for embeddings
+pretrained: ''
+model_args:
+  modalities: ['skeleton', 'speech']
+  fusion: 'late'
+  feat_dim: 128
+  w2v2_type: 'multilingual'
+  skeleton_backbone: 'jointsformer'
+  hidden_dim: 256
+  attentive_pooling: True
+  bertje_dim: 768
+  freeze_bertje: True
+  cross_modal: False
+  one_branch_cross_modal: True
+  multimodal_embeddings_dim: 256
+  apply_cnn: True
+
+# Data
+data_root: data/motion3d/MB3D_f243s81/
+subset_list: [H36M-SH]
+dt_file: h36m_sh_conf_cam_source_final.pkl
+clip_len: 120
+data_stride: 2
+rootrel: True
+sample_stride: 1
+num_joints: 27
+no_conf: False
+gt_2d: True
+
+# Loss
+lambda_3d_velocity: 20.0
+lambda_scale: 0.5
+lambda_lv: 0.0
+lambda_lg: 0.0
+lambda_a: 0.0
+lambda_av: 0.0
+
+# Augmentation
+synthetic: True   # synthetic: don't use 2D detection results, fake it (from 3D)
+flip: True
+mask_ratio: 0.05
+mask_T_ratio: 0.1
+noise: True
+noise_path: params/synthetic_noise.pth
+d2c_params_path: params/d2c_params.pkl
+
+
+modalities: ['skeleton', 'speech'] # 'speech', 'skeleton', 'semantic', 'image'
+loss_type: ['cross_entropy'] #  ['mm_contrastive', 'contrastive', 'masked_reconstruction', 'masked_reconstruction_contrastive']
+use_contrastive: True
+temp: 0.1
+freeze_bertje: True
+bertje_dim: 768

@@ -14,28 +14,80 @@ We will use the following tools; no installation required beforehand—we’ll s
 - [ELAN](https://archive.mpi.nl/tla/elan) (annotation tool for multimodal data)
 
 ## Schedule
-### Day 1: Kinematic Analysis and Speech Transcription
+### Day 1: Kinematic Analysis and Gesture Segmentation
 ### Tuesday, 24 June 2024
 | Time          | Topic                                                                 |
 |---------------|-----------------------------------------------------------------------|
 | 14:00 - 14:05 | Introduction        |
 | 14:05 - 14:30 |Setup of the environment and tools (Visual Studio Code, Miniconda, MediaPipe, whisperX) |
-|
-| 14:30 - 15:30 | Hands-on: Extracting body key points using MediaPipe                  |
+| 14:30 - 15:30 | Extracting body key points using MediaPipe                  |
 | 15:30 - 15:45 | Break                                                                 |
-| 15:45 - 17:00 | Hands-on: Speech transcription and time alignment with whisperX from dialogue recordings                |
+| 15:45 - 17:00 | Gesture Segmentation and visualizing segmentation results in ELAN               |
 
-### Day 2: Gesture Segmentation using Speech and Kinematic Features
+### Day 2: Speech Transcription and Multimodal Similarity Analysis
 ### Wednesday, 25 June 2024
 | Time          | Topic                                                                 |
 |---------------|-----------------------------------------------------------------------|
-| 14:00 - 14:15 | Introduction to gesture detection and segmentation                   |
-| 14:15 - 15:30 | Hands-on: Gesture detection using speech and kinematic features      |
+| 14:00 - 14:15 | Speech transcription using WhisperX                |
+| 14:15 - 15:30 | Hands-on: Exporting transcriptions into ELAN      |
 | 15:30 - 15:45 | Break                                                                 |
-| 15:45 - 16:00 | Discussion on gesture detection methods and challenges               |
-| 16:00 - 16:45 | Hands-on: Post-processing gesture detection output and integrating into ELAN |
-| 16:45 - 17:00 | Wrap-up and Q&A                                                      |
+| 15:45 - 17:00 | Multimodal similarity analysis using kinematic and speech features |
 
-## Contact
+
+## Installation & Setup Instructions
+
+Follow these steps to set up the environment and install required packages.
+
+### 1. Install Visual Studio Code and Miniconda
+
+In the first half hour of the workshop, we will set up the environment and install the necessary software. If you want to prepare in advance, you can install the following software:
+
+- **Visual Studio Code**: Download and install from [here](https://code.visualstudio.com/).
+   - After installation, install the Python extension for Visual Studio Code.
+   - Install the Jupyter extension for running Jupyter notebooks 
+- **Miniconda**: Download and install from [here](https://docs.conda.io/en/latest/miniconda.html).
+   - Follow the instructions for your operating system to install Miniconda.
+   - After installation, open a terminal and run `conda init` to set up your shell for Conda.
+- **ELAN**: Download and install from [here](https://archive.mpi.nl/tla/elan). 
+   - ELAN is a tool for annotating multimodal data throughout the workshop.
+
+Please note that you do not need to install **MediaPipe** or **whisperX** beforehand; we will install them during the workshop.
+  
+### 2. Create and activate a Conda environment
+
+```bash
+conda create --name medal python=3.10 
+```
+This command creates a new Conda environment named `medal` with Python version 3.10. Make sure that you use Python 3.10, as some packages may not be compatible with later versions.
+After creating the environment, you need to activate it. Run the following command in your terminal:
+```bash  
+conda activate medal
+```
+### 3. Install required packages
+You can install the required packages using the provided `requirements.txt` file. This file contains all the necessary dependencies for the workshop.
+Make sure you are in the `medal` Conda environment, then run the following command in your terminal:
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Reinstall ffmpeg package
+If you encounter issues with the `ffmpeg` package, you can reinstall it using Conda. Run the following command in your terminal:
+```bash
+conda install -c conda-forge ffmpeg
+```
+
+## Download the workshop data and code
+You can download the workshop data and code from the GitHub repository: https://github.com/EsamGhaleb/medal_workshop_on_multimodal_interaction
+
+
+## Workshop Materials
+You can open the workshop materials in Visual Studio Code. In the interface of Visual Studio Code:
+
+- From the file explorer, open the project folder and select Day 1
+  - In the Day 1 folder, you will find the Jupyter notebooks for **Extracting body key points** and **Segmenting Gestures**.
+- From the file explorer, open the project folder and select Day 2
+  - In the Day 2 folder, you will find the Jupyter notebooks for **Speech Transcription** and **Multimodal Similarity Analysis**.
+
+
 For any questions or further information, please contact:
 - Esam Ghaleb: [esamghaleb.github.io](https://esamghaleb.github.io/)
