@@ -1,0 +1,341 @@
+pairnr;target;subpart;duplication;lex_align;gest_align;category;lex_align_when;gest_align_when;lex_align_words;gest_1_speaker;gest_1_onset;gest_2_speaker;gest_2_onset
+4;9;09A;;1;1;gest_first;R1-R2;R1-R2;kegel op de kop;B;00:00:16.720;A;00:08:29.168
+4;9;09B;;1;1;sim_withinturn;R1-R2;R1-R2;staat op;B;00:00:30.627;A;00:08:19.191
+4;9;09C;;1;1;sim_multiturn;R1-R2;R1-R2;rond;B;00:00:08.459;A;00:08:20.988
+4;9;09D;;1;1;sim_withinturn;R1-R2;R1-R2;cirkel;B;00:00:20.255;A;00:08:25.662
+4;10;10C;;0;0;lex_nor_gest_1pp;;;;;;;
+4;10;10B+10F;;1;1;sim_withinturn;R1-R2;R1-R2;bol;A;00:05:15.831;B;00:09:22.407
+4;10;10B+10F;1;1;1;sim_withinturn;R1-R2;R1-R2;bol;A;00:05:15.831;B;00:09:22.407
+4;10;10A+10E;;1;1;sim_withinturn;R1-R2;R1-R2;uitsteken;A;00:05:10.025;B;00:09:20.902
+4;10;10A+10E;1;1;1;sim_withinturn;R1-R2;R1-R2;uitsteken;A;00:05:10.025;B;00:09:20.902
+4;10;10D;;1;1;sim_withinturn;R1/R2/R3-R4;R1/R2/R3-R4;vierkant;A;00:05:20.627;B;00:16:34.699
+4;11;11A;;1;1;gest_first;R2-R3;R1-R2;staafje;B;00:04:09.735;A;00:09:37.988
+4;11;11B;;1;1;sim_withinturn;R1-R2;R1-R2;ei;B;00:03:59.901;A;00:09:32.418
+4;11;11C;;0;0;lex_nor_gest_1pp;;;;;;;
+4;11;11D;;1;1;sim_withinturn;R1-R2;R1-R2;kegel (op de/zijn kop);B;00:04:03.930;A;00:09:36.029
+4;12;12A;;1;1;sim_withinturn;R1-R2;R1-R2;cirkel;A;00:07:28.621;B;00:09:47.918
+4;12;12B;;1;1;gest_first;R2-R3;R1-R2;door (midden/ de helft);A;00:07:38.517;B;00:09:54.035
+4;12;12C;;1;1;gest_first;R1/R3/R4/R5-R5;R1-R2;punt;A;00:07:42.013;B;00:09:56.094
+4;13;13A;;1;1;sim_withinturn;R1-R2;R1-R2;kanten, steken;B;00:03:15.259;A;00:10:35.029
+4;13;13B;;1;1;sim_withinturn;R1-R2;R1-R2;cirkel;B;00:03:18.848;A;00:10:32.647
+4;13;13C;;0;0;lex_nor_gest_1pp;;;;;;;
+4;13;13D;;1;1;lex_first;R1-R2;R1/R3-R4;staat op;B;00:03:08.872;A;00:17:28.584
+4;13;13E;;0;0;lex_nor_gest_1pp;;;;;;;
+4;14;14A;;1;1;sim_withinturn;R1-R2;R1-R2;ei;A;00:02:42.012;B;00:07:53.156
+4;14;14B;;1;1;sim_withinturn;R1-R4;R1-R4;rond, staaf;A;00:02:57.767;B;00:18:28.256
+4;14;14C;;1;1;sim_withinturn;R1-R2;R1-R2;staaf;A;00:02:49.112;B;00:08:07.470
+4;14;14D;;1;1;gest_first;R1-R4;R1-R2;rond, staaf;A;00:02:57.767;B;00:18:29.309
+4;15;15A;;1;1;sim_withinturn;R1;R1;twee;B;00:02:33.145;A;00:02:34.531
+4;15;15B;;0;1;gest_only;;R1-R4;;B;00:02:28.889;A;00:16:45.132
+4;15;15C;;1;1;sim_withinturn;R1-R2;R1-R2;plateau;B;00:02:07.750;A;00:11:26.213
+4;15;15D;;0;1;gest_only;;R1-R4;;B;00:02:23.843;A;00:16:49.500
+4;16;16A;;1;1;gest_first;R2-R3;R1-R2;kegel;A;00:03:27.784;B;00:08:47.290
+4;16;16B;;1;1;sim_withinturn;R1-R2;R1-R2;vierkant, kleiner;A;00:03:41.523;B;00:08:53.862
+4;16;16C;;1;1;gest_first;R2-R3;R1;kegel;A;00:03:27.784;B;00:03:52.267
+4;16;16D;;0;1;gest_only;;R1;;A;00:03:35.761;B;00:03:52.720
+5;9;09A;;0;0;lex_nor_gest_both;;;;;;;
+5;9;09B;;1;0;lex_only;R1;;standaard;;;;
+5;9;09C;;1;0;lex_only;R2/R3-R4;;pinokkioneus;;;;
+5;9;09D;;1;0;lex_only;R1;;cirkel;;;;
+5;10;10C;;0;0;lex_nor_gest_1pp;;;;;;;
+5;10;10B+10F;;0;0;lex_nor_gest_both;;;;;;;
+5;10;10B+10F;1;0;0;lex_nor_gest_both;;;;;;;
+5;10;10A+10E;;1;0;lex_only;R1-R2;;twee;;;;
+5;10;10A+10E;1;1;0;lex_only;R1-R2;;twee;;;;
+5;10;10D;;1;0;lex_only;R1-R2;;zonne(paneel/scherm);;;;
+5;11;11D;;1;1;gest_first;R2-R3;R1-R2;twee, verschillende;B;00:03:25.468;A;00:09:49.155
+5;11;11A;;1;0;lex_only;R1-R2;;staaf;;;;
+5;11;11B;;1;0;lex_only;R1-R2;;aardappelneus;;;;
+5;11;11C;;1;1;sim_withinturn;R1-R2;R1-R2;staaf, driehoek;B;00:03:32.878;A;00:09:45.272
+5;12;12B;;0;0;lex_nor_gest_1pp;;;;;;;
+5;12;12A;;0;0;lex_nor_gest_both;;;;;;;
+5;12;12C;;1;0;lex_only;R1;;nagel;;;;
+5;13;13D;;0;0;lex_nor_gest_both;;;;;;;
+5;13;13A;;1;0;lex_only;R1-R2;;vlechtjes;;;;
+5;13;13B;;1;0;lex_only;R2;;cirkel;;;;
+5;13;13C;;0;0;no_ref_atall;;;;;;;
+5;13;13E;;0;0;no_ref_atall;;;;;;;
+5;14;14A;;1;0;lex_only;R1;;bol;;;;
+5;14;14B+14D;;1;0;lex_only;R1-R2;;twee;;;;
+5;14;14B+14D;1;1;0;lex_only;R1-R2;;twee;;;;
+5;14;14C;;1;0;lex_only;R1-R2;;staaf;;;;
+5;15;15B;;0;0;lex_nor_gest_1pp;;;;;;;
+5;15;15A;;1;0;lex_only;R1-R2;;twee;;;;
+5;15;15D;;1;0;lex_only;R1;;haak;;;;
+5;15;15C;;1;1;sim_withinturn;R2-R3;R2-R3;door;A;00:11:31.696;B;00:13:26.476
+5;16;16B;;1;0;lex_only;R1/R2-R3;;vierkant, schroef;;;;
+5;16;16D;;1;0;lex_only;R1-R2;;slurfje;;;;
+5;16;16A+16C;;1;1;sim_multiturn;R1-R2;R1-R2;twee;A;00:02:46.435;B;00:08:40.292
+5;16;16A+16C;1;1;1;sim_multiturn;R1-R2;R1-R2;twee;A;00:02:46.435;B;00:08:40.292
+7;9;09B;;0;1;gest_only;;R1-R2;;B;00:00:20.845;A;00:05:53.258
+7;9;09C;;0;1;gest_only;;R1-R2;;B;00:00:16.723;A;00:05:44.468
+7;9;09A;;1;1;sim_withinturn;R1-R2;R1-R2;kegel;B;00:00:13.347;A;00:05:47.135
+7;9;09D;;1;1;sim_withinturn;R1-R2;R1-R2;schijf;B;00:00:10.554;B;00:05:43.425
+7;10;10D;;0;1;gest_only;;R1-R2;;A;00:04:00.518;B;00:06:34.564
+7;10;10B+10F;;1;1;lex_first;R1-R2;R1-R2;gieter;A;00:03:51.267;B;00:06:32.824
+7;10;10B+10F;1;1;1;lex_first;R1-R2;R1-R2;gieter;A;00:03:51.267;B;00:06:32.824
+7;10;10A+10E;;1;0;lex_only;R1-R2;;staaf;;;;
+7;10;10A+10E;1;1;0;lex_only;R1-R2;;staaf;;;;
+7;10;10C;;0;0;no_ref_atall;;;;;;;
+7;11;11A;;1;1;gest_first;R1-R3;R1;twee;B;00:02:53.802;A;00:03:16.715
+7;11;11C;;1;1;gest_first;R1/R2/R3-R4;R1;gezichtje;B;00:02:57.404;A;00:03:00.857
+7;11;11B;;1;1;sim_withinturn;R1-R2;R1-R2;ovaal, bol;B;00:02:47.122;A;00:06:41.133
+7;11;11D;;1;1;sim_withinturn;R1-R3;R1-R3;twee;B;00:02:53.802;A;00:03:16.715
+7;12;12A;;1;1;lex_first;R1-R2;R2;schijf;A;00:07:04.272;B;00:07:05.218
+7;12;12B;;0;0;lex_nor_gest_both;;;;;;;
+7;12;12C;;1;1;sim_withinturn;R1-R2;R1-R2;lang;A;00:05:18.746;B;00:06:59.486
+7;13;13B;;0;0;lex_nor_gest_1pp;;;;;;;
+7;13;13D;;0;0;lex_nor_gest_1pp;;;;;;;
+7;13;13C;;0;0;no_ref_atall;;;;;;;
+7;13;13E;;0;0;no_ref_atall;;;;;;;
+7;13;13A;;1;1;sim_withinturn;R1-R2;R1-R2;doorheen;A;00:01:42.795;B;00:07:36.704
+7;14;14D;;0;1;gest_only;;R1;;B;00:01:27.323;A;00:01:29.925
+7;14;14B;;0;0;lex_nor_gest_1pp;;;;;;;
+7;14;14A;;0;0;lex_nor_gest_both;;;;;;;
+7;14;14C;;1;1;sim_withinturn;R1-R2;R1-R2;recht;A;00:01:23.414;B;00:05:32.228
+7;15;15A;;1;1;gest_first;R2-R3;R1-R2;twee;B;00:01:07.419;A;00:07:59.190
+7;15;15B;;0;0;no_ref_atall;;;;;;;
+7;15;15D;;0;0;no_ref_atall;;;;;;;
+7;15;15C;;1;1;sim_withinturn;R1-R2;R1-R2;vierkant, plaat, doorheen;B;00:01:03.000;A;00:07:56.936
+7;16;16A+16C;;1;1;lex_first;R1;R1;(de/het)zelfde;A;00:01:49.177;B;00:02:35.323
+7;16;16A+16C;1;1;1;lex_first;R1;R1;(de/het)zelfde;A;00:01:49.177;B;00:02:35.323
+7;16;16B;;0;0;lex_nor_gest_1pp;;;;;;;
+7;16;16D;;0;0;lex_nor_gest_1pp;;;;;;;
+9;9;09A;;1;1;gest_first;R2-R3;R1;lepeltje;B;00:00:14.631;A;00:00:23.279
+9;9;09C;;1;1;lex_first;R1;R1/R2/R3/R4-R5;arm;A;00:00:43.695;B;00:18:00.968
+9;9;09D;;1;0;lex_only;R1;;plat rondje;;;;
+9;9;09B;;1;1;sim_withinturn;R1/R2-R3;R1/R2-R3;staat op;A;00:00:46.209;B;00:12:02.256
+9;10;10B+10F;;0;1;gest_only;;R1/R2/R3-R4;;A;00:04:19.134;B;00:15:03.927
+9;10;10B+10F;1;0;1;gest_only;;R1/R2/R3-R4;;A;00:04:19.134;B;00:15:03.927
+9;10;10A+10E;;1;0;lex_only;R1-R2;;armen;;;;
+9;10;10A+10E;1;1;0;lex_only;R1-R2;;armen;;;;
+9;10;10D;;1;0;lex_only;R1-R2;;erachter/achteruit steekt;;;;
+9;10;10C;;0;0;no_ref_atall;;;;;;;
+9;11;11A;;1;0;lex_only;R1;;vierkant;;;;
+9;11;11B;;1;0;lex_only;R1-R2;;neus;;;;
+9;11;11C;;1;0;lex_only;R1-R2;;arm;;;;
+9;11;11D;;1;0;lex_only;R2-R3;;kegel;;;;
+9;12;12C;;1;1;gest_first;R1/R2/R3-R4;R1-R2;toeter;A;00:07:02.689;B;00:09:32.601
+9;12;12B;;0;0;lex_nor_gest_both;;;;;;;
+9;12;12A;;1;0;lex_only;R1-R2;;dienblad vast;;;;
+9;13;13B;;0;0;lex_nor_gest_1pp;;;;;;;
+9;13;13A;;1;0;lex_only;R1;;drie bolletjes;;;;
+9;13;13D;;1;0;lex_only;R1-R2;;staat op;;;;
+9;13;13C;;0;0;no_ref_atall;;;;;;;
+9;13;13E;;0;0;no_ref_atall;;;;;;;
+9;14;14B;;1;1;lex_first;R1-R2;R1/R3-R4;arm;A;00:02:17.508;B;00:16:36.708
+9;14;14C;;1;1;lex_first;R1-R2;R1/R3-R4;balk;A;00:02:04.079;B;00:16:37.630
+9;14;14D;;1;1;lex_first;R1-R2;R1/R3-R4;arm;A;00:02:15.131;B;00:16:36.223
+9;14;14A;;1;0;lex_only;R2/R4-R5;;ei;;;;
+9;15;15A;;1;1;lex_first;R1;R1/R2-R3;twee;A;00:01:48.701;B;00:12:21.782
+9;15;15B;;0;0;lex_nor_gest_1pp;;;;;;;
+9;15;15C;;1;0;lex_only;R1-R2;;door gezakt;;;;
+9;15;15D;;1;1;sim_withinturn;R1/R2-R3;R1/R2-R3;arm;A;00:01:51.101;B;00:12:20.500
+9;16;16A+16C;;1;0;lex_only;R2-R3;;kegel;;;;
+9;16;16A+16C;1;1;0;lex_only;R2-R3;;kegel;;;;
+9;16;16B;;1;0;lex_only;R1/R2/R3-R4;;gepixeliseerde neus;;;;
+9;16;16D;;1;0;lex_only;R1;;staart;;;;
+11;9;09B;;0;0;lex_nor_gest_1pp;;;;;;;
+11;9;09C;;0;0;lex_nor_gest_1pp;;;;;;;
+11;9;09A;;0;0;lex_nor_gest_both;;;;;;;
+11;9;09D;;1;0;lex_only;R2-R3;;cirkel(vormig);;;;
+11;10;10C;;0;0;lex_nor_gest_both;;;;;;;
+11;10;10B;;0;0;no_ref_atall;;;;;;;
+11;10;10F;;0;0;no_ref_atall;;;;;;;
+11;10;10A+10E;;1;1;sim_withinturn;R1-R2;R1-R2;doorheen, gestoken;A;00:04:54.558;B;00:09:23.325
+11;10;10A+10E;1;1;1;sim_withinturn;R1-R2;R1-R2;doorheen, gestoken;A;00:04:54.558;B;00:09:23.325
+11;10;10D;;1;1;sim_withinturn;R1;R1;vierkant;B;00:05:08.225;A;00:05:08.828
+11;11;11B;;1;1;gest_first;R1/R2-R3;R1;bolle(tje);A;00:03:46.870;B;00:03:48.737
+11;11;11A;;0;0;lex_nor_gest_both;;;;;;;
+11;11;11C;;1;0;lex_only;R1/R3-R4;;driehoek;;;;
+11;11;11D;;1;0;lex_only;R2-R3;;kegel(tje);;;;
+11;12;12A;;0;0;lex_nor_gest_both;;;;;;;
+11;12;12B;;0;0;lex_nor_gest_both;;;;;;;
+11;12;12C;;1;0;lex_only;R1-R2;;schoorsteen;;;;
+11;13;13A;;0;0;lex_nor_gest_1pp;;;;;;;
+11;13;13B;;0;0;lex_nor_gest_1pp;;;;;;;
+11;13;13C;;0;0;no_ref_atall;;;;;;;
+11;13;13E;;0;0;no_ref_atall;;;;;;;
+11;13;13D;;1;1;sim_multiturn;R3-R6;R1-R6;plateau;B;00:02:46.066;A;00:23:37.297
+11;14;14A;;1;0;lex_only;R1-R2;;bolletje;;;;
+11;14;14C;;1;0;lex_only;R2-R4;;balk;;;;
+11;14;14B;;0;0;no_ref_atall;;;;;;;
+11;14;14D;;0;0;no_ref_atall;;;;;;;
+11;15;15C;;1;1;gest_first;R1-R2;R1;door(heen);B;00:02:03.719;A;00:02:22.797
+11;15;15A;;1;0;lex_only;R2-R3;;twee;;;;
+11;15;15D;;1;0;lex_only;R5;;rokende (ballerina);;;;
+11;15;15B;;0;0;no_ref_atall;;;;;;;
+11;16;16A+16C;;1;1;gest_first;R1/R2-R3;R1;twee, dezelfde, knuppeltjes;A;00:03:04.833;B;00:03:12.922
+11;16;16A+16C;1;1;1;gest_first;R1/R2-R3;R1;twee, dezelfde, knuppeltjes;A;00:03:04.833;B;00:03:12.922
+11;16;16D;;0;0;lex_nor_gest_1pp;;;;;;;
+11;16;16B;;1;0;lex_only;R2-R3;;kubusjes, klein;;;;
+13;9;09B;;1;1;lex_first;R1-R2;R2-R3;staat op;A;00:16:45.878;B;00:22:35.952
+13;9;09D;;1;1;lex_first;R1;R2-R3;cirkel;A;00:16:57.982;B;00:22:43.129
+13;9;09A;;1;0;lex_only;R1-R2;;roer;;;;
+13;9;09C;;1;0;lex_only;R1;;handvat;;;;
+13;10;10D;;0;0;lex_nor_gest_both;;;;;;;
+13;10;10A+10B+10E+10F;;1;1;sim_withinturn;R1;R1;stompjes;A;00:09:40.992;B;00:10:06.200
+13;10;10A+10B+10E+10F;1;1;1;sim_withinturn;R1;R1;stompjes;A;00:09:40.992;B;00:10:06.200
+13;10;10A+10B+10E+10F;1;1;1;sim_withinturn;R1;R1;stompjes;A;00:09:40.992;B;00:10:06.200
+13;10;10A+10B+10E+10F;1;1;1;sim_withinturn;R1;R1;stompjes;A;00:09:40.992;B;00:10:06.200
+13;10;10C;;1;1;sim_withinturn;R1-R2;R1-R2;beneden;A;00:10:02.420;B;00:18:03.037
+13;11;11B;;1;1;gest_first;R1/R2-R3;R1;ei;B;00:04:23.120;A;00:06:41.750
+13;11;11D;;1;1;gest_first;R1/R2-R3;R1;kwastje;B;00:04:08.253;A;00:06:45.007
+13;11;11C;;1;1;lex_first;R1;R1;boek;B;00:04:27.005;A;00:06:38.038
+13;11;11A;;1;1;sim_withinturn;R1;R1;staaf;B;00:04:19.757;A;00:06:45.987
+13;12;12C;;1;1;gest_first;R1;R1;water;B;00:15:02.951;A;00:15:14.596
+13;12;12B;;1;0;lex_only;R1;;loopt;;;;
+13;12;12A;;1;1;sim_withinturn;R1;R1;plateau;B;00:15:28.363;A;00:15:29.617
+13;13;13A;;1;1;gest_first;R1-R2;R1;draai;B;00:02:44.694;A;00:02:47.807
+13;13;13B;;0;0;lex_nor_gest_1pp;;;;;;;
+13;13;13C;;0;0;no_ref_atall;;;;;;;
+13;13;13E;;0;0;no_ref_atall;;;;;;;
+13;13;13D;;1;1;sim_withinturn;R1-R2;R1-R2;plateau;B;00:02:42.634;A;00:19:32.514
+13;14;14B+14D;;1;1;lex_first;R1-R2;R2;twee;B;00:15:51.336;A;00:16:25.689
+13;14;14B+14D;1;1;1;lex_first;R1-R2;R2;twee;B;00:15:51.336;A;00:16:25.689
+13;14;14A;;1;0;lex_only;R1-R2;;ei;;;;
+13;14;14C;;1;1;sim_withinturn;R1-R2;R1-R2;staaf;A;00:02:30.152;B;00:15:43.303
+13;15;15B;;1;1;gest_first;R1/R3-R4;R1-R2;slurf;B;00:02:05.365;A;00:20:20.912
+13;15;15A;;1;1;lex_first;R1-R2;R2-R3;twee staafjes;A;00:20:26.707;B;00:23:02.231
+13;15;15C;;1;1;sim_withinturn;R1-R2;R1-R2;plateau;B;00:01:54.698;A;00:20:10.683
+13;15;15D;;1;1;sim_withinturn;R1-R2;R1-R2;arm;B;00:02:10.585;A;00:20:17.587
+13;16;16D;;0;1;gest_only;;R1/R2/R3-R4;;A;00:03:08.633;B;00:26:53.550
+13;16;16A+16C;;1;1;sim_multiturn;R1-R2;R1-R2;(de/het)zelfde;A;00:03:14.942;B;00:17:07.379
+13;16;16A+16C;1;1;1;sim_multiturn;R1-R2;R1-R2;(de/het)zelfde;A;00:03:14.942;B;00:17:07.379
+13;16;16B;;1;1;sim_withinturn;R1;R1;handvat, vierkant;A;00:03:04.645;B;00:03:55.711
+14;9;09A;;1;1;gest_first;R1;R1;kegel;B;00:00:37.453;A;00:00:38.002
+14;9;09C;;1;1;gest_first;R2-R3;R1-R2;cilinder;B;00:00:23.163;A;00:09:36.819
+14;9;09D;;1;1;lex_first;R1;R1;schotel;B;00:00:17.127;A;00:00:34.084
+14;9;09B;;1;1;sim_withinturn;R3/R5-R6;R3/R5-R6;staat op verhoginkje;B;00:16:29.201;B;00:27:55.652
+14;10;10A+10B+10E+10F;;1;1;gest_first;R2;R2;stang doorheen;B;00:10:59.359;A;00:11:00.742
+14;10;10A+10B+10E+10F;1;1;1;gest_first;R2;R2;stang doorheen;B;00:10:59.359;A;00:11:00.742
+14;10;10A+10B+10E+10F;1;1;1;gest_first;R2;R2;stang doorheen;B;00:10:59.359;A;00:11:00.742
+14;10;10A+10B+10E+10F;1;1;1;gest_first;R2;R2;stang doorheen;B;00:10:59.359;A;00:11:00.742
+14;10;10C;;0;0;lex_nor_gest_1pp;;;;;;;
+14;10;10D;;1;0;lex_only;R1;;pedaal;;;;
+14;11;11A;;1;1;lex_first;R1/R2-R3;R3-R4;rechthoek;B;00:19:16.984;A;00:22:52.240
+14;11;11D;;1;1;lex_first;R1/R2-R3;R4-R5;kegel;A;00:22:53.078;B;00:23:49.763
+14;11;11C;;0;0;lex_nor_gest_both;;;;;;;
+14;11;11B;;1;0;lex_only;R1-R2;;ei;;;;
+14;12;12C;;1;1;gest_first;R1;R1;beitel;A;00:08:18.030;B;00:08:20.524
+14;12;12B;;0;1;gest_only;;R1-R3;;A;00:08:16.307;B;00:17:39.306
+14;12;12A;;1;1;sim_withinturn;R1-R2;R1-R2;cirkel;A;00:08:13.104;B;00:11:31.499
+14;13;13A;;1;1;gest_first;R2-R3;R1-R2;drie;B;00:02:47.180;A;00:12:27.657
+14;13;13B;;0;1;gest_only;;R1-R2;;B;00:02:37.720;A;00:12:20.167
+14;13;13C;;0;0;lex_nor_gest_1pp;;;;;;;
+14;13;13D;;0;0;lex_nor_gest_1pp;;;;;;;
+14;13;13E;;0;0;no_ref_atall;;;;;;;
+14;14;14B+14D;;1;1;gest_first;R2;R1;twee hendeltjes;B;00:02:23.876;A;00:02:25.648
+14;14;14B+14D;1;1;1;gest_first;R2;R1;twee hendeltjes;B;00:02:23.876;A;00:02:25.648
+14;14;14C;;1;1;gest_first;R2-R3;R1-R2;rechthoek;A;00:02:20.058;B;00:08:32.491
+14;14;14A;;1;0;lex_only;R2;;bal ligt op;;;;
+14;15;15B;;0;1;gest_only;;R1-R2;;B;00:01:43.294;A;00:12:59.745
+14;15;15C;;1;1;lex_first;R1-R2;R1/R3-R4;vierkant;B;00:01:35.636;A;00:20:42.148
+14;15;15D;;0;0;no_ref_atall;;;;;;;
+14;15;15A;;1;1;sim_withinturn;R1-R2;R1-R2;twee klein;B;00:01:31.102;A;00:13:03.253
+14;16;16B;;1;1;lex_first;R1;R1;blok;A;00:03:07.808;B;00:03:16.560
+14;16;16A+16C;;1;1;sim_withinturn;R1-R2;R1-R2;groot;A;00:03:02.252;B;00:10:13.525
+14;16;16A+16C;1;1;1;sim_withinturn;R1-R2;R1-R2;groot;A;00:03:02.252;B;00:10:13.525
+14;16;16D;;1;1;sim_withinturn;R1;R1;buis;B;00:03:23.840;A;00:03:26.243
+16;9;09A;;1;0;lex_only;R2;;toiletpot;;;;
+16;9;09B;;1;0;lex_only;R2;;toiletpot;;;;
+16;9;09C;;1;0;lex_only;R2;;toiletpot;;;;
+16;9;09D;;1;0;lex_only;R2;;toiletpot;;;;
+16;10;10A+10E;;1;1;gest_first;R2-R3;R1-R2;staaf;B;00:07:02.080;A;00:15:23.215
+16;10;10A+10E;1;1;1;gest_first;R2-R3;R1-R2;staaf;B;00:07:02.080;A;00:15:23.215
+16;10;10D;;1;0;lex_only;R1/R2-R3;;zonne(energie)paneel;;;;
+16;10;10C;;0;0;no_ref_atall;;;;;;;
+16;10;10B+10F;;1;1;sim_withinturn;R1-R2;R1-R2;uiteinde(n);A;00:07:04.650;B;00:15:26.434
+16;10;10B+10F;1;1;1;sim_withinturn;R1-R2;R1-R2;uiteinde(n);A;00:07:04.650;B;00:15:26.434
+16;11;11B;;1;1;lex_first;R1;R1-R4;ei-neus;B;00:05:11.099;A;00:27:24.104
+16;11;11D;;1;1;lex_first;R1;R1-R4;pen;A;00:05:29.464;B;00:27:25.707
+16;11;11C;;0;0;lex_nor_gest_both;;;;;;;
+16;11;11A;;1;0;lex_only;R1-R2;;lat;;;;
+16;12;12A;;1;0;lex_only;R1-R2;;dienblad;;;;
+16;12;12B;;1;0;lex_only;R1/R2-R3;;(snelweg/vang)rail;;;;
+16;12;12C;;1;0;lex_only;R1-R2;;spijker;;;;
+16;13;13A;;1;1;gest_first;R1;R1;kraaltjes;B;00:03:54.764;A;00:04:00.752
+16;13;13B;;1;1;gest_first;R2-R3;R1-R2;rond;B;00:03:43.223;A;00:17:05.705
+16;13;13D;;1;0;lex_only;R1;;niet doorheen gezakt;;;;
+16;13;13E;;1;0;lex_only;R2-R2;;kraantje;;;;
+16;13;13C;;1;1;sim_multiturn;R1-R2;R1-R2;kraantje;B;00:03:50.004;A;00:17:05.015
+16;14;14B;;0;1;gest_only;;R2-R3;;B;00:12:55.579;A;00:24:16.371
+16;14;14D;;0;1;gest_only;;R2-R3;;B;00:12:51.971;A;00:24:16.371
+16;14;14C;;1;1;lex_first;R1;R1-R2;houten lat;A;00:03:09.381;B;00:12:47.431
+16;14;14A;;1;0;lex_only;R2-R3;;ei;;;;
+16;15;15C;;1;1;gest_first;R1-R2;R1-R2;doorheen;B;00:02:30.164;A;00:17:37.863
+16;15;15A;;1;0;lex_only;R1-R2;;twee;;;;
+16;15;15B;;1;0;lex_only;R1-R2;;slurf;;;;
+16;15;15D;;1;1;sim_withinturn;R1-R2;R1-R2;haakje;B;00:02:40.414;A;00:17:46.129
+16;16;16C;;1;0;lex_only;R1-R2;;zeppelin;;;;
+16;16;16D;;1;0;lex_only;R2;;gek;;;;
+16;16;16A;;1;1;sim_multiturn;R1-R2;R1-R2;zeppelin;A;00:04:14.693;B;00:14:41.944
+16;16;16B;;1;1;sim_withinturn;R1-R2;R1-R2;groot;A;00:04:23.564;B;00:14:31.642
+18;9;09A;;1;0;lex_only;R1;;breder;;;;
+18;9;09B;;0;0;lex_nor_gest_both;;;;;;;
+18;9;09C;;0;0;lex_nor_gest_both;;;;;;;
+18;9;09D;;1;0;lex_only;R2-R3;;rond;;;;
+18;10;10A;;1;0;lex_only;R3-R4;;twee;;;;
+18;10;10B;;0;0;lex_nor_gest_1pp;;;;;;;
+18;10;10E;;1;0;lex_only;R1-R2;;korter;;;;
+18;10;10F;;0;0;no_ref_atall;;;;;;;
+18;10;10C;;0;0;no_ref_atall;;;;;;;
+18;10;10D;;1;0;lex_only;R2-R3;;zonnepaneel;;;;
+18;11;11A;;1;0;lex_only;R2-R3;;staaf;;;;
+18;11;11B;;1;0;lex_only;R1-R2;;bol;;;;
+18;11;11C;;0;0;no_ref_atall;;;;;;;
+18;11;11D;;1;0;lex_only;R1-R2;;gek (vormpje);;;;
+18;12;12A;;0;0;no_ref_atall;;;;;;;
+18;12;12B;;0;0;lex_nor_gest_1pp;;;;;;;
+18;12;12C;;1;0;lex_only;R1-R2;;pijltje;;;;
+18;13;13A;;1;0;lex_only;R1-R2;;drie bolletjes;;;;
+18;13;13B;;0;0;no_ref_atall;;;;;;;
+18;13;13C;;0;0;no_ref_atall;;;;;;;
+18;13;13D;;1;0;lex_only;R3-R4;;plaat;;;;
+18;13;13E;;0;0;no_ref_atall;;;;;;;
+18;14;14A;;1;0;lex_only;R1/R3/R5-R6;;bol;;;;
+18;14;14B;;0;0;lex_nor_gest_1pp;;;;;;;
+18;14;14C;;0;0;lex_nor_gest_1pp;;;;;;;
+18;14;14D;;1;0;lex_only;R3-R4;;naar je toe wijst;;;;
+18;15;15A;;1;0;lex_only;R1-R2;;twee, twin towers;;;;
+18;15;15B;;1;0;lex_only;R4;;glijbaan;;;;
+18;15;15C;;1;0;lex_only;R1-R2;;door;;;;
+18;15;15D;;0;0;no_ref_atall;;;;;;;
+18;16;16A;;1;0;lex_only;R1-R2;;wat rond wordt;;;;
+18;16;16B;;1;0;lex_only;R1-R2;;steeds groter;;;;
+18;16;16C;;1;0;lex_only;R2-R3;;rond;;;;
+18;16;16D;;0;0;lex_nor_gest_1pp;;;;;;;
+20;9;09C;;0;1;gest_only;;R1;;B;00:00:27.481;A;00:00:57.771
+20;9;09D;;1;1;lex_first;R1;R1;platte schijf;B;00:00:30.887;A;00:00:59.220
+20;9;09A;;1;1;sim_withinturn;R1;R1;lepeltje;B;00:00:21.757;A;00:00:47.880
+20;9;09B;;1;1;sim_withinturn;R1;R1;balk;B;00:00:17.876;A;00:00:52.901
+20;10;10A+10E;;1;1;lex_first;R1-R2;R2-R3;beide, langer;B;00:10:10.663;A;00:12:39.623
+20;10;10A+10E;1;1;1;lex_first;R1-R2;R2-R3;beide, langer;B;00:10:10.663;A;00:12:39.623
+20;10;10B+10F;;1;1;lex_first;R1-R2;R2-R3;ei;B;00:10:13.142;A;00:12:41.614
+20;10;10B+10F;1;1;1;lex_first;R1-R2;R2-R3;ei;B;00:10:13.142;A;00:12:41.614
+20;10;10C;;0;0;lex_nor_gest_1pp;;;;;;;
+20;10;10D;;0;0;lex_nor_gest_both;;;;;;;
+20;11;11D;;1;1;gest_first;R1/R2-R3;R1;pipet;B;00:03:44.091;A;00:04:00.642
+20;11;11C;;0;0;lex_nor_gest_1pp;;;;;;;
+20;11;11A;;1;0;lex_only;R1-R2;;staaf;;;;
+20;11;11B;;1;0;lex_only;R1-R2;;ei;;;;
+20;12;12B;;1;1;gest_first;R1/R3-R4;R1-R2;inkeping;A;00:08:50.278;B;00:10:31.795
+20;12;12A;;1;1;sim_withinturn;R1/R2/R3-R4;R1/R2/R3-R4;plateau;A;00:09:04.851;B;00:15:56.110
+20;12;12C;;1;1;sim_withinturn;R1-R2;R1-R2;schoorsteen;A;00:08:57.158;B;00:10:33.727
+20;13;13A;;1;1;gest_first;R1/R2-R3;R1-R2;kraaltjes;B;00:02:52.662;A;00:11:13.331
+20;13;13C;;0;0;lex_nor_gest_1pp;;;;;;;
+20;13;13D;;0;0;lex_nor_gest_1pp;;;;;;;
+20;13;13E;;0;0;lex_nor_gest_1pp;;;;;;;
+20;13;13B;;0;0;lex_nor_gest_both;;;;;;;
+20;14;14A;;1;1;sim_withinturn;R1-R2;R1-R2;ei;B;00:02:16.405;A;00:09:18.804
+20;14;14B+14D;;1;1;sim_withinturn;R1-R2;R1-R2;twee, handvat;A;00:02:26.502;B;00:09:21.323
+20;14;14B+14D;1;1;1;sim_withinturn;R1-R2;R1-R2;twee, handvat;A;00:02:26.502;B;00:09:21.323
+20;14;14C;;1;1;sim_withinturn;R1;R1;balk;A;00:02:12.422;B;00:02:21.546
+20;15;15B;;1;1;gest_first;R1/R2-R3;R1-R2;glijbaan;B;00:01:43.768;A;00:11:27.205
+20;15;15C;;1;1;lex_first;R2/R3-R5;R1/R3-R6;plateau;A;00:01:34.683;A;00:20:32.990
+20;15;15D;;0;0;lex_nor_gest_both;;;;;;;
+20;15;15A;;1;1;sim_withinturn;R1-R2;R1-R2;twee, steken, (er/boven)uit;B;00:01:50.054;A;00:11:29.802
+20;16;16D;;0;0;no_ref_atall;;;;;;;
+20;16;16A+16C;;1;1;sim_withinturn;R1-R2;R1-R2;(de/het)zelfde;A;00:03:18.014;B;00:09:49.513
+20;16;16A+16C;1;1;1;sim_withinturn;R1-R2;R1-R2;(de/het)zelfde;A;00:03:18.014;B;00:09:49.513
+20;16;16B;;1;1;sim_withinturn;R1-R2;R1-R2;vier, kubus;A;00:03:26.939;B;00:09:47.057

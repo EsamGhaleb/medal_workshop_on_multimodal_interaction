@@ -1,0 +1,34 @@
+jittering:
+  apply: true
+  parameters:
+    sigma: 0.1
+  probability: 1
+crop_and_resize:
+  apply: true
+  parameters:
+    min_p: 0.7
+    max_p: 0.8
+    size: 30
+  probability: 0.75
+scaling:
+  apply: true
+  parameters:
+    dimensions: 3
+    min_p: 0.7
+    max_p: 1.2
+  probability: 0.75
+rotation:
+  apply: true
+  parameters:
+    dimensions: 3
+    start: -15
+    end: 15
+    step: 2
+    anchor_joint: 2
+  probability: 0.75
+shear:
+  apply: true
+  parameters:
+    dimensions: 3
+    beta: 0.2
+  probability: 0.75
