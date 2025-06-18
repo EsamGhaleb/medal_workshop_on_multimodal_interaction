@@ -136,8 +136,8 @@ def divide_segment(
     if len(segment) < 2:
         return [(start, end)]
 
-    minima = find_peaks(-segment)[0]
-    maxima = find_peaks(segment)[0]
+    minima = find_peaks(-segment, prominence=0.01)[0]
+    maxima = find_peaks(segment, prominence=0.01)[0]
 
     if len(maxima) <= 1 or len(minima) == 0:
         return [(start, end)]
@@ -303,7 +303,7 @@ def process_and_save_all(
                 scores=preds,
                 fps=fps,
                 tier_name=model,
-                min_duration_frames=int(fps * 0.1),  # 100 ms minimum segment length
+                min_duration_frames=int(fps * 0.11),  # 100 ms minimum segment length
                 smoothing_window=smoothing_window,
                 threshold=threshold
                 
