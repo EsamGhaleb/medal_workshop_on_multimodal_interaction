@@ -276,7 +276,7 @@ def extract_keypoints(vidf, save_video=True, model_complexity=2):
         if save_video:
             out.release()
         cv2.destroyAllWindows()
-        cv2.destroyWindow("merged_landmarks")
+        # cv2.destroyWindow("merged_landmarks")
         cv2.waitKey(1)
         
     all_kpts = np.array(all_kpts)
