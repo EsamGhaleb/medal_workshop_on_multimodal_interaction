@@ -35,4 +35,5 @@ deepl
 tgt
 elan_data
 python-Levenshtein
+gdown
 # spacy
