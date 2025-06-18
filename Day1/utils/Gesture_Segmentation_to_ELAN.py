@@ -1,192 +1,271 @@
+import os
+from typing import Dict, List, Tuple, Any
 
 import numpy as np
-from scipy.special import softmax
 import pandas as pd
-from collections import defaultdict
-from elan_data import ELAN_Data
+from scipy.special import softmax
 from scipy.signal import find_peaks
 from scipy.ndimage import median_filter
-
 from tqdm import tqdm
 
-# upload labels
-fps = 25
-SAMPLE_RATE = 16000
+from elan_data import ELAN_Data
+
+# Constants
+FPS: int = 25  # Default frames per second
+SAMPLE_RATE: int = 16000
+NUM_FOLDS: int = 5
+SPEAKER_MAP: Dict[int, str] = {0: 'B', 1: 'C'}
 
 
+def generate_pairs_mappings(max_pair: int = 99) -> Dict[int, str]:
+    """
+    Generate a mapping from integer pair IDs to zero-padded string representations.
 
-pairs_mappings = {}
-for i in range(1, 100):
-   key = int(f"{i}")
-   value = f"{i:03}"
-   key = int(value)
-   pairs_mappings[key] = value
-sample_pairs_mappings = {k: pairs_mappings[k] for k in list(pairs_mappings)}
-sample_pairs_mappings
+    Example: 1 -> '001', 42 -> '042'.
+    """
+    return {i: f"{i:03d}" for i in range(1, max_pair + 1)}
 
-
-
-def upload_models_result(results, pairs_mapping=pairs_mappings):
-   # with open(results_path, 'rb') as f:
-   #    results = pickle.load(f)
-   all_results_details = pd.DataFrame() 
-   results_dict = {}
-   speakers_mapping = {0: 'B', 1: 'C'}
-   for fold in tqdm(range(5)):
-      n_samples, num_seq = results[fold]['labels'].shape
-      print(f"Fold {fold} - Number of samples: {n_samples}, Number of sequences: {num_seq}")
-      labels = results[fold]['labels'].reshape(n_samples* num_seq)
-      preds = results[fold]['preds'].reshape(n_samples * num_seq, results[fold]['preds'].shape[-1])
-      
-      results[fold]['speaker_ID'] = np.array([num_seq * [pair_speaker_ID] for pair_speaker_ID in results[fold]['speaker_ID']])
-      results[fold]['pair_ID'] = np.array([num_seq * [pair_ID] for pair_ID in results[fold]['pair_ID']])
-      results[fold]['start_frames'] = np.array([num_seq * [start_frame] for start_frame in results[fold]['start_frames']])
-      results[fold]['end_frames'] = np.array([num_seq * [end_frame] for end_frame in results[fold]['end_frames']])
-      speaker_ID = results[fold]['speaker_ID'].reshape(n_samples * num_seq)
-      pair_ID = results[fold]['pair_ID'].reshape(n_samples * num_seq)
-      pair_speaker = [f"{int(pair)}_{speakers_mapping[int(speaker)]}" for pair, speaker in zip(pair_ID, speaker_ID)]
-      # repeat pair_speaker for each frame, 40 times
-      start_frames = results[fold]['start_frames'].reshape(-1)
-      end_frames = results[fold]['end_frames'].reshape(-1)
-      folds = np.array([fold] * len(labels))
-      results_dict['labels'] = labels
-      if fold == 0:
-         results_dict['preds'] = preds 
-      else:
-         results_dict['preds'] = results_dict['preds'] +  preds
-      results_dict['pair_speaker'] = pair_speaker
-      results_dict['start_frames'] = start_frames
-      results_dict['end_frames'] = end_frames
-      results_dict['folds'] = folds 
-      
-   # convert to dataframe
-   results_dict['preds'] = results_dict['preds']/5
-   all_results_details = pd.DataFrame(results_dict, columns=['labels', 'start_frames', 'end_frames', 'folds'])
-   # add preds
-   all_results_details['preds'] = results_dict['preds'].tolist()
-   all_results_details['pair_speaker'] = results_dict['pair_speaker']
-   return all_results_details 
-
-# find local maxima
-def divide_segment(gesture_predictions, start_frame, end_frame):
-    # find the local maxima
-    average_gesture_predictions = gesture_predictions[start_frame:end_frame]
-    min_peaks, min_peaks_dict = find_peaks(-average_gesture_predictions)
-    peaks, peaks_dict = find_peaks(average_gesture_predictions)
-    # print('Peaks:', peaks)
-    sub_segments = defaultdict(list)
-    # assert len(peaks) == len(min_peaks)+1 or len(peaks) < 5
-    if len(peaks) == 0 or len(min_peaks) == 0 or len(peaks) == 1:
-        sub_segments['start_frame'].append(start_frame)
-        sub_segments['end_frame'].append(end_frame)
-    else:
-        for peak_id, peak in enumerate(peaks[:-1]):
-            # print('Peak:', peak)
-            # print('Peak ID:', peak_id)
-            sub_segments['start_frame'].append(start_frame)
-            if peak_id == len(peaks)-2:
-                sub_segments['end_frame'].append(end_frame)
-            else:
-                sub_segments['end_frame'].append(min_peaks[peak_id])
-            start_frame = min_peaks[peak_id]+1
-    return sub_segments
-            
-def save_elan_files(elan_file_path, video_output_path, binar_gesture_predictions, gesture_predictions, fps, model='skeleton'):
- 
-   # existing_elan_file = ELAN_Data.from_file('elan_files/{}_SignAcc_{}_CP.eaf'.format(pair, day))
-   # check if the folder exists, if not create it
-   
-   new_eaf = ELAN_Data.create_eaf(elan_file_path, audio=video_output_path, tiers=["{} model".format(model)], remove_default=True)
-
-   i = 0
-   while i < len(binar_gesture_predictions):
-      label = binar_gesture_predictions[i]
-      if label:
-         # print('start_frame=', i)
-         start_frame = i
-         start_ts = start_frame / fps
-         for end_frame in range(i, len(binar_gesture_predictions)):
-               # print('Gesture prediction {:.2f}'.format(gesture_predictions[end_frame]))
-               # print('Minimum prediction {:.2f}'.format(min_gesture_predictions[end_frame]))
-               # print('Gesture prediction {:.2f}'.format(gesture_predictions[end_frame]))
-               if not binar_gesture_predictions[end_frame]:
-                  # print('end_frame=', end_frame)
-                  # print('Duration:', end_frame - start_frame)
-                  i = end_frame
-                  # average_gesture_predictions = gesture_predictions[start_frame:end_frame]
-                  # phases = divide_segment(average_gesture_predictions, 0, len(average_gesture_predictions))
-                  # phases['start_frame'] = np.array(phases['start_frame'])+start_frame
-                  # phases['end_frame'] = np.array(phases['end_frame'])+start_frame
-                  # num_phases = len(phases['start_frame'])   
-                  # for phase_id in range(num_phases):
-                  #    #  print('Phase start frame:', phases['start_frame'][phase_id])
-                  #     phase_start_frame = phases['start_frame'][phase_id]
-                  #     phase_end_frame = phases['end_frame'][phase_id]
-                  start_ts = start_frame / fps * 1000
-                  end_ts = end_frame / fps * 1000
-                  if end_frame - start_frame <= 2:
-                     break
-                     # print('Duration:', end_frame - start_frame)
-                  mean_preds = gesture_predictions[start_frame:end_frame].mean()
-                  new_eaf.add_segment("{} model".format(model), start=start_ts, stop=end_ts, annotation="prob-{:.2f}".format(mean_preds))
-                  # existing_elan_file.add_segment("Sign".format(model), start=start_ts, stop=end_ts, annotation="prob-{:.2f}".format(mean_preds))
-                  break 
-               else:
-                  i += 1
-      else:
-         i += 1
-   # ed.write()
-   new_eaf.save_ELAN(raise_error_if_unmodified=False)
-   # existing_elan_file.save_ELAN(raise_error_if_unmodified=False, rename=existing_elan_file_path)
+PAIRS_MAPPING: Dict[int, str] = generate_pairs_mappings()
 
 
-def get_predictions (results_details):
-   predictions = results_details["preds"]
-   predictions_n = np.array([float(pred[0]) for pred in predictions])
-   predictions_g = np.array([float(pred[1]) for pred in predictions])
-   predictions = np.column_stack((predictions_n, predictions_g))
-   # apply softmax
-   predictions = softmax(predictions, axis=1)
-   return predictions
-def get_class_predictions(results_details):
-   predictions = results_details["preds"]
-   predictions_n = np.array([float(pred[0]) for pred in predictions])
-   predictions_g = np.array([float(pred[1]) for pred in predictions])
-   predictions = np.column_stack((predictions_n, predictions_g))
-   # apply softmax
-   predictions = softmax(predictions, axis=1)
-   results_details["gesture_preds"] = predictions[:, 1]
-   results_details["gesture_preds"] = results_details["gesture_preds"].astype(float)
-   results_details["neutral_preds"] = predictions[:, 0]
-   results_details["neutral_preds"] = results_details["neutral_preds"].astype(float)
-   return results_details, predictions
-# best speech results
+def upload_models_result(
+    results: List[Dict[str, Any]],
+    pairs_mapping: Dict[int, str] = PAIRS_MAPPING,
+    num_folds: int = NUM_FOLDS
+) -> pd.DataFrame:
+    """
+    Combine model outputs across folds into a single DataFrame.
 
-def get_elan_files(results, fps=25, model='skeleton', threshold=0.55, file_path='test_videos/tedtalk.npy', video_output_path=None):
-   all_results = upload_models_result(results)
-   all_results, all_preds = get_class_predictions(all_results)
-   elan_file_path = file_path.replace('.npy', '_segmentation_results_th_{}.eaf'.format(threshold))
-   all_results['speaker'] = all_results['pair_speaker'].apply(lambda x: x.split("_")[1])
+    Args:
+        results: List of dicts, each containing 'labels', 'preds', 'speaker_ID', 'pair_ID',
+                 'start_frames', 'end_frames' arrays for each fold.
+        pairs_mapping: Mapping from numeric pair ID to string pair code.
+        num_folds: Number of cross-validation folds.
 
-   all_pairs_speakers = all_results['pair_speaker'].unique()
-   for pair_speaker in tqdm(all_pairs_speakers, total=len(all_pairs_speakers)):
-   #   pair_speaker = '035036_A'
-      pair = pair_speaker.split("_")[0]
-      speaker = pair_speaker.split("_")[1]
-      print('Pair:', pair)
-      print('Speaker:', speaker)
-      pair_speaker_results = all_results[all_results['pair_speaker'] == pair_speaker]
-      gesture_predictions = pair_speaker_results['preds'].to_numpy()
-      gesture_predictions = get_predictions(pair_speaker_results)[:, 1]
-      
-      binar_gesture_predictions = gesture_predictions >= threshold #NOTE: 0.40 is the threshold which we can change and see what is the best threshold
-      smoothing_factor = int(0.2 * fps)
-      smoothed = median_filter(binar_gesture_predictions, size=smoothing_factor)
-      binar_gesture_predictions = smoothed
-      # assign -1 to the frames where the gesture predictions are less than 0.5
-      gesture_predictions[binar_gesture_predictions == 0] = -1
-      save_elan_files(elan_file_path, video_output_path, binar_gesture_predictions, gesture_predictions, fps, model=model)
-      print('ELAN file saved to:', elan_file_path)
+    Returns:
+        DataFrame with columns: label, pred_n, pred_g, pair_speaker, start_frame,
+        end_frame, fold index.
+    """
+    accum_preds: np.ndarray = None  # type: ignore
+    records: List[Dict[str, Any]] = []
+
+    for fold in range(num_folds):
+        data = results[fold]
+        # Ensure preds and labels are numpy arrays
+        labels: np.ndarray = np.array(data['labels'])
+        preds: np.ndarray = np.array(data['preds'])
+
+        # Flatten
+        labels_flat = labels.ravel()
+        n_samples, seq_len = labels.shape
+        preds_flat = preds.reshape(n_samples * seq_len, -1)
+
+        # Expand metadata
+        speaker_ids = np.repeat(np.array(data['speaker_ID']), seq_len).ravel()
+        pair_ids = np.repeat(np.array(data['pair_ID']), seq_len).ravel()
+        start_frames = np.repeat(np.array(data['start_frames']), seq_len).ravel()
+        end_frames = np.repeat(np.array(data['end_frames']), seq_len).ravel()
+
+        pair_speakers = [f"{pairs_mapping.get(int(pair), str(pair))}_{SPEAKER_MAP.get(int(s), '?')}"
+                         for pair, s in zip(pair_ids, speaker_ids)]
+
+        # Accumulate predictions
+        if accum_preds is None:
+            accum_preds = preds_flat.copy()
+        else:
+            accum_preds += preds_flat
+        if fold == num_folds - 1:
+           for idx in range(len(labels_flat)):
+               records.append({
+                  'label': int(labels_flat[idx]),
+                  'pair_speaker': pair_speakers[idx],
+                  'start_frame': int(start_frames[idx]),
+                  'end_frame': int(end_frames[idx]),
+               })
+
+    # Average predictions over folds
+    avg_preds = accum_preds / num_folds
+
+    df = pd.DataFrame(records)
+    df[['pred_n', 'pred_g']] = pd.DataFrame(avg_preds.tolist(), index=df.index)
+    return df
 
 
+def divide_segment(
+    scores: np.ndarray,
+    start: int,
+    end: int
+) -> List[Tuple[int, int]]:
+    """
+    Split a segment into sub-segments based on local minima between peaks.
+    Returns list of (sub_start, sub_end) indices.
 
+    Args:
+        scores: 1D array of prediction scores.
+        start: segment start frame (inclusive).
+        end: segment end frame (exclusive).
+    """
+    segment = scores[start:end]
+    if len(segment) < 2:
+        return [(start, end)]
+
+    minima = find_peaks(-segment)[0]
+    maxima = find_peaks(segment)[0]
+
+    if len(maxima) <= 1 or len(minima) == 0:
+        return [(start, end)]
+
+    boundaries: List[Tuple[int, int]] = []
+    last = start
+    for i, peak in enumerate(maxima[:-1]):
+        boundary = minima[i] + start
+        boundaries.append((last, boundary))
+        last = boundary + 1
+    boundaries.append((last, end))
+    return boundaries
+
+
+def save_elan_files(
+    elan_template: str,
+    media_path: str,
+    binary_preds: np.ndarray,
+    scores: np.ndarray,
+    fps: int = FPS,
+    tier_name: str = 'skeleton',
+    min_duration_frames: int = 3
+) -> None:
+    """
+    Write segmentation results to an ELAN .eaf file.
+
+    Args:
+        elan_template: Path to base .eaf template.
+        media_path: Path to media file for linking.
+        binary_preds: Binary mask of gesture presence per frame.
+        scores: Raw prediction scores per frame.
+        fps: Frames per second for time conversion.
+        tier_name: Name of ELAN tier to annotate.
+        min_duration_frames: Minimum length of a segment to record.
+    """
+    new_eaf = ELAN_Data.create_eaf(
+        elan_template,
+        audio=media_path,
+        tiers=[f"{tier_name} model"],
+        remove_default=True
+    )
+
+    i = 0
+    length = len(binary_preds)
+    while i < length:
+        if not binary_preds[i]:
+            i += 1
+            continue
+
+        start = i
+        while i < length and binary_preds[i]:
+            i += 1
+        end = i
+
+        if end - start < min_duration_frames:
+            continue
+
+        start_ms = (start / fps) * 1000
+        end_ms = (end / fps) * 1000
+        mean_score = float(scores[start:end].mean())
+
+        new_eaf.add_segment(
+            f"{tier_name} model",
+            start=start_ms,
+            stop=end_ms,
+            annotation=f"prob-{mean_score:.2f}"
+        )
+    new_eaf.save_ELAN(raise_error_if_unmodified=False)
+    print(f"ELAN file saved: {elan_template}")
+
+
+def get_predictions(
+    df: pd.DataFrame
+) -> np.ndarray:
+    """
+    Compute softmax-normalized prediction scores.
+    Expects columns 'pred_n' and 'pred_g'.
+    """
+    logits = df[['pred_n', 'pred_g']].to_numpy(dtype=float)
+    return softmax(logits, axis=1)
+
+
+def annotate_predictions(
+    df: pd.DataFrame,
+    threshold: float = 0.55,
+    smoothing_fraction: float = 0.2,
+    fps: int = FPS
+) -> pd.DataFrame:
+    """
+    Add binary and continuous gesture predictions to DataFrame.
+
+    Args:
+        df: DataFrame with averaged logits.
+        threshold: Probability threshold for binary segmentation.
+        smoothing_fraction: Fraction of fps to use for median smoothing.
+        fps: Frames per second for conversion.
+    """
+    probs = get_predictions(df)[:, 1]
+    binary = probs >= threshold
+    size = max(1, int(smoothing_fraction * fps))
+    binary_smoothed = median_filter(binary.astype(int), size=size)
+
+    df['gesture_prob'] = probs
+    df['gesture_bin'] = binary_smoothed.astype(bool)
+    return df
+
+
+def process_and_save_all(
+    results: List[Dict[str, Any]],
+    model: str = 'skeleton',
+    threshold: float = 0.55,
+    elan_template: str = '',
+    media_path: str = '',
+    fps: int = FPS
+) -> None:
+    """
+    High-level pipeline: upload results, annotate predictions, and save ELAN files per speaker.
+
+    Args:
+        results: model outputs per fold.
+        model: tier name.
+        threshold: gesture detection threshold.
+        elan_template: path to ELAN .eaf template.
+        media_path: path to media file for linking.
+        fps: frames per second (e.g., video fps).
+    """
+    df = upload_models_result(results)
+    df = annotate_predictions(df, threshold=threshold, fps=fps)
+    df['speaker'] = df['pair_speaker'].str.split('_').str[1]
+
+    for pair_speaker, group in tqdm(df.groupby('pair_speaker')):
+        preds = group['gesture_prob'].to_numpy()
+        binary = group['gesture_bin'].to_numpy()
+        save_elan_files(
+            elan_template,
+            media_path,
+            binary_preds=binary,
+            scores=preds,
+            fps=fps,
+            tier_name=model
+        )
+
+
+if __name__ == '__main__':
+   #  Example usage
+   results_path = 'Day1/CABB_Segmentation/fold_5/test_results.pkl'
+   import pickle
+   with open(results_path, 'rb') as f:
+      results = pickle.load(f)
+   process_and_save_all(
+      results,
+      model='skeleton',
+      threshold=0.55,
+      elan_template='template.eaf',
+      media_path='video.mp4',
+      fps=30  # override default if necessary
+   )
+   pass
