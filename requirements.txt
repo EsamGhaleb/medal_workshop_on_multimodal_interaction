@@ -34,4 +34,5 @@ jupyter
 deepl
 tgt
 elan_data
+python-Levenshtein
 # spacy
