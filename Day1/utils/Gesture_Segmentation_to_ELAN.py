@@ -7,6 +7,7 @@ from scipy.special import softmax
 from scipy.signal import find_peaks
 from scipy.ndimage import median_filter
 from tqdm import tqdm
+from xml.etree.ElementTree import ParseError
 
 from elan_data import ELAN_Data
 
@@ -159,7 +160,8 @@ def save_elan_files(
     fps: int = FPS,
     tier_name: str = 'skeleton',
     min_duration_frames: int = 3,
-    smoothing_window: int = 30
+    smoothing_window: int = 30,
+    threshold: float = 0.55
 ) -> None:
     """
     Write segmentation results to an ELAN .eaf file.
@@ -173,12 +175,25 @@ def save_elan_files(
         tier_name: Name of ELAN tier to annotate.
         min_duration_frames: Minimum length of a segment to record.
     """
-    new_eaf = ELAN_Data.create_eaf(
-        elan_template,
-        audio=media_path,
-        tiers=[f"{tier_name} model"],
-        remove_default=True
-    )
+    # check if elan_template exists
+    tier_name = f"Threshold-{threshold:.2f}"
+    tier_name = f"Threshold-{threshold:.2f}"
+    if os.path.exists(elan_template):
+        try:
+            new_eaf = ELAN_Data.from_file(file=elan_template)
+        except ParseError:
+            # template is broken XML — make a brand-new one
+            new_eaf = ELAN_Data.create_eaf(
+                elan_template, audio=media_path,
+                tiers=[tier_name], remove_default=True
+            )
+    else:
+        new_eaf = ELAN_Data.create_eaf(
+            elan_template, audio=media_path,
+            tiers=[tier_name], remove_default=True
+        )
+    new_eaf.add_tier(tier_name, init_df=False)
+    
 
     i = 0
     length = len(binary_preds)
@@ -206,13 +221,12 @@ def save_elan_files(
             
 
             new_eaf.add_segment(
-                  f"{tier_name} model",
+                  tier_name,
                   start=start_ms,
                   stop=end_ms,
                   annotation=f"prob-{mean_score:.2f}"
             )
     new_eaf.save_ELAN(raise_error_if_unmodified=False)
-    print(f"ELAN file saved: {elan_template}")
 
 
 def get_predictions(
@@ -254,7 +268,7 @@ def annotate_predictions(
 def process_and_save_all(
     results: List[Dict[str, Any]],
     model: str = 'skeleton',
-    threshold: float = 0.55,
+    thresholds: float = 0.55,
     elan_template: str = '',
     media_path: str = '',
     fps: int = FPS,
@@ -271,24 +285,30 @@ def process_and_save_all(
         media_path: path to media file for linking.
         fps: frames per second (e.g., video fps).
     """
-    df = upload_models_result(results)
-    df = annotate_predictions(df, threshold=threshold, fps=fps)
-    df['speaker'] = df['pair_speaker'].str.split('_').str[1]
+    for threshold in thresholds:
+        if not (0 <= threshold <= 1):
+            raise ValueError(f"Threshold must be between 0 and 1, got {threshold}")
+        print(f"Processing threshold: {threshold:.2f}")
+        df = upload_models_result(results)
+        df = annotate_predictions(df, threshold=threshold, fps=fps)
+        df['speaker'] = df['pair_speaker'].str.split('_').str[1]
 
-    for pair_speaker, group in tqdm(df.groupby('pair_speaker')):
-        preds = group['gesture_prob'].to_numpy()
-        binary = group['gesture_bin'].to_numpy()
-        save_elan_files(
-            elan_template,
-            media_path,
-            binary_preds=binary,
-            scores=preds,
-            fps=fps,
-            tier_name=model,
-            min_duration_frames=int(fps * 0.1),  # 100 ms minimum segment length
-            smoothing_window=smoothing_window
-            
-        )
+        for pair_speaker, group in tqdm(df.groupby('pair_speaker')):
+            preds = group['gesture_prob'].to_numpy()
+            binary = group['gesture_bin'].to_numpy()
+            save_elan_files(
+                elan_template,
+                media_path,
+                binary_preds=binary,
+                scores=preds,
+                fps=fps,
+                tier_name=model,
+                min_duration_frames=int(fps * 0.1),  # 100 ms minimum segment length
+                smoothing_window=smoothing_window,
+                threshold=threshold
+                
+            )
+    print(f"ELAN file saved with all thresholds used: {elan_template}")
     return df
 
 
@@ -301,7 +321,7 @@ if __name__ == '__main__':
    df = process_and_save_all(
       results,
       model='skeleton',
-      threshold=0.55,
+      thresholds=[0.55, 0.60, 0.65],
       elan_template='template.eaf',
       media_path='video.mp4',
       fps=30  # override default if necessary
