@@ -29,7 +29,7 @@ soundfile
 datetime
 whisperx
 whisper
-moviepy
+mmoviepy==1.0.3
 jupyter
 deepl
 tgt

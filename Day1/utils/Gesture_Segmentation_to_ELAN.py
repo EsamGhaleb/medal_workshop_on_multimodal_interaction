@@ -16,7 +16,33 @@ SAMPLE_RATE: int = 16000
 NUM_FOLDS: int = 5
 SPEAKER_MAP: Dict[int, str] = {0: 'B', 1: 'C'}
 
+from scipy.signal import savgol_filter
 
+def smoothed_predictions(
+    gesture_prob: np.ndarray,
+    smoothing_window: int = 30,
+    polyorder: int = 3
+) -> np.ndarray:
+    """
+    Smooth a 1D prediction series using a Savitzky-Golay filter.
+
+    Args:
+        gesture_prob: Raw gesture probability array.
+        smoothing_window: Window length (must be odd and <= len(gesture_prob)).
+        polyorder: Polynomial order for smoothing.
+
+    Returns:
+        Smoothed prediction array.
+    """
+    # Ensure odd window length and <= data length
+    window = min(smoothing_window, len(gesture_prob))
+    if window % 2 == 0:
+        window -= 1
+    if window < polyorder + 2:
+        window = polyorder + 2 + (1 - ((polyorder + 2) % 2))  # make it odd
+    window = min(window, len(gesture_prob))
+    return savgol_filter(gesture_prob, window_length=window, polyorder=polyorder)
+ 
 def generate_pairs_mappings(max_pair: int = 99) -> Dict[int, str]:
     """
     Generate a mapping from integer pair IDs to zero-padded string representations.
@@ -132,7 +158,8 @@ def save_elan_files(
     scores: np.ndarray,
     fps: int = FPS,
     tier_name: str = 'skeleton',
-    min_duration_frames: int = 3
+    min_duration_frames: int = 3,
+    smoothing_window: int = 30
 ) -> None:
     """
     Write segmentation results to an ELAN .eaf file.
@@ -155,6 +182,7 @@ def save_elan_files(
 
     i = 0
     length = len(binary_preds)
+    scores = smoothed_predictions(scores, smoothing_window=smoothing_window)
     while i < length:
         if not binary_preds[i]:
             i += 1
@@ -167,17 +195,22 @@ def save_elan_files(
 
         if end - start < min_duration_frames:
             continue
+         # Divide segment into sub-segments if necessary
+        sub_segments = divide_segment(scores, start, end)
+        for sub_start, sub_end in sub_segments:
+            if sub_end - sub_start < min_duration_frames:
+                continue
+            start_ms = (sub_start / fps) * 1000
+            end_ms = (sub_end / fps) * 1000
+            mean_score = float(scores[start:end].mean())
+            
 
-        start_ms = (start / fps) * 1000
-        end_ms = (end / fps) * 1000
-        mean_score = float(scores[start:end].mean())
-
-        new_eaf.add_segment(
-            f"{tier_name} model",
-            start=start_ms,
-            stop=end_ms,
-            annotation=f"prob-{mean_score:.2f}"
-        )
+            new_eaf.add_segment(
+                  f"{tier_name} model",
+                  start=start_ms,
+                  stop=end_ms,
+                  annotation=f"prob-{mean_score:.2f}"
+            )
     new_eaf.save_ELAN(raise_error_if_unmodified=False)
     print(f"ELAN file saved: {elan_template}")
 
@@ -224,7 +257,8 @@ def process_and_save_all(
     threshold: float = 0.55,
     elan_template: str = '',
     media_path: str = '',
-    fps: int = FPS
+    fps: int = FPS,
+    smoothing_window: int = 40
 ) -> None:
     """
     High-level pipeline: upload results, annotate predictions, and save ELAN files per speaker.
@@ -250,8 +284,12 @@ def process_and_save_all(
             binary_preds=binary,
             scores=preds,
             fps=fps,
-            tier_name=model
+            tier_name=model,
+            min_duration_frames=int(fps * 0.1),  # 100 ms minimum segment length
+            smoothing_window=smoothing_window
+            
         )
+    return df
 
 
 if __name__ == '__main__':
@@ -260,7 +298,7 @@ if __name__ == '__main__':
    import pickle
    with open(results_path, 'rb') as f:
       results = pickle.load(f)
-   process_and_save_all(
+   df = process_and_save_all(
       results,
       model='skeleton',
       threshold=0.55,
