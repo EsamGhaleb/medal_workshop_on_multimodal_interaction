@@ -237,6 +237,7 @@ class WeightedFocalLoss(nn.Module):
         target = target.view(-1,1)
 
         logpt = F.log_softmax(input, dim=1)
+        target = target.view(-1, 1).long()
         logpt = logpt.gather(1,target)
         logpt = logpt.view(-1)
         pt = Variable(logpt.data.exp())
