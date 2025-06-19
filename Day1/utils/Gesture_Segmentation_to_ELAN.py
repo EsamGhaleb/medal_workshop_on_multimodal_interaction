@@ -155,6 +155,7 @@ def divide_segment(
 def save_elan_files(
     elan_template: str,
     media_path: str,
+    audio_path: str,
     binary_preds: np.ndarray,
     scores: np.ndarray,
     fps: int = FPS,
@@ -184,15 +185,16 @@ def save_elan_files(
         except ParseError:
             # template is broken XML — make a brand-new one
             new_eaf = ELAN_Data.create_eaf(
-                elan_template, audio=media_path,
+                elan_template, audio=audio_path,
                 tiers=[tier_name], remove_default=True
             )
     else:
         new_eaf = ELAN_Data.create_eaf(
-            elan_template, audio=media_path,
+            elan_template, audio=audio_path,
             tiers=[tier_name], remove_default=True
         )
     new_eaf.add_tier(tier_name, init_df=False)
+    new_eaf.add_audio(media_path)
     
 
     i = 0
@@ -271,6 +273,7 @@ def process_and_save_all(
     thresholds: float = 0.55,
     elan_template: str = '',
     media_path: str = '',
+    audio_path: str = '',
     fps: int = FPS,
     smoothing_window: int = 40
 ) -> None:
@@ -299,6 +302,7 @@ def process_and_save_all(
             save_elan_files(
                 elan_template,
                 media_path,
+                audio_path,
                 binary_preds=binary,
                 scores=preds,
                 fps=fps,

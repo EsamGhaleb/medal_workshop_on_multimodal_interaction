@@ -190,7 +190,7 @@ def draw_and_save_custom_landmarks(image, results, skip_pose_ids=None,
     return image, frame_keypoints
 
 
-def extract_keypoints(vidf, save_video=True, model_complexity=2):    
+def extract_keypoints(vidf, save_video=True, model_complexity=2, visualize=False):    
     """
     Extracts keypoints from a video file using MediaPipe Holistic.
     Args:
@@ -266,17 +266,17 @@ def extract_keypoints(vidf, save_video=True, model_complexity=2):
             if save_video:
                 out.write(image)
             all_kpts.append(kpts)
-
-            cv2.imshow("merged_landmarks", image)
-
-            if cv2.waitKey(1) == 27:
-               break
-            cv2.waitKey(1)
+            if visualize:
+                cv2.imshow("merged_landmarks", image)
+                if cv2.waitKey(1) == 27:
+                    break
+                cv2.waitKey(1)
         capture.release()
         if save_video:
             out.release()
-        cv2.destroyAllWindows()
-        # cv2.destroyWindow("merged_landmarks")
+        if visualize:
+            cv2.destroyAllWindows()
+            # cv2.destroyWindow("merged_landmarks")
         cv2.waitKey(1)
         
     all_kpts = np.array(all_kpts)

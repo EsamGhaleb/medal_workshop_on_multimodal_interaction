@@ -1,4 +1,4 @@
-from moviepy import VideoFileClip
+from moviepy.editor import VideoFileClip
 import os
 
 # Create a function to convert video to mp4======================================
