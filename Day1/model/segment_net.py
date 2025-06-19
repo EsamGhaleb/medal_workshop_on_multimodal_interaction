@@ -81,6 +81,7 @@ class SegmentNet(LightningModule):
             processed_batch['skeleton']['orig'] = processed_batch['skeleton']['orig'].float()
             
         predictions = self(processed_batch)
+        labels = processed_batch["label"].long()
         loss = self.criterion(predictions, processed_batch["label"])
         labels = processed_batch["label"]
         self.log(f'{phase}/segmentation_loss', loss)

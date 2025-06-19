@@ -212,20 +212,20 @@ class CABBFeeder(Dataset):
         
 
     def load_skeletal_data(self):
-            self.poses = {}
-            self.pairs_speakers = []
-            participant_ID = self.poses_path.split('/')[-1].split('.')[0]
-            data = np.load(self.poses_path)
-            if data.shape[0] == 0:
-                print('Empty file: {}'.format(self.poses_path))
-                raise ValueError('Empty file: {}'.format(self.poses_path))
-            data = np.load(self.poses_path)[:, :, :-1]  # remove the last dimension
-            day = participant_ID
-            participant_ID = participant_ID[:-1]
-            self.poses[participant_ID+'_' + day] = data
-            self.pairs_speakers.append(participant_ID+'_' + day)
+        self.poses = {}
+        self.pairs_speakers = []
+        participant_ID = self.poses_path.split('/')[-1].split('.')[0]
+        data = np.load(self.poses_path)
+        if data.shape[0] == 0:
+            print('Empty file: {}'.format(self.poses_path))
+            raise ValueError('Empty file: {}'.format(self.poses_path))
+        data = np.load(self.poses_path)[:, :, :-1]  # remove the last dimension
+        day = participant_ID
+        participant_ID = participant_ID[:-1]
+        self.poses[participant_ID+'_' + day] = data
+        self.pairs_speakers.append(participant_ID+'_' + day)
 
-            self.prepared_unlabeled_segmentation_sequences()
+        self.prepared_unlabeled_segmentation_sequences()
         
       
 
