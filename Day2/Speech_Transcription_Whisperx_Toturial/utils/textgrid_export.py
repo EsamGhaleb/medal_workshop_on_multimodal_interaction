@@ -3,100 +3,102 @@ import os
 import copy
 
 # import custom-made functions
-from utils.time_format_converter import convert_time_float_to_string, convert_string_to_float
+from utils.time_format_converter import convert_string_to_float
 from utils.tsv_export import get_last_phoneme_timestamp
 
 
+def safe_time(value):
+    """
+    Convert a raw timestamp (string or number) to float, or return None if not convertible.
+    """
+    if value is None:
+        return None
+    try:
+        return float(value)
+    except (ValueError, TypeError):
+        return None
+
+
 def get_tiers(result, sentence_tier, word_tier, puncts, word_spacing):
-    #if word_spacing is True, we will add a space between words (some languages don't have spaces between words in the transcript)
-    if word_spacing:
-        word_space = " "
-    else:
-        word_space = ""
+    # choose spacing
+    word_space = " " if word_spacing else ""
+    segments = copy.deepcopy(result).get("segments", [])
 
-    transcript = copy.deepcopy(result)
+    # drop unwanted keys
+    for seg in segments:
+        for k in ("seek", "tokens"):
+            seg.pop(k, None)
 
-    # save result["segments"] as segments so that I don't need to type result[""] everytime
-    segments = transcript["segments"]
-
-    #list all the keys to be removed from the output
-    remove_keys = ["seek", "tokens"]
     for segment in segments:
-        for key in remove_keys:
-            if key in segment:
-                del segment[key]
+        utterance = []
+        utter_start = None
+        last_phoneme_end = None
+        words = segment.get("words", [])
+        n_words = len(words)
 
-    #extract timestamps for the first word and the last word from whole_word_timestamps
-    #also append words to form an utterance
-    for segment in segments:
-        text = ""
-        count = 0
-        second_count = 0 #this is for the case where there are multiple sentences within one segment
-        n_words = len(segment["words"])
+        for idx, word_info in enumerate(words):
+            text = word_info.get("word", "")
+            raw_start = word_info.get("start")
+            # get the end via phoneme timestamp
+            raw_end_str = get_last_phoneme_timestamp(segment, word_info, puncts)
+            raw_end = convert_string_to_float(raw_end_str) if raw_end_str is not None else None
 
-        for word in segment["words"]:
-            #### First word (empty "text" variable) ####
-            if text == "" or second_count == 1:
-                text = word.get("word")
-                start_time = word.get("start")
-                end_time = convert_string_to_float(get_last_phoneme_timestamp(segment, word, puncts))
-                if word.get("word")[-1] not in puncts:
-                    previous_endTime = end_time
-                second_count = 0 #reset second_count so that next word won't be considerd as the start word
+            start = safe_time(raw_start)
+            end = safe_time(raw_end)
 
-            #### Last word ####
-            elif count == n_words-1: #if this is the last word
-                text += word_space + word.get("word")
-                if word.get("end") is not None:
-                    end_time = convert_string_to_float(get_last_phoneme_timestamp(segment, word, puncts))
-                    word["end"] = end_time
-                    previous_endTime = end_time
-                else:
-                    segment["end_word_timestamp"] = previous_endTime
+            # skip if we have no start or end
+            if start is None or end is None:
+                print(f"Skipping word with missing timestamps: {word_info}")
+                continue
 
-            #### Middle words ####
-            else:
-                text += word_space + word.get("word")
-                #### Words that end with punctuations ####
-                # if the word contains a punctuation, we will make a row for this utterance
-                if word.get("word")[-1] in puncts:
-                    end_time = convert_string_to_float(get_last_phoneme_timestamp(segment, word, puncts))
-                    
-                    ### make new interval for the sentence tier
-                    interval = tgt.Interval(start_time=float(start_time), end_time=float(end_time), text=text)
-                    sentence_tier.add_interval(interval)
+            # add word interval
+            word_tier.add_interval(tgt.Interval(start_time=start, end_time=end, text=text))
 
-                    second_count += 1
-                    text = ""
-                    continue #skip the rest of the loop and go to the next word
-            
-            try:
-                interval = tgt.Interval(start_time=float(word["start"]), end_time=float(word["end"]), text=word["word"])
-                word_tier.add_interval(interval)
-            except:
-                print("Error in word: ", word)
-            count += 1
+            # build sentence-level utterance
+            if not utterance:
+                # first word of a new utterance
+                utter_start = start
+            utterance.append(text)
+            last_phoneme_end = end
 
-        if second_count == 0: #if the row for the utterance has not been made yet (because we didn't have to split the utterance)
-            ### make new interval for the sentence tier
-            interval = tgt.Interval(start_time=float(start_time), end_time=float(end_time), text=text)
-            sentence_tier.add_interval(interval)  
-        
+            # decide whether to end the utterance here
+            is_last_word = (idx == n_words - 1)
+            ends_with_punct = text and text[-1] in puncts
+            if ends_with_punct or is_last_word:
+                sent_text = word_space.join(utterance)
+                # add sentence interval
+                sentence_tier.add_interval(
+                    tgt.Interval(start_time=utter_start, end_time=last_phoneme_end, text=sent_text)
+                )
+                # reset for next
+                utterance = []
+                utter_start = None
+
     return sentence_tier, word_tier
 
 
 def export_transcript_as_textgrid(result, filename, output_folder, puncts, word_spacing=True):
+    # prepare tiers
+    final_end = safe_time(result.get("segments", [])[-1].get("end", None))
+    if final_end is None:
+        print("Cannot determine TextGrid end time; aborting.")
+        return
+
     tg = tgt.TextGrid()
+    sentence_tier = tgt.IntervalTier(start_time=0.0, end_time=final_end, name="sentence")
+    word_tier     = tgt.IntervalTier(start_time=0.0, end_time=final_end, name="word")
 
-    sentence_tier = tgt.IntervalTier(start_time=0, end_time=result["segments"][-1]["end"], name="sentence")
-    word_tier = tgt.IntervalTier(start_time=0, end_time=result["segments"][-1]["end"], name="word")
-
+    # fill tiers
     sentence_tier, word_tier = get_tiers(result, sentence_tier, word_tier, puncts, word_spacing)
 
+    # assemble and write
     tg.add_tier(sentence_tier)
     tg.add_tier(word_tier)
 
-    output_file_name = os.path.splitext(filename)[0] + ".TextGrid"
-    output_path = os.path.join(os.path.dirname(output_folder), "textgrid", output_file_name)
+    output_name = os.path.splitext(os.path.basename(filename))[0] + ".TextGrid"
+    textgrid_dir = os.path.join(os.path.dirname(output_folder), "textgrid")
+    os.makedirs(textgrid_dir, exist_ok=True)
+    output_path = os.path.join(textgrid_dir, output_name)
 
-    tgt.write_to_file(tg, output_path, format='short')
+    tgt.write_to_file(tg, output_path, format="short")
+    print(f"Wrote TextGrid to {output_path}")
