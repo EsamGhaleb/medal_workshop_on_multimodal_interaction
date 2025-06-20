@@ -24,7 +24,7 @@ __pycache__/
 *.gitkeep
 *.mkv
 *.webm
-Day2/
+
 
 # Distribution / packaging
 .Python
@@ -50,6 +50,8 @@ tb_logs_epochs/
 tb_speech_skeletal_logs_final_training/
 tb_*/
 wandb/
+Day2/Multimodal_Similarity_Analysis_Tutorial/pretrained_models/multimodal-x
+
 
 results/
 runs_best/

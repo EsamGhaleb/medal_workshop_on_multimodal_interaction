@@ -1,7 +1,0 @@
-start	end	text
-00:00:00.151	00:00:02.092	It's a beautiful wedding, people.
-00:00:02.112	00:00:03.753	I'm sure everybody flew.
-00:00:04.334	00:00:07.656	And what do I see behind a palm tree where I'm hiding?
-00:00:08.876	00:00:14.740	I see the beautiful wedding cake in a little table with two chairs for the bride and the groom.
-00:00:14.940	00:00:17.842	Instead of the bride and the groom, there is lupé and Angie.
-00:00:19.669	00:00:37.019	Seating perfectly and Everybody's trying to get the dogs and they really are not mean dogs, but they were faking it really well This what they would do they'd like It has fast as they can't and then they would go ah Full of men
