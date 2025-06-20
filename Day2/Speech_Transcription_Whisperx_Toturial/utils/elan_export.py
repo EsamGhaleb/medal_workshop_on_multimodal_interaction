@@ -66,19 +66,13 @@ def export_json_to_elan(
                      continue
                   ws_ms = float(w_start) * 1000
                   we_ms = float(w_end)   * 1000
-                  w_text = w.get("word", "")
-                  score  = w.get("score", None)
-                  # annotate word plus score
-                  if score is not None:
-                     label = f"{w_text}|{score:.2f}"
-                  else:
-                     label = w_text
+                  w_text = w.get("word", "")                  
 
                   eaf.add_segment(
                      tier=word_tier_name,
                      start=ws_ms,
                      stop=we_ms,
-                     annotation=label
+                     annotation=w_text
                   )
 
     # save out
