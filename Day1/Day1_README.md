@@ -1,12 +1,9 @@
-# Repository Extracting MediaPipe Poses and Segmenting Gestures
-# -*- coding: utf-8 -*-
+# Extracting MediaPipe Poses and Segmenting Gestures
 
 ## Gesture Segmentation Repository
 
 This repository contains resources and scripts necessary segment gestures using skeletal models based on MediaPipe poses. It is part of the MEDAL workshop on multimodal interaction.
 
-## Table of Contents
-- 
 
 ## Getting Started
 The requirements for this repository are in the parent directory: `../requirements.txt`. The setup instructions are also available in the parent directory: `../README.md`.
@@ -15,12 +12,12 @@ The requirements for this repository are in the parent directory: `../requiremen
 ## Usage
 
 ### MediaPipe Pose Extraction
-First, we will have a demonstration of how to use MediaPipe to extract poses from a video. This will be done using the `Mediapipe_Pose_Tutorial.ipynb` notebook. The notebook also contains instructions on how to run it as well as exercises to practice extracting poses from your own videos/webcam. 
+First, we will have a demonstration of how to use MediaPipe to extract poses from a video. This will be done using the [Mediapipe_Pose_Tutorial.ipynb](Mediapipe_Pose_Tutorial.ipynb) notebook. The notebook also contains instructions on how to run it as well as exercises to practice extracting poses from your own videos/webcam. 
 
 ### Gesture Segmentation
 Next, we will segment gestures using the extracted subset poses. The segmentation is based on a model trained on the CABB dataset. The model is available in the `segmentation_models` directory.
 
-The script `Gesture_Segmentation_Tutorial.ipynb` provides a demonstration of how to use the model to segment gestures from a video.  It has the following sections:
+The script [Gesture_Segmentation_Tutorial.ipynb](Gesture_Segmentation_Tutorial.ipynb) provides a demonstration of how to use the model to segment gestures from a video.  It has the following sections:
 
 1. **Pose Extraction**: This section extracts poses from a video using MediaPipe. You can choose to use a video file or your webcam. The extracted poses are saved in a format suitable for the next step.
 
