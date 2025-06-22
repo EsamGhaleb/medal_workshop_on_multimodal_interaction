@@ -1,11 +1,7 @@
-import seaborn as sns
 import os
 import pandas as pd
 import numpy as np
 import torch
-import whisper
-from tqdm import tqdm
-import spacy
 from tqdm import tqdm
 from dialog_utils.read_labeled_and_pos_target_data import prepare_dialogue_shared_expressions_and_turns_info
 from dialog_utils.data_classes import Turn, Gesture, Utterance
@@ -13,6 +9,10 @@ from dialog_utils.prepare_annotate_dialogues import get_gestures_info, get_turn_
 
 
 def get_gestures_and_speech_info(turns_info):
+   print("Extracting gestures and speech information...")
+   print("NOTE: This function requires the 'whisper' and 'spacy' libraries to be installed.")
+   import spacy
+   import whisper
    pairs_name = ['pair10', 'pair17', 'pair15', 'pair21', 'pair18', 'pair24', 'pair16', 'pair13', 'pair07', 'pair22', 'pair20',  'pair08', 'pair05', 'pair11', 'pair23', 'pair04', 'pair09', 'pair12', 'pair14' ]
    gestures_and_speech_info = []
    for pair in pairs_name:

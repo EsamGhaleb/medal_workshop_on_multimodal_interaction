@@ -6,7 +6,6 @@ import glob
 from speach import elan
 import csv
 import pickle
-import spacy
 
 import numpy as np
 from whisperx.audio import load_audio
@@ -476,6 +475,9 @@ def parse_arguments():
 
 if __name__ == '__main__':
     args = parse_arguments()
+    print("NOTE: This script is designed to work with the CABB dataset, which is in Dutch. It uses Spacy for NLP tasks and WhisperX for speech alignment.")
+    import spacy
+    print('Using Spacy model:', args.spacy_model)
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     spacy_model = args.spacy_model
