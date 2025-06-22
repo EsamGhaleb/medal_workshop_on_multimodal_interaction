@@ -38,7 +38,7 @@ def load_keypoints_dict():
       filename = os.path.basename(filepath)
       parts = filename.split('_')
       pair = parts[1] 
-      speaker = os.path.splitext(parts[-1])[0]
+      speaker = os.path.splitext(parts[-1])[0][-1]  # Get the last character before .npy
       pair_speaker = f"{pair}_{speaker}"
       try:
          processed_keypoints_dict[pair_speaker], mirrored_keypoints_dict[pair_speaker] = process_poses(np.load(filepath)) #np.load(keypoints_path)
