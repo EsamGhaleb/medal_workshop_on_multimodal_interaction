@@ -32,13 +32,16 @@ def load_keypoints_dict():
    # read all poses in f'data/final_poses/poses_{pair}_synced_pp{speaker}.npy'
    processed_keypoints_dict = {}
    mirrored_keypoints_dict = {}
-   for file in glob.glob('data/selected_poses/*.npy'):
+   pattern = os.path.join('data', 'selected_poses', '*.npy')
+   for filepath in sorted(glob.glob(pattern)):
       # file format = data/selected_poses/poses_pair04_synced_ppA.npy 
-      pair = file.split('/')[-1].split('_')[1]
-      speaker = file.split('/')[-1].split('_')[-1].split('.')[0][-1]
+      filename = os.path.basename(filepath)
+      parts = filename.split('_')
+      pair = parts[1] 
+      speaker = os.path.splitext(parts[-1])[0]
       pair_speaker = f"{pair}_{speaker}"
       try:
-         processed_keypoints_dict[pair_speaker], mirrored_keypoints_dict[pair_speaker] = process_poses(np.load(file)) #np.load(keypoints_path)
+         processed_keypoints_dict[pair_speaker], mirrored_keypoints_dict[pair_speaker] = process_poses(np.load(filepath)) #np.load(keypoints_path)
       except Exception as e:
          print(e)
          print('Error in loading the keypoints for the pair:', pair, speaker)
