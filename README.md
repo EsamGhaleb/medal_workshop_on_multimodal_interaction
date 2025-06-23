@@ -33,6 +33,8 @@ We will use the following tools; no installation required beforehand—we’ll s
 | 15:30 - 15:45 | Break                                                                 |
 | 15:45 - 17:00 | Multimodal similarity analysis using kinematic and speech features |
 
+## Download the workshop data and code
+You can download the workshop data and code from the GitHub repository: https://github.com/EsamGhaleb/medal_workshop_on_multimodal_interaction
 
 ## Installation & Setup Instructions
 
@@ -64,7 +66,7 @@ After creating the environment, you need to activate it. Run the following comma
 conda activate medal
 ```
 ### 3. Install required packages
-You can install the required packages using the provided `requirements.txt` file. This file contains all the necessary dependencies for the workshop.
+Go into the workshop directory. You can install the required packages using the provided `requirements.txt` file. This file contains all the necessary dependencies for the workshop.
 Make sure you are in the `medal` Conda environment, then run the following command in your terminal:
 ```bash
 pip install -r requirements.txt
@@ -75,10 +77,6 @@ If you encounter issues with the `ffmpeg` package, you can reinstall it using Co
 ```bash
 conda install -c conda-forge ffmpeg
 ```
-
-## Download the workshop data and code
-You can download the workshop data and code from the GitHub repository: https://github.com/EsamGhaleb/medal_workshop_on_multimodal_interaction
-
 
 ## Workshop Materials
 You can open the workshop materials in Visual Studio Code. In the interface of Visual Studio Code:
