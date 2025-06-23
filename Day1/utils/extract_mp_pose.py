@@ -267,7 +267,7 @@ def extract_keypoints(vidf, save_video=True, model_complexity=2, visualize=False
                 out.write(image)
             all_kpts.append(kpts)
             if visualize:
-                cv2.imshow("merged_landmarks", image)
+                cv2.imshow("Landmarks", image)
                 if cv2.waitKey(1) == 27:
                     break
                 cv2.waitKey(1)
