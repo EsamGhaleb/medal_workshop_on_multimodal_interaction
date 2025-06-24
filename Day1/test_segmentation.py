@@ -115,19 +115,11 @@ def train_with_config(args, opts):
         poses_path=opts.poses_path,
     )
     
-    speaker_ID = cabb_feeder.data['pair_speaker']
-    gkf = GroupKFold(n_splits=5)
-    splitting_method = gkf.split(cabb_feeder, groups=speaker_ID)
-    kf = KFold(n_splits=5, shuffle=True, random_state=0)
-    splitting_method = kf.split(cabb_feeder)
-
-    # splitting_method = gkf.split(cabb_feeder, groups=speaker_ID)
 
     experiment_group = f"{datetime.datetime.now():%Y%m%d_%H%M%S}"    
    
     results = defaultdict(dict)
-    for fold, (train_index, test_index) in enumerate(splitting_method):
-        print(train_index, test_index)
+    for fold in range(5):
         print(f"Starting Fold {fold + 1}")
         args['fold'] = fold+1
 
