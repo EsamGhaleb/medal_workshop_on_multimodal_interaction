@@ -1,0 +1,197 @@
+start	end	text
+00:00:12.700	00:00:17.224	One of my earliest memories is trying to wake up one of my relatives and not being able to.
+00:00:18.104	00:00:20.426	And I was just a little kid, so I didn't really understand why.
+00:00:20.466	00:00:25.250	But as I got older, I realized we had drug addiction in my family, including later cocaine addiction.
+00:00:25.690	00:00:34.957	I've been thinking about it a lot lately, partly because it's now exactly a hundred years since drugs were first banned in the United States and Britain, and we then imposed that on the rest of the world.
+00:00:35.498	00:00:39.040	It's a century since we made this really fateful decision.
+00:00:39.821	00:00:47.746	to take addicts and punish them and make them suffer because we believe that would deter them, it would give them an incentive to stop.
+00:00:48.767	00:00:56.171	And a few years ago, I was looking at some of the addicts in my life who I love and trying to figure out if there was some way to help them.
+00:00:57.243	00:01:01.324	And I realized there were loads of incredibly basic questions I just didn't know the answer to.
+00:01:01.784	00:01:03.765	Like, what really causes addiction?
+00:01:04.465	00:01:07.086	Why do we carry on with this approach that doesn't seem to be working?
+00:01:07.126	00:01:09.827	And is there a better way out there that we could try instead?
+00:01:10.067	00:01:13.568	So I read loads of stuff about it, and I couldn't really find the answers I was looking for.
+00:01:13.608	00:01:21.510	So I thought, OK, I'll go and sit with different people around the world who've lived this and studied this and taught to them and see if I can learn from them.
+00:01:21.910	00:01:35.498	And I ended up, I didn't realise I would end up going over thirty thousand miles at the start, but I ended up going and meeting loads of different people from a transgender crack dealer in Brownsville, Brooklyn, to a scientist who spends a lot of time feeding hallucinogens to Mongooses to see if they like them.
+00:01:36.098	00:01:38.820	It turns out they do, but only in very specific circumstances.
+00:01:39.660	00:01:44.303	To the only country that's ever decriminalised all drugs, from cannabis to crack, Portugal.
+00:01:45.204	00:01:50.607	And the thing I realised that really blew my mind is, almost everything we think we know about addiction is wrong.
+00:01:51.685	00:01:57.507	And if we start to absorb the new evidence about addiction, I think we're going to have to change a lot more than our drug policies.
+00:01:58.048	00:02:00.989	But let's start with what we think we know, what I thought I know, right?
+00:02:01.249	00:02:02.990	Let's think about this middle row here, right?
+00:02:03.730	00:02:08.272	Imagine all of you for twenty days now went off and used heroin three times a day.
+00:02:08.952	00:02:11.063	Some of you look a little bit more enthusiastic than others at this prospect.
+00:02:12.574	00:02:13.774	Don't worry, it's just a thought experiment.
+00:02:14.194	00:02:15.035	Imagine you did that, right?
+00:02:15.755	00:02:16.755	What would happen?
+00:02:17.156	00:02:19.977	Now, we have a story about what would happen that we've been told for a century.
+00:02:20.817	00:02:32.642	We think, because there are chemical hooks in heroin, as you took it for a while, your body would become dependent on those hooks, you'd start to physically need them, and at the end of those twenty days, you'd all be heroin addicts, right?
+00:02:33.002	00:02:33.862	That's what I thought.
+00:02:34.322	00:02:35.843	The first thing that alerted me to the fact
+00:02:36.723	00:02:38.084	something not right with this story.
+00:02:38.104	00:02:46.587	So when it's explained to me, if I step out of this TED talk today and I get hit by a car and I break my hip, I'll be taken to hospital and I'll be given loads of dire morphine.
+00:02:47.187	00:02:48.808	Dire morphine is heroin.
+00:02:49.088	00:02:58.212	It's actually much better heroin than you're ever going to buy on the streets because the stuff you buy from a drug dealer is contaminated actually very little of it is heroin whereas the stuff you get from the doctor is medically pure.
+00:02:58.652	00:03:00.513	And you'll be giving it for quite a long period of time.
+00:03:00.533	00:03:01.634	There are loads of people in this room.
+00:03:01.654	00:03:04.215	I mean, I realize that you've taken quite a lot of heroin, right?
+00:03:05.376	00:03:07.817	And anyone watching this anywhere in the world, this is happening.
+00:03:07.838	00:03:13.061	And if what we believe about addiction is right, those people are exposed to all those chemical hooks.
+00:03:13.721	00:03:14.421	What should happen?
+00:03:15.442	00:03:16.423	They should become addicts.
+00:03:16.923	00:03:18.484	This has been studied really carefully.
+00:03:19.064	00:03:19.685	It doesn't happen.
+00:03:19.705	00:03:23.607	You will have noticed if your grandmother had a hip replacement, she didn't come out as a junkie.
+00:03:25.234	00:03:27.715	And when I learned this, it just seemed so weird to me.
+00:03:27.775	00:03:30.075	So contrary to everything I'd been told of it, I thought I knew.
+00:03:30.095	00:03:31.716	I just thought it couldn't be right.
+00:03:32.156	00:03:40.118	Until I went in that man called Bruce Alexander, who's a professor of psychology in Vancouver, who carried out an incredible experiment that I think really helps us to understand this issue.
+00:03:40.878	00:03:49.561	Professor Alexander explained to me, the idea of addiction we've all got on our heads, that story, comes partly from a series of experiments that were done earlier in the twentieth century.
+00:03:49.981	00:03:51.121	They're really simple experiments.
+00:03:51.141	00:03:53.842	You can do them tonight when you go home if you feel a little bit sadistic.
+00:03:54.622	00:03:58.064	You get a rat and you put it in a cage and you give it two water bottles.
+00:03:58.224	00:04:01.726	One is just water and the other is water laced with either heroin or cocaine.
+00:04:02.466	00:04:08.089	If you do that, the rat will almost always prefer the drug water and almost always kill itself quite quickly.
+00:04:08.590	00:04:09.350	So there you go, right?
+00:04:09.390	00:04:11.011	That's how we think it works.
+00:04:11.771	00:04:15.773	In the seventies, Professor Alexander comes along and he looks at this experiment and he noticed something.
+00:04:15.793	00:04:18.815	He said, ah, we're putting the rat in an empty cage.
+00:04:19.235	00:04:21.036	It's got nothing to do except use these drugs.
+00:04:21.076	00:04:22.237	Let's try something a bit different.
+00:04:22.737	00:04:28.281	So Professor Alexander built a cage that he called Rat Park, which is basically heaven for rats, right?
+00:04:28.862	00:04:32.685	They've got loads of cheese, they've got loads of coloured balls, they've got loads of tunnels.
+00:04:33.145	00:04:36.288	Crucially, they've got loads of friends, they can have loads of sex.
+00:04:36.968	00:04:41.152	And they've got both the water bottles, the normal water and the drug water.
+00:04:42.167	00:04:43.327	But here's the fascinating thing.
+00:04:44.108	00:04:46.929	In Rat Park, they don't like the drug water.
+00:04:47.609	00:04:48.869	They almost never use it.
+00:04:49.750	00:04:51.270	None of them ever use it compulsively.
+00:04:51.950	00:04:53.071	None of them ever overdose.
+00:04:53.311	00:04:59.913	You go from almost a hundred percent overdose when they're isolated to zero percent overdose when they have happy and connected lives.
+00:05:00.273	00:05:04.575	Now, when I first saw this professor Alexander thought, maybe this is just the thing about rats.
+00:05:04.615	00:05:05.695	They're quite different to us.
+00:05:06.335	00:05:07.356	Maybe not as different as we'd like.
+00:05:08.996	00:05:13.687	But fortunately there was a human experiment into the exact same principle happening at the exact same time.
+00:05:14.208	00:05:15.471	It was called the Vietnam War.
+00:05:16.480	00:05:20.521	In Vietnam, twenty percent of all American troops were using loads of heroin.
+00:05:21.402	00:05:30.185	And if you look at the news reports from the time, they were really worried because they thought, my God, we're going to have hundreds of thousands of junkies on the streets of the United States when the war ends.
+00:05:30.645	00:05:31.485	It made total sense.
+00:05:31.745	00:05:34.826	Now, those soldiers who were using loads of heroin were followed home.
+00:05:35.146	00:05:38.487	The archives of general psychiatry did a really detailed study and what happened to them?
+00:05:39.268	00:05:39.888	It turns out
+00:05:40.668	00:05:41.768	They didn't go to rehab.
+00:05:42.428	00:05:43.769	They didn't go into withdrawal.
+00:05:44.449	00:05:47.230	Ninety-five percent of them just stopped.
+00:05:47.630	00:05:51.010	Now, if you believe the story about chemical hooks, that makes absolutely no sense.
+00:05:51.291	00:05:54.711	But Professor Alexander began to think there might be a different story about addiction.
+00:05:54.991	00:05:57.812	He said, what if addiction isn't about your chemical hooks?
+00:05:58.532	00:06:00.773	What if addiction is about your cage?
+00:06:01.433	00:06:04.254	What if addiction is an adaptation to your environment?
+00:06:04.574	00:06:10.115	Looking at this, there was another professor called Peter Cohen in the Netherlands who said, maybe we shouldn't even call it addiction.
+00:06:10.876	00:06:12.338	Maybe we should call it bonding.
+00:06:13.100	00:06:16.085	Human beings have a natural and innate need to bond.
+00:06:16.546	00:06:19.190	And when we're happy and healthy, we'll bond and connect with each other.
+00:06:19.952	00:06:21.034	But if you can't do that,
+00:06:22.133	00:06:28.719	because you're traumatized or isolated or beaten down by life, you will bond with something that will give you some sense of relief.
+00:06:29.060	00:06:39.930	Now that might be gambling, that might be pornography, that might be cocaine, that might be cannabis, but you will bond and connect with something because that's our nature, that's what we want as human beings.
+00:06:40.350	00:06:40.650	And I think
+00:06:41.371	00:06:49.860	You know, at first I found this quite a difficult thing to get my head round, but one way to help me to think about it is, and I can see, yeah, I've got over by my seat there, a bottle of water, right?
+00:06:49.920	00:06:52.542	I'm looking at lots of you and lots of you have bottles of water with you, right?
+00:06:53.443	00:06:54.965	Forget drugs, forget the drug war.
+00:06:55.405	00:06:59.569	Totally legally, all of those bottles of water could be bottles of vodka, right?
+00:07:00.150	00:07:01.912	We could all be getting drunk, I might after this.
+00:07:04.133	00:07:04.834	But we're not, right?
+00:07:04.874	00:07:13.439	Now because you've been able to afford the approximately a gazillion pounds that it costs to get into a TED Talk, I'm guessing you guys could afford to be drinking vodka for the next six months.
+00:07:13.899	00:07:14.940	You wouldn't end up homeless.
+00:07:15.900	00:07:16.761	You're not going to do that.
+00:07:17.241	00:07:18.562	And the reason you're not going to do that.
+00:07:19.769	00:07:21.190	is not because anyone's stopping you.
+00:07:21.810	00:07:24.911	It's because you've got bonds and connections that you want to be present for.
+00:07:25.172	00:07:26.232	You've got work you love.
+00:07:26.252	00:07:27.413	You've got people you love.
+00:07:27.693	00:07:29.674	You've got healthy relationships.
+00:07:30.154	00:07:38.398	And a core part of addiction, I came to think, and I believe the evidence suggests, is about not being able to bear to be present in your life.
+00:07:38.818	00:07:41.459	Now, this has really significant implications.
+00:07:41.479	00:07:44.081	The most obvious implications are for the war on drugs, right?
+00:07:45.129	00:07:56.831	In Arizona, I went out with a group of women who were made to wear t-shirts saying I was a drug addict and go out on chain gangs and dig graves while members of the public could cheer at them.
+00:07:57.839	00:08:02.244	And when those women get out of prison, they're going to have criminal records that mean they'll never work in the legal economy again.
+00:08:02.825	00:08:05.688	Now, that's a very extreme example, obviously, in the case of the chain gang.
+00:08:06.209	00:08:09.813	But actually, almost everywhere in the world, we treat addicts to some degree like that.
+00:08:09.873	00:08:11.035	We punish them, we shame them.
+00:08:11.335	00:08:12.457	We give them criminal records.
+00:08:12.717	00:08:14.719	We put barriers between them reconnecting.
+00:08:15.719	00:08:17.580	There was a doctor in Canada, Dr.
+00:08:17.600	00:08:23.343	Gabor Marté, an amazing man, who said to me, if you wanted to design a system that would make addiction worse, you would design that system.
+00:08:24.023	00:08:28.706	Now, there's a place that decided to do the exact opposite, and I went there to see how it worked.
+00:08:29.086	00:08:32.768	In the year two thousand, Portugal had one of the worst drug problems in Europe.
+00:08:33.248	00:08:36.310	One percent of the population was addicted to heroin, which is kind of mind-blowing.
+00:08:36.650	00:08:39.051	And every year, they tried the American way more and more.
+00:08:39.312	00:08:41.533	They punished people and stigmatized them and shamed them more.
+00:08:42.113	00:08:43.734	and every year the problem got worse.
+00:08:43.774	00:08:50.836	And one day the Prime Minister and the leader of the opposition got together and basically said, look, we can't go on with a country where we're having ever more people becoming heroin addicts.
+00:08:51.236	00:08:56.618	Let's set up a panel of scientists and doctors to figure out what would genuinely solve the problem.
+00:08:56.878	00:08:58.699	And they set up a panel led by an amazing man called Dr.
+00:08:58.739	00:09:01.200	Hwagulow to look at all this new evidence.
+00:09:02.062	00:09:08.664	And they came back and they said, decriminalize all drugs from cannabis to crack.
+00:09:09.264	00:09:19.508	But, and this is the crucial next step, take all the money we used to spend on cutting addicts off, on disconnecting them, and spend it instead on reconnecting them with the society.
+00:09:20.577	00:09:26.722	And that's not really what we think of, what they did wasn't really what we think of as drug treatment in the United States and Britain.
+00:09:26.882	00:09:30.765	So they do do residential rehab, they do do psychological therapy that does have some value.
+00:09:31.005	00:09:33.327	But the biggest thing they did was the complete opposite of what we do.
+00:09:33.787	00:09:39.372	A massive program of job creation for addicts and micro loans for addicts to set up small businesses.
+00:09:39.672	00:09:40.893	So say you used to be a mechanic.
+00:09:41.313	00:09:46.036	When you're ready, they go to a garage and they'll say, if you employ this guy for a year, we'll pay half his wages.
+00:09:46.376	00:09:50.559	The goal was to make sure that every addict in Portugal had something to get out of bed for in the morning.
+00:09:50.899	00:09:55.182	And when I went and met the addicts in Portugal, it's fascinating what they said is, as they rediscovered purpose.
+00:09:56.170	00:09:59.312	They rediscovered bonds and relationships with the wider society.
+00:09:59.773	00:10:04.516	It'll be fifteen years this year since that experiment began, and the results sit in.
+00:10:05.297	00:10:18.926	Injecting drug use is down in Portugal, according to the British Journal of Criminology, by fifty percent, five zero percent, overdoses massively down, HIV is massively down among addicts, addiction in every study is significantly down.
+00:10:19.186	00:10:23.590	One of the ways you know it's worked so well is that almost nobody in Portugal wants to go back to the old system.
+00:10:24.290	00:10:26.131	Now, that's the kind of political implications.
+00:10:26.151	00:10:29.111	Actually, there's a layer of implications to all this research below that.
+00:10:29.431	00:10:37.554	You know, we live in a culture where people feel really increasingly vulnerable to all sorts of addictions, whether it's to their smartphones or to shopping or to eating.
+00:10:37.754	00:10:42.895	You know, before these talks began, you guys know this, that we were told we weren't allowed to have our smartphones on.
+00:10:43.175	00:10:49.217	And I have to say, a lot of you looked at awful lot like addicts who were being told their dealer was going to be unavailable for the next couple of hours.
+00:10:50.237	00:10:51.438	Yeah, a lot of us feel like that.
+00:10:51.458	00:10:56.560	And it might sound weird to say, oh, you know, I've been talking about how disconnection is a major driver of addiction.
+00:10:56.800	00:11:00.821	But weird to say it's growing because you think, well, we're the most connected society there's ever been, surely.
+00:11:01.302	00:11:08.024	But I increasingly began to think that the connection we have, the connections we have, we think we have, are like a kind of parody of human connection.
+00:11:08.565	00:11:10.966	If you have a crisis in your life, you'll notice something.
+00:11:11.726	00:11:13.907	It won't be your Twitter followers who come to sit with you.
+00:11:14.647	00:11:17.068	It won't be your Facebook friends who help you turn it round.
+00:11:17.568	00:11:22.530	It'll be your flesh and blood friends so you have deep and nuanced and textured face-to-face relationships with.
+00:11:23.050	00:11:28.912	And I think there's a study I learned about from Bill McKibbin, the environmental writer, I think tells us a lot about this.
+00:11:29.592	00:11:34.334	It looked at the number of close friends, the average American believes they can call on in a crisis.
+00:11:34.754	00:11:37.355	That number has been declining steadily since the nineteen fifties.
+00:11:37.915	00:11:42.477	The amount of floor space an individual has in their home has been steadily increasing.
+00:11:42.897	00:11:46.580	And I think that's like a metaphor for the choice we've made as a culture, right?
+00:11:46.840	00:11:55.086	We've traded floor space for friends, we've traded stuff for connections, and the result is that we are one of the loneliest societies there has ever been.
+00:11:55.106	00:11:59.470	And Bruce Alexander, the guide of the Ratt Park experiment, says, we talk all the time in addiction.
+00:12:00.403	00:12:01.664	about individual recovery.
+00:12:02.064	00:12:03.344	And it's right to talk about that.
+00:12:03.765	00:12:06.086	But we need to talk much more about social recovery.
+00:12:06.506	00:12:09.587	Something's gone wrong with us, not just as individuals, but as a group.
+00:12:09.847	00:12:16.310	And we created a society where for a lot of us, life looks a whole lot more like that isolated cage and a whole lot less like rap park.
+00:12:17.211	00:12:20.272	But if I'm honest, this isn't why I went into it, right?
+00:12:20.652	00:12:23.253	I didn't go into discover the political stuff, the social stuff.
+00:12:23.774	00:12:25.675	I wanted to know how to help the people I love.
+00:12:26.175	00:12:28.576	And when I came back from this long journey and I'd learned all this,
+00:12:30.468	00:12:40.482	I look to the addicts of my life and if you're really candid, it's hard loving an addict and there's going to be lots of people who know in this room, you're angry a lot of the time.
+00:12:41.514	00:12:47.798	And I think one of the reasons why this debate is so charged is because it runs through the heart of each of us, right?
+00:12:48.318	00:12:52.300	Everyone has a bit of them that looks at an addict and thinks, I wish someone would just stop you.
+00:12:52.921	00:12:58.564	And the kind of script we're told for how to deal with the addicts in our lives is typified by, I think, by the reality show intervention.
+00:12:58.604	00:13:02.286	If you guys haven't seen it, I think everything in our lives is typified by reality TV, but that's another TED talk.
+00:13:04.307	00:13:06.708	If you're noticing the show intervention, it's pretty simple premise.
+00:13:06.728	00:13:15.231	You get an addict, all the people in their life gather them together, and say, if you don't shape up, they confront them with what they're doing, and they say, if you don't shape up, we're going to cut you off, right?
+00:13:15.491	00:13:18.673	So what they do is they take the connection to the addict, and they threaten it.
+00:13:18.993	00:13:22.074	They make it contingent on the addict behaving the way they want.
+00:13:23.494	00:13:27.496	And I began to think, I began to see why that approach doesn't work.
+00:13:27.976	00:13:30.217	And I began to think that almost that's like the importing
+00:13:31.157	00:13:33.658	of the logic of the drug war into our private lives.
+00:13:34.578	00:13:37.660	So I was thinking, well, how can I be Portuguese, right?
+00:13:38.280	00:13:54.186	And what I try to do now, and I can't tell you, I do it consistently, and I can't tell you it's easy, is to say to the addicts in my life that I want to deepen the connection with them, to say to them, I love you, whether you're using or you're not, I love you, whatever state you're in,
+00:13:55.022	00:14:00.726	And if you need me, I'll come and sit with you because I love you and I don't want you to be alone or to feel alone.
+00:14:01.967	00:14:11.894	And I think the core of that message, you're not alone, we love you, has to be at every level of how we respond to addicts socially, politically and individually.
+00:14:12.474	00:14:16.437	For a hundred years now, we've been singing war songs about addicts.
+00:14:17.479	00:14:24.304	I think all along we should have been singing love songs to them because the opposite of addiction is not sobriety.
+00:14:25.365	00:14:28.127	The opposite of addiction is connection.
+00:14:29.108	00:14:29.468	Thank you.

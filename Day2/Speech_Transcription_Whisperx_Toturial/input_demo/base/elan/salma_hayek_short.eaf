@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+	<HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+		<MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/esagha/Projects/medal_workshop_on_multimodal_interaction/Day2/Speech_Transcription_Whisperx_Toturial/input_demo/salma_hayek_short.wav" RELATIVE_MEDIA_URL="" MIME_TYPE="audio/x-wav" />
+	</HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="151" />
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2092" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2112" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3753" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4334" />
+		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7656" />
+		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8876" />
+		<TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14740" />
+		<TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14940" />
+		<TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="17842" />
+		<TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="19669" />
+		<TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="37019" />
+	</TIME_ORDER>
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="sentence">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+				<ANNOTATION_VALUE>It's a beautiful wedding, people.</ANNOTATION_VALUE>
+			</ALIGNABLE_ANNOTATION>
+		</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+				<ANNOTATION_VALUE>I'm sure everybody flew.</ANNOTATION_VALUE>
+			</ALIGNABLE_ANNOTATION>
+		</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+				<ANNOTATION_VALUE>And what do I see behind a palm tree where I'm hiding?</ANNOTATION_VALUE>
+			</ALIGNABLE_ANNOTATION>
+		</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+				<ANNOTATION_VALUE>I see the beautiful wedding cake in a little table with two chairs for the bride and the groom.</ANNOTATION_VALUE>
+			</ALIGNABLE_ANNOTATION>
+		</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+				<ANNOTATION_VALUE>Instead of the bride and the groom, there is lupé and Angie.</ANNOTATION_VALUE>
+			</ALIGNABLE_ANNOTATION>
+		</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+				<ANNOTATION_VALUE>Seating perfectly and Everybody's trying to get the dogs and they really are not mean dogs, but they were faking it really well This what they would do they'd like It has fast as they can't and then they would go ah Full of men</ANNOTATION_VALUE>
+			</ALIGNABLE_ANNOTATION>
+		</ANNOTATION>
+	</TIER>
+	<TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="word" />
+	<LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" />
+	<CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+	<CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+	<CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+	<CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>
